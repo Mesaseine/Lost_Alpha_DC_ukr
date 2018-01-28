@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="id_mp_money">
+		<text>Гроші</text>
+	</string>
+	<string id="mm_mp_pda_hunt">
+		<text>Бонус за КПК</text>
+	</string>
+	<string id="st_drink">
+		<text>випити</text>
+	</string>
+	<string id="st_mp_direct_ip">
+		<text>Прямий IP</text>
+	</string>
+	<string id="ui_mm_default">
+		<text>За замовчуванням</text>
+	</string>
+	<string id="ui_mm_detail_density">
+		<text>Щільність трави</text>
+	</string>
+	<string id="ui_mm_grass_distance">
+		<text>Дальність трави</text>
+	</string>
+	<string id="ui_mm_r2_sun">
+		<text>Тінь від сонця</text>
+	</string>
+	<string id="ui_mm_r2_sun_details">
+		<text>Тінь від трави</text>
+	</string>
+	<string id="ui_mm_r2_sun_flares">
+		<text>Плями від сонця</text>
+	</string>
+	<string id="ui_mm_render_2">
+		<text>Рендер-2</text>
+	</string>
+	<string id="ui_pda_details">
+		<text>інформація</text>
+	</string>
+	<string id="ui_st_btn_cancel">
+		<text>Скасувати</text>
+	</string>
+	<string id="ui_st_btn_no">
+		<text>Ні</text>
+	</string>
+	<string id="ui_st_btn_ok">
+		<text>Гаразд</text>
+	</string>
+	<string id="ui_st_btn_yes">
+		<text>Так</text>
+	</string>
+	<string id="ui_st_cant_run_r2">
+		<text>Ви не можете запустити другий рендер на вашому комп'ютері</text>
+	</string>
+	<string id="ui_st_conn_invalid_host">
+		<text>Помилка з'єднання : невірний хост</text>
+	</string>
+	<string id="ui_st_conn_invalid_pass">
+		<text>Помилка з'єднання : невірний пароль</text>
+	</string>
+	<string id="ui_st_conn_rejected_server">
+		<text>Помилка з'єднання : з'єднання перерване сервером</text>
+	</string>
+	<string id="ui_st_conn_sess_full">
+		<text>Помилка з'єднання : сервер заповнений</text>
+	</string>
+	<string id="ui_st_days">
+		<text>дн.</text>
+	</string>
+	<string id="ui_st_error">
+		<text>Помилка</text>
+	</string>
+	<string id="ui_st_file_exist_owerwrite_q">
+		<text>Файл з таким ім'ям вже існує. Перезаписати?</text>
+	</string>
+	<string id="ui_st_file_name_is_empty">
+		<text>Ім'я файлу порожнє</text>
+	</string>
+	<string id="ui_st_hours">
+		<text>година.</text>
+	</string>
+	<string id="ui_st_leave">
+		<text>Вийти</text>
+	</string>
+	<string id="ui_st_mins">
+		<text>хв.</text>
+	</string>
+	<string id="ui_st_months">
+		<text>міс.</text>
+	</string>
+	<string id="ui_st_params">
+		<text>Параметри</text>
+	</string>
+	<string id="ui_st_secs">
+		<text>сек.</text>
+	</string>
+	<string id="ui_st_select_one_map">
+		<text>Будь ласка, оберіть хоч би одну карту</text>
+	</string>
+	<string id="ui_st_take_all">
+		<text>Взяти все</text>
+	</string>
+	<string id="ui_take_all_hint">
+		<text>Затисніть SHIFT, щоб узяти все</text>
+	</string>
+	<string id="ui_st_time_remains">
+		<text>Залишилося</text>
+	</string>
+	<string id="ui_st_trade">
+		<text>Торгувати</text>
+	</string>
+	<string id="ui_st_voting_disabled">
+		<text>Голосування відключене</text>
+	</string>
+	<string id="ui_st_want_to_leave_game_q">
+		<text>Ви дійсно хочете покинути гру?</text>
+	</string>
+	<string id="ui_st_your_items">
+		<text>Речі Міченого</text>
+	</string>
+	<string id="st_game_over_press_jump">
+		<text>Натисніть ($$ACTION_JUMP$$) для виходу у головне меню</text>
+	</string>
+	<string id="st_level">
+		<text>Локація</text>
+	</string>
+	<string id="st_opening_stream">
+		<text>Відкриття потоку</text>
+	</string>
+	<string id="st_loading_cform">
+		<text>Завантаження форми об'єктів</text>
+	</string>
+	<string id="st_prefetching_objects">
+		<text>Кешування об'єктів</text>
+	</string>
+	<string id="st_creating_new_game">
+		<text>Створення нової гри</text>
+	</string>
+	<string id="st_loading_alife_simulator">
+		<text>Сервер: Завантаження симуляції життя</text>
+	</string>
+	<string id="st_server_connecting">
+		<text>Сервер: З'єднуємося</text>
+	</string>
+	<string id="st_loading_saved_game">
+		<text>Завантаження гри</text>
+	</string>
+	<string id="st_validating_cdkey">
+		<text>Перевірка ключа</text>
+	</string>
+	<string id="st_loading_ai_objects">
+		<text>Завантаження ШІ об'єктів</text>
+	</string>
+	<string id="st_client_connecting_to">
+		<text>З'єднання з</text>
+	</string>
+	<string id="st_client_spawning">
+		<text>Створення об'єктів</text>
+	</string>
+	<string id="st_loading_textures">
+		<text>Завантаження текстур</text>
+	</string>
+	<string id="st_client_synchronising">
+		<text>Синхронізація ігрових об'єктів</text>
+	</string>
+	<string id="st_loading_data">
+		<text>Перезавантаження симуляції</text>
+	</string>
+	<string id="st_server_starting">
+		<text>Старт</text>
+	</string>
+	<string id="st_loading_shaders">
+		<text>Завантаження шейдерів</text>
+	</string>
+	<string id="st_loading_geometry">
+		<text>Завантаження геометрії</text>
+	</string>
+	<string id="st_loading_spatial_db">
+		<text>Завантаження бази просторів</text>
+	</string>
+	<string id="st_loading_details">
+		<text>Завантаження детальних об'єктів</text>
+	</string>
+	<string id="st_loading_sectors_portals">
+		<text>Завантаження секторів і порталів</text>
+	</string>
+	<string id="ui_st_conn_version_differs">
+		<text>Помилка з'єднання : Відрізняються версії.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>Помилка з'єднання : невірний CD-Key.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>Помилка з'єднання : Такий CD - Key вже використовується.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>Помилка з'єднання : Ваш CD - Key заблокований. Зв'яжіться із службою підтримки.</text>
+	</string>
+	<string id="ui_st_conn_new_patch">
+		<text>Доступний новий патч. \n Версія: %s\n %s\n Хочете завантажити його зараз?</text>
+	</string>
+	<string id="ui_st_conn_no_new_patch">
+		<text>Немає нових патчів</text>
+	</string>
+	<string id="ui_mm_delete_existing_file_q">
+		<text>Ви дійсно хочете видалити файл?</text>
+	</string>
+	<string id="st_game_paused">
+		<text>Пауза</text>
+	</string>
+	<string id="st_press_any_key">
+		<text>Натисніть будь-яку клавішу</text>
+	</string>
+	<string id="st_bolt">
+		<text>Болт</text>
+	</string>
+	<string id="st_items">
+		<text>Предмети</text>
+	</string>
+	<string id="st_video">
+		<text>Відео</text>
+	</string>
+	<string id="st_audio">
+		<text>Звук</text>
+	</string>
+	<string id="st_game">
+		<text>Гра</text>
+	</string>
+	<string id="st_controll">
+		<text>Керування</text>
+	</string>
+	<string id="ui_st_connecting_to_masterserver">
+		<text>Приєднання до мастер-серверу</text>
+	</string>
+	<string id="mp_only_one_voting">
+		<text>Дозволено тільки одне активне голосування</text>
+	</string>
+	<string id="ui_st_patch_download_success">
+		<text>Патч успішно завантажено. Встановити?</text>
+	</string>
+	<string id="ui_st_patch_download_error">
+		<text>Неможливо завантажити патч.</text>
+	</string>
+	<string id="ui_st_load_game_confirm">
+		<text>Завантаження гри приведе до втрати незбережених даних. 
+              Бажаєте продовжити?</text>
+	</string>
+	<string id="ui_st_invalid_saved_game">
+		<text>Не збігається версія збереженої гри або збережена гра пошкоджена.</text>
+	</string>
+	<!-- #+# LA -->
+	<string id="warn_code_attention">
+		<text>Увага! Виявлені чужорідні коди!\nРекомендується зберегти гру, а також балку-файл, і надіслати їх розробникам Lost Alpha (Dez0wave team).</text>
+	</string>
+	<string id="warn_cheat_attention">
+		<text>Увага! Виявлені чужорідні коди!\nНеобхідно перестановити гру.</text>
+	</string>
+	<string id="warn_ver_attention">
+		<text>Увага! Неправильна версія гри!\nРекомендується перевірити правильність встановлення і перезапустити гру.</text>
+	</string>
+	<string id="warn_set_attention">
+		<text>Увага! Неправильна інсталяція гри.\nНеобхідно перестановити гру!</text>
+	</string>
+	<string id="info_dll_attention">
+		<text>Увага!\nДля зброї з динамічним зумом потрібно змінену бібліотеку (xrGame.dll)!</text>
+	</string>
+	<!--  -->
+	<string id="warn_load_attention">
+		<text>Увага!\nДані зі збереженої гри пошкоджені!\nРекомендується перервати гру і розпочати з останнього працюючого збереження.</text>
+	</string>
+	<string id="sav_warn_note">
+		<text>УВАГА!\nПревищено ліміт збережень!\nВидаліть зайві збереження і спробуйте знову.</text>
+	</string>
+	<string id="sav_warn_attention_0">
+		<text>УВАГА!\nПереповнення буфера!\nВиконайте незавершені завдання і не беріть нові.</text>
+	</string>
+	<string id="sav_warn_attention">
+		<text>УВАГА!\nПереповненя буфера!\nВиконайте незавершені завдання і не беріть нові.\nПродайте зайві речі торговцям і повторно збережіть гру.</text>
+	</string>
+	<string id="sav_warn_critical">
+		<text>УВАГА!\nПереповнення буфера!\nРекомендуєтся завантажити попереднє збереження.</text>
+	</string>
+	
+	<!-- Заголовок опцій #># -->
+	<string id="ui_mm_options_la">
+		<text>Опції ЛА</text>
+	</string>
+	<string id="ui_mm_options_a">
+		<text>Add.options</text>
+	</string>
+	<string id="ui_mm_options_la1">
+		<text>Add.options-1</text>
+	</string>
+	<string id="ui_mm_options_la2">
+		<text>Add.options-2</text>
+	</string>
+	<string id="ui_mm_options_la3">
+		<text>Add.options-3</text>
+	</string>
+	<string id="ui_mm_dbg1">
+		<text>mode "Debug-1"</text>
+	</string>
+	<string id="ui_mm_dbg2">
+		<text>mode "Debug-2"</text>
+	</string>
+	<string id="ui_mm_dbg3">
+		<text>mode "Debug-3"</text>
+	</string>
+	<string id="ui_mm_show_fps">
+		<text>On/Off show FPS</text>
+	</string>
+	<string id="ui_mm_show_smrt">
+		<text>On/Off spots Smarts</text>
+	</string>
+	<string id="ui_mm_tasks">
+		<text>On/Off auto-tasks</text>
+	</string>
+	<string id="ui_mm_spots">
+		<text>On/Off spots on minimap</text>
+	</string>
+	<string id="ui_mm_hud_disabled">
+		<text>Interactive HUD disabled</text>
+	</string>
+	<string id="ui_mm_hud_enabled">
+		<text>Interactive HUD enabled</text>
+	</string>
+	<string id="ui_mm_hud_and_steam_enabled">
+		<text>Interactive HUD and STEAM enabled</text>
+	</string>
+	<string id="ui_mm_dtm">
+		<text>Day time</text>
+	</string>
+	<string id="ui_mm_mus">
+		<text>Dynamic music</text>
+	</string>
+	<string id="ui_mm_treasure_not">
+		<text>No treasures</text>
+	</string>
+	<string id="ui_mm_treasure_rnd">
+		<text>Random treasures mode</text>
+	</string>
+	<string id="ui_mm_treasure_src">
+		<text>Source treasures mode</text>
+	</string>
+	<string id="ui_mm_treasure_uni">
+		<text>Unify treasures mode</text>
+	</string>
+	<string id="ui_mm_bw_0">
+		<text>Blowout Period Mode 0</text>
+	</string>
+	<string id="ui_mm_bw_1">
+		<text>Blowout Period Mode 1</text>
+	</string>
+	<string id="ui_mm_bw_2">
+		<text>Blowout Period Mode 2</text>
+	</string>
+	<string id="ui_mm_bw_3">
+		<text>Blowout Period Mode 3</text>
+	</string>
+	<string id="ui_mm_bw_4">
+		<text>Blowout Period Mode 4</text>
+	</string>
+	<string id="ui_mm_spawn_0">
+		<text>Spawn Mode 0</text>
+	</string>
+	<string id="ui_mm_spawn_1">
+		<text>Spawn Mode 1</text>
+	</string>
+	<string id="ui_mm_spawn_2">
+		<text>Spawn Mode 2</text>
+	</string>
+	<string id="ui_mm_spawn_3">
+		<text>Spawn Mode 3</text>
+	</string>
+
+<!---------------------------------------------------------->
+	<string id="ui_mm_r2_tonemap_middlegray">
+	    <text>Інтенсивність HDR</text>
+    </string>
+    <string id="ui_mm_r2_sun_lumscale">
+	    <text>Яскравість світла сонця</text>
+    </string>
+    <string id="ui_mm_r2_sun_lumscale_amb">
+	    <text>Фонове освітлення</text>
+    </string>
+
+	<string id="switch_off">
+	    <text>Вимкнути</text>
+    </string>
+    <string id="switch_on">
+	    <text>Увімкнути</text>
+    </string>
+<!---------------------------------------------------------->
+</string_table>

@@ -1,0 +1,27 @@
+	<string id="dar_find_x18_documents">
+		<text>Знайти документи в X-18</text>
+	</string>
+	<string id="dar_find_x18_documents_title">
+		<text>Знайти секретні документи в X-18</text>
+	</string>
+	<string id="dar_docs_text">
+		<text>Знайти документи в X-18</text>
+	</string>
+	<string id="dar_bring_docs_to_petrenko">
+		<text>Принести документи Петренку</text>
+	</string>
+	<string id="dar_sin_pc_mutation_flashcard">
+		<text>Отримати інформацію про мутації</text>
+	</string>	
+		<string id="dar_find_old_pc_title">
+		<text>Отримати файл про експерименти</text>
+	</string>
+		<string id="dar_find_pc_text">
+		<text>Знайти старий комп'ютер з інформацією</text>
+	</string>
+		<string id="dar_bring_back_to_sins_text">
+		<text>Занести дані з комп'ютера до Велеса</text>
+	</string>
+		<string id="dar_petrenko_documents">
+		<text>То ж ти, Мічений, врешті-решт, дістався. Оглянься, можливо в цій лабораторії ти знайдеш якісь корисні документи для мене та Бармена.</text>
+	</string>

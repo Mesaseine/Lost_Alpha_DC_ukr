@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<!-- bye dialogs -->
+	<string id="pda_talk_bye_001_0">
+		<text>Бувай.</text>
+	</string>
+	<string id="pda_talk_bye_001_1">
+		<text>Ага, давай</text>
+	</string>
+	<string id="pda_talk_bye_002_0">
+		<text>До зустрічі</text>
+	</string>
+	<string id="pda_talk_bye_002_1">
+		<text>Ну бувай</text>
+	</string>
+	<string id="pda_talk_bye_003_0">
+		<text>Я пішов, ще побачимося</text>
+	</string>
+	<string id="pda_talk_bye_003_1">
+		<text>Бувай</text>
+	</string>
+	<string id="pda_talk_bye_004_0">
+		<text>Бережи себе</text>
+	</string>
+	<string id="pda_talk_bye_004_1">
+		<text>Дякую, бувай</text>
+	</string>
+	<string id="pda_talk_bye_005_0">
+		<text>Піду я, справи в мене</text>
+	</string>
+	<string id="pda_talk_bye_005_1">
+		<text>Так, до зустрічі</text>
+	</string>
+	<string id="pda_talk_bye_006_0">
+		<text>Пізніше побалакаємо</text>
+	</string>
+	<string id="pda_talk_bye_006_1">
+		<text>До зустрічі</text>
+	</string>
+	
+	<!-- hello dialogs -->
+	<string id="pda_talk_hello_001_0">
+		<text>Привіт</text>
+	</string>
+	<string id="pda_talk_hello_002_0">
+		<text>Агов.</text>
+	</string>
+	<string id="pda_talk_hello_003_0">
+		<text>Доброго дня.</text>
+	</string>
+	<string id="pda_talk_hello_004_0">
+		<text>Агов, сталкере!</text>
+	</string>
+	<string id="pda_talk_hello_005_0">
+		<text>О, привіт!</text>
+	</string>
+	<string id="pda_talk_hello_006_0">
+		<text>Вітаю!</text>
+	</string>
+	<string id="pda_talk_hello_007_0">
+		<text>Привіт, сталкере</text>
+	</string>
+	<string id="pda_talk_hello_008_0">
+		<text>Привіт, сталкере.</text>
+	</string>
+	<string id="pda_talk_hello_009_0">
+		<text>Агов ти, сталкере</text>
+	</string>
+	<string id="pda_talk_hello_010_0">
+		<text>І хто це тут у нас?!</text>
+	</string>
+	<string id="pda_talk_hello_011_0">
+		<text>Привіт, мужиче</text>
+	</string>
+	
+	<!-- npc_buy dialogs -->
+	<string id="pda_npc_buy_001_0">
+		<text>Тобі щось потрібно?</text>
+	</string>
+	<string id="pda_npc_buy_001_1">
+		<text>Слухай, мені потрібні 3 аптечки. Зможеш дістати? Не безкоштовно звісно. То що скажеш?</text>
+	</string>
+	<string id="pda_npc_buy_001_2">
+		<text>Звичайно, я можу допомогти</text>
+	</string>
+	<string id="pda_npc_buy_001_3">
+		<text>Ні, у мене немає часу</text>
+	</string>
+	<string id="pda_npc_buy_001_4">
+		<text>Чудово. Я поставив мітку на твоєму КПК.</text>
+	</string>
+	<string id="pda_npc_buy_001_5">
+		<text>Тоді чому питаєш? Добре, не бери в голову.</text>
+	</string>
+	
+	<string id="pda_npc_buy_002_0">
+		<text>Тобі щось потрібно?</text>
+	</string>
+	<string id="pda_npc_buy_002_1">
+		<text>Принеси мені 2 антиради, я не дуже добре себе почуваю. Що скажеш? Я заплачу</text>
+	</string>
+	<string id="pda_npc_buy_002_2">
+		<text>Звичайно, без проблем, я швидко</text>
+	</string>
+	<string id="pda_npc_buy_002_3">
+		<text>Вибач, я немаю часу</text>
+	</string>
+	<string id="pda_npc_buy_002_4">
+		<text>Добре. Я додав мітку на твій PDA.</text>
+	</string>
+	<string id="pda_npc_buy_002_5">
+		<text>То навіщо питати? Не бери в голову</text>
+	</string>
+	
+	<string id="pda_npc_buy_003_0">
+		<text>Привіт, тобі щось потрібно?</text>
+	</string>
+	<string id="pda_npc_buy_003_1">
+		<text>Нарешті хоч хтось пропонує допомогу. Мені потрібна вода та їжа. Будь ласка, принеси мені дві пляшки мінеральної води і дві ковбаси і я заплачу тобі за допомогу.</text>
+	</string>
+	<string id="pda_npc_buy_003_2">
+		<text>Окей, без проблем</text>
+	</string>
+	<string id="pda_npc_buy_003_3">
+		<text>Вибач, не маю часу</text>
+	</string>
+	<string id="pda_npc_buy_003_4">
+		<text>Дякую! Я додав свою мітку у твій КПК.</text>
+	</string>
+	<string id="pda_npc_buy_003_5">
+		<text>Ну то навіщо питаєш чи треба допомога?</text>
+	</string>
+	
+	<string id="pda_npc_buy_004_0">
+		<text>Щось потрібно?</text>
+	</string>
+	<string id="pda_npc_buy_004_1">
+		<text>Розумієш, сьогодні я повинен придбати бухло, але немаю часу. Дістанеш мені 4 пляшки горілки і 4 енергетика?</text>
+	</string>
+	<string id="pda_npc_buy_004_2">
+		<text>Добре, я принесу їх як тільки зможу</text>
+	</string>
+	<string id="pda_npc_buy_004_3">
+		<text>Вибач, мені не до того</text>
+	</string>
+	<string id="pda_npc_buy_004_4">
+		<text>Дякую, я скинув свою мітку у твій КПК</text>
+	</string>
+	<string id="pda_npc_buy_004_5">
+		<text>То чого лізеш? Не зли.</text>
+	</string>
+	
+	<string id="pda_npc_buy_005_0">
+		<text>Можу чимось допомогти?</text>
+	</string>
+	<string id="pda_npc_buy_005_1">
+		<text>У мене зламався пістолет і вкрали рушницю. Якщо ти принесещ мені ПМ та обріз БМ16, то я тобі добре заплачу</text>
+	</string>
+	<string id="pda_npc_buy_005_2">
+		<text>Добре, я дістану як тільки зможу</text>
+	</string>
+	<string id="pda_npc_buy_005_3">
+		<text>Вибач, я передумав</text>
+	</string>
+	<string id="pda_npc_buy_005_4">
+		<text>Дякую. Я кинув позицію в твій PDA</text>
+	</string>
+	<string id="pda_npc_buy_005_5">
+		<text>Ти витрачаєш мій час</text>
+	</string>
+	
+	<string id="pda_npc_buy_006_0">
+		<text>Отже, чим можу допомогти</text>
+	</string>
+	<string id="pda_npc_buy_006_1">
+		<text>Весь день полювали на кабанів, і закінчились патрони. Принеси мені 4 коробки 9x18 fmj та 4 коробки 12 х 70 картеччю</text>
+	</string>
+	<string id="pda_npc_buy_006_2">
+		<text>Звичайно, я допоможу</text>
+	</string>
+	<string id="pda_npc_buy_006_3">
+		<text>Ні, я не маю часу</text>
+	</string>
+	<string id="pda_npc_buy_006_4">
+		<text>Добре. Я оновив свою позицію у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_006_5">
+		<text>Щиро дякую</text>
+	</string>
+	
+	<string id="pda_npc_buy_007_0">
+		<text>Можу чимось допомогти?</text>
+	</string>
+	<string id="pda_npc_buy_007_1">
+		<text>Якщо можеш, принеси мені 2 гранати Ф1</text>
+	</string>
+	<string id="pda_npc_buy_007_2">
+		<text>Гаразд, я займусь цим</text>
+	</string>
+	<string id="pda_npc_buy_007_3">
+		<text>Ні, я не маю часу</text>
+	</string>
+	<string id="pda_npc_buy_007_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_007_5">
+		<text>Що ж, дякую</text>
+	</string>
+	
+	<string id="pda_npc_buy_008_0">
+		<text>Чим можу допомогти?</text>
+	</string>
+	<string id="pda_npc_buy_008_1">
+		<text>Глушник загубив. Можеш дістати мені ще один?</text>
+	</string>
+	<string id="pda_npc_buy_008_2">
+		<text>Ок, я займусь цим</text>
+	</string>
+	<string id="pda_npc_buy_008_3">
+		<text>Ні, не маю часу</text>
+	</string>
+	<string id="pda_npc_buy_008_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_008_5">
+		<text>Вдячний за допомогу</text>
+	</string>
+	
+	<string id="pda_npc_buy_009_0">
+		<text>Чим можу допомогти?</text>
+	</string>
+	<string id="pda_npc_buy_009_1">
+		<text>Дістань мені приціл Susat. Завжди такий хотів</text>
+	</string>
+	<string id="pda_npc_buy_009_2">
+		<text>Ок, чекай. Я швидко</text>
+	</string>
+	<string id="pda_npc_buy_009_3">
+		<text>Ні, маю важливіші справи</text>
+	</string>
+	<string id="pda_npc_buy_009_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_009_5">
+		<text>Дуже дякую</text>
+	</string>
+	
+	<string id="pda_npc_buy_010_0">
+		<text>Чимось можу бути корисний?</text>
+	</string>
+	<string id="pda_npc_buy_010_1">
+		<text>Ти мені костюм бандита, а я тобі 2000 грн</text>
+	</string>
+	<string id="pda_npc_buy_010_2">
+		<text>Добре, я зроблю це</text>
+	</string>
+	<string id="pda_npc_buy_010_3">
+		<text>Вибач, не маю часу</text>
+	</string>
+	<string id="pda_npc_buy_010_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_010_5">
+		<text>Вдячний)</text>
+	</string>
+	
+	<string id="pda_npc_buy_011_0">
+		<text>Чим можу допомогти?</text>
+	</string>
+	<string id="pda_npc_buy_011_1">
+		<text>Шукаю артефакт «Кров каменю». Я знаю, це не рідкість, але моя лінь... Даю 1200 грн</text>
+	</string>
+	<string id="pda_npc_buy_011_2">
+		<text>Добре, я допоможу тобі</text>
+	</string>
+	<string id="pda_npc_buy_011_3">
+		<text>Сам шукай, лінивцю!</text>
+	</string>
+	<string id="pda_npc_buy_011_4">
+		<text>Добре. Я оновив мітку в твоєму PDA</text>
+	</string>
+	<string id="pda_npc_buy_011_5">
+		<text>Деякі люди</text>
+	</string>
+	
+	<string id="pda_npc_buy_012_0">
+		<text>Щось потрібно?</text>
+	</string>
+	<string id="pda_npc_buy_012_1">
+		<text>Мені потрібна «Кам'яна квітка». Якщо принесеш, заплачу 2700 Грн</text>
+	</string>
+	<string id="pda_npc_buy_012_2">
+		<text>Добре, я пошукаю.</text>
+	</string>
+	<string id="pda_npc_buy_012_3">
+		<text>Ні, сам шукай</text>
+	</string>
+	<string id="pda_npc_buy_012_4">
+		<text>Ок, я оновив мітку на твоєму PDA</text>
+	</string>
+	<string id="pda_npc_buy_012_5">
+		<text>Деякі люди</text>
+	</string>
+	
+	<string id="pda_npc_buy_013_0">
+		<text>Щось потрібно?</text>
+	</string>
+	<string id="pda_npc_buy_013_1">
+		<text>Мій друг шукає артефакт «Граві». За нього я заплачу тобі 2700 Грн. Годиться? "</text>
+	</string>
+	<string id="pda_npc_buy_013_2">
+		<text>Так, я принесу тобі артефакт</text>
+	</string>
+	<string id="pda_npc_buy_013_3">
+		<text>Шукай сам.</text>
+	</string>
+	<string id="pda_npc_buy_013_4">
+		<text>Добре. Я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_013_5">
+		<text>Різні люди бувають</text>
+	</string>
+	
+	<string id="pda_npc_buy_014_0">
+		<text>Можу я тобі щось зробити?</text>
+	</string>
+	<string id="pda_npc_buy_014_1">
+		<text>Завжди хотів «Медузу». Плачу 1200 Грн. Цікавить?</text>
+	</string>
+	<string id="pda_npc_buy_014_2">
+		<text>Добре, я принесу тобі</text>
+	</string>
+	<string id="pda_npc_buy_014_3">
+		<text>До біса, їх як сміття в Зоні. Сам знайди.</text>
+	</string>
+	<string id="pda_npc_buy_014_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_014_5">
+		<text>...</text>
+	</string>
+	
+	<string id="pda_npc_buy_015_0">
+		<text>Чим можу допомогти?</text>
+	</string>
+	<string id="pda_npc_buy_015_1">
+		<text>Мені потрібна «Душа». 5500 даю, годиться?</text>
+	</string>
+	<string id="pda_npc_buy_015_2">
+		<text>За таку ціну без жодних питань</text>
+	</string>
+	<string id="pda_npc_buy_015_3">
+		<text>Чому б тобі самому його не пошукати?</text>
+	</string>
+	<string id="pda_npc_buy_015_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_015_5">
+		<text>...</text>
+	</string>
+	
+	<string id="pda_npc_buy_016_0">
+		<text>Що потрібно сьогодні?</text>
+	</string>
+	<string id="pda_npc_buy_016_1">
+		<text>Гммм, Артефакт «Шматок м'яса» за 3000 Грн? Годиться?</text>
+	</string>
+	<string id="pda_npc_buy_016_2">
+		<text>Підходить</text>
+	</string>
+	<string id="pda_npc_buy_016_3">
+		<text>Ні, життя надто коротке, шукай його сам</text>
+	</string>
+	<string id="pda_npc_buy_016_4">
+		<text>Добре, я оновив мітку у твоєму КПК.</text>
+	</string>
+	<string id="pda_npc_buy_016_5">
+		<text>Придурок</text>
+	</string>
+	
+	<string id="pda_npc_buy_017_0">
+		<text>Можу щось запропонувати?</text>
+	</string>
+	<string id="pda_npc_buy_017_1">
+		<text>Я шукаю руку ізлома, не питай навіщо, просто принеси і я запрлачу тобі 1500 Грн. Згода?</text>
+	</string>
+	<string id="pda_npc_buy_017_2">
+		<text>Ясно, я принесу тобі</text>
+	</string>
+	<string id="pda_npc_buy_017_3">
+		<text>Ні, сам дістань!</text>
+	</string>
+	<string id="pda_npc_buy_017_4">
+		<text>Добре, я оновив мітку у твоєму КПК.</text>
+	</string>
+	<string id="pda_npc_buy_017_5">
+		<text>Як хочеш.</text>
+	</string>
+	
+	<string id="pda_npc_buy_018_0">
+		<text>Тобі чого?</text>
+	</string>
+	<string id="pda_npc_buy_018_1">
+		<text>Потрібні котячі голови. Плачу 1000 грн. Згоден?</text>
+	</string>
+	<string id="pda_npc_buy_018_2">
+		<text>Добре, я згоден</text>
+	</string>
+	<string id="pda_npc_buy_018_3">
+		<text>Ні, дякую. Мені не потрібні гроші зараз</text>
+	</string>
+	<string id="pda_npc_buy_018_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_018_5">
+		<text>То чому запитуєш?</text>
+	</string>
+	
+	<string id="pda_npc_buy_019_0">
+		<text>Чимось можу допомогти?</text>
+	</string>
+	<string id="pda_npc_buy_019_1">
+		<text>Так, плачу 1800 грн за хвіст псевдопса</text>
+	</string>
+	<string id="pda_npc_buy_019_2">
+		<text>Добре, я принесу тобі 1 хвіст</text>
+	</string>
+	<string id="pda_npc_buy_019_3">
+		<text>Ні, мені зараз не потрібні гроші</text>
+	</string>
+	<string id="pda_npc_buy_019_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_019_5">
+		<text>То чому питаєш?</text>
+	</string>
+	
+	<string id="pda_npc_buy_020_0">
+		<text>Що сьогодні потрібно?</text>
+	</string>
+	<string id="pda_npc_buy_020_1">
+		<text>Гммм, принеси мені 4 пляшки води, я тобі дам 200 грн</text>
+	</string>
+	<string id="pda_npc_buy_020_2">
+		<text>Добре, я принесу як тільки знайду</text>
+	</string>
+	<string id="pda_npc_buy_020_3">
+		<text>Ні, мені гроші не потрібні</text>
+	</string>
+	<string id="pda_npc_buy_020_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_020_5">
+		<text>То навіщо питаєш?</text>
+	</string>
+	
+	<string id="pda_npc_buy_021_0">
+		<text>Чим можу допомогти?</text>
+	</string>
+	<string id="pda_npc_buy_021_1">
+		<text>Мені здається тут повітря не дуже чисте. Принеси мені 3 протигази, а я заплачу тобі 1000 грн</text>
+	</string>
+	<string id="pda_npc_buy_021_2">
+		<text>Добре, я виконаю це</text>
+	</string>
+	<string id="pda_npc_buy_021_3">
+		<text>Ні, обійдуся без твоїх грошей</text>
+	</string>
+	<string id="pda_npc_buy_021_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_021_5">
+		<text>То чому питаєш?</text>
+	</string>
+	
+	<string id="pda_npc_buy_022_0">
+		<text>Можу чимось допомогти?</text>
+	</string>
+	<string id="pda_npc_buy_022_1">
+		<text>Мені потрібні щупальця кровососа. Заплачу за них 3500 грн. Згода?</text>
+	</string>
+	<string id="pda_npc_buy_022_2">
+		<text>Так, я зроблю це</text>
+	</string>
+	<string id="pda_npc_buy_022_3">
+		<text>Ні, дякую. Не потребую грошей</text>
+	</string>
+	<string id="pda_npc_buy_022_4">
+		<text>Добре. Я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_022_5">
+		<text>То чого питаєш?</text>
+	</string>
+	
+	<string id="pda_npc_buy_023_0">
+		<text>Чим можу допомогти?</text>
+	</string>
+	<string id="pda_npc_buy_023_1">
+		<text>Мій детектор зламався. Принеси новий і я заплачу 1600 грн за один.</text>
+	</string>
+	<string id="pda_npc_buy_023_2">
+		<text>Добре, я принесу.</text>
+	</string>
+	<string id="pda_npc_buy_023_3">
+		<text>Ні, дякую. Мені не потрібні гроші.</text>
+	</string>
+	<string id="pda_npc_buy_023_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_023_5">
+		<text>Шкода, тепер я повинен шукати один</text>
+	</string>
+	
+	<string id="pda_npc_buy_024_0">
+		<text>Можу шось запроновувати?</text>
+	</string>
+	<string id="pda_npc_buy_024_1">
+		<text>Мені потрібен артефакт «Слюда». Ти в грі?</text>
+	</string>
+	<string id="pda_npc_buy_024_2">
+		<text>Так, я граю)</text>
+	</string>
+	<string id="pda_npc_buy_024_3">
+		<text>Ні, дякую. Мені вистачає грошей</text>
+	</string>
+	<string id="pda_npc_buy_024_4">
+		<text>Чудово. Я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_024_5">
+		<text>Справді ганьба. Не можу отримати допомогу в ці дні</text>
+	</string>
+	
+	<string id="pda_npc_buy_025_0">
+		<text>Чим можу допомогти?</text>
+	</string>
+	<string id="pda_npc_buy_025_1">
+		<text>Потрібна нова гвинтівка. Дам 9500 Грн за «Грозу»</text>
+	</string>
+	<string id="pda_npc_buy_025_2">
+		<text>Добре, я згоден</text>
+	</string>
+	<string id="pda_npc_buy_025_3">
+		<text>Ні, з такого я й сам постріляю.</text>
+	</string>
+	<string id="pda_npc_buy_025_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_025_5">
+		<text>Як хочеш</text>
+	</string>
+	
+	<string id="pda_npc_buy_026_0">
+		<text>Чим можу допомогти?</text>
+	</string>
+	<string id="pda_npc_buy_026_1">
+		<text>Мені потрібні боєприпаси. 4 коробки 5.56x45 ss190 за 1500 грн. Підходить?</text>
+	</string>
+	<string id="pda_npc_buy_026_2">
+		<text>Так, це добре.</text>
+	</string>
+	<string id="pda_npc_buy_026_3">
+		<text>Ні, це дешево</text>
+	</string>
+	<string id="pda_npc_buy_026_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_026_5">
+		<text>Як хочеш</text>
+	</string>
+	
+	<string id="pda_npc_buy_027_0">
+		<text>Чимось можу допомогти?</text>
+	</string>
+	<string id="pda_npc_buy_027_1">
+		<text>Мені потрібні боєприпаси. 3 коробки 9x39 pab9 за 1000 грн? Влаштовує?</text>
+	</string>
+	<string id="pda_npc_buy_027_2">
+		<text>Так, я знайду тобі те що ти просиш</text>
+	</string>
+	<string id="pda_npc_buy_027_3">
+		<text>Це мала ціна. Не мій рівень</text>
+	</string>
+	<string id="pda_npc_buy_027_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_027_5">
+		<text>Як хочеш</text>
+	</string>
+	
+	<string id="pda_npc_buy_028_0">
+		<text>Щось бажаєш?</text>
+	</string>
+	<string id="pda_npc_buy_028_1">
+		<text>Як ти вчасно запитав. Ми тут зголодніли вже. Принеси 4 банки сардин і я заплачу тобі 1000</text>
+	</string>
+	<string id="pda_npc_buy_028_2">
+		<text>Без проблем.</text>
+	</string>
+	<string id="pda_npc_buy_028_3">
+		<text>Ні, не маю часу.</text>
+	</string>
+	<string id="pda_npc_buy_028_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_028_5">
+		<text>Як хочеш.</text>
+	</string>
+	
+	<string id="pda_npc_buy_029_0">
+		<text>Можу чимось допомогти?</text>
+	</string>
+	<string id="pda_npc_buy_029_1">
+		<text>Так, саме вчасно, сталкере. Мені потрібні антидоти. Я дам тобі 12000 за 2. Згоден?</text>
+	</string>
+	<string id="pda_npc_buy_029_2">
+		<text>Згода</text>
+	</string>
+	<string id="pda_npc_buy_029_3">
+		<text>Ні, це дешево.</text>
+	</string>
+	<string id="pda_npc_buy_029_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_029_5">
+		<text>Як хочеш.</text>
+	</string>
+	
+	<string id="pda_npc_buy_030_0">
+		<text>Що сьогодні потрібно</text>
+	</string>
+	<string id="pda_npc_buy_030_1">
+		<text>Принеси мені 4 гранати Ф1. Я заплачу 200 за штуку</text>
+	</string>
+	<string id="pda_npc_buy_030_2">
+		<text>Без питань</text>
+	</string>
+	<string id="pda_npc_buy_030_3">
+		<text>Ні, це не та ціна</text>
+	</string>
+	<string id="pda_npc_buy_030_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_buy_030_5">
+		<text>Як хочеш.</text>
+	</string>
+	
+	<!-- npc_sell dialogs -->
+	<string id="pda_npc_sell_001_0">
+		<text>Я чув у тебе є запасні речі</text>
+	</string>
+	<string id="pda_npc_sell_001_1">
+		<text>Я маю 3 аптечи по 100 Грн. Цікавить?</text>
+	</string>
+	<string id="pda_npc_sell_001_2">
+		<text>Мені потрібні аптечки</text>
+	</string>
+	<string id="pda_npc_sell_001_3">
+		<text>Ні, мені аптечки не потрібні</text>
+	</string>
+	<string id="pda_npc_sell_001_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_sell_001_5">
+		<text>То чому питаєш? Не мороч мені голову</text>
+	</string>
+	
+	<string id="pda_npc_sell_002_0">
+		<text>Що ти можеш запропонувати?</text>
+	</string>
+	<string id="pda_npc_sell_002_1">
+		<text>Я маю 2 антиради по 200 грн за штуку. Підходить?</text>
+	</string>
+	<string id="pda_npc_sell_002_2">
+		<text>Так, я візьму антиради</text>
+	</string>
+	<string id="pda_npc_sell_002_3">
+		<text>Ні, мені не потрібні антиради</text>
+	</string>
+	<string id="pda_npc_sell_002_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_sell_002_5">
+		<text>Тоді не витрачай мій час</text>
+	</string>
+	
+	<string id="pda_npc_sell_003_0">
+		<text>Що ти продаєш?</text>
+	</string>
+	<string id="pda_npc_sell_003_1">
+		<text>Я маю новий ПМ за 300 грн, цікавить?</text>
+	</string>
+	<string id="pda_npc_sell_003_2">
+		<text>Цікава пропозиція</text>
+	</string>
+	<string id="pda_npc_sell_003_3">
+		<text>Ні, не потрібно</text>
+	</string>
+	<string id="pda_npc_sell_003_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_sell_003_5">
+		<text>Ну то відвали</text>
+	</string>
+	
+	<string id="pda_npc_sell_004_0">
+		<text>Що маєш на продаж?</text>
+	</string>
+	<string id="pda_npc_sell_004_1">
+		<text>Я маю БМ16 за 500 грн, цікавить?</text>
+	</string>
+	<string id="pda_npc_sell_004_2">
+		<text>Непогано.</text>
+	</string>
+	<string id="pda_npc_sell_004_3">
+		<text>Ні, не цікавить.</text>
+	</string>
+	<string id="pda_npc_sell_004_4">
+		<text>Добре, я оновив мітку в твоєму КПК</text>
+	</string>
+	<string id="pda_npc_sell_004_5">
+		<text>Ну то чого питаєш?</text>
+	</string>
+	
+	<string id="pda_npc_sell_005_0">
+		<text>Що маєш на продаж?</text>
+	</string>
+	<string id="pda_npc_sell_005_1">
+		<text>Я маю 4 бинти і 1 аптечку за 300 грн, цікавить?</text>
+	</string>
+	<string id="pda_npc_sell_005_2">
+		<text>Так, давай</text>
+	</string>
+	<string id="pda_npc_sell_005_3">
+		<text>Ні, нецікаво.</text>
+	</string>
+	<string id="pda_npc_sell_005_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_sell_005_5">
+		<text>То чого прийшов?</text>
+	</string>
+	
+	<string id="pda_npc_sell_006_0">
+		<text>Маєш шось файне?</text>
+	</string>
+	<string id="pda_npc_sell_006_1">
+		<text>Маю куртку новачка. За 1200 грн віддам. Цікавить?</text>
+	</string>
+	<string id="pda_npc_sell_006_2">
+		<text>Звісно. Давай</text>
+	</string>
+	<string id="pda_npc_sell_006_3">
+		<text>Ні, це дорого для мене</text>
+	</string>
+	<string id="pda_npc_sell_006_4">
+		<text>Добре, я оновив мітку в твоєму КПК</text>
+	</string>
+	<string id="pda_npc_sell_006_5">
+		<text>Ну, дешевше ти не знайдеш.</text>
+	</string>
+	
+	<string id="pda_npc_sell_007_0">
+		<text>Що маєш цікавого?</text>
+	</string>
+	<string id="pda_npc_sell_007_1">
+		<text>Маю артефакт «Медуза». Віддам заа 1000 грн. Цікавить?</text>
+	</string>
+	<string id="pda_npc_sell_007_2">
+		<text>Цікаво</text>
+	</string>
+	<string id="pda_npc_sell_007_3">
+		<text>Ні, це дорого для мене.</text>
+	</string>
+	<string id="pda_npc_sell_007_4">
+		<text>Добре, я оновив мітку в твоєму КПК</text>
+	</string>
+	<string id="pda_npc_sell_007_5">
+		<text>Як хочеш.</text>
+	</string>
+	
+	<string id="pda_npc_sell_008_0">
+		<text>Щось продаєш?</text>
+	</string>
+	<string id="pda_npc_sell_008_1">
+		<text>Артефакт «Граві». Віддам за 2800 Грн. Цікавить?</text>
+	</string>
+	<string id="pda_npc_sell_008_2">
+		<text>Звучить привабливо.</text>
+	</string>
+	<string id="pda_npc_sell_008_3">
+		<text>Ні, дякую. Це досить дорого. </text>
+	</string>
+	<string id="pda_npc_sell_008_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_sell_008_5">
+		<text>Бувай, чоловіче</text>
+	</string>
+	
+	<string id="pda_npc_sell_009_0">
+		<text>Маєш щось продати?</text>
+	</string>
+	<string id="pda_npc_sell_009_1">
+		<text>Я маю куртку бандита, спеціально для тебе. Дуже дешево, лише 3000 Грн?</text>
+	</string>
+	<string id="pda_npc_sell_009_2">
+		<text>Привабливо.</text>
+	</string>
+	<string id="pda_npc_sell_009_3">
+		<text>Ні, це дорого.</text>
+	</string>
+	<string id="pda_npc_sell_009_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_sell_009_5">
+		<text>Багато втрачаєш, сталкере</text>
+	</string>
+	
+	<string id="pda_npc_sell_010_0">
+		<text>Що маєш на продаж?</text>
+	</string>
+	<string id="pda_npc_sell_010_1">
+		<text>Маю куртку новачка за 3500 грн. Найкраща ціна, дешевше не знайдеш</text>
+	</string>
+	<string id="pda_npc_sell_010_2">
+		<text>Згода. Давай</text>
+	</string>
+	<string id="pda_npc_sell_010_3">
+		<text>І дешевше знайду</text>
+	</string>
+	<string id="pda_npc_sell_010_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_sell_010_5">
+		<text>Чому? Багато втрачаєш.</text>
+	</string>
+	
+	<string id="pda_npc_sell_011_0">
+		<text>Є щось добре?</text>
+	</string>
+	<string id="pda_npc_sell_011_1">
+		<text>Артефакт "Краплю" за тисячу?</text>
+	</string>
+	<string id="pda_npc_sell_011_2">
+		<text>Добра ціна.</text>
+	</string>
+	<string id="pda_npc_sell_011_3">
+		<text>Ні, дякую.</text>
+	</string>
+	<string id="pda_npc_sell_011_4">
+		<text>Добре, я оновив мітку у твоєму КПК</text>
+	</string>
+	<string id="pda_npc_sell_011_5">
+		<text>Шкода...</text>
+	</string>
+	
+	<string id="pda_npc_sell_012_0">
+		<text>Маєш щось цікаве?</text>
+	</string>
+	<string id="pda_npc_sell_012_1">
+		<text>Звісно, маю "Кров каменю" за тисячу</text>
+	</string>
+	<string id="pda_npc_sell_012_2">
+		<text>Чудово. Беру.</text>
+	</string>
+	<string id="pda_npc_sell_012_3">
+		<text>Не цікавить.</text>
+	</string>
+	<string id="pda_npc_sell_012_4">
+		<text>Добре, я оновив мітку у твоєму КПК.</text>
+	</string>
+	<string id="pda_npc_sell_012_5">
+		<text>Багато втрачаєш</text>
+	</string>
+	
+	<string id="pda_npc_sell_013_0">
+		<text>Щось цінне маєш?</text>
+	</string>
+	<string id="pda_npc_sell_013_1">
+		<text>Так. Голову кота за 1100 віддам</text>
+	</string>
+	<string id="pda_npc_sell_013_2">
+		<text>Хмм. Добре, я купую.</text>
+	</string>
+	<string id="pda_npc_sell_013_3">
+		<text>Багато просиш.</text>
+	</string>
+	<string id="pda_npc_sell_013_4">
+		<text>Добре, я оновив мітку у твоєму КПК.</text>
+	</string>
+	<string id="pda_npc_sell_013_5">
+		<text>Як знаєш</text>
+	</string>
+	
+	<string id="pda_npc_sell_014_0">
+		<text>Що запропонуєш?</text>
+	</string>
+	<string id="pda_npc_sell_014_1">
+		<text>Хвіст псевдопса за 1800?</text>
+	</string>
+	<string id="pda_npc_sell_014_2">
+		<text>Хмм. Добре, я купую.</text>
+	</string>
+	<string id="pda_npc_sell_014_3">
+		<text>Багато просиш.</text>
+	</string>
+	<string id="pda_npc_sell_014_4">
+		<text>Добре, я оновив мітку у твоєму КПК.</text>
+	</string>
+	<string id="pda_npc_sell_014_5">
+		<text>Як знаєш</text>
+	</string>
+	
+	<string id="pda_npc_sell_015_0">
+		<text>Щось запропонуєш?</text>
+	</string>
+	<string id="pda_npc_sell_015_1">
+		<text>Продам 4 батарейки за 400 грн, цікавить?</text>
+	</string>
+	<string id="pda_npc_sell_015_2">
+		<text>Так, те що треба.</text>
+	</string>
+	<string id="pda_npc_sell_015_3">
+		<text>Ні, не потрібні.</text>
+	</string>
+	<string id="pda_npc_sell_015_4">
+		<text>Добре, я оновив мітку у твоєму КПК.</text>
+	</string>
+	<string id="pda_npc_sell_015_5">
+		<text>Бувай...</text>
+	</string>
+	
+	<string id="pda_npc_sell_016_0">
+		<text>Що продаєш?</text>
+	</string>
+	<string id="pda_npc_sell_016_1">
+		<text>Продам ремонтний комплект за 7500 грн</text>
+	</string>
+	<string id="pda_npc_sell_016_2">
+		<text>Давай. Я візьму.</text>
+	</string>
+	<string id="pda_npc_sell_016_3">
+		<text>Не потрібно.</text>
+	</string>
+	<string id="pda_npc_sell_016_4">
+		<text>Добре, я оновив мітку у твоєму КПК.</text>
+	</string>
+	<string id="pda_npc_sell_016_5">
+		<text>Ні, дякую...</text>
+	</string>
+	
+	<string id="pda_npc_sell_017_0">
+		<text>Що продаєш?</text>
+	</string>
+	<string id="pda_npc_sell_017_1">
+		<text>Маю 2 протигази по 1200 за штуку</text>
+	</string>
+	<string id="pda_npc_sell_017_2">
+		<text>Чудово, я візьму.</text>
+	</string>
+	<string id="pda_npc_sell_017_3">
+		<text>Не потрібні.</text>
+	</string>
+	<string id="pda_npc_sell_017_4">
+		<text>Добре, я оновив мітку у твоєму КПК.</text>
+	</string>
+	<string id="pda_npc_sell_017_5">
+		<text>Залиши на потім.</text>
+	</string>
+	
+	<string id="pda_npc_sell_018_0">
+		<text>Що маєш?</text>
+	</string>
+	<string id="pda_npc_sell_018_1">
+		<text>Продаю «Душу» за 5000 грн. Береш?</text>
+	</string>
+	<string id="pda_npc_sell_018_2">
+		<text>Звісно.</text>
+	</string>
+	<string id="pda_npc_sell_018_3">
+		<text>Ні, це багато.</text>
+	</string>
+	<string id="pda_npc_sell_018_4">
+		<text>Добре, я оновив мітку у твоєму КПК.</text>
+	</string>
+	<string id="pda_npc_sell_018_5">
+		<text>Залиши. Я пізніше заберу!</text>
+	</string>
+	
+	<string id="pda_npc_sell_019_0">
+		<text>Що маєш сьогодні?</text>
+	</string>
+	<string id="pda_npc_sell_019_1">
+		<text>Маю «Бенгальський вогонь» за 1000 Грн</text>
+	</string>
+	<string id="pda_npc_sell_019_2">
+		<text>Беру.</text>
+	</string>
+	<string id="pda_npc_sell_019_3">
+		<text>Не потрібно.</text>
+	</string>
+	<string id="pda_npc_sell_019_4">
+		<text>Добре, я оновив мітку у твоєму КПК.</text>
+	</string>
+	<string id="pda_npc_sell_019_5">
+		<text>То чого запитуєш?</text>
+	</string>
+	
+	<string id="pda_npc_sell_020_0">
+		<text>Привіт, брате. Що маєш сьогодні?</text>
+	</string>
+	<string id="pda_npc_sell_020_1">
+		<text>Привіт, чуваче. Маю потужну протиотруту за 7000</text>
+	</string>
+	<string id="pda_npc_sell_020_2">
+		<text>Купую.</text>
+	</string>
+	<string id="pda_npc_sell_020_3">
+		<text>Ні, не потрібно.</text>
+	</string>
+	<string id="pda_npc_sell_020_4">
+		<text>Добре, я оновив мітку у твоєму КПК.</text>
+	</string>
+	<string id="pda_npc_sell_020_5">
+		<text>Важка людина...</text>
+	</string>
+	
+	<string id="pda_npc_sell_021_0">
+		<text>Маєш щось на продаж?</text>
+	</string>
+	<string id="pda_npc_sell_021_1">
+		<text>Маю 4 гранати Ф1. Продам за 900.</text>
+	</string>
+	<string id="pda_npc_sell_021_2">
+		<text>Ок. Я візьму.</text>
+	</string>
+	<string id="pda_npc_sell_021_3">
+		<text>Ні, це мені не потрібно.</text>
+	</string>
+	<string id="pda_npc_sell_021_4">
+		<text>Добре, я оновив мітку у твоєму КПК.</text>
+	</string>
+	<string id="pda_npc_sell_021_5">
+		<text>Ну як хочеш</text>
+	</string>
+	
+	<string id="pda_npc_sell_022_0">
+		<text>Щось продаєш?</text>
+	</string>
+	<string id="pda_npc_sell_022_1">
+		<text>4 банки сардин за 1100?</text>
+	</string>
+	<string id="pda_npc_sell_022_2">
+		<text>Те що треба.</text>
+	</string>
+	<string id="pda_npc_sell_022_3">
+		<text>Що, чорт візьми, я зроблю з тими сардинами?.</text>
+	</string>
+	<string id="pda_npc_sell_022_4">
+		<text>Добре, я оновив мітку у твоєму КПК.</text>
+	</string>
+	<string id="pda_npc_sell_022_5">
+		<text>Ну то відвали!</text>
+	</string>
+	
+	<!-- npc_know dialogs -->
+	<string id="pda_npc_know_001_0">
+		<text>Я чув, ти знаєш важливу іфнформацію...</text>
+	</string>
+	<string id="pda_npc_know_001_1">
+		<text>Я як енциклопедія. Знаю, все що потрібно... За невелику платню, звісно.</text>
+	</string>
+	<string id="pda_npc_know_001_2">
+		<text>То скажи мені.</text>
+	</string>
+	<string id="pda_npc_know_001_3">
+		<text>Не потрібна твоя інформація.</text>
+	</string>
+	<string id="pda_npc_know_001_4">
+		<text>Не так швидко. Як я вже сказав - за пристойну ціну. Я оновив свою позицію на твоєму КПК.</text>
+	</string>
+	<string id="pda_npc_know_001_5">
+		<text>Тоді чому питаєш?</text>
+	</string>
+	
+	<string id="pda_npc_know_002_0">
+		<text>Я чув, ти знаєш важливу іфнформацію ...</text>
+	</string>
+	<string id="pda_npc_know_002_1">
+		<text>Я як нециклопедія. Знаю, все що потрібно ... За невелику платню, звісно.</text>
+	</string>
+	<string id="pda_npc_know_002_2">
+		<text>То скажи мені.</text>
+	</string>
+	<string id="pda_npc_know_002_3">
+		<text>Не потрібна твоя інформація.</text>
+	</string>
+	<string id="pda_npc_know_002_4">
+		<text>Не так швидко. Як я вже сказав - за пристойну ціну. Я оновив свою позицію на твоєму КПК.</text>
+	</string>
+	<string id="pda_npc_know_002_5">
+		<text>Тоді чому питаєш?</text>
+	</string>
+	
+	<!-- meeting refuse -->
+	<string id="pda_talk_meet_refuse_1">
+		<text>Що стосується нашої зустрічі...</text>
+	</string>
+	<string id="pda_talk_meet_refuse_2">
+		<text>Так, що саме?</text>
+	</string>
+	<string id="pda_talk_meet_refuse_3">
+		<text>Я відмовляюсь це зробити</text>
+	</string>
+	<string id="pda_talk_meet_refuse_31">
+		<text>Ти впевнений</text>
+	</string>
+	<string id="pda_talk_meet_refuse_311">
+		<text>Так, я не маю часу</text>
+	</string>
+	<string id="pda_talk_meet_refuse_3111">
+		<text>Як завгодно</text>
+	</string>
+	<string id="pda_talk_meet_refuse_312">
+		<text>Насправді я передумав. Давай зустрінемось</text>
+	</string>
+	<string id="pda_talk_meet_refuse_4">
+		<text>Нічого, не бери в голову</text>
+	</string>
+	<string id="pda_talk_meet_refuse_41">
+		<text>Добре, я чекаю. Поспішай</text>
+	</string>
+	
+	<!-- chitchat dialogs -->
+	<string id="pda_npc_chat_001_0">
+		<text>Як справи? Якісь новини?</text>
+	</string>
+	<string id="pda_npc_chat_001_1">
+		<text>Недалеко звідси хлопці у військовій формі щось шукали.І здається щось знайшли. Я навіть не міг підійти близько до них. Помітили мене і почали стріляти. Радий, що не піймали мене.</text>
+	</string>
+	<string id="pda_npc_chat_001_2">
+		<text>Дякую, чоловіче.</text>
+	</string>
+	<string id="pda_npc_chat_001_3">
+		<text>Іншим разом.</text>
+	</string>
+	
+	<string id="pda_npc_chat_002_0">
+		<text>Як справи? Є новини?</text>
+	</string>
+	<string id="pda_npc_chat_002_1">
+		<text>Ей, не так багато. Немаю часу з тобою говорити.</text>
+	</string>
+	<string id="pda_npc_chat_002_2">
+		<text>Звичайно, я спробую</text>
+	</string>
+	<string id="pda_npc_chat_002_3">
+		<text>Добре, тоді слухай: «Існує стародавній винахід, до цих пір використовується в деяких частинах світу сьогодні, і дозволяє людям бачити крізь стіни. Що це таке?»</text>
+	</string>
+	<string id="pda_npc_chat_002_4">
+		<text>Та це легко. Вікно.</text>
+	</string>
+	<string id="pda_npc_chat_002_5">
+		<text>А це має сенс. Дякую, чоловіче</text>
+	</string>
+	
+	<string id="pda_npc_chat_003_0">
+		<text>Розкажи анекдот. Повеселюсь</text>
+	</string>
+	<string id="pda_npc_chat_003_1">
+		<text>Доктор заходить в палату де Сталкер відновлюється після невдалого походу в аномалію. «Привіт, доку. Що зі мною»? «Ну, я зробив усе, що міг, але мені довелось ампутувати обидві ноги». Сталкер у шоці: "Боже мій, це жахливо! Мої ноги»! «Гей, подивися на це з іншої сторони. Тепер твій член досягає дістає до землі».</text>
+	</string>
+	<string id="pda_npc_chat_003_2">
+		<text>Дякую, мужиче. Старий анекдот, але весело.</text>
+	</string>
+	<string id="pda_npc_chat_003_3">
+		<text>В будь-який час</text>
+	</string>
+	
+	<string id="pda_npc_chat_004_0">
+		<text>Розкажи анекдот. Повеселюсь</text>
+	</string>
+	<string id="pda_npc_chat_004_1">
+		<text>Боєць «Волі» був на нічній вахті. Виліз на вежу і щоб вбити трохи часу, забиває косяк і дивиться в нічне небо. Тут біля нього пролітає вогняга куля і зникає. Потім знову те ж саме. І тут інший до нього підходить і каже: Чуваче, злазь, 2 дні на вежі вже стоїш :)</text>
+	</string>
+	<string id="pda_npc_chat_004_2">
+		<text>Хаха, чудово</text>
+	</string>
+	<string id="pda_npc_chat_004_3">
+		<text>Радий що тобі сподобалось</text>
+	</string>
+	
+	<string id="pda_npc_chat_005_0">
+		<text>Агов, хлопче, у чорному капюшоні?</text>
+	</string>
+	<string id="pda_npc_chat_005_1">
+		<text>Я думаю, що зона є свого роду покаранням для людства і в один прекрасний день вона проковтне всю планету. І ви знаєте, що? Я думаю, це буде добре. Це, безумовно, зіб'є всю систему корупції і жадібних політиків і все. Немає уряду, немає грошей, просто воля.</text>
+	</string>
+	<string id="pda_npc_chat_005_2">
+		<text>Добре, хай щастить з ним</text>
+	</string>
+	<string id="pda_npc_chat_005_3">
+		<text>Тихіше чоловіче</text>
+	</string>
+	
+	<string id="pda_npc_chat_006_0">
+		<text>Агов, хлопче. Що відбувається?</text>
+	</string>
+	<string id="pda_npc_chat_006_1">
+		<text>Я прочитав книгу Сантоса Боначі, цей хлопець божевільний, він значною мірою переконував, що Біблія це книга про астрологію, і все християнство використовується для управління людьми, а його первісною метою було поклонятися сонцю, планетам, всесвіту і внутрішнім силам людини. Він не божевільний?</text>
+	</string>
+	<string id="pda_npc_chat_006_2">
+		<text>Добре... Треба йти</text>
+	</string>
+	<string id="pda_npc_chat_006_3">
+		<text>Зберігай спокій, чоловіче</text>
+	</string>
+	
+	<string id="pda_npc_chat_007_0">
+		<text>Що можеш сказати на своє виправдання?</text>
+	</string>
+	<string id="pda_npc_chat_007_1">
+		<text>Мені тут подобається... Я не повинен нічого робити, якщо я не хочу. Але краще себе чимось зайняти. Я відчуваю себе краще, якщо я щось роблю. Нічого не робити це нудно... хе-хе.</text>
+	</string>
+	<string id="pda_npc_chat_007_2">
+		<text>Так, вірно</text>
+	</string>
+	<string id="pda_npc_chat_007_3">
+		<text>Перевірте чоловіка пізніше</text>
+	</string>
+	
+	<string id="pda_npc_chat_008_0">
+		<text>Ей, хлопче. Що в тебе на думці?</text>
+	</string>
+	<string id="pda_npc_chat_008_1">
+		<text>Цікаво, що станеться з кровососом, якщо я вдарю його в пах. Там є «кульки» чи нема нічого?</text>
+	</string>
+	<string id="pda_npc_chat_008_2">
+		<text>Чому б тобі не спробувати?</text>
+	</string>
+	<string id="pda_npc_chat_008_3">
+		<text>Звісно, брателло. Чудова ідея. Хочеш знати як вона проходить?</text>
+	</string>
+	<string id="pda_npc_chat_008_4">
+		<text>Безумовно. Я не засну поки не почую відповідь</text>
+	</string>
+	<string id="pda_npc_chat_008_5">
+		<text>Добре. Треба йти</text>
+	</string>
+	
+	<string id="pda_npc_chat_009_0">
+		<text>Хлопче, дізнався щось цікаве останнім часом?</text>
+	</string>
+	<string id="pda_npc_chat_009_1">
+		<text>Чи знав ти, що вода досягає точки кипіння при 82°C в Зоні? Я поняття не маю, як це можливо, тому що аналогічні ефекти можуть бути виміряні тільки в зонах низького тиску, тобто менш щільній атмосфері на вершині найвищих гір, але тут, здається, вода поводиться таким чином, навіть не маючи необхідних атмосферних умов.</text>
+	</string>
+	<string id="pda_npc_chat_009_2">
+		<text>Цікаво.</text>
+	</string>
+	<string id="pda_npc_chat_009_3">
+		<text>Дуже цікаво, особливо зараз, коли ми можемо з'ясувати чому</text>
+	</string>
+	
+	<string id="pda_npc_chat_010_0">
+		<text>Хлопче, дізнався щось цікаве останнім часом?</text>
+	</string>
+	<string id="pda_npc_chat_010_1">
+		<text>Ми виявили 167 абсолютно нових і унікальних видів бактерій, які розвивалися в кишечнику людини в цих умовах.</text>
+	</string>
+	<string id="pda_npc_chat_010_2">
+		<text>Ого, це багато</text>
+	</string>
+	<string id="pda_npc_chat_010_3">
+		<text>Так, дійсно</text>
+	</string>
+	
+	<string id="pda_npc_chat_011_0">
+		<text>Хлопче, дізнався щось цікаве останнім часом?</text>
+	</string>
+	<string id="pda_npc_chat_011_1">
+		<text>Металеві об'єкти в деяких районах сектора 12 проявляють провідні властивості.</text>
+	</string>
+	<string id="pda_npc_chat_011_2">
+		<text>Дивно</text>
+	</string>
+	<string id="pda_npc_chat_011_3">
+		<text>Справді дивно</text>
+	</string>
+	
+	<string id="pda_npc_chat_012_0">
+		<text>Хлопче, дізнався щось цікаве останнім часом?</text>
+	</string>
+	<string id="pda_npc_chat_012_1">
+		<text>Ми виявили кілька областей з якимось нестабільним гравітаційним полем. Вже один цей факт ще раз ставить під сумнів усе, що ми знаємо до сих пір про гравітацію! Воно не може навіть бути пов'язане з щільністю речовини, а щось зовсім інше! Експеримент з Бозоном Хіггса є хорошим прикладом цього.</text>
+	</string>
+	<string id="pda_npc_chat_012_2">
+		<text>Уся Зона нестійка, як на мене</text>
+	</string>
+	<string id="pda_npc_chat_012_3">
+		<text>Правильно, але це особливо цікаво</text>
+	</string>
+	
+	<string id="pda_npc_chat_013_0">
+		<text>Хлопче, що відбувається?</text>
+	</string>
+	<string id="pda_npc_chat_013_1">
+		<text>Я чув, деякі хлопці нашого блоку розмовляли про те, як було б добре, щоб укласти мир з кожною фракцією тут, щоб створити одну-єдину сталкерську фракцію.</text>
+	</string>
+	<string id="pda_npc_chat_013_2">
+		<text>Так, тоді показали би хто в домі господар</text>
+	</string>
+	<string id="pda_npc_chat_013_3">
+		<text>Хтось повинен поставити їх на місце</text>
+	</string>
+	
+	<string id="pda_npc_chat_014_0">
+		<text>Хлопче, що відбувається?</text>
+	</string>
+	<string id="pda_npc_chat_014_1">
+		<text>Ми повинні отримати декілька гелікоптерів, як у військових. Тоді б ми тут зачистили все, аж до щурів. Я знаю, що їх багато валяється, але вони непрацюють і до біса радіоактивні</text>
+	</string>
+	<string id="pda_npc_chat_014_2">
+		<text>Так, але паливо важко знайти в Зоні</text>
+	</string>
+	<string id="pda_npc_chat_014_3">
+		<text>Тоді напрошується питання де його беруть військові?</text>
+	</string>
+	
+	<string id="pda_npc_chat_015_0">
+		<text>Хлопче, я можу гарно пожартувати</text>
+	</string>
+	<string id="pda_npc_chat_015_1">
+		<text>Долгівець стрибає на каналізаційному люкові і з кожним новим стрибком кричав: «9»! Воляк який проходив повз запитує: «Чому ти кричиш «9»? «Це цікаво, друже. Спробуй». І коли Воляк почав стрибати, Долгівець прийняв кришку і Воляк впав. Долгівець закрив кришку, став на люк і знову почав стрибати і кричати: «10, 10, 10, 10».</text>
+	</string>
+	<string id="pda_npc_chat_015_2">
+		<text>Ну, це старий анекдот</text>
+	</string>
+	<string id="pda_npc_chat_015_3">
+		<text>Вибач, це не смішно</text>
+	</string>
+	
+	<string id="pda_npc_chat_016_0">
+		<text>Знаєш якийсь анекдот</text>
+	</string>
+	<string id="pda_npc_chat_016_1">
+		<text>На конкурсі авторських фільмів за мотивами гри «С.Т.А.Л.К.Е.Р.» були представлені наступні роботи:
+«Довгий Поцілунок снорка», «Я, зомбі», «14 друзів Бармена», «Американський перевертень на звалищі», та інші. 
+Кращою історичної стрічкою виявилися «Атос, Портос, і Кровосос». Кращим документальним фільмом був оголошений фільм-розслідування «Плоть - етико-філософсько-культурно-науковий феномен, або просто свиня?» У жанрі еротичного кіно перше місце поділили «ХХХ-16» і «ХХХ-18». У номінації «Фантастика року» з великим відривом переміг «Тверезий Сталкер».</text>
+	</string>
+	<string id="pda_npc_chat_016_2">
+		<text>Прекрасно :)</text>
+	</string>
+	<string id="pda_npc_chat_016_3">
+		<text>:D</text>
+	</string>
+	
+	<string id="pda_npc_chat_017_0">
+		<text>Знаєш якийсь анекдот</text>
+	</string>
+	<string id="pda_npc_chat_017_1">
+		<text>Оголошення: Куплю книгу «Легкий спосіб кинути палити». За будь-які гроші. З пропозиціями звертатися за адресою: Радар, дорога, блокпост біля бочок з бензином. Запитати Васю Горілого.</text>
+	</string>
+	<string id="pda_npc_chat_017_2">
+		<text>Весело...</text>
+	</string>
+	<string id="pda_npc_chat_017_3">
+		<text>:)</text>
+	</string>
+	
+	<string id="pda_npc_chat_018_0">
+		<text>Розкажеш щось смішне?</text>
+	</string>
+	<string id="pda_npc_chat_018_1">
+		<text>Іноді, на стоянках до вогнища зустрічаються трупи сталкерів. Що ж стало загибеллю цих людей? Вони розповідали старі і несмішні анекдоти..."</text>
+	</string>
+	<string id="pda_npc_chat_018_2">
+		<text>LOL</text>
+	</string>
+	<string id="pda_npc_chat_018_3">
+		<text>:3</text>
+	</string>
+	
+	<string id="pda_npc_chat_019_0">
+		<text>Зможеш мене розсмішити?</text>
+	</string>
+	<string id="pda_npc_chat_019_1">
+		<text>- Ти собі не уявляєш, в яких місцях я був, і які приколи я там бачив! - Стрільцю, це тобі звичайно не в образу, але в Голландію продавати артефакти в інший раз поїде хтось інший.</text>
+	</string>
+	<string id="pda_npc_chat_019_2">
+		<text>Ха-ха, це найкраще що я чув останнім часом.</text>
+	</string>
+	<string id="pda_npc_chat_019_3">
+		<text>:D</text>
+	</string>
+	
+	<string id="pda_npc_chat_020_0">
+		<text>Привіт, бро. Як справи?</text>
+	</string>
+	<string id="pda_npc_chat_020_1">
+		<text>Я маю чудовий план, чоловіче... Слухай! Я збираюся приручити маленьких цуценят псевдопса і дресирувати їх, навчити їх різних трюків. Вони охоронятимуть мене! І хто мене буде бісити, я просто свисну, і вони розірвуть його на шматки... Хе-хе... так... Просто на шматки!</text>
+	</string>
+	<string id="pda_npc_chat_020_2">
+		<text>Добре, даси мені знати як працює твій план</text>
+	</string>
+	<string id="pda_npc_chat_020_3">
+		<text>Звісно</text>
+	</string>
+	
+	<string id="pda_npc_chat_021_0">
+		<text>Привіт, брате. Якісь новини є?</text>
+	</string>
+	<string id="pda_npc_chat_021_1">
+		<text>Моя група раз потрапила в болота ... Якийсь хлопець сказав нам, що там плавають золоті кулі .... хе! Золоті ... Це іскрилися вогняні кулі! І вони переслідували наші дупи і несли полум'я в повітрі ... золоті кулі ... Я надеру його золоті кулі, коли я зустрітися з ним знову ... ідіот ... Краще уникай Боліт якщо зможеш ...</text>
+	</string>
+	<string id="pda_npc_chat_021_2">
+		<text>Хах, добре. Дякую</text>
+	</string>
+	<string id="pda_npc_chat_021_3">
+		<text>Пізніше, бро</text>
+	</string>
+	
+	<string id="pda_npc_chat_022_0">
+		<text>Хай, які новини?</text>
+	</string>
+	<string id="pda_npc_chat_022_1">
+		<text>Це ти! Ти винен мені гроші! І якщо ти не віддаси зараз... Я знайду тебе! Я знаю, де ти живеш, і я знаю, як ти виглядаєш зараз!</text>
+	</string>
+	<string id="pda_npc_chat_022_2">
+		<text>А якщо я тобі кишки ложечкою повитягаю?</text>
+	</string>
+	<string id="pda_npc_chat_022_3">
+		<text>Еее... Гм... Я напевно помилився. Вибач. Бувай</text>
+	</string>
+	
+	<string id="pda_npc_chat_023_0">
+		<text>Вітаю, що скажеш?</text>
+	</string>
+	<string id="pda_npc_chat_023_1">
+		<text>Наше братство захищає священні місця Зони. Ми були обраними! Це величезна честь бути серед воїнів «Моноліту».</text>
+	</string>
+	<string id="pda_npc_chat_023_2">
+		<text>Я повинен був запитати</text>
+	</string>
+	<string id="pda_npc_chat_023_3">
+		<text>Славіть «Моноліт»!</text>
+	</string>
+	
+	<string id="pda_npc_chat_024_0">
+		<text>Агов, що скажеш?</text>
+	</string>
+	<string id="pda_npc_chat_024_1">
+		<text>«Моноліт» показав мені, що це всього лише ілюзія! Віртуальна реальність, називай як хочеш. Тим не менше, я не відчуваю себе віртуальним... Цікаво, що він хотів, щоб я бачив. Дивні бачення... Я знаю... це звучить смішно.</text>
+	</string>
+	<string id="pda_npc_chat_024_2">
+		<text>Смішно? Ні. Інші слова приходять в голову. Хоча...</text>
+	</string>
+	<string id="pda_npc_chat_024_3">
+		<text>Слава «Моноліту»!</text>
+	</string>
+	
+	<string id="pda_npc_chat_025_0">
+		<text>Агов, поговори зі мною</text>
+	</string>
+	<string id="pda_npc_chat_025_1">
+		<text>Зона була створена Монолітом щоб судити людський рід. Незабаром буде судити все живе. Для моноліту бог зійшов на землю.</text>
+	</string>
+	<string id="pda_npc_chat_025_2">
+		<text>Отже пізніше</text>
+	</string>
+	<string id="pda_npc_chat_025_3">
+		<text>Слава «Моноліту»!</text>
+	</string>
+	
+	<string id="pda_npc_chat_026_0">
+		<text>Агов, поговори зі мною</text>
+	</string>
+	<string id="pda_npc_chat_026_1">
+		<text>«Моноліт» тримає наші полум'я вічно. Відводить нас від звірів вночі і днем. Ні, серйозно, наші вогнища буквально ніколи не згасити... як... усе... Хай славиться «Моноліт»!</text>
+	</string>
+	<string id="pda_npc_chat_026_2">
+		<text>Він повинен любити мене теж, тому що моє вогнище не гасне..</text>
+	</string>
+	<string id="pda_npc_chat_026_3">
+		<text>Слава «Моноліту»!</text>
+	</string>
+	
+</string_table>

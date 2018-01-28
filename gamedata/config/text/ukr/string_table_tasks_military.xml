@@ -1,0 +1,195 @@
+<string id="mil_meet_ghost_title">
+		<text>Знайти та поговорити з Привидом</text>
+	</string>
+<string id="mil_meet_with_ghost_title">
+		<text>Зустріти Привида.</text>
+	</string>
+<string id="mil_wipe_mercs_title">
+		<text>Розвідати найближче село</text>
+	</string>
+<string id="mil_wipe_mercs_task_text">
+		<text>Знайти та ліквідувати найманців</text>
+	</string>
+<string id="mil_base_attack_title">
+		<text>Атакувати базу та дістати артефакт</text>
+	</string>
+<string id="mil_blowout_title">
+		<text>Дістатися бази до Викиду</text>
+	</string>
+<string id="mil_wipe_leader_title">
+		<text>Вбити Скаженого Пса та забрати артефакт</text>
+	</string>
+<string id="mil_bring_artifact_back_title">
+		<text>Принести кристал Привиду</text>
+	</string>
+<string id="mil_meet_contact_title">
+		<text>Зустрітися з Інформатором</text>
+	</string>
+<string id="mil_meet_contact_text">
+		<text>Зустріти Інформатора</text>
+	</string>
+<string id="mil_crazy_title">
+		<text>Відсутня зброя</text>
+	</string>
+<string id="mil_crazy_weapon">
+		<text>Отримати рушницю</text>
+	</string>
+<string id="mil_crazy_return_lr">
+		<text>Принести власнику</text>
+	</string>
+	<string id="mil_blockpost_job">
+		<text>Надати допомогу блокпосту «Волі» на Бар'єрі.</text>
+	</string>
+	<string id="mil_courier">
+		<text>Стукач</text>
+	</string>
+	<string id="mil_courier_job">
+		<text>Розібратися зі стукачем</text>
+	</string>
+	<string id="mil_courier_phase1">
+		<text>Дістатися до хутора</text>
+	</string>
+	<string id="mil_courier_phase2">
+		<text>Дочекатися, доки стукач викличе інформатора</text>
+	</string>
+	<string id="mil_courier_phase3">
+		<text>Знищити стукача</text>
+	</string>
+	<string id="mil_courier_phase4">
+		<text>Знищити інформатора</text>
+	</string>
+	<string id="mil_courier_phase5">
+		<text>Доповісти Лукашу про виконання</text>
+	</string>
+	<string id="mil_crazy">
+		<text>Божевільний сталкер</text>
+	</string>
+	<string id="mil_dolg">
+		<text>Група «Долгу»</text>
+	</string>
+	<string id="mil_dolg_assault_freedom">
+		<text>Допомогти загону «Долгу» в усуненні Лукаша</text>
+	</string>
+	<string id="mil_kill_lukash">
+		<text>Вбити Лукаша</text>
+	</string>
+	<string id="mil_dolg_assault_support">
+		<text>Знищити снайпера</text>
+	</string>
+	<string id="mil_dolg_return_to_khutor">
+		<text>Повернутися на хутір «Долгу» і отримати гонорар</text>
+	</string>
+	<string id="mil_dolg_return_to_skull">
+		<text>Повернутися до Черепа</text>
+	</string>
+	<string id="mil_fblockpost_commander">
+		<text>Командир блокпоста «Кеп»</text>
+	</string>
+	<string id="mil_fblockpost_phase2">
+		<text>Допомогти в знищенні загону «Моноліту», що проривається</text>
+	</string>
+	<string id="mil_fblockpost_phase3">
+		<text>Поговорити з командиром блокпоста «Бар'єр»</text>
+	</string>
+	<string id="mil_find_cook">
+		<text>Знайти кухаря на базі Волі</text>
+	</string>
+	<string id="mil_freedom_rg6_task">
+		<text>Дістати РГ6 у «Волі»</text>
+	</string>
+	<string id="mil_go_max">
+		<text>Доповісти Максу</text>
+	</string>
+	<string id="mil_go_to_miser_task">
+		<text>Сходити на базу «Волі» до Скнари за нагородою</text>
+	</string>
+	<string id="mil_go_to_miser_task_main">
+		<text>Отримати нагороду за вбитих кровососів</text>
+	</string>
+	<string id="mil_hunters_phase1">
+		<text>Знайти Похмурого в селі</text>
+	</string>
+	<string id="mil_hunters_phase2">
+		<text>Знищити кровососів</text>
+	</string>
+	<string id="mil_hunters_phase3">
+		<text>Повернутися до Скнари за артефактом</text>
+	</string>
+	<string id="mil_hunters_task">
+		<text>Знищити кровососів у селі</text>
+	</string>
+	<string id="mil_kill_controller">
+		<text>Убити кровососів</text>
+	</string>
+	<string id="mil_kill_controller_main">
+		<text>Убити кровососів</text>
+	</string>
+	<string id="mil_kill_dolg">
+		<text>Знищити групу «Долгу»</text>
+	</string>
+	<string id="mil_lukash">
+		<text>Лукаш</text>
+	</string>
+	<string id="mil_max">
+		<text>Макс</text>
+	</string>
+	<string id="mil_put_flash_to_max">
+		<text>Віддати флешку Максу</text>
+	</string>
+	<string id="mil_kill_sniper">
+		<text>Убити снайпера на вежі</text>
+	</string>
+	<string id="mil_quest_report_dolg">
+		<text>Повідомити про виконання групі «Долгу»</text>
+	</string>
+	<string id="mil_return_lukash">
+		<text>Повернутися до Лукаша</text>
+	</string>
+	<string id="mil_return_to_ugrumy">
+		<text>Повідомити Похмурому про виконання</text>
+	</string>
+	<string id="mil_return_to_voronin">
+		<text>Віднести РГ6 генералові Вороніну</text>
+	</string>
+	<string id="mil_rg6">
+		<text>Знайти РГ6</text>
+	</string>
+	<string id="mil_secret">
+		<text>Схрон бандитів</text>
+	</string>
+	<string id="mil_sniper">
+		<text>Снайпер</text>
+	</string>
+	<string id="mil_mad_job">
+		<text>Отримати флешку у божевільного снайпера</text>
+	</string>
+	<string id="mil_talk_cook">
+		<text>Поговорити з кухарем</text>
+	</string>
+	<string id="mil_talk_with_cap">
+		<text>Поговорити з командиром блокпоста «Волі» Кепом</text>
+	</string>
+	<string id="mil_test_task_phase1">
+		<text>Зайти в рестриктор 1</text>
+	</string>
+	<string id="mil_test_task_phase2">
+		<text>Зайти в рестриктор 2</text>
+	</string>
+	<string id="mil_test_task_phase3">
+		<text>Підняти РГ6 для виконання завдання або LR300 для провалу</text>
+	</string>
+	<string id="mil_test_task_title">
+		<text>Тестове завдання</text>
+	</string>
+	<string id="mil_ugrumy">
+		<text>Похмурий</text>
+	</string>
+	<string id="mil_lukash_job">
+		<text>Знищіть загін «Долгу»</text>
+	</string>
+	<string id="mil_meet_fang_title">
+		<text>Зустріньтеся з Іклом</text>
+	</string>
+	<string id="mil_speak_to_fang">
+		<text>Поговоріть з Іклом</text>
+	</string>

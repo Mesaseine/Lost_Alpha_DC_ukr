@@ -1,0 +1,162 @@
+	<string id="yan_find_ghost">
+		<text>Взяти документи у Привида</text>
+	</string>
+	<string id="yan_find_ghost_task">
+		<text>Взяти документи</text>
+	</string>
+	<string id="yan_find_vasilyev_task">
+		<text>Проникнути до лабораторії</text>
+	</string>
+	<string id="yan_find_labX16">
+		<text>Проникнути до лабораторії X-16</text>
+	</string>
+	<string id="yan_find_scientist">
+		<text>Зробити виміри випромінювання</text>
+	</string>
+	<string id="yan_find_vasilyev">
+		<text>Обшукати тіло Васильєва</text>
+	</string>
+	<string id="yan_kill_brain">
+		<text>Відключити псі-випромінювання</text>
+	</string>
+	<string id="yan_kill_brain_task">
+		<text>Відключити живлення установки</text>
+	</string>
+	<string id="yan_kill_brain_task_2">
+		<text>Вибратися з лабораторії</text>
+	</string>
+	<string id="yan_provodnik_about_doctor">
+		<text>Поговорити з Провідником</text>
+	</string>
+	<string id="yan_provodnik_task">
+		<text>Зустрітися з Провідником</text>
+	</string>
+	<string id="yan_psi_zone_find">
+		<text>Супроводити Круглова до місця проведення вимірювань</text>
+	</string>
+	<string id="yan_psi_zone_find_semenov">
+		<text>Супроводити Семенова до місця проведення вимірювань</text>
+	</string>
+	<string id="yan_return_to_bunker">
+		<text>Принести результати Сахарову</text>
+	</string>
+	<string id="yan_scientist_return">
+		<text>Поговорити із Сахаровим</text>
+	</string>
+	<string id="yan_scientist_return_task">
+		<text>Поговорити із Сахаровим</text>
+	</string>
+	<string id="yan_secret_tonnel">
+		<text>Вибратися через секретний тунель</text>
+	</string>
+	<string id="yan_switcher_off_1">
+		<text>Відключити першиий блок керування</text>
+	</string>
+	<string id="yan_switcher_off_2">
+		<text>Відключити другиий блок керування</text>
+	</string>
+	<string id="yan_switcher_off_3">
+		<text>Відключити третій блок керування</text>
+	</string>
+	<string id="yan_talk_to_kruglov">
+		<text>Поговорити із Кругловим</text>
+	</string>
+	<string id="yan_talk_to_semenov">
+		<text>Поговорити із Семеновим</text>
+	</string>
+	<string id="yan_vasilyev_pda">
+		<text>КПК Васильєва</text>
+	</string>
+	<string id="yan_zombie_zone">
+		<text>Можливе місце розташування лабораторії X-16</text>
+	</string>
+	<string id="yan_eco_warn">
+		<text>Ця місцина закрита, якщо хочеш зайти, то доведеться переконати мене!</text>
+	</string>
+	<string id="yan_sakharov_talk_message">
+		<text>Ось позначення екологів у Янтарі, там потрібна тобі людина, що допоможе вирішити твою проблему. Йди поговори з Сахаровим, ти будеш винагороджений за це, а також можливо вони полагодять твій КПК і допоможуть згадати твоє минуле.</text>
+	</string>
+	<string id="yan_sakharov_talk">
+		<text>Поговорити з ученим</text>
+	</string>
+	<string id="yan_scientist_package">
+		<text>Взяти пакет вченого</text>
+	</string>
+	<string id="yan_scientist_package_city">
+		<text>Вирушити в мертве місто</text>
+	</string>
+	<string id="yan_scientist_package_find">
+		<text>Знайти пакет</text>
+	</string>
+	<string id="yan_scientist_package_return">
+		<text>Повернути пакунок ученому</text>
+	</string>
+	<string id="yan_meet_doc">
+		<text>Привітатися з Доком</text>
+	</string>
+	<string id="yan_scientist_parts">
+		<text>Взяти дріт для вченого</text>
+	</string>
+	<string id="yan_scientist_parts_return">
+		<text>Повернути дріт ученому</text>
+	</string>
+	<string id="yan_scientist_kruglov_meet">
+		<text>Познайомитися з Кругловим</text>
+	</string>
+	<string id="yan_fort_warn">
+		<text>Ця місцина не для сталкерів, у вас тут нема справ і ви повинні покинути цю місцину!</text>
+	</string>
+	<string id="yan_fort_second_warn">
+		<text>Я сказав вам, що ця місцина не для сталкерів, тож ідіть до біса!</text>
+	</string>
+	<string id="yan_bar_help_duty">
+		<text>Допомогти в барі.</text>
+	</string>
+	<string id="yan_bar_help_petrenko">
+		<text>Поговорити з Петренком.</text>
+	</string>
+	<string id="yan_help_bar_duty">
+		<text>Бар був атакований найманцями, ми просимо твоєї допомоги!</text>
+	</string>
+	<string id="yan_meet_scientist">
+		<text>Зустрітися з ученим</text>
+	</string>
+	<string id="yan_see_lost_scientist">
+		<text>Поговорити з ученим на загубленій фабриці</text>
+	</string>
+	<string id="yan_sakharov_artefact_bring">
+		<text>Поверніть артефакт Сахарову</text>
+	</string>
+	<string id="yan_bloodsucker_den_title">
+		<text>Забрати втрачену гвинтівку.</text>
+	</string>
+	<string id="yan_retrieve_rifle">
+		<text>Знайти втрачену рушницю.</text>
+	</string>
+	<string id="yan_rifle_return">
+		<text>Повернути втрачену рушнцю.</text>
+	</string>
+	<string id="yan_bandits_territory_task_text">
+		<text>Знищити бандитський табір.</text>
+	</string>
+	<string id="yan_eliminate_bandits_village_text">
+		<text>Знищити бандитів біля села</text>
+	</string>
+	<string id="yan_eliminate_bandits_gastation_text">
+		<text>Вбити всіх бандитів біля АЗС</text>
+	</string>
+	<string id="yan_talk_to_greben_text">
+		<text>Поговорити з Гребнем</text>
+	</string>
+	<string id="yan_report_to_veronin_text">
+		<text>Повідомити Вороніна</text>
+	</string>
+	<string id="yan_bandits_stolen_title">
+		<text>Знайти загублені речі Гребня</text>
+	</string>
+	<string id="yan_find_guitar_text">
+		<text>Знайти улюблену гітару</text>
+	</string>
+	<string id="yan_find_case_text">
+		<text>Знайти наркотики</text>
+	</string>

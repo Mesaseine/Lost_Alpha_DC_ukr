@@ -1,0 +1,15 @@
+	<string id="bas_disable_eathquake_device_title">
+		<text>Вимкнути пристрій «Землетрус Судного Дня»</text>
+	</string>
+	<string id="bas_get_through_security_title">
+		<text>Пробратися крізь систему безпеки</text>
+	</string>
+		<string id="bas_disable_eathquake_generator_title">
+		<text>Вимкнути генератор</text>
+	</string>
+		<string id="bas_speak_to_veronin">
+		<text>Поговорити з Вороніним</text>
+	</string>
+	<string id="tips_bas_dont_shoot_holo">
+		<text>Не намагайся пристрелити голограму, вона посилає нейроімпульси прямо до твого мозку, переривання цього потоку вб'є тебе, тікай!</text>
+	</string>

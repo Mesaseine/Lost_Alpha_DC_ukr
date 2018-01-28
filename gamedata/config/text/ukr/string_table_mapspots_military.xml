@@ -1,0 +1,81 @@
+	<string id="talk_to_ghost">
+		<text>Говорити з Привидом</text>
+	</string>
+	<string id="mil_mercs_mapspot">
+		<text>Старе село</text>
+	</string>
+	<string id="mil_contact_mapspot">
+		<text>Місце зустрічі</text>
+	</string>
+	<string id="mil_base">
+		<text>Сховище від викиду</text>
+	</string>
+	<string id="kill_merc_leader">
+		<text>Скажений Пес</text>
+	</string>
+	<string id="bring_artifact_to_ghost">
+		<text>Принести артефакт Привиду</text>
+	</string>
+	<string id="mil_cap_hint">
+		<text>Поговорити з командиром блокпоста «Бар'єр»</text>
+	</string>
+	<string id="mil_courier_hint1">
+		<text>Простежити за стукачем</text>
+	</string>
+	<string id="mil_courier_hint2">
+		<text>Дочекатися виклику стукачем інформатора</text>
+	</string>
+	<string id="mil_courier_hint3">
+		<text>Вбити стукача</text>
+	</string>
+	<string id="mil_courier_hint4">
+		<text>Вбити інформатора</text>
+	</string>
+	<string id="mil_crazy_hint">
+		<text>Взяти флешку у божевільного сталкера</text>
+	</string>
+	<string id="mil_dolg_khutor">
+		<text>Хутір «Долга»</text>
+	</string>
+	<string id="mil_freedom_sniper">
+		<text>Вбити снайпера</text>
+	</string>
+	<string id="mil_hunters_hint1">
+		<text>Поговорити з Похмурим</text>
+	</string>
+	<string id="mil_hunters_hint2">
+		<text>Повернутися до Скнари</text>
+	</string>
+	<string id="mil_kill_dolg_hint">
+		<text>Знищити загін «Долгу»</text>
+	</string>
+	<string id="mil_kill_lukash_hint">
+		<text>Вбити Лукаша</text>
+	</string>
+	<string id="mil_miser_hint">
+		<text>Скнара</text>
+	</string>
+	<string id="mil_report_to_max_hint">
+		<text>Доповісти Максу</text>
+	</string>
+	<string id="mil_return_to_lukash_hint">
+		<text>Доповісти Лукашу</text>
+	</string>
+	<string id="mil_return_to_max_hint">
+		<text>Віддати флешку Максу</text>
+	</string>
+	<string id="mil_rg6_hint1">
+		<text>Знайти кухара на базі «Волі»</text>
+	</string>
+	<string id="mil_rg6_hint2">
+		<text>Поговорити з кухарем</text>
+	</string>
+	<string id="mil_rg6_hint3">
+		<text>Забрати РГ6 з схрону у селі</text>
+	</string>
+	<string id="mil_watertower_hint">
+		<text>Водонапірна вежа</text>
+	</string>
+	<string id="mil_fang">
+		<text>Ікло</text>
+	</string>

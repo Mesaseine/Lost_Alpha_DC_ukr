@@ -1,0 +1,39 @@
+	<string id="gen_follow_ghost">
+		<text>Прямувати за Привидом до лабораторії X-2</text>
+	</string>
+	<string id="gen_bunker_stealth">
+		<text>Тактика відволікання</text>
+	</string>
+	<string id="Reach bunker through tunnel">
+		<text>Дістатися бункера через потаємний тунель</text>
+	</string>
+	<string id="gen_walkthrough_tunnel">
+		<text>Знайти та перетнути потаємний тунель</text>
+	</string>
+		<string id="gen_eliminate_army">
+		<text>Ліквідувати військових</text>
+	</string>
+		<string id="gen_reach_x2_lab">
+		<text>Дістатися до лабораторії X-2</text>
+	</string>
+		<string id="gen_freedom_quest">
+		<text>Встановити вибухівку неподалік табору «Долгу»</text>
+	</string>
+		<string id="gen_dolg_quest">
+		<text>Відправити отруєне пиво «Долгу»</text>
+	</string>
+		<string id="gen_meet_ghost_after">
+		<text>Поговорити з Привидом на цвинтарі</text>
+	</string>
+		<string id="gen_meet_ghost_at_the_cemetery">
+		<text>Зустріти Привида на цвинтарі</text>
+	</string>
+		<string id="gen_meet_oversight">
+		<text>Прямувати за сигналом</text>
+	</string>
+		<string id="gen_meet_oversight_group">
+		<text>Зустрітися з таємним посланцем</text>
+	</string>
+		<string id="gen_meet_oversight_man">
+		<text>Прямувати за сигналом</text>
+	</string>

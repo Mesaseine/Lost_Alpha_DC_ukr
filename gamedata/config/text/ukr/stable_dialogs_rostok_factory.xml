@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="windows-1251" ?>		
+<string_table>		
+		
+	<!-- Village leader -->	
+	<!-- Investigate construction site task -->	
+		
+	<string id="rosf_dolg_leader_help_0">	
+		<text>Привіт, сталкере. Що можеш запропонувати?</text>
+	</string>	
+    <string id="rosf_dolg_leader_help_1">		
+        <text>Мене сюди відправив Бармен, сказав, що у вас тут якісь проблеми.</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_11">	
+        <text>Так і є. Ситуація... Я вже втратив трьох з числа кращих бійців! На нас нападають дивні мутанти, і вилізли вони, швидше за все, з підземної лабораторії, що неподалік. Так що ми замкнули туди вхід.</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_111">	
+        <text>Чим я можу допомогти?</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_1111">	
+        <text>Загалом, Екологи нам змішали смертоносний коктейль з отруєних газів, щоб вбити цих гадів. Та тільки не спрацювало. Нам досі чутно, як вони завивають. Комусь доведеться надіти протигаз і сходити туди, щоб оцінити ситуацію.</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_11111">	
+        <text>Я так розумію, що саме тут в справу вступаю я, але ж?</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_111111">	
+        <text>Домовленість така: береш протигаз, заходиш туди, і валиш усіх тих тварюк, що там залишилися. Десь чотирьох. Мої хлопці бачили їх на будівництві і у нашого штабу. Поверни мені КПК трьох загиблих бійців, а я вже тобі як-небудь віддячу, слово «Долгу».</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_1111111">	
+        <text>А де мені взяти протигаз?</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_11111111">	
+        <text>Сходи в довколишній тунель - до Екологів, у них точно має бути. Я тобі скину координати.</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_111111111">	
+        <text>Добре, я повернуся з КПК!</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_2">	
+        <text>Агов, сталкере, приніс мені КПК і всіх мутантів убив?</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_21">	
+        <text>Ні, поки ні. Я над цим працюю.</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_22">	
+        <text>Усі мутанти мертві. Ось КПК твоїх людей.</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_221">	
+        <text>Дякую тобі, сталкере. Тепер ми можемо спокійно повернутися у свій штаб. Гази ми зараз же відфільтруємо. Отже, чим ми можемо тобі віддячити?</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_2211">	
+        <text>Ти говорив, що вхід під землю замкнутий.</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_3">	
+		<text>Я вирішив вашу проблему.</text>
+	</string>	
+	<string id="rosf_dolg_leader_help_4">	
+        <text>Привіт, сталкере. Ще раз дякую, ти став легендою. Я збирався тобі допомогти, але минулого тижня мені куля потрапила в коліно!</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_41">	
+        <text>Так-так, без проблем!</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_5">	
+        <text>Ну що, усіх вже вдалося перебити?</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_52">	
+        <text>Ні, поки ні. Я над цим працюю.</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_51">	
+        <text>Так, вони усі мертві. Тепер тут має бути дійсно безпечно.</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_511">	
+        <text>Відмінна робота! Я говорив з полковником Петренко, поки ти був там. Його вразила твоя хоробрість і він сказав, що у нього є завдання якраз для такого героя як ти.</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_5111">	
+        <text>Гаразд, я слухаю.</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_51111">	
+        <text>Нам тут одні сталкери розповідають інтригуючі речі про активність монолітівців в Темній долині. Мабуть, під їх базою знаходиться лабораторія X18. Я не знаю, що конкретно там поховано, але і монолітівці теж не знають. Вони її поки не можуть відкрити, а може і не хочуть. Інформація досить уривчаста.</text>		
+    </string>		
+    <string id="rosf_dolg_leader_help_511111">		
+        <text>А вам треба всередину?</text>		
+    </string>		
+    <string id="rosf_dolg_leader_help_5111111">		
+        <text>Ага. Що б там не знаходилося в цих лабораторіях, воно притягне... «Гріх» - нелюдей цих проклятих. Вирушай до старих стаєнь, там хлопці склали досить серйозний план. Нам потрібний виконавець, і здається, ми його знайшли. Принеси мені все, що зможеш там накопати, тим самим завоюєш підтримку серйозних людей. Будь-яка крихта інформації, якою б дрібною вона не була, може бути життєво важливою. Як закінчиш, доповіси полковникові у Барі.</text>		
+    </string>		
+    <string id="rosf_dolg_leader_help_51111111">		
+        <text>Добре, я піду до них і доповім полковникові.</text>		
+    </string>		
+    		
+<!-- Get key from Petrenko -->		
+		
+	<string id="rosf_dolg_leader_help_22111">	
+        <text>Взагалі-то, це закрита зона, і ми вважаємо, що саме там під землею знаходяться - або знаходилися - лігва цих мутантів. Але знаєш що, давай так: якщо ти туди спустишся й усе зачистиш, я не ставитиму питань і закрию на це очі. По руках?</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_221111">	
+        <text>Годиться. А ключ у кого?</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_2211111">	
+		<text>У нашого лідера ключ, у Петренка. Якщо він тобі потрібний, тобі доведеться зустрітися з ним у Барі. Я відправлю йому повідомлення - скажу, щоб чекав тебе.</text>
+	</string>	
+	<string id="rosf_dolg_leader_help_22111111">	
+        <text>Дякую. До зустрічі.</text>		
+    </string>		
+		
+<!-- Alternate Duty route -->		
+		
+	<string id="rosf_dolg_leader_help_23">	
+        <text>Усі мутанти мертві. Ось КПК твоїх солдатів.</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_231">	
+        <text>Дякую тобі, Брате. Тепер ми можемо спокійно повернутися у свій штаб. Гази ми зараз же відфільтруємо. Є ще одна справа, яку нам потрібно зробити.</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_2311">	
+        <text>Звичайно! Що за справа?</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_23111">	
+        <text>Так от, ми вважаємо, що в лабораторії внизу все ще може знаходитися лігво цих мутантів. Спустися туди і зачисть це місце, ти заслужиш на прихильність еліти «Долгу», це я гарантую!</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_231111">	
+        <text>Та без проблем. Тільки ти сказав, там замкнуто, а у кого ж ключ?</text>		
+    </string>		
+	<string id="rosf_dolg_leader_help_2311111">	
+		<text>Ось він. З Богом, брате.</text>
+	</string>	
+	<string id="rosf_dolg_leader_help_23111111">	
+        <text>Дякую, я скоро повернуся.</text>		
+    </string>		
+		
+	<!-- eco tunnel -->	
+	<!-- get gasmask and clean factory -->	
+		
+	<string id="rosf_tunnel_eco_mask_0">	
+		<text>Вітаю, сталкере. Чим я можу допомогти?</text>
+	</string>	
+	<string id="rosf_tunnel_eco_mask_1">	
+		<text>Дмитро з «Долгу» сказав, що у вас може бути для мене протигаз.</text>
+	</string>	
+	<string id="rosf_tunnel_eco_mask_11">	
+		<text>Так отже, ви - той божевільний, які туди відправляться! Що ж, ось він. Він уже старий і тривалого захисту забезпечити не зможе, але для цього завдання підійде. Поводьтеся з ним обережно, тому що іншого в мене немає. Не затримуйтеся там, і все буде в порядку.</text>
+	</string>	
+	<string id="rosf_tunnel_eco_mask_111">	
+		<text>Дякую.</text>
+	</string>	
+	<string id="rosf_tunnel_eco_mask_2">	
+		<text>Вітаю, сталкере. Що там на заводі, не зачистив ще?</text>
+	</string>	
+	<string id="rosf_tunnel_eco_mask_21">	
+		<text>Поки ні, я все ще над цим працюю.</text>
+	</string>	
+	<string id="rosf_tunnel_eco_mask_211">	
+		<text>Що ж, хай щастить, сталкере!</text>
+	</string>	
+	<string id="rosf_tunnel_eco_mask_2111">	
+		<text>Ага, Дякую.</text>
+	</string>	
+	<string id="rosf_tunnel_eco_mask_2112">	
+		<text>У тебе є ще один протигаз?</text>
+	</string>	
+	<string id="rosf_tunnel_eco_mask_21121">	
+		<text>Ні, я ж говорив Вам, що у мене є тільки цей. Краще всього - сходите до Бармена, у нього може бути.</text>
+	</string>	
+	<string id="rosf_tunnel_eco_mask_211211">	
+		<text>Добре, дякую.</text>
+	</string>	
+		
+<!-- factory cleaned -->		
+		
+	<string id="rosf_tunnel_eco_mask_3">	
+		<text>Вітаю, сталкере! Дякую за зачистку заводу. Я тепер піду нейтралізую дію газів, щоб можна було повернути собі штаб.</text>
+	</string>	
+	<string id="rosf_tunnel_eco_mask_31">	
+		<text>Немає за що. До зустрічі.</text>
+	</string>	
+		
+<!-- toxic gas area cleaned -->		
+	<string id="rosf_tunnel_eco_mask_4">	
+		<text>Вітаю, сталкере, радий знову Вас бачити. Ми вивітрили отруйні гази, і зараз усе вже по-старому. Добре спрацьовано!</text>
+	</string>	
+	<string id="rosf_tunnel_eco_mask_41">	
+		<text>Привіт, та без проблем. Рад, що зміг допомогти. До зустрічі.</text>
+	</string>	
+		
+<!--meet duty leader first -->		
+	<string id="rosf_tunnel_eco_mask_6">	
+		<text>Вітаю, сталкере. Що ми можемо для тебе зробити?</text>
+	</string>	
+	<string id="rosf_tunnel_eco_mask_61">	
+		<text>А ви тут що робите?</text>
+	</string>	
+	<string id="rosf_tunnel_eco_mask_611">	
+		<text>Це найбільша таємниця, але я б на вашому місці сходив до командира «Долгу» в село, перше ніж розгулювати в цих околицях.</text>
+	</string>	
+	<string id="rosf_tunnel_eco_mask_6111">	
+		<text>Ну, раз так - дякую за підказку.</text>
+	</string>	
+		
+	<string id="rosf_dolg_leader_ammo_01">	
+		<text>Я прийшов з приводу припасів.</text>
+	</string>	
+	<string id="rosf_dolg_leader_ammo_0">	
+		<text>Є таке. Воронін сказав мені, що відправив якогось новачка. У нас тут така ситуація - повна... плоть, кабани, собаки, тварюки незрозумілі, військові, стільки навалило, що без підкріплення не розгребти. Хоч припаси отримуємо кожного тижня, щоб виходити з ситуації як годиться. Ти приніс патрони і припаси?</text>
+	</string>	
+	<string id="rosf_dolg_leader_ammo_11">	
+		<text>Так, ось - тримай.</text>
+	</string>	
+	<string id="rosf_dolg_leader_ammo_12">	
+		<text>Ні, я нічого не приніс.</text>
+	</string>	
+	<string id="rosf_dolg_leader_ammo_31">	
+		<text>Дякую, мужиче. Я вже і не знаю, як би ми тут упоралися без них, у нас тут і поранені є, так що їм припаси потрібні до зарізу. Я зараз же доповім полковникові, що ти добре впорався з роботою.</text>
+	</string>	
+	<string id="rosf_dolg_leader_ammo_32">	
+		<text>Так а що ти тоді тут робиш? Принеси нам припаси - тоді і поговоримо про твою винагороду.</text>
+	</string>	
+</string_table>		

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="ui_pda_mplayer_caption">
+		<text>Музичний програвач</text>
+	</string>
+	<string id="ui_pda_mplayer_now_playing">
+		<text>Зараз грає ...</text>
+	</string>
+	<string id="ui_pda_mplayer_artist">
+		<text>Виконавець</text>
+	</string>
+	<string id="ui_pda_mplayer_title">
+		<text>Назва</text>
+	</string>
+	<string id="ui_pda_mplayer_duration">
+		<text>Тривалість</text>
+	</string>
+	<string id="ui_pda_mplayer_playback_options">
+		<text>Опції відтворення:</text>
+	</string>
+	<string id="ui_pda_mplayer_repeat_playlist">
+		<text>повторювати список</text>
+	</string>
+	<string id="ui_pda_mplayer_repeat_track">
+		<text>повторювати поточний трек</text>
+	</string>
+	<string id="ui_pda_mplayer_random">
+		<text>випадково</text>
+	</string>
+	<string id="ui_pda_mplayer_none">
+		<text>нічого</text>
+	</string>
+	<string id="ui_pda_mplayer_notify">
+		<text>Повідомляти про зміну треку:</text>
+	</string>
+	<string id="ui_pda_mplayer_on">
+		<text>вімк</text>
+	</string>
+	<string id="ui_pda_mplayer_off">
+		<text>вимк</text>
+	</string>
+	<string id="ui_pda_mplayer_visual">
+		<text>Показати візуалізацію</text>
+	</string>
+	<string id="ui_pda_mplayer_spectrum">
+		<text>Показати спектр</text>
+	</string>
+
+</string_table>

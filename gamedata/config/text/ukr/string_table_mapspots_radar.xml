@@ -1,0 +1,21 @@
+	<string id="rad_antenna_location">
+		<text>Антени</text>
+	</string>
+	<string id="rad_hermit_mutant">
+		<text>Волоцюга</text>
+	</string>
+	<string id="rad_guide">
+		<text>Провідник «Моноліту»</text>
+	</string>
+	<string id="rad_monolith_base_commander">
+		<text>Старійшина</text>
+	</string>
+	<string id="rad_hermit_house_stash">
+		<text>Кубло Волоцюги</text>
+	</string>
+	<string id="radar_safe_pass">
+		<text>Сейф з кодом доступу</text>
+	</string>
+	<string id="rad_bunker">
+		<text>Підземний бункер</text>
+	</string>

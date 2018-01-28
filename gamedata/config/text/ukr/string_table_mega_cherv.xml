@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+<string id="Corpse">
+        <text>Мрець</text>
+    </string>
+	
+<string id="esc_proverb">
+        <text>Книгар</text>
+    </string>
+
+<string id="esc_donut">
+        <text>Пухлий</text>
+    </string>
+	
+<string id="wpn_fort_quest">
+        <text>Іменний Форт-12</text>
+    </string>	
+<string id="count_major">
+        <text>Майор Грибоєдов</text>
+    </string>	
+<string id="count_ti_che_ohuel">
+        <text>Сталкере! Повернись на позицію! Нам потрібне прикриття</text>
+</string>
+<string id="count_major_poka">
+        <text>Я бачу, в тебе своя дорога. Ну що ж, ми і без тебе впораємось. Провалюй!.</text>
+</string>
+<string id="country_major_karlik_tit">
+        <text>Дрібний злодюжка</text>
+</string>
+<string id="Ubit_karlika_text">
+        <text>Вбити карлика</text>
+</string>
+<string id="a_count_karlik">
+        <text>Набридливий карлик</text>
+</string>
+<string id="vzyat_pistol">
+        <text>Знайти викрадений пістолет майора</text>
+</string>
+<string id="give_count_pistol">
+        <text>Повернути пістолет майору</text>
+</string>
+<string id="major_first_personal">
+        <text>Старий товариш</text>
+</string>
+<string id="major_first_personal_text">
+        <text>Знайти інформацію</text>
+</string>
+<string id="major_first_personal_text2">
+        <text>Розповісти майору</text>
+</string>
+<string id="country_major_mutant">
+        <text>Зачистка</text>
+</string>
+<string id="country_major_mutant_kill">
+        <text>Знищити мутантів</text>
+</string>
+<string id="country_major_mutant_kill1">
+        <text>Знищити мутанта</text>
+</string>
+<string id="country_major_mutant_gotov">
+        <text>Доповісти про виконання</text>
+</string>
+<string id="country_major_mutant_kontr">
+        <text>Місце розташування контролера</text>
+</string>
+<string id="country_major_mutant_jdat">
+        <text>Дочекатись ночі</text>
+</string>
+<string id="country_major_mutant3">
+        <text>Зграя собак</text>
+</string>
+<string id="country_major_mutant2">
+        <text>Скупчення плотей</text>
+</string>
+
+<string id="country_major_art_tit">
+        <text>Нелегальний бізнес</text>
+</string>
+<string id="country_major_art">
+        <text>Знайти артефакт</text>
+</string>
+<string id="country_major_art2">
+        <text>Принести артефакт</text>
+</string>
+
+<string id="country_military_blokpost_warning">
+        <text>Сталкере, йди прямо і не звертай з дороги!</text>
+</string>
+<string id="stado">
+        <text>Увага! На блок-пост напала зграя кабанів!</text>
+</string>
+<string id="volna">
+        <text>На горизонті величзна хвиля мутантів! Зайняти позицію для оборони! Сталкере, допоможи нам відбитись.</text>
+</string>
+<string id="country_major_waves">
+        <text>Відбити атаку мутантів</text>
+</string>
+<string id="country_major_wave">
+        <text>Відбити хвилю мутантів</text>
+</string>
+<string id="First_wave">
+        <text>Відбити першу хвилю</text>
+</string>
+<string id="Second_wave">
+        <text>Відбити наступну хвилю</text>
+</string>
+<string id="Third_wave">
+        <text>Відбити нову хвилю</text>
+</string>
+<string id="kontr_wave">
+        <text>Ліквідувати контролера</text>
+</string>
+<string id="zanat_mesto">
+        <text>Зайняти позицію для оборони</text>
+</string>
+<string id="quest_fort_descr">
+        <text>Пістолет Форт-12 з іменним гравіюванням. Належить майору Грибоєдову.</text>
+</string>
+<string id="karlik_article_descr">
+        <text>Місцевий карлик краде речі довкола. Військові попросили прикінчити злодюжку, а також повернути дещо з особистих речей командира блокпоста. За приблизною інформацією цей карлик проживає на хуторі поблизу церкви.</text>
+</string>
+<string id="count_wave_article_1">
+        <text>Очікується масивна атака на блокпост. Його потрібно захистити і відбити всі хвилі мутантів.</text>
+</string>
+<string id="count_wave_article_2">
+        <text>Контролер вивів зі строю всіх солдатів. Потрібно знищити його, поки він не зварив всім мізки.</text>
+</string>
+<string id="count_mutant_article_1">
+        <text>Майор серйозно стурбований кількістю різної живності довкола. Було прийнято рішення організувати зачистку, силами найманих сталкерів. Завдання перше - знищити велике скупчення плотей недалеко від блок-поста.</text>
+</string>
+<string id="count_mutant_article_2">
+        <text>Майор серйозно стурбований кількістю різної живності довкола. Було прийнято рішення організувати зачистку, силами найманих сталкерів. Наступне завдання - знищити зграю псевдособак.</text>
+</string>
+<string id="count_mutant_article_3">
+        <text>Знищення небезпечних мутантів довкола. Майор доручив завдання вбити химеру. Вона влаштувалася в тунелі, перекривши сполучення головною дорогою. Наліт на химеру потрібно влаштувати вночі.</text>
+</string>
+<string id="count_mutant_article_4">
+        <text>Знищення небезпечних мутантів довкола. Майор доручив завдання вбити сильного контролера. Він підкоряє собі місцеву фауну і сталкерів, які проходять повз.</text>
+</string>
+<string id="count_personal_article_1">
+        <text>Знайти будь-яку інформацію про файного сталкера на кличку Гарик.</text>
+</string>
+<string id="count_art_article_1">
+        <text>Користуючись своїм званням, майор без докорів сумління займається торгівлею артефактів на чорному ринку. І платить добре. Потрібно дістати артефакт "Сніжинка"</text>
+</string>
+<string id="count_art_article_2">
+        <text>Користуючись своїм званням, майор без докорів сумління займається торгівлею артефактів на чорному ринку. І платить добре. Потрібно дістати артефакт "Пузир"</text>
+</string>
+<string id="count_art_article_3">
+        <text>Користуючись своїм званням, майор без докорів сумління займається торгівлею артефактів на чорному ринку. І платить добре. Потрібно дістати артефакт "Лівер"</text>
+</string>
+<string id="count_art_article_4">
+        <text>Користуючись своїм званням, майор без докорів сумління займається торгівлею артефактів на чорному ринку. І платить добре. Потрібно дістати артефакт "Грибок"</text>
+</string>
+<string id="count_art_article_5">
+        <text>Користуючись своїм званням, майор без докорів сумління займається торгівлею артефактів на чорному ринку. І платить добре. Потрібно дістати артефакт "Коштовність"</text>
+</string>
+
+<string id="karlik_pda_data">
+        <text>Журнал дослідження. Замітка 1. Термальні артефакти. \n
+		-У великих скупченнях аномалій типу "Жарка" ймовірність народження рідкісніших артефактів збільшується в багато разів, але їх кількість зменшується.\n
+		-Почув розповідь про артефакт "Полум'я", який нібито народжується при надвисоких температурах, а в загоєнні ран не має рівних. Звісно, вирішив перевірити. 
+		На третій тиждень пошуків знайшов щсь схоже на артефакт "Вогняна куля", але набагато яскравіший, і дуже теплий на дотик. Фонить пристойно, але, дійсно, коли взяв в руки - всі подряпини загоїлись. Неймовірно!
+		Знайти такое диво практично неможливо - ймовірність народження мінімальна. Тільки в дуже великих скупченнях термальних аномалій різних видів, і тільки близько до центру Зони, за Радаром його можна знайти.\n
+		-Цей артефакт не дає мені заспокоїтись, він може принести стільки користі. Знайшов щось вражаюче: в найсильніших вогняних аномаліях, на глубині 15-20 метрів, народжується "Полум'я" небаченої сили, 
+		я назвав той артефакт "Пекло". Я бачив схожі на территорії, на схід від Радару, на сільській дорозі. Звісно, вибратись з тієї аномалії неможливо, та й взагалі, вижити в цьому пеклі нереально.</text>
+</string>
+
+<string id="psy_zone_heart1_descr">
+   <text>Артефакт,який лежить в центрі великої псі-зони. Напевно генерує навколо себе псі-поле, як захисний механізм, а можливо і працює в симбіозі з псі-зоною, живлячи її енергією. При контакті з артефактом
+		псі-зона миттєво зникає. Може зацікавити вчених або скупщиків дорогих артефактів.</text>
+</string>
+<string id="psy_zone_heart1_name">
+        <text>Серце псі-зони</text>
+</string>
+<string id="af_hell_descr">
+    <text>Унікальній артефакт, знайдений на дні величезної граві-термальної аномалії. Володіє сильними лікувальними властивостями. Може з'явитися тільки під час збігу безлічі обставин, і з дуже маленькою ймовірністю,
+		що робить його дуже дорогим, проте дуже корисним. Зацікавить вчених або скупщиків дорогих артефактів, хоча такий можна і собі залишити.</text>
+</string>
+<string id="af_hell_name">
+        <text>Пекло</text>
+</string>
+<string id="af_nogravity_descr">
+        <text>Унікальний артефакт, володіє сильними гравітаційними властивостями. При підборі сформував безліч гравітаційних аномалій. Умови народження артефакта не відомі.</text>
+</string>
+<string id="af_nogravity_name">
+        <text>Левітрон</text>
+</string>
+<string id="karlik_pda_desc">
+        <text>КПК невідомого сталкера, тільки подряпина у вигляді букви "Г" на задній кришці. Лежав серед решти речей в домі карлика. Працює, але потрібен пароль, без взлому зчитати дані неможливо.</text>
+</string>
+<string id="karlik_pda_name">
+        <text>КПК невідомого</text>
+</string>
+<string id="found_flash">
+        <text>Тут ще і флешка має десь бути.</text>
+</string>
+<string id="fore_killer_tip1">
+        <text>Що за шум?! Хлопці, швидко прочешіть тут все, тут сторонній.</text>
+</string>
+<string id="fore_killer_tip2">
+        <text>Гасіть його!</text>
+</string>
+<string id="fore_v_piz">
+        <text>Мені потрібно знайти спосіб вибратись звідси...</text>
+</string>
+<string id="cordon_case_task_day">
+        <text>Мічений, чого ти туди днем поперся? Шидко йди звідти.</text>
+</string>
+<string id="cordon_case_task_return">
+        <text>Мічений, ти відхилився від маршруту. Там тебе можуть помітити! Йди вздовж паркану, а потім через вікно в казарму. Давай швидко і без шуму.</text>
+</string>
+<string id="cordon_case_task_good">
+        <text>Чудово, а тепер лізь у вікно, і назад так само. А головне без шуму.</text>
+</string>
+<string id="cordon_case_task_fail">
+        <text>Я ж казав тобі, що потрібно пробратись непоміченим, і тільки вночі! Вляпався ти тепер, сам розхльобуй. Бувай.</text>
+</string>
+<string id="cordon_case_task_fail2">
+        <text>Чого ж ти  там гуляєш на території блок-посту? Потрібно було крадькома пробратись туди і назад, а ти що робиш? Вляпався ти тепер, сам розхльобуй. Бувай.</text>
+</string>
+<string id="cordon_case_task_atack">
+        <text>На території блок-посту сторонній! Всім увага!</text>
+</string>
+<string id="cordon_case_task_return2">
+        <text>Мічений, ти відхилився від маршруту. Тебе зараз помітять! Відходь тихо, тією ж дорогою, якою ти туди прийшов.</text>
+</string>
+<string id="esc_shus_find_outfit1">
+        <text>Знайти кольчужну куртку</text>
+</string>
+<string id="esc_shus_find_outfit2">
+        <text>Знайти аномальну куртку</text>
+</string>
+<string id="esc_shus_find_outfit3">
+        <text>Знайти мисливський комбінезон "Долга"</text>
+</string>
+<string id="shus_find_outfit1">
+        <text>Знайти покращений костюм найманців</text>
+</string>
+<string id="shus_find_outfit2">
+        <text>Знайти покращений костюм військових</text>
+</string>
+<string id="shus_find_outfit3">
+        <text>Знайти покращений комбінезон сталкера</text>
+</string>
+<string id="shus_find_weap1">
+        <text>Знайти модифікований MP5</text>
+</string>
+<string id="shus_find_weap2">
+        <text>Знайти модифікований L85</text>
+</string>
+<string id="shus_find_weap3">
+        <text>Знайти модифікований LR-300</text>
+</string>
+<string id="shus_find_item_1_descr">
+        <text>Знайти і принести Спритнику рідкісний екземпляр екіпірування.</text>
+</string>
+<string id="esc_shus_find_item_1_text">
+        <text>Я тут в сталкерів чув, що є тут на Кордоні один особливо броньований бандит, коли ходить, аж дзвенить. Цікаво було б побачити його костюм.</text>
+</string>
+<string id="esc_shus_find_item_2_text">
+        <text>Чув що-небуль про аномалію "Холодець"? Її ще "Кисіль" називають або "Відьомський студень". А що-небудь про нещасних, загинувших в цій аномалії? Труп спочатку частково розчиняє, а потім консервує. 
+		Проте, куртки нещасних отримують корисні властивості. Влансникам вже не знадобляться, а мені така потрібна.</text>
+</string>
+<string id="esc_shus_find_item_3_text">
+        <text>"Долг" життя своїх хлопців завжди цінує, тому і костюми підганяє ті що треба. А якщо вже це модифікація - то взагалі, вважай найкраще, що можна дістати звичайному ствлкерові. Це не означає, що тобі треба завалити когось 
+		з "Долгу", але з трупа зняти можна. Берешся?</text>
+</string>
+<string id="shus_find_item_1_text">
+        <text>Можу запропонувати тобі принести модифікований МР-5 для мене. Я бачив як один сталкер ховав такий нещодавно тут, на Кордоне. Берешся?</text>
+</string>
+<string id="shus_find_item_2_text">
+        <text>Знаєш західну гвинтівку L85? Так ось, чув є полегшений і більш збалансований варіант. Принесеш таку - заплачу непогані гроші.</text>
+</string>
+<string id="shus_find_item_3_text">
+        <text>Є зброя така, LR-300. Вибір найманців. А якщо вони її беруть, отже хороша. Вони роблять снайперські модифікації для неї. За модтфікацію заплачу непогані гроші</text>
+</string>
+<string id="shus_find_item_4_text">
+        <text>Часто чую в таборі, що новачки цікавляться спорядженням найманців. І думаю цікавляться не просто так, тому що комбінезони у них що треба. Принеси мені покращений комбінезон найманців.</text>
+</string>
+<string id="shus_find_item_5_text">
+        <text>Буває, в Зоні військові інколи випробовують нові розробки. Одна з таких - особливий костюм, який допомагає в загоєнні ран. Мені зараз ніколи цим займатися, але ти можеш принести такий.</text>
+</string>
+<string id="shus_find_item_6_text">
+        <text>Мене завжди цікавили різні кустарні модифікації костюмів сталкерів. Досвідчені сталкери завжди знають, що їм потрібно в екіпіруванні. Принеси мені який-небудь унікальний костюм сталкера.</text>
+</string>
+<string id="art_iskatel_pda">
+        <text>Журнал шукача артефактів</text>
+</string>
+<string id="country_major_job_case">
+        <text>Потрібно переправити партію артефактів на Кордон за завданням Майора. І головне - не забути кодову фразу для командира блок-посту на Кордоні, якому і потрібно доставити артефакти.</text>
+</string>
+<string id="esc_blockpost_commande">
+        <text>Командир блок-посту</text>
+</string>
+<string id="country_major_job_case1_1d">
+        <text>Доставити посилку</text>
+</string>
+<string id="country_major_job_case1_2d">
+        <text>Доповісти про виконання</text>
+</string>
+<string id="fore_bandit_task_t">
+        <text>Сутичка на старій шахті</text>
+</string>
+<string id="fore_bandit_task_art">
+        <text>Є інформація, що бандити стежили і знімали блок-пости Долгу. Воронін: "Винеси всіх бандитів і забери всі накопичувачі інформації, які знайдеш. Спочатку прибери снайперів, потім дрібноту, 
+		і про боса не забудь".</text>
+</string>
+<string id="fore_bandit_task_1">
+        <text>Вбити снайперів</text>
+</string>
+<string id="fore_bandit_task_2">
+        <text>Вбити дрібноту</text>
+</string>
+<string id="fore_bandit_task_3">
+        <text>Вбити ватажка банди</text>
+</string>
+<string id="fore_bandit_task_4">
+        <text>Зібрати всі накопичувачі</text>
+</string>
+<string id="fore_bandit_task_5">
+        <text>Принести знайдене Вороніну</text>
+</string>
+<string id="fore_traitor_task_1">
+        <text>Знайти зниклого товарища</text>
+</string>
+<string id="fore_traitor_task_2s">
+        <text>Розповісти Сірому</text>
+</string>
+<string id="fore_traitor_task_2y">
+        <text>Розповісти Юрику</text>
+</string>
+<string id="fore_traitor_task_start_art">
+        <text>Звична справа в Зоні - зникнення людини, але пошукати все ж можна. За непідтверджиними даними, є два вектора пошуку: Армійські склади чи Ліс.</text>
+</string>
+<string id="fore_traitor_task_part2_art">
+        <text>Зниклий сталкер знайшовся, і просить супроводити його в безпечне місце.</text>
+</string>
+<string id="fore_traitor_task_p1">
+        <text>Супроводити сталкера до схрону</text>
+</string>
+<string id="fore_traitor_task_p2">
+        <text>Вийти з Лісу</text>
+</string>
+<string id="fore_traitor_task_p3">
+        <text>Супроводити сталкера в безпечне місце</text>
+</string>
+<string id="esc_shustriy_task_1">
+        <text>Знайти Спритника</text>
+</string>
+<string id="esc_shustriy_task_2">
+        <text>Врятувати Спритника</text>
+</string>
+<string id="esc_shustriy_task_3">
+        <text>Доповісти торговцю</text>
+</string>
+<string id="esc_shustriy_task_art">
+        <text>Сидорович: "Знайди хлопчину, його кличуть Спритник. Він кращий зі зв'язкових, тому все ж постарайся його знайти. Останній раз він був на зв'язку тут, на Кордоні, і навіть перейшов через залізнодорожній насип"</text>
+</string>
+<string id="bandits_lair_fore">
+        <text>Розташування бандитів</text>
+</string>
+<string id="fore_lost_friend">
+        <text>Приблизне розташування зниклого сталкера</text>
+</string>
+<string id="item_case_af_desc">
+	<text>Контейнер, по всій видимості набитий артефактами. Показувати таке нікому не варто, хоча взламати його важко. Зроблений з вогнетривкого матеріалу.</text>
+</string>
+<string id="item_case_af_name">
+	<text>Контейнер з артефактами</text>
+</string>
+<string id="fore_bandit_flash_name">
+	<text>Флешка бандитів</text>
+</string>
+<string id="fore_bandit_pda_name">
+	<text>КПК бандитів</text>
+</string>
+<string id="fore_bandit_notebook_name">
+	<text>Ноутбук бандитів</text>
+</string>
+<string id="fore_bandit_notebook_descr">
+	<text>Робочий ноутбук, напевно зберігає в собі багато інформації.</text>
+</string>
+<string id="fore_stalker_looser_name">
+	<text>Пашка Тушенко</text>
+</string>
+<string id="agr_docs_part1_nam">
+	<text>Накладна</text>
+</string>
+<string id="agr_docs_part2_nam">
+	<text>Щоденник професора</text>
+</string>
+<string id="agr_docs_part3_nam">
+	<text>Журнали з розрахунками</text>
+</string>
+<string id="agr_docs_part4_nam">
+	<text>Науковий проект</text>
+</string>
+<string id="agr_docs_part5_nam">
+	<text>Зошит</text>
+</string>
+<string id="agr_docs_part6_nam">
+	<text>Лист з записами</text>
+</string>
+<string id="agr_docs_part7_nam">
+	<text>Записка директору НІІ</text>
+</string>
+<string id="agr_docs_part1_des">
+	<text>Накладна, оформлена при погрузці товарів на склад. Записи практично нерозбірливі, хоча дещо прочитати можна: деякі назви, кількості. Частково видно прізвище начальника 
+	складу "....ланча".</text>
+</string>
+<string id="agr_docs_part2_des">
+	<text>Особистий щоденник професора, чатина записів повністю читабельна. Але це для тих, кому цікаво: коли автор щоденника прокинувся, що їв на сніданок, і скільки не бачив родину. 
+	Написано, що додому їх не пускають з різних причин, посилаючись на те, що потрібно закінчити проект.</text>
+</string>
+<string id="agr_docs_part3_des">
+	<text>Тисячі цифр, графіки, схеми. Розібрати можна половину з написаного, але без докторської ступені в в цій галузі науки - можна навіть не намагатись зрозуміти зміст.</text>
+</string>
+<string id="agr_docs_part4_des">
+	<text>Текст вигорів вже, видно тільки, що на титульній сторінці був надпис "Науковий проект". Схоже, це був науковий проект.</text>
+</string>
+<string id="agr_docs_part5_des">
+	<text>Зошит з якимись записами. Весь текст змило водою, нічого не разібрати.</text>
+</string>
+<string id="agr_docs_part6_des">
+	<text>Лист с записами, схоже, що належить одному з працівників НІІ. Судячи з усього, зацікавив Стрільця, так як лежить у нього в коморі.</text>
+</string>
+<string id="agr_docs_part7_des">
+	<text>Заява на ім'я директора НІІ, з проханням відправити працівника інституту на лікування. Скаржиться на погане самопочуття з початку проведення експериментів в НІІ. Також добре видно прізвище 
+	директора НІІ - Лебедєв. Рік 2002.</text>
+</string>
+<string id="nimble_work_task_tit">
+	<text>Спецзамовлення</text>
+</string>
+<string id="nimble_work_item1_descr">
+	<text>Знайти і принести Спритнику рідкісний зразок екіпірування. Перше серйозне завдання - принести автомат ОЦ-14 "Гроза" під патрон 5.45 з збільшеним магазином. Належить якомусь то Капітану, 
+		чи то Майору, який зараз знаходиться на Агропромі.</text>
+</string>
+<string id="nimble_work_item2_descr">
+	<text>Знайти і принести Спритнику рідкісний зразок екіпірування. Наступне завдання - принести особистий револьвер Борова - ватажка бандитів в Темній Долині.</text>
+</string>
+<string id="nimble_work_item3_descr">
+	<text>Знайти і принести Спритнику рідкісний зразок екіпірування. Наступне завдання: Знайти экспериментальний костюм екологів. Ймовірно, в пошуках може допомогти Сахаров.</text>
+</string>
+<string id="nimble_item_1d">
+	<text>Знайти "Грозу"</text>
+</string>
+<string id="nimble_item_2d">
+	<text>Знайти револьвер</text>
+</string>
+<string id="nimble_item_3t">
+	<text>Поговорит с професором</text>
+</string>
+<string id="nimble_item_3d">
+	<text>Знайти экспериментальній костюм екологів</text>
+</string>
+<string id="nimble_bring_item">
+	<text>Принести Спритнику</text>
+</string>
+<string id="agro_docs_task_sid_1">
+	<text>Забрати все що залишилось</text>
+</string>
+<string id="agro_docs_task_sid_2">
+	<text>Знайти ще якісь документи в НІІ</text>
+</string>
+<string id="agro_docs_task_sid_3">
+	<text>Продовжити пошук чи повернутись до Сидора</text>
+</string>
+<string id="agro_docs_task_sid_tit">
+	<text>Сидорович: "Мічений, так як ти вже на Агропромі, то пошукай ще дякі папери. На випадок якщо військові не все зібрали в ящик. \nНу, і заглянути до мене не забудь."</text>
+</string>
+<string id="karlik_pda_data_name_termal1">
+	<text>Термальні артефакти</text>
+</string>
+<string id="agro_docs_task_start_tip">
+	<text>Мічений, так як ти вже на Агропромі, то пошукай ще дякі папери. На випадок якщо військові не все зібрали в ящик. \nНу, і заглянути до мене не забудь.</text>
+</string>
+<string id="fore_docs_part1_name">
+	<text>Журнал дослідженнь</text>
+</string>
+<string id="fore_docs_part1_des">
+	<text>Журнал дослідженнь, який заповняли декілька професорів. Детальний опис експериментів, їх результати. Майже половину тексту можна розібрати.</text>
+</string>
+<string id="fore_docs_part2_name">
+	<text>Договір</text>
+</string>
+<string id="fore_docs_part2_des">
+	<text>Договір про охорону об'єкта. Укладений між керівником комплексу шахт і найманою російською організацією. Розписані обов'язки сторін, як партнерів, а також опис обов'язків охорони в 
+	 переліку непередбачуваних обставин. Самі обставини описані досить дікаво.</text>
+</string>
+<string id="fore_docs_part3_name">
+	<text>Звіт</text>
+</string>
+<string id="fore_docs_part3_des">
+	<text>Звіт з першого дня розгортання роботи. Позитивні прогнози і опис виконаної роботи.</text>
+</string>
+<string id="fore_docs_part4_name">
+	<text>Заява</text>
+</string>
+<string id="fore_docs_part4_des">
+	<text>Розмитий лист формату А4, видно тільки надпис "Заява" і кілька речень про "непередбачувані обставини", "обвал центрального входу" і вибачення.</text>
+</string>
+<string id="fore_docs_part5_name">
+	<text>Лист</text>
+</string>
+<string id="fore_docs_part5_des">
+	<text>Відповідь, призначена іншому відділу, в якій написано:
+	\n"Ви там взагалі всі в своїй Х-18 з глузду з'їхали?! Мені все одно що там сталося! Те, що старий вхід засипало, не означає що не треба виносити звідти всі папери і документації! І мені все одно що там тепер проживає!
+	Даю Вам кілька днів щоб навідатись туди і вивезти все що там залишилось, і відправляйте туди хоч армію, хоч Папу Римського!</text>
+</string>
+<string id="fore_docs_part6_name">
+	<text>Кошторис</text>
+</string>
+<string id="fore_docs_part6_des">
+	<text>Кошторис і план будівництва науково-геологічного комплексу "Х-12". Пристойна гора документів. Напевно, бандити залишили це все на розпалювання.</text>
+</string>
+<string id="yan_pribor_desc">
+	<text>Старий пристрій, виглядає неробочим. Використовувався під час експериментів в Зоні. Не зрозуміло, чи є від нього користь, можливо є цінним для вченим.</text>
+</string>
+<string id="yan_pribor_name">
+	<text>Старий науковий пристрій</text>
+</string>
+<string id="yan_pribor_nm">
+	<text>Пристрій</text>
+</string>
+<string id="yan_docs_part1_name">
+	<text>Транспортні накладні</text>
+</string>
+<string id="yan_docs_part2_name">
+	<text>Розрахунки</text>
+</string>
+<string id="yan_docs_part3_name">
+	<text>Папери</text>
+</string>
+<string id="yan_docs_part4_name">
+	<text>Звіт</text>
+</string>
+<string id="yan_docs_part5_name">
+	<text>Журнал експериментів</text>
+</string>
+<string id="yan_docs_part6_name">
+	<text>Наказ №316</text>
+</string>
+<string id="yan_docs_part7_name">
+	<text>Лист</text>
+</string>
+<string id="yan_docs_part8_name">
+	<text>Кейс с документами</text>
+</string>
+<string id="yan_docs_part9_name">
+	<text>Документи Сахарова</text>
+</string>
+<string id="yan_docs_part1_des">
+	<text>Документи, оформлені при погрузці</text>
+</string>
+<string id="yan_docs_task_sid_tit">
+	<text>Петренко: "Янтар повний загадок, а мутантами кишить так, що мало хто туди збирається. Та і бажаючих мало. Яйцеголові завжди шукають, кого б послати перевірити місцеві підвали і ангари. 
+	Там і папери можуть бути деякі. Сходи і принеси все, що знайдеш. А для початку поговори с Сахаровим, він допоможе."</text>
+</string>
+<string id="country_major_pers_tit">
+	<text>Особливе доручння</text>
+</string>
+<string id="country_major_pers1_art">
+	<text>Принести майору два костюми: зелений костюм екологів і комбінезон "Сева".</text>
+</string>
+<string id="country_major_pers1">
+	<text>Знайти 2 костюми</text>
+</string>
+<string id="country_major_pers_done">
+	<text>Принести майору замовлення</text>
+</string>
+<string id="country_major_pers2_art">
+	<text>Принести майору зразок "Екзоскелету".</text>
+</string>
+<string id="country_major_pers2">
+	<text>Знайти "Екзоскелет"</text>
+</string>
+<string id="yan_docs_task_sid_1">
+	<text>Знайти всі документи на території Янтаря</text>
+</string>
+<string id="yan_docs_task_sid_2">
+	<text>Поговорити з Сахаровим</text>
+</string>
+<string id="yan_docs_task_sid_3">
+	<text>Розшукати будь-які документи</text>
+</string>
+<string id="yan_docs_task_sid_4">
+	<text>Повернутись до Петренка чи продовжити пошуки</text>
+</string>
+<string id="yan_docs_task_sid_5">
+	<text>Відати документи</text>
+</string>
+<string id="yan_pribor_task_tit">
+	<text>Експедиція</text>
+</string>
+<string id="yan_pribor_task_article_text">
+	<text>В обмін на документи, Сахаров просить прийняти участь в експедиції для замірів і збору старої електроніки на території Янтаря.</text>
+</string>
+<string id="yan_pribor_task_gen_1">
+	<text>Завершити експедтцію</text>
+</string>
+<string id="yan_pribor_task_start_1">
+	<text>Поговорити з професором Пироженко</text>
+</string>
+<string id="yan_pribor_task_start_2">
+	<text>Поговорити з професором Кулешовим</text>
+</string>
+<string id="yan_pribor_task_start_3">
+	<text>Поговорити з асистентом</text>
+</string>
+<string id="yan_pribor_task_start_4">
+	<text>Відправитись до першої точки</text>
+</string>
+<string id="yan_pribor_task_tochka1_1">
+	<text>Прибути на першу позицію</text>
+</string>
+<string id="yan_pribor_task_tochka1_2">
+	<text>Дослідити першу позицію</text>
+</string>
+<string id="yan_pribor_task_tochka1_3">
+	<text>Поговорити с професором</text>
+</string>
+<string id="yan_pribor_task_tochka2_1">
+	<text>Прибути на другу позицію</text>
+</string>
+<string id="yan_pribor_task_tochka2_2">
+	<text>Дізнатися про ситуацію</text>
+</string>
+<string id="yan_pribor_task_tochka2_3">
+	<text>Дослідити другу позицію</text>
+</string>
+<string id="yan_pribor_task_tochka2_4">
+	<text>Доповісти професору</text>
+</string>
+<string id="yan_pribor_task_tochka3_0">
+	<text>Прибути на третю позицію</text>
+</string>
+<string id="yan_pribor_task_tochka3_1">
+	<text>Оглянути старий склад</text>
+</string>
+<string id="yan_pribor_task_tochka3_2">
+	<text>Прибути у великий зал</text>
+</string>
+<string id="yan_pribor_task_tochka3_3">
+	<text>Оглянути великий зал</text>
+</string>
+<string id="yan_pribor_task_tochka3_4">
+	<text>Повернутись на базу</text>
+</string>
+<string id="yan_pribor_task_tochka3_5">
+	<text>Оглянути третью позицію</text>
+</string>
+<string id="nimble_work_task3_brain_zamer">
+	<text>Виміри</text>
+</string>
+<string id="nimble_work_brain_tit">
+	<text>Псі-колба</text>
+</string>
+<string id="nimble_work_brain_1">
+	<text>Прибути на місце</text>
+</string>
+<string id="nimble_work_brain_2">
+	<text>Провести заміри до кінця</text>
+</string>
+<string id="nimble_work_brain_3">
+	<text>Принести результати замірів</text>
+</string>
+<string id="nimble_work_brain_descr">
+	<text>Випромінювання експериментального мозку перекриває прохід в наступне приміщення. Якщо зробити заміри і налаштувати захист, то можна буде відгородити себу від випромінювання і пройти далі.</text>
+</string>
+<string id="ecolog_outfit_black_name">
+	<text>CСП-100М</text>
+</string>
+<string id="ecolog_outfit_black_description">
+	<text>Експерементальний костюм аномального захисту "CСП-100М". За деякими даними, розроблений до другого вибуху, проте в складі костюма знаходиться безліч артефактів. Наприклад, верхній шар костюма
+	 покритий артефактами "Плівка".</text>
+</string>
+<string id="esc_sid_task_arty_1">
+	<text>Знайти артефакти</text>
+</string>
+<string id="esc_sid_task_arty_2">
+	<text>Принести артефакти</text>
+</string>
+<string id="esc_sid_task_arty_descr">
+	<text>Знайди для Сидоровича три рідкісні артефакти: "Батарейку", "Пружину" і "Порожнявку".</text>
+</string>
+<string id="esc_sid_task_arty_tit">
+	<text>Замовлення торговця</text>
+</string>
+<string id="fore_shulga_name">
+	<text>Шульга</text>
+</string>
+<string id="forest_sid_task_doc_descr">
+	<text>Роботодавець: "Залишилось тільки одне місце без уваги - стара шахта, що на території Лісу. Може теж залишились деякі папери? А взагалі, сходи поглянь, 
+		 і витягни звідти все що є. Але мені вже не принось. А принеси це все Петренко, він буде задоволений." \nОплатить, напевно, теж він.</text>
+</string>
+<string id="forest_sid_task_doc_1">
+	<text>Знайти все, що залишилось на території шахти</text>
+</string>
+<string id="forest_sid_task_doc_2">
+	<text>Знайти будь-які документи на території шахти</text>
+</string>
+<string id="forest_sid_task_doc_3">
+	<text>Продовжити пошук чи віддати знайдене Петренко</text>
+</string>
+<string id="forest_sid_task_part2_1">
+	<text>Знайти будь-які папери біля старого входу в Х-18</text>
+</string>
+<string id="forest_sid_task_part2_h">
+	<text>Старий вхід</text>
+</string>
+<string id="enc_zone_artifact_af-purple_beads_name">
+	<text>Пурпурове намисто</text>
+</string>
+<string id="af_compass_full_name">
+	<text>Заряджений Компас</text>
+</string>
+<string id="af_compass_full_descr">
+	<text>Цей Компас заряджений і дійсно володіє корисними властивостями. Може допомогти знайти вихід при потраплянні в пастки Зони.</text>
+</string>
+<string id="yantar_pirozhenko_name">
+	<text>Професор Пиріженко</text>
+</string>
+<string id="yantar_kuleshov_name">
+	<text>Професор Кулішов</text>
+</string>
+<string id="yantar_kalmyk_name">
+	<text>Калмик</text>
+</string>
+<string id="fore_bandit_task_0">
+        <text>Навести порядок на базі бандитів</text>
+</string>
+<string id="sid_kill_dogs">
+        <text>Вбити зграю собак</text>
+</string>
+<string id="sid_kill_dogs_text">
+        <text>По ночам виття чув? Це тут зграя собак з'явилась, змішаного типу. Це означозначає, що серед них є сліпі собаки, і псевдо. Я чув, що такі зграї можуть досягати великих розмірів, тому придуши їх, чим швидше тим краще.</text>
+</string>
+<string id="sid_kill_mutant_descr">
+        <text>Вбити мутантів на замовлення Сидоровича за винагороду.</text>
+</string>
+<string id="sid_kill_polter">
+        <text>Вбити полтергейста</text>
+</string>
+<string id="sid_kill_polter_text">
+        <text>Тут дичина з'явилася недавно, нетипова для Кордону. Сталкери назиывають її "Полтергейст". А новачки бояться так, що взагалі перестали на Звалище ходити. Він не небезпечний, просто виглядає дивно. Прибийй його, за оплату звісно.</text>
+</string>
+<string id="sid_kill_tushkano">
+        <text>Вбити тушканів</text>
+</string>
+<string id="sid_kill_tushkano_text">
+        <text>Тобі тушкани подобаються? Я їх терпіти не можу! Вони на Кордоні часто зустрічаються, але за вбивство кожного я готовтй заплатити. Зробиш?</text>
+</string>
+<string id="sid_kill_sucker">
+        <text>Вбити кровососа</text>
+</string>
+<string id="sid_kill_sucker_text">
+        <text>Зустрів кровососів? Моторошні і небезпечні тварюки. У новачка немає шансів, а досвідченим, частіше всього, допомагає тільки вдача. Вцілому, мені взагалі не вигідно, щоб на Звалищі поселився один.</text>
+</string>
+<string id="cordon_case_task_torch">
+        <text>Твою фару навіть в мене в коморі видно! Швидко вируби світло, якщо не хочеш щоб тебе помітили.</text>
+</string>
+<string id="task_proverb_first_task_p1">
+        <text>Йти за Книгарем</text>
+</string>
+<string id="task_proverb_first_task_p2">
+        <text>Вбити перше скупчення мутантів</text>
+</string>
+<string id="task_proverb_first_task_p3">
+        <text>Поговорити з Книгарем</text>
+</string>
+<string id="task_proverb_first_task_p5">
+        <text>Вбити друге скупчення мутантів</text>
+</string>
+<string id="country_major_job_case2_1_p1">
+        <text>Перевірити сигнал КПК</text>
+</string>
+<string id="country_major_job_case2_1_hint">
+        <text>Сигнал КПК</text>
+</string>
+<string id="country_major_job_case2_1_p2">
+        <text>Доповісти Майору</text>
+</string>
+<string id="country_major_job_case2_artefacts_1">
+        <text>Допомогти майору зібрати всі потрібні артефакти</text>
+</string>
+
+
+
+<string id="naiti_gauss"> 
+<text>Знайти Гаус-гармату</text> 
+</string>
+<string id="naiti_gauss_1"> 
+<text>Знайти зброю</text> 
+</string>
+<string id="prinesti_gauss"> 
+<text>Повернути зброю бармену</text> 
+</string>
+<string id="naiti_gauss_2"> 
+<text>Викрасти з баржі в Темній Лощині секретну зброю під назвою "Гаус-гармата М1" по завданню бармена.</text> 
+</string>
+
+<string id="naiti_gauss_box"> 
+<text>Знайти Гаус-бокс</text> 
+</string>
+<string id="naiti_gauss_box_1"> 
+<text>Знайти ящик</text> 
+</string>
+<string id="prinesti_gauss_box"> 
+<text>Повернути ящик бармену</text> 
+</string>
+<string id="naiti_gauss_box_2"> 
+<text>Знайти ящик, який знаходиться на одній із баз Моноліту. Можливо, на Радарі під антенами.</text> 
+</string>
+<string id="wpn-gauss_m1"> 
+<text>Гаус-гармата М1</text> 
+</string>
+<string id="item_case_ammo_name"> 
+<text>Гаус-бокс</text> 
+</string>
+<string id="item_case_ammo_descr"> 
+<text>Ящик с боєприпасами для Гаус-гармати</text> 
+</string>
+<string id="country_major_arts_1">
+        <text>Знайти артефакти "Жалкого пуха"</text>
+</string>
+<string id="country_major_arts_done">
+        <text>Принести артефакти</text>
+</string>
+<string id="country_major_arts_2">
+        <text>Знайти 5 "Синіх паразитів"</text>
+</string>
+<string id="country_major_arts_3">
+        <text>Знайти 5 "Зелених паразитів"</text>
+</string>
+<string id="country_major_arts_4">
+        <text>Знайти джерело сяйва на кладовищі</text>
+</string>
+<string id="country_major_art_0">
+        <text>Знайти спосіб дістати артефакт</text>
+</string>
+<string id="country_major_art_3">
+        <text>Звернутися за допомогою до вчених</text>
+</string>
+<string id="country_major_art_4">
+        <text>Зробити виміри</text>
+</string>
+<string id="country_major_art_5">
+        <text>Принести результати</text>
+</string>
+<string id="st_wave_zamer_countdown">
+        <text>До закінчення вимірів:</text>
+</string>
+<string id="country_major_art_1">
+        <text>Забрати артефакт</text>
+</string>
+<string id="country_major_arts_5">
+        <text>Зкстрітися з кур'єром</text>
+</string>
+<string id="country_major_art_2">
+        <text>Знайти "Компас"</text>
+</string>
+<string id="enc_zone_artifact_af-supernova_name">
+	<text>Наднова</text>
+</string>
+<string id="enc_zone_artifact_af-supernova_descr">
+	<text>Найяскравіший артефакт в Зоні. Через його сяйво, побачити такий артефакт можна за кілька кілометрів. А ось дістати його не завжди легко. При контакті з тілом, буквально зводить з розуму власника.</text>
+</string>
+<string id="enc_zone_artifact_af-psy_fish">
+	<text>Заряджена "Золота рибка"</text>
+</string>
+<string id="enc_zone_artifact_af-psy_fish">
+	<text>Після тривалого перебування в зоні підвищеного псі-випромінювання, артефакт отримав нові властивості і сам став невеликим джерелом випромінювання.</text>
+</string>
+<string id="general_fixer_tools_tit">
+        <text>Знайти інструменти</text>
+</string>
+<string id="general_fixer_tools_gr">
+        <text>Знайти інструменти для грубої роботи</text>
+</string>
+<string id="general_fixer_tools_tn">
+        <text>Знайти інструменти для тонкої роботи</text>
+</string>
+<string id="general_fixer_tools_kl">
+        <text>Знайти інструменти для калібрування</text>
+</string>
+<string id="general_fixer_tools_2">
+        <text>Принести інструменти</text>
+</string>
+<string id="agro_fixer_tools_gr_tit">
+        <text>Перевірити околиці Агропрому</text>
+</string>
+<string id="agro_fixer_tools_gr_1">
+        <text>Перевірити територію завода</text>
+</string>
+<string id="agro_fixer_tools_gr_2">
+        <text>Перевірити територію інституту</text>
+</string>
+<string id="agro_fixer_tools_tn_tit">
+        <text>Перевірити підземеля Агропрома</text>
+</string>
+<string id="agro_fixer_tools_tn_1">
+        <text>Перевірити підземеля</text>
+</string>
+<string id="agro_fixer_tools_tn_2">
+        <text>Допомогти сталкеру</text>
+</string>
+<string id="agro_fixer_tools_tn_3">
+        <text>Забрати інструменти в бандитів</text>
+</string>
+<string id="country_major_job_mutant2_tip">
+	<text>Це ще не все, інша частина зграї є трохи західніше.</text>
+</string>
+<string id="escape_tools_task_text">
+	<text>Що за підстава, Валет? Ми справу з тобою замутили? Замутили. Я тобі бабки заслав? Заслав! Де мої довбані інструменти? Пацани жаліються, волини вже всі накрились. Навіть, якщо до нас прийде галіма зеленина, ми відбитися вже не зможемо. Ти ж казав, що ще позавчора чувака через Звалище відправив?! Розвести мене вирішив? Короче, мля, так справи не ведуться.</text>
+</string>
+	<string id="agro_door_key_desc">
+		<text>Ключ від дверей в схованку Стрільця.</text>
+	</string>
+	<string id="agro_door_key_name">
+		<text>Ключ</text>
+	</string>
+	<string id="agro_door_key_art_text">
+		<text>До болі знайоме місце. Я бував тут раніше. І точно пам'ятаю, що двері закриті на ключ. А ключ схований в нижній частині підземеля.</text>
+	</string>
+
+</string_table>

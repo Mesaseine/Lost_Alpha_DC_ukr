@@ -1,0 +1,39 @@
+	<string id="rosf_meet_duty">
+		<text>Мічений, необхідно зустріти хлопців з «Долгу» в поселенні, вони потребують допомоги у боротьбі з мутантами.</text>
+	</string>
+	<string id="rosf_meet_duty_leader">
+		<text>Зустріти лідера «Долгу».</text>
+	</string>
+	<string id="rosf_duty_bloodsucker_task">
+		<text>Допомогти «Долгу» повернути їх штаб.</text>
+	</string>
+	<string id="rosf_kill_bs">
+		<text>Вбити кровососів.</text>
+	</string>
+	<string id="rosf_find_pdas">
+		<text>Знайти три КПК.</text>
+	</string>
+	<string id="rosf_get_mask">
+		<text>Отримати маску.</text>
+	</string>
+	<string id="rosf_see_duty_leader">
+		<text>Повернутися до лідера «Долгу».</text>
+	</string>
+	<string id="rosf_petrenko_get_key">
+		<text>Отримати доступ до лабораторії та вбити кровососів.</text>
+	</string>
+	<string id="rosf_get_key">
+		<text>Отримати ключ від Петренка.</text>
+	</string>
+	<string id="rosf_kill_bloodsuckers">
+		<text>Вбити кровососів.</text>
+	</string>
+	<string id="rosf_kill_secret_bs">
+		<text>Вбити кровососів.</text>
+	</string>
+	<string id="rosf_kill_secret_bs_report">
+		<text>Вбити кровососів та доповісти лідеру «Долгу».</text>
+	</string>
+	<string id="rosf_get_to_sec">
+		<text>Дістатися секретної лабораторії.</text>
+	</string>

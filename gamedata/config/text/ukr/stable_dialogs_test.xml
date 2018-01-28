@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="gar_dolg_bribe_1">
+        <text>Мені потрібно пройти на завод &amp;amp;amp;quot;Росток&amp;amp;amp;quot; до бару сталкерів.</text>
+    </string>
+    <string id="gar_dolg_bribe_11">
+        <text>До бару не пропустимо - новачкам там нема чого робити. Хоча... Важко зараз, грошей немає, вдома дружина, діти сопливі, їсти хочуть. Загалом, при поліпшенні мого матеріального становища грошей так на 50 я міг би відвернутися на 5 хвилин від об'єкту, що охороняється на &amp;amp;amp;quot;Ростоку&amp;amp;amp;quot;.\n*** До получения документов в НИИ Агропром ***</text>
+    </string>
+    <string id="gar_dolg_bribe_111">
+        <text>Згідний. Тримай.\n***Снимается со счета 50 рублей***</text>
+    </string>
+    <string id="gar_dolg_bribe_1111">
+        <text>Ось це інша справа. Пропустіть його, хлопці. Це мій знайомий, його чекають в барі.</text>
+    </string>
+    <string id="gar_dolg_bribe_11111">
+        <text>Бувай. Хай щастить.</text>
+    </string>
+    <string id="gar_dolg_bribe_112">
+        <text>Немає у мене з собою стільки грошей.</text>
+    </string>
+    <string id="gar_dolg_bribe_1121">
+        <text>Жадібний який... Тоді не пустимо.</text>
+    </string>
+    <string id="gar_dolg_bribe_11211">
+        <text>Ну, не особливо я і засмутився. Бувай.</text>
+    </string>
+    <string id="gar_dolg_bribe_12">
+        <text>Ага Привіт. Нам про тебе Бармен говорив. Можеш проходити.\n*** После получения документов в НИИ Агропром ***</text>
+    </string>
+    <string id="gar_dolg_bribe_121">
+        <text>Дякую хлопці. Бармену привіт.</text>
+    </string>
+    <string id="lala1">
+        <text>test1</text>
+    </string>
+    <string id="optional_dialog_test_0">
+        <text>Я з тобою розмовляю?</text>
+    </string>
+    <string id="optional_dialog_test_1">
+        <text>За мною чисто.</text>
+    </string>
+    <string id="optional_dialog_test_11">
+        <text>Це ж треба.</text>
+    </string>
+</string_table>

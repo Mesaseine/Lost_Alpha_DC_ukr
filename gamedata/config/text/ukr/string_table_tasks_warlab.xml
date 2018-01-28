@@ -1,0 +1,70 @@
+<!-- LA -->
+	<string id="war_find_power_generator">
+		<text>Знайти головний перемикач генератора живлення</text>
+	</string>
+	<string id="war_find_disel_generator">
+		<text>Знайти дизель-генератор</text>
+	</string>
+	<string id="war_turn_on_disel_generator">
+		<text>Встановити генератор живлення лабораторії</text>
+	</string>
+		<string id="war_get_electricity">
+		<text>Відновити енергопостачання</text>
+	</string>
+		<string id="war_get_fuel_for_gen">
+		<text>Знайти пальне для генератора</text>
+	</string>
+		<string id="war_get_fuel">
+		<text>Дістати пальне для генератора</text>
+	</string>
+			<string id="war_fill_pipeline">
+		<text>Наповнити головну систему постачання паливом</text>
+	</string>
+			<string id="war_turn_generator_on">
+		<text>Увімкнути генератор</text>
+	</string>
+			<string id="war_find_doors_switcher">
+		<text>Знайти перемикач дверей</text>
+	</string>
+	  <string id="war_turn_off_lockdown">
+		<text>Знайти спосіб розблокувати замок</text>
+	</string>
+	  <string id="war_get_personal_privilages">
+		<text>Отримати необхідні права, щоб розблокувати замок</text>
+	</string>
+	  <string id="war_turn_off_doors_switcher">
+		<text>Розблокувати замок</text>
+	</string>
+	  <string id="war_find_enterance">
+		<text>Дістатися головного пункту керування</text>
+	</string>
+	  <string id="war_find_con_doors">
+		<text>Знайти головний пункт керування</text>
+	</string>	
+	  <string id="war_find_con_scanner">
+		<text>Використати сканер, щоб відчинити двері</text>
+	</string>	
+			<string id="war_get_scan_override_codes">
+		<text>Отримати доступ до головного пункту керування</text>
+	</string>
+			<string id="war_find_tech_pc">
+		<text>Знайти комп'ютер адміністраторів</text>
+	</string>
+			<string id="war_use_scanner_codes">
+		<text>Пройти перевірку безпеки</text>
+	</string>
+			<string id="war_insert_override_codes">
+		<text>Деактивувати генератори</text>
+	</string>
+			<string id="war_set_override_codes">
+		<text>Активувати перезапис кодів, використовуючи перемикач</text>
+	</string>
+			<string id="war_deactivate_generators">
+		<text>Деактивувати генератори</text>
+	</string>
+			<string id="war_deactivate_core">
+		<text>Деактивувати ядро генераторів</text>
+	</string>
+	  <string id="war_get_to_control_room">
+		<text>Отримати доступ до головної кімнати керування</text>
+	</string>

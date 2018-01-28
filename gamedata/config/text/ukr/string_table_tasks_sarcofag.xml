@@ -1,0 +1,93 @@
+<!-- LA -->
+	<string id="sar_find_computer_title">
+		<text>Отримати коди генератора з головного терміналу пункту управління</text>
+	</string>
+	<string id="sar_find_pc_text">
+		<text>Знайти комп'ютер з кодом доступу</text>
+	</string>
+	<string id="sar_find_computer_text">
+		<text>Отримати код доступу до генератора лабораторії</text>
+	</string>
+	<string id="sar_turn_on_powerline_title">
+		<text>Відновити енергопостачання в пункті керування</text>
+	</string>
+	<string id="sar_find_battery_text">
+		<text>Знайти резервний акумулятор</text>
+	</string>
+	<string id="sar_restore_power_text">
+		<text>Відновити енергопостачання</text>
+	</string>
+	<string id="sar_follow_voice_title">
+		<text>Прямувати за покликом Моноліту</text>
+	</string>
+	<string id="sar_reach_monolith_text">
+		<text>Дістатись Моноліту</text>
+	</string>
+	<string id="sar_get_gen_codes_title">
+		<text>Отримати код доступу до генератора лабораторії</text>
+	</string>
+	<string id="sar_get_gen_codes_text">
+		<text>Отримати дешифрувальні коди</text>
+	</string>
+	<string id="sar_gen_codes_text">
+		<text>Отримати коди до генератора лабораторії</text>
+	</string>
+	<string id="sar_reach_generators_title">
+		<text>Дістатися генераторів</text>
+	</string>
+	<string id="sar_reach_generators_text">
+		<text>Дістатися генераторів</text>
+	</string>
+	<string id="sar_reach_gens_text">
+		<text>Дістатися генераторів</text>
+	</string>
+	
+<!-- GSC -->
+	<string id="sar_monolith">
+		<text>Виконавець бажань</text>
+	</string>
+	<string id="sar_monolith_0">
+		<text>Прийти до Моноліту</text>
+	</string>
+	<string id="sar_monolith_1">
+		<text>Проникнути у саркофаг</text>
+	</string>
+	<string id="sar_monolith_2">
+		<text>Знайти виконавця бажань</text>
+	</string>
+	<string id="sar_monolith_destroy">
+		<text>Загадка Моноліту</text>
+	</string>
+	<string id="sar_monolith_destroy_0">
+		<text>Проникнути в секретну лабораторію</text>
+	</string>
+	<string id="sar_monolith_destroy_1">
+		<text>Розгадати загадку Моноліту</text>
+	</string>
+	<string id="sar_monolith_destroy_2">
+		<text>Знищити генератори живлення Моноліту</text>
+	</string>
+	<string id="sar_perception">
+		<text>Загадка Зони</text>
+	</string>
+	<string id="sar_perception_1">
+		<text>Зустрітися з тими, хто керує Монолітом</text>
+	</string>
+	<string id="sar_perception_2">
+		<text>Знайти секретну лабораторію і зустріти «лялькарів»</text>
+	</string>
+	<string id="sar_secret_lab">
+		<text>Секретна лабораторія</text>
+	</string>
+	<string id="sar_secret_lab_0">
+		<text>Потрапити в секретний бункер</text>
+	</string>
+	<string id="sar_secret_lab_1">
+		<text>Знайти потаємні двері</text>
+	</string>
+	<string id="sar_secret_lab_2">
+		<text>Відчинити їх за допомогою декодера</text>
+	</string>
+	<string id="sar_secret_lab_3">
+		<text>Розвідати, що знаходиться за дверима</text>
+	</string>

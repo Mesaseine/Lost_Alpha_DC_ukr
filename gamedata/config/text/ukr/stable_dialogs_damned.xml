@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<string_table>
+
+<!--meet guide second time -->
+<!-- follow guide -->
+
+	<string id="dam_guide_before_route_1">
+		<text>Стрiльцю, з тобою все гаразд! I як завжди ти при справах.</text>
+	</string>
+	<string id="dam_guide_before_route_11">
+		<text>Радий знову тебе бачити.</text>
+	</string>
+	<string id="dam_guide_before_route_111">
+		<text>Ти вже мабуть чув про блокаду Прип'яті військовими. Я бував i у найжахливіших мiстах Зони, але тут довго не побiгаєш, бо отримаєш кулю.</text>
+	</string>
+	<string id="dam_guide_before_route_1111">
+		<text>Але ти ж знайомий зi шляхом яким можна оминути поверхню, через тунелi?</text>
+	</string>
+	<string id="dam_guide_before_route_11111">
+		<text>Авжеж, є такий. Бо ми ходили тим шляхом, через пiвнiч, для того щоб дістатися до Прип'ятi... Але пiсля нашого третього походу псi-випромінення там зросло в рази. Хоча, зараз нам це не загрожує.</text>
+	</string>
+	<string id="dam_guide_before_route_111111">
+		<text>Я нiчого такого й не пам'ятаю... Спогади повертаються, але не так швидко як-би менi хотiлося... Гаразд, який у тебе план?</text>
+	</string>
+	<string id="dam_guide_before_route_1111111">
+		<text>Там є система штучних i природних тунелiв якi вiдведуть тебе до самої Прип'ятi. Нiхто ними здавна не використовувався, тому кубли мутантiв так i чекають щоб якийсь там молодий сталкер потрапив до їхньої пащі.</text>
+	</string>
+	<string id="dam_guide_before_route_11111111">
+		<text>Вiдведеш мене туди?</text>
+	</string>
+	<string id="dam_guide_before_route_111111111">
+		<text>Ну... Я можу вiдвести тебе до головного ходу в систему тунелiв, але... там я тебе й залишу. Є ще багато сталкерiв, яким буде потрiбна моя допомога провідника з тієї миті, як почнеться золота лихоманка та всi рвонуть до центру Зони. Я буду бiльш потрiбний там, нiж тут.</text>
+	</string>
+	<string id="dam_guide_before_route_1111111111">
+		<text>Тодi давай не будемо гаяти часу, пiдемо зараз.</text>
+	</string>
+	
+<!-- move to pripyat -->
+	
+	<string id="dam_guide_cave_entrance_1">
+		<text>А ось i мiсце, прохiд у тунелi. Тут ми мусимо розiйтися. Далi ти сам.</text>
+	</string>
+	<string id="dam_guide_cave_entrance_11">
+		<text>Дякую за твою допомогу. Даси менi яку-небудь пораду, який шлях обрати?</text>
+	</string>
+	<string id="dam_guide_cave_entrance_111">
+		<text>Роздорiжжя тунелiв - величезний лабiринт. Розглядай ландшафт, запам'ятовуй дорогу та спробуй дiстатися залiзничних шляхiв - як знайдеш, знай що ти рухаєшся вiрною дорогою.</text>
+	</string>
+	<string id="dam_guide_cave_entrance_1111">
+		<text>Вiдчуваю що це не буде так просто, але iншого шляху у мене немає.</text>
+	</string>
+	<string id="dam_guide_cave_entrance_11111">
+		<text>Це вiрно. Пам'ятай, прислухайся до своїх інстинктів, зараз вони твої найщирiшi друзi.</text>
+	</string>
+	<string id="dam_guide_cave_entrance_111111">
+		<text>Авжеж. Щедро дякую за допомогу, Провiднику.</text>
+	</string>
+	<string id="dam_guide_cave_entrance_3">
+		<text>Нема за що. Будь обережним, Стрiльцю, i будь готовий до жаху, що чекає тебе. Тримайся там.</text>
+	</string>
+	<string id="dam_guide_cave_entrance_31">
+		<text>Та що зi мною може трапитись...</text>
+	</string>
+	
+</string_table>

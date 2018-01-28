@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>	
+    <string id="agro_fixer_repair_intro_dialog_0">
+			<text>Так ти відповідальний за ремонт тут?</text>
+    </string>
+    <string id="agro_fixer_repair_intro_dialog_1">
+			<text>Ну, намагаюся. Руки просто ростуть звідки треба.</text>
+    </string>
+    <string id="agro_fixer_repair_intro_dialog_2">
+			<text>Як потрапив сюди?</text>
+    </string>
+    <string id="agro_fixer_repair_intro_dialog_3">
+			<text>Та буквально тільки що, пару годин назад. Йшов допомагати Кротові, а поки добіг то було пізно, вони вже відбилися ы організували табір. От і вирішив допомогти, підлатати що потрібно. Якщо справи підуть, залишуся тут.</text>
+    </string>
+    <string id="agro_fixer_repair_intro_dialog_4">
+			<text>І як вони йдуть?</text>
+    </string>
+    <string id="agro_fixer_repair_intro_dialog_5">
+			<text>Терпимо, але я налегку прийшов, нічого із собою не взяв. Знайшов тут одну схованку, видимо тут вже був табір колись, у ньому цілий схрон матеріалів, які хочеш. А інструментів у мене немає. Без них не так-то просто.</text>
+    </string>
+    <string id="agro_fixer_repair_intro_dialog_6">
+			<text>І з ремонтом, і з покращеннями. Що зможу, але без інструментів, сам розумієш, особливо нічого не зможу зробити. Куртку зашити точно зможу. А ти допоможеш мені? Якщо знайдеш пару-трійку наборів, то зроблю тобі гарну знижку</text>
+    </string>
+    <string id="agro_fixer_repair_intro_dialog_7">
+			<text>Добре, допоможу, що ж поробиш. А де шукати їх?</text>
+    </string>
+    <string id="agro_fixer_repair_intro_dialog_8">
+			<text>Без поняття, запитай у Крота, він тут знає місцевість</text>
+    </string>
+    <string id="agro_fixer_repair_intro_dialog_9">
+			<text>Зрозумів</text>
+    </string>
+
+    <string id="agro_fixer_repair_bring_dialog_0">
+			<text>Я із приводу інструментів</text>
+    </string>
+    <string id="agro_fixer_repair_bring_dialog_1">
+			<text>Є які новини?</text>
+    </string>
+    <string id="agro_fixer_repair_bring_dialog_2a">
+			<text>Так, ось притяг набір для грубої роботи</text>
+    </string>
+    <string id="agro_fixer_repair_bring_dialog_2b">
+			<text>Так, я знайшов інструменти для тонкої роботи</text>
+    </string>
+    <string id="agro_fixer_repair_bring_dialog_2c">
+			<text>Так, ось! Цілий набір для калібрування. Сподіваюся, ти ще не встиг знайти</text>
+    </string>
+    <string id="agro_fixer_repair_bring_dialog_3a">
+			<text>О, нормально. Уже хоч трохи зможу допомагати сталкерам з ремонтом. А от коли роздобуду ще для тонкої роботи й 
+			калібрування, то буде просто шик</text>
+    </string>
+    <string id="agro_fixer_repair_bring_dialog_3ab">
+			<text>О, нормально. От тепер зможу нормально допомагати сталкерам з ремонтом. А от коли роздобуду ще для калібрування, то буде просто шик</text>
+    </string>
+    <string id="agro_fixer_repair_bring_dialog_3ac">
+			<text>О, нормально. А то без них важко було. Ну от, тепер коли роздобуду ще для тонкої роботи, то буде просто шик</text>
+    </string>
+    <string id="agro_fixer_repair_bring_dialog_3abc">
+			<text>От! Все, повний комплект. Тепер що хочеш відремонтую. Давай тобі з комбеза зроблю екзоскелет? Ну, це жарт якщо що</text>
+    </string>
+    <string id="agro_fixer_repair_bring_dialog_3b">
+			<text>Ось це річ! Вже зможу допомагати сталкерам з ремонтом. Мені б ще для грубої роботи і 
+			калібрування для повного комплекту...</text>
+    </string>
+    <string id="agro_fixer_repair_bring_dialog_3ba">
+			<text>Ось це річ! Тепер можна і ремонтом, і апгрейдом занятся. Тільки мені б ще для калібрування, і буде повний комплект!</text>
+    </string>
+    <string id="agro_fixer_repair_bring_dialog_3bc">
+			<text>Ось це річ! Тепер можна і ремонтом, і апгрейдом занятся. Не вистачає тільки набору для грубої, і буде повний комплект!</text>
+    </string>
+    <string id="agro_fixer_repair_bring_dialog_3c">
+			<text>Ого! Де ти їх дістав?! Гарна річ для дуже складних завдань, але для ремонту, жаль, не підходять. Тому якщо знайдеш ще 
+			для грубої і тонкої роботи, то буде просто відмінно.</text>
+    </string>
+    <string id="agro_fixer_repair_bring_dialog_3ca">
+			<text>Ого! Де ти їх дістав?! Гарна річ для дуже складних завдань, а для ремонту в мене є набір для грубої роботи. Але якщо знайдеш ще 
+			і для тонкої роботи, то буде просто відмінно.</text>
+    </string>
+    <string id="agro_fixer_repair_bring_dialog_3cb">
+			<text>Ого! Де ти їх дістав?! Гарна річ для дуже складних завдань. Так, я майже повністю укомплектувався. Мені б ще 
+			для грубої роботи, і буде просто чудово!</text>
+    </string>
+	
+
+
+    <string id="agro_fixer_krot_dialog_0">
+			<text>Привіт, мені потрібні відповіді на деякі запитаня</text>
+    </string>
+    <string id="agro_fixer_krot_dialog_1">
+			<text>Запитуй, а я постараюся допомогти</text>
+    </string>
+    <string id="agro_fixer_krot_dialog_2">
+			<text>Кулібин просить допомогти йому знайти інструменти</text>
+    </string>
+    <string id="agro_fixer_krot_dialog_3">
+			<text>А, ну одразу завод як би, так ще і плюс НДІ. Думаю, таке добро могло і залишитися. Ти вже дивився в приміщеннях? Спробуй</text>
+    </string>
+    <string id="agro_fixer_krot_dialog_4">
+			<text>Добре, дякую.</text>
+    </string>
+    <string id="agro_fixer_krot_dialog_5">
+			<text>А, стій. От ще. Одразу в підземках був невеликий привал сталкерів, табір так сказати. Вони давно звідти злиняли, тому що там моторошно і тварюк багато. Але технік у них там був свій. Може там і нички його залишилися. Так що перевір підземку</text>
+    </string>
+    <string id="agro_fixer_krot_dialog_6">
+			<text>Ось, тепер вже цікавіше. Щиро дякую</text>
+    </string>
+    <string id="agro_fixer_krot_dialog_7">
+			<text>Та добре</text>
+    </string>
+
+
+    <string id="agro_fixer_sanek_dialog_0">
+			<text>Ааа, сталкере допоможи...</text>
+    </string>
+    <string id="agro_fixer_sanek_dialog_1">
+			<text>Тримай аптечку</text>
+    </string>
+
+    <string id="agro_fixer_sanek_dialog_1a">
+			<text>Нічим не можу допомогти</text>
+    </string>
+
+    <string id="agro_fixer_sanek_dialog_2">
+			<text>Дякую.</text>
+    </string>
+    <string id="agro_fixer_sanek_dialog_3">
+			<text>Ну що, краще?</text>
+    </string>
+    <string id="agro_fixer_sanek_dialog_4">
+			<text>Так, що знеболююче допомогло. Ух, козли...</text>
+    </string>
+    <string id="agro_fixer_sanek_dialog_5">
+			<text>Що трапилося?</text>
+    </string>
+    <string id="agro_fixer_sanek_dialog_6">
+			<text>Хм, так так...</text>
+    </string>
+    <string id="agro_fixer_sanek_dialog_7">
+			<text>Ясно. Ну, бувай</text>
+    </string>
+    <string id="agro_fixer_sanek_dialog_8">
+			<text>Добре, розповім. Я тут обшукую підземку, у пошуках корисностей. Я з дигерів. Загалом, знайшов набір інструментів, дорогих, і по дріб'язку ще. А тут бандити заявилися, все забрали і ножем пирнули. Ну, і ти ось врятував. Щиро дякую. Якщо перетнемося колись ще, з мене презент. А я піду вистежувати цих бандитів тепер.</text>
+    </string>
+    <string id="agro_fixer_sanek_dialog_9">
+			<text>Ну що ж, хай щастить</text>
+    </string>
+	
+    <string id="dolg_fixer_dialog_0">
+			<text>Привіт. Ти займаєшся ремонтом і покращеням спорядження?</text>
+    </string>
+    <string id="dolg_fixer_dialog_1">
+			<text>Так, я місцевий технік. Але я роблю все тільки своїм. Або, у крайньому випадку, гарним друзям "Долгу".</text>
+    </string>
+    <string id="dolg_fixer_dialog_2a">
+			<text>Я і є свій. Я ж вступив у ваш клан.</text>
+    </string>
+    <string id="dolg_fixer_dialog_2b">
+			<text>Я звичайно не у вашому угрупованні, але думаю що добре допоміг "Долгу".</text>
+    </string>
+    <string id="dolg_fixer_dialog_2x">
+			<text>Що ж, добре.</text>
+    </string>
+ 
+    <string id="dolg_fixer_dialog_3a">
+			<text>Хмм, отже ти новенький. Що ж, можу поглянути на твоє спорядження. Подивитися, пощупати - діагностика безкоштовно.</text>
+    </string>
+    <string id="dolg_fixer_dialog_3ba">
+			<text>Не пригадаю великої допомоги від тебе, не ображайся</text>
+    </string>
+    <string id="dolg_fixer_dialog_4b">
+			<text>Ти вже пробач, але цього недостатньо. Подібну роботу для нас виконують багато хто і не лагодити ж мені мотлох усім підряд.</text>
+    </string>
+    <string id="dolg_fixer_dialog_3bb">
+			<text>Хм, і правда, із кровососами ти непогано допоміг. Добре, так і бути, можу полагодити твоє барахло</text>
+    </string>
+	
+    <string id="outskirts_fixer_0">
+			<text>Привіт, мені потрібна допомога зі спорядженням</text>
+    </string>
+    <string id="outskirts_fixer_1">
+			<text>Після тієї заварушки, не тільки тобі потрібна</text>
+    </string>
+    <string id="outskirts_fixer_2">
+			<text>Ну так що?</text>
+    </string>
+    <string id="outskirts_fixer_3">
+			<text>Давай, допоможу. З ремонтом постараюся, у будь-якому разі. Ми негайно залишали позиції і я залишив всі інструменти там.</text>
+    </string>
+    <string id="outskirts_fixer_4">
+			<text>Я міг би принести тобі інструменти. Якщо потім ти будеш робити для мене покращення спорядження. Що скажеш?</text>
+    </string>
+    <string id="outskirts_fixer_5">
+			<text>Так, звичайно, Мічений. Ти справжній союзник, тому для тебе все як для наших. Ну, хіба що трохи дорожче. Мені потрібні тільки інструменти</text>
+    </string>
+    <string id="outskirts_fixer_6">
+			<text>По руках, я дістану їх.</text>
+    </string>
+</string_table>

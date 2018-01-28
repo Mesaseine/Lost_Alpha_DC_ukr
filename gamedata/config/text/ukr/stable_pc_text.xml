@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="ui_pc_user_name">
+		<text>Доктор Барін</text>
+	</string>
+	
+	<string id="ui_pc_console_version">
+		<text>Версія ядра xrCore збірка 3116, 15 СЕР 2007</text>
+	</string>
+	<string id="ui_pc_console_modules">
+		<text>Перевірка модулів системи...</text>
+	</string>
+	<string id="ui_pc_console_net_error">
+		<text>Помилка: не вдалося з'єднатися з головним сервером</text>
+	</string>
+	<string id="ui_pc_console_file_system">
+		<text>Ініціалізація файлової системи... готово</text>
+	</string>
+	<string id="ui_pc_console_log1">
+		<text>Отримано запит входження, користувач $PC_CONSOLE$</text>
+	</string>
+	<string id="ui_pc_console_log2">
+		<text>Доступ надано, використовуючи $PC_CONSOLE$ обліковий запис</text>
+	</string>
+	<string id="ui_pc_console_log3">
+		<text>$PC_CONSOLE$ увійшов $PC_LOG_TIME$</text>
+	</string>
+	<string id="ui_pc_console_trace_user">
+		<text>Виконання команди $TraceUserActions$</text>
+	</string>
+	<string id="ui_pc_console_user_hello">
+		<text>Привіт? $PC_CONSOLE$, хорошого і продуктивного дня!</text>
+	</string>
+	<string id="ui_pc_console_file_open">
+		<text>Виконання команди $FileOpen$</text>
+	</string>
+	<string id="ui_pc_console_file_close">
+		<text>Виконання команди $FileClose$</text>
+	</string>
+
+	<string id="ui_pc_tip_computer_accessible">
+		<text>Щоб увімкнути комп'ютер натисніть ($$ACTION_USE$$)</text>
+	</string>
+	<string id="ui_pc_tip_computer_locked">
+		<text>Ви не можете скористатись цим зараз.</text>
+		<!-- <text>This computer is locked. You need password.</text> -->
+	</string>
+	<string id="ui_pc_tip_computer_bsod">
+		<text>Цей комп'ютер не працює.</text>
+	</string>
+	<string id="ui_pc_static_smart_os">
+		<text>..:: Смарт ОС ::..</text>
+	</string>
+	<string id="ui_pc_static_xray_tech">
+		<text>ТЕХНОЛОГІЯ РЕНТГЕНІВСЬКОГО ВИПРОМІНЮВАННЯ</text>
+	</string>
+	<string id="ui_pc_static_text_viewer">
+		<text>Переглядач тексту</text>
+	</string>
+	<string id="ui_pc_static_media_player">
+		<text>Медіапрогравач</text>
+	</string>
+	<string id="ui_pc_static_hex_viewer">
+		<text>Hex-переглядач</text>
+	</string>
+	<string id="ui_pc_static_console">
+		<text>Консоль</text>
+	</string>
+	<string id="ui_pc_static_image_viewer">
+		<text>Переглядач зображень</text>
+	</string>
+	<string id="ui_pc_static_image">
+		<text>Зображення</text>
+	</string>
+	<string id="ui_pc_static_image_of">
+		<text>про</text>
+	</string>
+	<string id="ui_pc_static_enter_password">
+		<text>Уведіть пароль ...</text>
+	</string>
+	<string id="ui_pc_static_wrong_password">
+		<text>Хибний пароль!</text>
+	</string>
+	<string id="ui_pc_static_show_letters">
+		<text>Показати букви</text>
+	</string>
+	<string id="ui_pc_static_save_to_pda">
+		<text>Завантажити до КПК</text>
+	</string>
+	<string id="ui_pc_static_select_gal">
+		<text>Вибрати галерею</text>
+	</string>
+	<string id="ui_pc_static_play">
+		<text>Грати</text>
+	</string>
+	<string id="ui_pc_static_stop">
+		<text>Зупинити</text>
+	</string>
+	
+	<string id="pc_gallery_filename">
+		<text>Зображення</text>
+	</string>
+	<string id="pc_rb_icon_name">
+		<text>Кошик для сміття</text>
+	</string>
+	<string id="pc_rb_empty_info">
+		<text>Кошик для сміття порожній.</text>
+	</string>
+	<string id="pc_rb_full_info">
+		<text>Усе сміття було видале з кошику для сміття!</text>
+	</string>
+	<string id="pc_net_icon_name">
+		<text>Мережа</text>
+	</string>
+	<string id="pc_net_info">
+		<text>Не вдалося встановити підключення до головного серверу.</text>
+	</string>
+	<string id="pc_sys_icon_name">
+		<text>Мій комп'ютер</text>
+	</string>
+	<string id="pc_sys_info">
+		<text>Цей модуль був заблокований адміністратором.</text>
+	</string>
+	<string id="pc_dvd_icon_name">
+		<text>DVD</text>
+	</string>
+	<string id="pc_dvd_info1">
+		<text>DVD привод розмонтований!</text>
+	</string>
+	<string id="pc_dvd_info2">
+		<text>DVD привод порожній!</text>
+	</string>
+	
+	<string id="test_pc_known_image_001_name">
+		<text>дорога</text>
+	</string>
+	<string id="test_pc_known_image_001_descr">
+		<text>Дорога, яка веде до комплексу Дуга</text>
+	</string>
+	<string id="test_pc_known_gallery_001_name">
+		<text>Галерея №1</text>
+	</string>
+	<string id="test_pc_known_gallery_002_name">
+		<text>Галерея №2</text>
+	</string>
+	<string id="test_pc_known_gallery_003_name">
+		<text>Галерея №3</text>
+	</string>
+	
+	<string id="esc_tutorial_pc_to_all_name">
+		<text>Усім...</text>
+	</string>
+	<string id="esc_tutorial_pc_to_all_text">
+		<text>Якщо ви, придурки, вип'єте всю горілку знову, ви будете жорстоко покарані! Навіть якщо ви п'яні, заради Бога, не наповнюйте порожні пляшки водою! Це зовсім не смішно. Ви поняття не маєте, як «незадоволений» взагалі був генерал під час останньої перевірки... Тепер, я чекаю на доповіді всіх патрульних до завтра і ... Мені потрібно знайти 20 пляшок горілки для наступної перевірки!\n\nЩе дещо, в зв'язку з моїм «невезінням» у покері ви не отримаєте свою зарплату як мінімум протягом найближчих двох тижнів. \n\nКапітан Васильов.</text>
+	</string>
+	<string id="esc_tutorial_pc_to_priboi_name">
+		<text>Прибою</text>
+	</string>
+	<string id="esc_tutorial_pc_to_priboi_text">
+		<text>Лейтенанте Прибій, перш ніж розпочати свою роботу, ви повинні дещо знати про це місце. Це дорога в Зону. Вгору на північ є зламаний міст, але ми також встановили там заставу. Відкрита місцевість кишить дикими собаками, так що місце є небезпечним для бродіння навкруги. О, і зграї мутантів з'являються час від часу. О 6:30 ви повинні відвідати торгівця Сидоровича в невеликому селі неподалік. Він дасть вам сумку з паперами. Після цього, ви повинні відвідати заставу на мосту в декількох кілометрах звідси, просто слідуйте по дорозі, ви не зможете пропустити його. Там вам слід поговорити з майором. \n\nДалі на північ за військовою заставою знаходиться Смітник. Зараз це гнітюче місце. Стільки брудного лайна в деяких місцях, пливти було б легше, ніж ходити.\n\n Під час виконання своєї роботи тут, ви зустрінете Бандитів, Сталкерів, «Долг», «Волю», «Моноліт», Екологів, а також Найманців. Сталкери і «Долг» наші друзі з минулого року, так що ви не будете мати проблем з ними. Екологи - нейтральна вчена група, в районі озера Янтар. Ну а Бандити, «Моноліт» і «Воля» - наші вороги. Будьте обережні, це не буде легкою місією, солдате. \n\nЩасти,\nКапітан Васильов</text>
+	</string>
+	<string id="esc_tutorial_pc_anoms_name">
+		<text>Аномалії</text>
+	</string>
+	<string id="esc_tutorial_pc_anoms_text">
+		<text>У результаті другої аварії на Чорнобильській АЕС, зона всіяна невеликими ділянками зі зміненими законами фізики, відомими як аномалії. Є кілька різних видів, кожен з яких має унікальний вплив на того, хто перетинає аномалію. Більшість аномалій продукують видимі світлові або повітряні викривлення і їх розмір може бути визначений за допомогою болта, який треба кидати, для того щоб збудити аномалію. Рекомендується використовувати детектор аномалій, який видає попереджувальні сигнали з тією або іншою частотою, залежно від близькості до аномалії.\n\n Аномалії дають артефакти, цінні наукові цікавинки, що робить Зону вартою інвестицій для досліджень. Крім того, що вони можуть бути продані, певну кількість артефактів можна носити і вони будуть давати деякі переваги або недоліки. Артефакти, які розкидані всередині групи аномалій, звуться «аномальною зоною» чи «аномальним полем».\n\nЗапам'ятай:\n\n 1. Носи детектор аномалій прикріпленим до ременя.\n 2. Використовуй болти, щоб знайти прохід через аномалію\n 3.Артефакти «стрибають» усередині аномалії використовуючи спеціальну схему(шлях).\n 4. Час від часу аномалії створюють артефакти, особливо після Викиду, тож перевіряй кожну аномалію, яку знайдеш.</text>
+	</string>
+	<string id="dar_mutant_experiments_name">
+		<text>Мутанти</text>
+	</string>
+	<string id="dar_mutant_experiments_text">
+		<text>Ось генетична послідовність, яка може бути протиотрутою для мутацій пацієнтів у палатах 1-17.</text>
+	</string>
+	<string id="sar_generator_codes_name">
+		<text>Генератори</text>
+	</string>
+	<string id="sar_generator_codes_text">
+		<text>Статус... активний. Емісія виставилась до 2000.5 Sv з частотою 140. Коди перезапису: 43589734902104235439045234782397132490238402 HEX.</text>
+	</string>
+	<string id="war_identification_data">
+		<text>Привілеї</text>
+	</string>
+	<string id="war_indetification_data_text">
+		<text>Коди доступу: 459034854903583904 dec, 34589034785903490121340450 md5, root 5/123412342.</text>
+	</string>
+	<!-- extra\extras\Disaster Documents\300-80-1-58-000036.jpg -->
+	<string id="time_magazine_about_npp_name">
+		<text>Про Прип'ять</text>
+	</string>
+	<string id="time_magazine_about_npp">
+		<text>Для тих, хто бачив, Прип'ять - безшумне місце, позбавлене життя. Єдині рухи, що свідчать про проживання людей - майоріння білизни на мотузці для випраного одягу. Але білизна була там, удень і вночі, з 27 квітня. Того дня більшість з 40 000 жителів міста були змушені спішно зібрати пожитки і запакуватися в автобуси, які евакуювали їх від безпосередньої близькості до зруйнованого Чорнобильського ядерного реактора. Вони не знали тоді, й не знають зараз, чи повернуться додому хоча б через кілька місяців або років. Або коли-небудь. На цій та наступних сторінках, TIME публікує перші на теренах США фотографії зруйнованої атомної станції, операції з очищення та місцевості навкруги.\n Одним з небагатьох американців, що бачили Прип'ять, був доктор Роберт Ґейл, фахівець з кісткового мозку, котрий допомагав радянським лікарям упоратися з Чорнобильською катастрофою, яка до тих пір коштувала 26 життів. «Дуже хвилююче бачити частково зруйновану АЕС». Ґейл розповів журналістам після вертолітного обльоту місця подій. «Самі ушкодження не здаються такими масштабними. Недалеко від готелю знаходяться багатоповерхівки, які сьогодні повністю покинуті. Якщо ви подивитесь на них униз з гелікоптера, то зовсім не очевидно, чому це так. Але всім відомо, що мовчазний ворог ховається там».\nВорогом, звичайно, є радіація. Були повідомлення, що деякі люди, в тому числі мародери, не усвідомлювали небезпеку. Радянська газета показувала, що міліцейські вартові та, пізніше, охоронні сигналізації були використані для захисту кинутих осель Прип'яті. Крім того, радянські загони міліції та військові встановлювали сторожові вежі та контрольно-пропускні пункти вздовж 60-мильного периметру. Незважаючи на ретельний огляд, повідомляється, що дві літні жінки змогли ховатися в своїх будинках в Прип'яті більш ніж місяць після аварії. Зрештою вони були знайдені і шпиталізовані. Їх поточний стан невідомий.\n Кажуть, що близько 100 000 чоловік з околиць Чорнобиля доведеться перевірятися протягом усього їхнього життя на ознаки раку. Найбільш серйозні поранення отримали 300 працівників заводу та пожежники, 24 з яких вже померли. Згідно з радянською пресою, були й інші, хто йшов на вражаючі ризики в битві за контроль над киплячим реактором, в тому числі екіпажі вертольотів, які скидали пісок, свинець і бор на відкриті частини реактора, щоб зупинити масовий витік чи випромінювання. У довгостроковій перспективі, план Москви - закрити блок саркофагом, оснащеним системою охолодження для розсіювання тепла від більш ніж 150 тонн активного ядерного палива, яке ще знаходилось в реакторі.\n В місті Київ, 80 км південніше, радянська влада вживає заходів безпеки, щоб уникнути проникнення радіації в систему водопостачання. Повідомляється, що риються аварійні колодязі, на випадок, якщо резервуари, що живляться від річок, забрудняться. Чиновники наполягають, що випромінювання в воді річки Дніпро не перевищує «допустимий рівень», але вони закликають громадян не грати в футбол чи волейбол на річкових пляжах, «тому що піднімається пил».\n З моменту катастрофи чутки циркулюють по країні: що постраждалі від Чорнобильської аварії можуть поширювати радіацію подібно до заразної хвороби; що жертви були розміщені в трунах зі свинцю і поховані в надзвичайно глибоких могилах; що горілка і червоне вино є ефективним засобом від випромінювання. Під час візиту до Будапешту, радянський лідер Михайло Горбачов сказав угорським робітникам заводів, «Чорнобиль попередив нас ще раз; людина взялась використовувати дійсно фантастичну силу, яку необхідно строго контролювати». Це було промовисте послання яке, безумовно, відбилось на мертвій тиші Прип'яті.\n\n*** Time Magazine, 23 червня, 1986 ***</text>
+	</string>
+	
+	<!-- DO NOT TRANSLATE -->
+
+	<string id="ui_pc_xray_log_name">
+		<text>System Log</text>
+	</string>
+	<string id="ui_pc_xray_log_code">
+		<text>* Detected CPU: AuthenticAMD , F15/M8/S2, 797.00 mhz, 8-clk 'rdtsc'\n* CPU Features: RDTSC, MMX, 3DNow!, SSE, SSE2\n\nInitializing File System...\nFS: 30774 files cached, 4970Kb memory used.\nInit FileSystem 2.016628 sec\n'xrCore' build 3116, Aug 15 2007\n\nInitializing Engine...\nExecuting config-script "user.ltx"...\nStarting INPUT device...\n* [win32]: free[2037560 K], reserved[8536 K], committed[50992 K]\n* [ D3D ]: textures[0 K]\n* [x-ray]: economy: strings[1032 K], smem[0 K]\n\nSOUND: OpenAL: enumerate devices...\nSOUND: OpenAL: EnumerationExtension Present\ndevices Generic Hardware\nSOUND: OpenAL: system  default SndDevice name is Generic Hardware\nSOUND: OpenAL: default SndDevice name set to Generic Software\nSOUND: OpenAL: All available devices:\n1. Generic Hardware, Spec Version 1.1 \n2. Generic Software, Spec Version 1.1 (default)\nSOUND: OpenAL: SelectBestDevice is Generic Software 1.1\nSOUND: OpenAL: Required device: Generic Software. Created device: Generic Software.\n* sound: EAX 2.0 extension: absent\n* sound: EAX 2.0 deferred: absent\n* sound : cache: 65538 kb, 7609 lines, 8820 bpl\n\n* SSample: 1024x768\n* SSample: enabled\n* phase time: 7766 ms\n* phase cmem: 176292 K\nSERVER: Starting...\n* phase time: 85 ms\n* phase cmem: 176522 K\n* Loading objects...\n* 17148 objects are successfully loaded\nSERVER: Connecting...\nCLIENT: Connecting to localhost...\n* client : connection accepted - &lt;&gt;\n* phase time: 14 ms\n* phase cmem: 207684 K\nOpening stream...\n* [Loading VB] 65532 verts, 2047 Kb\n* [Loading IB] 228285 indices, 445 Kb\n* [win32]: free[1089772 K], reserved[262540 K], committed[744776 K]\n* [ D3D ]: textures[177164 K]\n* [x-ray]: economy: strings[3608 K], smem[28221 K]\n* MEMORY USAGE: 312991 K\n* DVB created: 1536K\n* DIB created: 512K\n\n* RM_Dump: rtargets  : 0\n* RM_Dump: rtargetsc : 0\n* RM_Dump: v_shaders : 0\nrefCount:pBaseZB 1\nrefCount:pBaseRT 1\nDeviceREF: 1\n\n</text>
+	</string>
+	<string id="ui_pc_kernel_panic">
+		<text>\n\n#kill - SEGV 1\n\ninit: fatal signal: Segmentation fault\ninit died (signal 0, exit 11)\n\nKERNEL PANIC: Going nowhere without my init!</text>
+	</string>
+	<string id="ui_pc_xray_error_name">
+		<text>error</text>
+	</string>
+	<string id="ui_pc_xray_error_code">
+		<text>FATAL ERROR\n\n[error]Expression\t\t: I\n[error]Function\t\t\t: CInifile::Load\n[error]File\t\t\t\t\t: E:\stalker\patch_1_0004\xrCore\Xr_ini.cpp\n[error]Line\t\t\t\t\t: 166\n[error]Description\t : Can't find include file:\n[error]Arguments\t\t : sDebugProfiler.ltx\n\nstack trace:\n</text>
+	</string>
+	<string id="ui_pc_xray_ini_name">
+		<text>config</text>
+	</string>
+	<string id="ui_pc_xray_ini_code">
+		<text>[General]\nDisplayName = 'xrCore' build 3116, Aug 15 2007\nVersion\t\t = 1.4\nBuild\t\t\t = 3116\n\n[BufferSettings]\nBufferSize\t= 0x400\nMemoryLimit = 0x52C431D5\nMemoryHole\t= 0x2A438C\nSwapBuffers = true\n\n[ErrorSignal]\nSIGHUP\t\t= 1, Hangup\nSIGINT\t\t= 2, Terminal interrupt\nSIGQUIT\t = 3, Terminal quit\nSIGILL\t\t= 4, Illegal instruction\nSIGTRAP\t = 5, Trace trap\nSIGIOT\t\t= 6, IOT Trap\nSIGBUS\t\t= 7, BUS error\nSIGFPE\t\t= 8, Floating point exception\nSIGKILL\t = 9, Kill(can't be caught or ignored)\nSIGUSR1\t = 10, User defined signal 1\nSIGSEGV\t = 11, Invalid memory segment access\nSIGUSR2\t = 12, User defined signal 2\nSIGPIPE\t = 13, Write on a pipe with no reader, Broken pipe\nSIGALRM\t = 14, Alarm clock\nSIGTERM\t = 15, Termination\nSIGSTKFLT = 16, Stack fault\nSIGCHLD\t = 17, Child process has stopped or exited, changed\nSIGCONT\t = 18, Continue executing, if stopped\nSIGSTOP\t = 19, Stop executing(can't be caught or ignored)\nSIGTSTP\t = 20, Terminal stop signal\nSIGTTIN\t = 21, Background process trying to read, from TTY\nSIGTTOU\t = 22, Background process trying to write, to TTY\nSIGURG\t\t= 23, Urgent condition on socket\nSIGXCPU\t = 24, CPU limit exceeded\nSIGXFSZ\t = 25, File size limit exceeded\nSIGVTALRM = 26, Virtual alarm clock\nSIGPROF\t = 27, Profiling alarm clock\nSIGWINCH\t= 28, Window size change\nSIGIO\t\t = 29, I/O now possible\nSIGPWR\t\t= 30, Power failure restart\n\n[Debugger]\nControlVersion = enabled\nAllowMemoryDump = enabled\nSingleton = disabled\n\n[MemoryAlloc]\nMemTotal\t\t = 257124 kB\nMemFree\t\t\t= 67388 kB\nBuffers\t\t\t= 20516 kB\nCached\t\t\t = 124140 kB\nSwapCached\t = 0 kB\nActive\t\t\t = 51736 kB\nInactive\t\t = 108328 kB\nHighTotal\t\t= 0 kB\nHighFree\t\t = 0 kB\nLowTotal\t\t = 257124 kB\nLowFree\t\t\t= 67388 kB\nSwapTotal\t\t= 524152 kB\nSwapFree\t\t = 524152 kB\nDirty\t\t\t\t= 0 kB\nWriteback\t\t= 0 kB\nMapped\t\t\t = 27752 kB\nCommitted_AS = 64300 kB\nPageTables\t = 1044 kB\nVmallocTotal = 3874808 kB\nVmallocUsed\t= 1260 kB\nVmallocChunk = 3873360 kB\n\n[ThreadControl]\nEnableProfile\t= 0\nPackagesOnLoad = 1\nPriority\t\t\t = 0\nTimeOut\t\t\t\t= 6000\nIdle\t\t\t\t\t = 1000\nSuspendIdle\t\t= never\n</text>
+	</string>
+	<string id="ui_pc_xray_inf_name">
+		<text>cpudrv</text>
+	</string>
+	<string id="ui_pc_xray_inf_code">
+		<text>[Version]\nSignature = "$SmartOS$"\nProvider = %XRAY%\nClassGUID = {4C35E273-E315-14CE-BFC1-08002BE11318}\nClass = CPU\nCatalogFile = xraycpudrv.cat\nDriverVer = 08/03/2006,6.0.5500.0\n\n[Manufacturer]\n%XRAY% = XRAY\n\n[xraycpudrv.oem]\nCopyFiles = xray_cpu_drv\n\n[xray_cpu_drv]\npipeline.dll\nnorth_bridge.dll\nsouth_bridge.dll\n\n[SourceDisksNames]\n1 = %Location%,,\n\n[SourceDisksNames.x86]\n2 = %Location%,,,"i386"\n\n[SourceDisksNames.amd64]\n2 = %Location%,,,"amd64"\n\n[Strings]\nXRAY = "XRAY Technology, LTD"\nLocation = "CPUDrv Core Driver File Location"\n</text>
+	</string>
+	<string id="ui_pc_xray_fsm_name">
+		<text>fsm.lua</text>
+	</string>
+	<string id="ui_pc_xray_fsm_code">
+		<text>class "FSM"\n\nfunction FSM:__init(script_name, npc_obj)\n\tself.npc = npc_obj\n\tself.script_name = script_name\n\tself.transition_matrix = {[0] = {}}\n\tself.current_state = 0\n\tself.machine_running = true\nend\n\nfunction FSM:is_running()\n\treturn self.machine_running\nend\n\nfunction FSM:start()\n\tself.machine_running = true\nend\n\nfunction FSM:stop()\n\tself.machine_running = false\n\tself:reset_script_control()\nend\n\nfunction FSM:set_transition(from_state_num, to_state_num, cond_func)\n\tif self.transition_matrix[from_state_num] == nil then\n\t\tself.transition_matrix[from_state_num] = {[to_state_num] = cond_func}\n\telse\n\t\tself.transition_matrix[from_state_num][to_state_num] = cond_func\n\tend\nend\n\nfunction FSM:run()\n\tlocal transition_vector = self.transition_matrix[self.current_state]\n\ttable.foreach(transition_vector,\n\t\tfunction(to_state_num, cond_func)\n\t\tif cond_func(self.npc, self) == true then\n\t\t\tif to_state_num == 0 then\n\t\t\t\tself:reset_script_control()\n\t\t\tend\n\t\t\tself.current_state = to_state_num\n\t\t\treturn true\n\t\tend\n\t\treturn nil\n\t\tend)\nend\n\nfunction FSM:run_loop()\n\twhile self:is_running() do\n\t\tlocal transition_vector = self.transition_matrix[self.current_state]\n\t\ttable.foreach(transition_vector,\n\t\t\tfunction(to_state_num, cond_func)\n\t\t\t\tif cond_func(self.npc, self) == true then\n\t\t\t\t\tif to_state_num == 0 then\n\t\t\t\t\t\tself:reset_script_control()\n\t\t\t\t\tend\n\t\t\t\t\tself.current_state = to_state_num\n\t\t\t\t\treturn true\n\t\t\t\tend\n\t\t\t\treturn nil\n\t\t\tend)\n\t\tif self.npc:alive () == false then\n\t\t\tself.npc:script (false, self.script_name)\n\t\t\treturn\n\t\tend\n\t\twait()\n\tend\nend\n\nfunction FSM:set_script_control()\n\tself.npc:script(true, self.script_name)\nend\n\nfunction FSM:reset_script_control()\n\tself.npc:script(false, self.script_name)\nend\n</text>
+	</string>
+	<string id="ui_pc_xray_acdc_name">
+		<text>acdc.pl</text>
+	</string>
+	<string id="ui_pc_xray_acdc_code">
+		<text># !perl -w\n# last edited:	21 Aug 2007\n# author: Putin khuilo\n# partial code\n\npackage data_packet;\nuse strict;\nsub new {\n\tmy $class = shift;\n\tmy $self = {};\n\t($self->{data}) = @_;\n\tbless($self, $class);\n\treturn $self;\n}\n\nsub unpack {\n\tmy $self = shift;\n\tmy $template = shift;\n\tdie if !(defined $self);\n\tdie if !(defined $self->{data});\n\tdie if !(defined $template);\n\tdie if length($self->{data}) == 0;\n\tmy @values = unpack($template.'a*', $self->{data});\n\tdie if $#values == -1;\n\t$self->{data} = splice(@values, -1);\n\tdie if !(defined $self->{data});\n\treturn @values;\n}\n\nsub pack {\n\tmy $self = shift;\n\tmy $template = shift;\n\tdie if !(defined($template));\n\tdie if !(defined(@_));\n\tdie unless defined $_[0];\n\t$self->{data} .= pack($template, @_);\n}\n\nuse constant template_for_scalar => {\n\th32	=> 'V', h16	=> 'v', h8	=> 'C',\n\tu32	=> 'V',	u16	=> 'v',	u8	=> 'C',\n\tq8\t=> 'C',	s32	=> 'l',	s16	=> 'v',\n\ts8\t=> 'C',	sz	=> 'Z*', f32	=> 'f',\n};\n\nuse constant template_for_vector => {\n\tl32u8v => 'V/C',	l32u16v	=> 'V/v',\n\tu8v8 \t=> 'C8', f32v3	=> 'f3',\n};\n\nsub unpack_properties {\n\tmy $self = shift;\n\tmy $container = shift;\n\tforeach my $p (@_) {\n\t\tif ($p->{type} eq 'shape') {\n\t\t\tmy ($count) = $self->unpack('C');\n\t\t\twhile ($count--) {\n\t\t\t\tmy %shape;\n\t\t\t\t($shape{type}) = $self->unpack('C');\n\t\t\t\tif ($shape{type} == 0) {\n\t\t\t\t\t@{$shape{sphere}} = $self->unpack('f4');\n\t\t\t\t} elsif ($shape{type} == 1) {\n\t\t\t\t\t@{$shape{box}} = $self->unpack('f12');\n\t\t\t\t} else {\n\t\t\t\t\tdie;\n\t\t\t\t}\n\t\t\t\tpush @{$container->{$p->{name}}}, \%shape;\n\t\t\t}\n\t\t} else {\n\t\t\tmy $template = template_for_scalar->{$p->{type}};\n\t\t\tif (defined $template) {\n\t\t\t\t($container->{$p->{name}}) = $self->unpack($template);\n\t\t\t\tif ($p->{type} eq 'sz') {\n\t\t\t\t\tchomp $container->{$p->{name}};\n\t\t\t\t\t$container->{$p->{name}} =~ s/\r//g;\n\t\t\t\t}\n\t\t\t} else {\n\t\t\t\t@{$container->{$p->{name}}} = $self->unpack(template_for_vector->{$p->{type}});\n\t\t\t}\n\t\t}\n\t}\n}\n\nsub pack_properties {\n\tmy $self = shift;\n\tmy $container = shift;\n\n\tforeach my $p (@_) {\n\t\tmy $template = template_for_scalar->{$p->{type}};\n\t\tif (defined $template) {\n\t\t\t$self->pack($template, $container->{$p->{name}});\n\t\t} elsif ($p->{type} eq 'shape') {\n\t\t\t$self->pack('C', $#{$container->{$p->{name}}} + 1);\n\t\t\tforeach my $shape (@{$container->{$p->{name}}}) {\n\t\t\t\t$self->pack('C', $$shape{type});\n\t\t\t\tif ($$shape{type} == 0) {\n\t\t\t\t\t$self->pack('f4', @{$$shape{sphere}});\n\t\t\t\t} elsif ($$shape{type} == 1) {\n\t\t\t\t\t$self->pack('f12', @{$$shape{box}});\n\t\t\t\t}\n\t\t\t}\n\t\t} else {\n\t\t\tmy $n = $#{$container->{$p->{name}}} + 1;\n\t\t\tif ($p->{type} eq 'l32u16v') {\n\t\t\t\t$self->pack("Vv$n", $n, @{$container->{$p->{name}}});\n\t\t\t} elsif ($p->{type} eq 'l32u8v') {\n\t\t\t\t$self->pack("VC$n", $n, @{$container->{$p->{name}}});\n\t\t\t} elsif ($p->{type} eq 'u8v8') {\n\t\t\t\t$self->pack("C$n", @{$container->{$p->{name}}});\n\t\t\t} elsif ($p->{type} eq 'f32v3') {\n\t\t\t\t$self->pack('f3', @{$container->{$p->{name}}});\n\t\t\t} elsif ($p->{type} eq 'q8v') {\n\t\t\t\t$self->pack("C$n", @{$container->{$p->{name}}});\n\t\t\t} else {\n\t\t\t\tdie;\n\t\t\t}\n\t\t}\n\t}\n}\n\nsub length {\n\tmy $self = shift;\n\treturn length($self->{data});\n}\n\nsub data {\n\tmy $self = shift;\n\treturn $self->{data};\n}\n</text>
+	</string>
+	<string id="ui_pc_scanner_name">
+		<text>auth_codes.txt</text>
+	</string>
+	<string id="ui_pc_scanner_code">
+		<text>Усі сканери мають перевизначальний код авторизації в разі виникнення надзвичайної ситуації - 2345.</text>
+	</string>
+	<string id="oversight_pc_behind_the_scene">
+		<text>transactions.txt</text>
+	</string>
+	<string id="oversight_pc_behind_the_scene_text">
+		<text>Ми перевели оплату на новий обліковий запис за співпрацю, очікуйте подальших інструкцій.. Особистий обліковий запис - 12456301346, Банк Америки.</text>
+	</string>
+	<string id="oversight_pc_about_enlightered_name">
+		<text>report.txt</text>
+	</string>
+	<string id="oversight_pc_about_enlightered_text">
+		<text>Ось повний звіт про наші експерименти з генетичною послідовністю який ви запитували. Це дійсно прорив, я очікую повну суму платежу як домовлялись.</text>
+	</string>
+		<string id="oversight_pc_holo_codes_name">
+		<text>override_lock.txt</text>
+	</string>
+<!--
+	<string id="oversight_pc_holo_codes_text">
+		<text>Я надсилаю вам перевизначальний коди до нашої нової розробки, як обіцяв. Будь ласка, будьте обережні, ми не хочемо жодних неприємних інцидентів, правда?</text>
+	</string>
+-->
+		<string id="oversight_nsa_sources_name">
+		<text>nsa.txt</text>
+	</string>
+	<string id="oversight_pc_holo_codes_text">
+		<text>Я подивився код, що Ви надіслали мені, це вражає... але чи можемо ми бути впевненими, що є перевірка на випадок виникнення надзвичайної ситуації? Більшість програмного коду була написана на асемблері, але ви прислали мені кілька частин на основі... C#0, чи можу я отримати документацію? Досить складно прочитати код, який я не повністю розумію...</text>
+	</string>
+	<string id="oversight_enlightered_orders">
+		<text>Пошта</text>
+	</string>
+	<string id="oversight_enlightered_letter_text">
+		<text>Ви отримали наказ, док, зустріти суб'єкт 0 на болоті і переконати його слідувати своїм шляхом, та благословить вас Бог.</text>
+	</string>
+</string_table>

@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_up_arm_n0_descr">
+		<text>Встановлення пластин підвищує захист від вогнепальної зброї</text>
+	</string>
+	<string id="st_up_arm_n1_descr">
+		<text>І без того легку конструкцію можна полегшити заміною деяких компонентів на більш полегшені</text>
+	</string>
+	<string id="enc_weapons_wpn-groza_m2">
+		<text>Особиста Гроза Майора з НДІ. Крім самостійно зроблених поліпшень, так само оснащена збільшеним магазином. Коштовна і корисна річ в умовах Зони</text>
+	</string>
+	<string id="ammo_762x39_s">
+		<text>Кулі 7,62х39 мм</text>
+	</string>
+	<string id="ammo_762x39_s_s">
+		<text>7,62х39</text>
+	</string>
+	<string id="ammo_762x39_ap">
+		<text>Кулі 7,62х39 мм БП</text>
+	</string>
+	<string id="ammo_762x39_ap_s">
+		<text>7,62х39 БП</text>
+	</string>
+	<string id="nauchniy_outfit_name">
+		<text>Халат вченого</text>
+	</string>
+	<string id="nauchniy_outfit_description">
+		<text>Звичайний халат, що носять учені у лабораторіях.</text>
+	</string>
+	<string id="wpn-ak74_m0">
+		<text>АК приреченого</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74_m0">
+		<text>Дуже старий та іржавий АК, що, можливо, переживе ще свою останню перестрілку</text>
+	</string>
+	<string id="wpn-akms_m1">
+		<text>Снайперський АКМС</text>
+	</string>
+	<string id="enc_weapons1_wpn-akms_m1">
+		<text>Модифікація АКМС для ведення снайперського вогню. Набагато влучніший звичайного аналога, але режим вогню тільки одиночними пострілами. Оснащений незнімним прицілом</text>
+	</string>
+	<string id="st_up_weap_n1_nm">
+		<text>Полегшення конструкції</text>
+	</string>
+	<string id="st_up_weap_n1_descr">
+		<text> Деякі металеві компоненти, по можливості, будуть замінені на аналогічні з полімерів. </text>
+	</string>
+	<string id="st_up_weap_n2_nm">
+		<text>Заміна труби</text>
+	</string>
+	<string id="st_up_weap_n2_descr">
+		<text> Заміна труби на аналогічну з більш легкого металу. Якість і надійність сильно падають, але вага гранатомета дозволяє навіть спринтувати з ним. </text>
+	</string>
+	<string id="st_up_weap_n3_nm">
+		<text>Перебалансування труби</text>
+	</string>
+	<string id="st_up_weap_n3_descr">
+		<text>Невелике подовження труби дозволяє поліпшити настильність польоту пострілу. </text>
+	</string>
+	<string id="st_up_weap_n4_nm">
+		<text>Поліпшення спускового механізму</text>
+	</string>
+	<string id="st_up_weap_n4_descr">
+		<text>Заміна ударно-спускового механізму на більш надійний і сучасний збільшує початкову швидкість польоту пострілу. </text>
+	</string>
+	<string id="sid_find_monster_part_descr">
+		<text>Знайти і принести Сидоровичу трофейну частину монстра на замовлення</text>
+	</string>
+	<string id="sid_find_tail">
+		<text>Знайти хвіст сліпого пса</text>
+	</string>
+	<string id="sid_find_tail_text">
+		<text>Мені часто з Великої землі замовляють трофеї з мутантів, може щоб похвалитися, можливо одяг шиють. Мені потрібний хвіст сліпого собаки</text>
+	</string>
+	<string id="sid_find_zombie_hand">
+		<text>Знайти руку зомбі</text>
+	</string>
+	<string id="sid_find_zombie_hand_text">
+		<text>Іноді я продаю вченим невеликими партіями частини тіл монстрів, от зараз відправляю руки зомбі. Принеси мені одну</text>
+	</string>
+	<string id="sid_find_karlik_ear">
+		<text>Знайти вухо карлика</text>
+	</string>
+	<string id="sid_find_karlik_ear_text">
+		<text>Я тут недавно одну байку чув... Хочу тепер перевірити. Для цього мені потрібно вухо карлика</text>
+	</string>
+	<string id="sid_find_pseudo_tail">
+		<text>Знайти хвіст псевдособаки</text>
+	</string>
+	<string id="sid_find_pseudo_tail_text">
+		<text>Псевдособака це небезпечний супротивник, а тому і трофеї з нього дуже цінуються. Так що принеси мені один хвіст</text>
+	</string>
+	<string id="sid_find_artefact_descr">
+		<text>Знайти і принести Сидоровичу артефакт на замовлення</text>
+	</string>
+	<string id="sid_find_artefact_1">
+		<text>Знайти "Медузу"</text>
+	</string>
+	<string id="sid_find_artefact_1_text">
+		<text>Мій основний бізнес - торгівля артефактами. Вони потрібні мені завжди. Зараз, наприклад, потрібна "Медуза"</text>
+	</string>
+	<string id="sid_find_artefact_2">
+		<text>Знайти "Виверт"</text>
+	</string>
+	<string id="sid_find_artefact_2_text">
+		<text>Мій основний бізнес - торгівля артефактами. Вони потрібні мені завжди. Зараз, наприклад, потрібний "Виверт"</text>
+	</string>
+	<string id="sid_find_artefact_3">
+		<text>Знайти "Слиз"</text>
+	</string>
+	<string id="sid_find_artefact_3_text">
+		<text>Мій основний бізнес - торгівля артефактами. Вони потрібні мені завжди. Зараз, наприклад, потрібна "Слиз"</text>
+	</string>
+	<string id="sid_find_artefact_4">
+		<text>Знайти "Краплі"</text>
+	</string>
+	<string id="sid_find_artefact_4_text">
+		<text>Мій основний бізнес - торгівля артефактами. Вони потрібні мені завжди. Зараз, наприклад, потрібні "Краплі"</text>
+	</string>
+	<string id="sid_find_artefact_5">
+		<text>Знайти "Колючку"</text>
+	</string>
+	<string id="sid_find_artefact_5_text">
+		<text>Мій основний бізнес - торгівля артефактами. Вони потрібні мені завжди. Зараз, наприклад, потрібна "Колючка"</text>
+	</string>
+	<string id="sid_find_artefact_6">
+		<text>Знайти "Бенгальський вогонь"</text>
+	</string>
+	<string id="sid_find_artefact_6_text">
+		<text>Мій основний бізнес - торгівля артефактами. Вони потрібні мені завжди. Зараз, наприклад, потрібний "Бенгальський вогонь"</text>
+	</string>
+	<string id="gar_ser_kill_mutants_descr">
+		<text>Убити мутантів на прохання Сірого</text>
+	</string>
+	<string id="gar_ser_kill_bandits_descr">
+		<text>Убити бандитів на прохання Сірого</text>
+	</string>
+	<string id="gar_ser_kill_dogs">
+		<text>Убити собак на Смітнику</text>
+	</string>
+	<string id="gar_ser_kill_dogs_text">
+		<text>З'явилася величезна зграя собак на заході Смітника. І на Агропром не потрапити, і взагалі ходити страшно. Розберешся з ними?</text>
+	</string>
+	<string id="gar_ser_kill_bandits1">
+		<text>Убити бандитів біля будівництва</text>
+	</string>
+	<string id="gar_ser_kill_bandits2">
+		<text>Убити бандитів біля проходу на Агропром</text>
+	</string>
+	<string id="gar_ser_kill_bandits3">
+		<text>Убити бандитів в ангарі</text>
+	</string>
+	<string id="gar_ser_kill_bandits_text">
+		<text>Ми вбили бандитів тут, але на Смітнику їх ще багато. Хочу позбутися від них і звільнити смітник для сталкерів.</text>
+	</string>
+	<string id="gar_ser_kill_boars">
+		<text>Убити кабанів на Смітнику</text>
+	</string>
+	<string id="gar_ser_kill_boars_text">
+		<text>Бігають ці чудовиська, прямо біля нашого табору. Набридли вже, якщо чесно. Розберешся з ними?</text>
+	</string>
+	<string id="gar_ser_kill_chimeras">
+		<text>Вбити химер</text>
+	</string>
+	<string id="gar_ser_kill_chimeras_text">
+		<text>Зустрічав химер? Люті монстри в Зоні. Навіть спати страшно, поки вони тут. Уб'єш їх?</text>
+	</string>
+	<string id="gar_ser_bring_meat_descr">
+		<text>Принести м'ясо для Сірого</text>
+	</string>
+	<string id="gar_ser_bring_meat1">
+		<text>Принести м'ясо ворони</text>
+	</string>
+	<string id="gar_ser_bring_meat_1_text">
+		<text>Я хотів спробувати приготувати блюдо по одному рецепту, але для цього мені потрібно м'ясо ворони</text>
+	</string>
+	<string id="gar_ser_bring_meat2">
+		<text>Принести м'ясо пацюка</text>
+	</string>
+	<string id="gar_ser_bring_meat_2_text">
+		<text>М'ясо ворони в мене вже є, але за рецептом ще треба м'ясо пацюка</text>
+	</string>
+	<string id="gar_ser_bring_mutant_part_descr">
+		<text>Роздобути для Сірого замовлену частину мутанта</text>
+	</string>
+	<string id="gar_ser_bring_item1">
+		<text>Принести руку зомбі</text>
+	</string>
+	<string id="gar_ser_bring_zombie_hand_text">
+		<text>Я вже давно обіцяв принести вченим руку зомбі для експериментів, але мені лінь зараз цим займатися. Я краще віддам тобі половину оплати, і потім віднесу имруку.</text>
+	</string>
+	<string id="gar_ser_bring_item2">
+		<text>Принести руку зламу</text>
+	</string>
+	<string id="gar_ser_bring_fracture_hand_text">
+		<text>Я забув, що мені потрібна ще й рука зламу. Принесеш?</text>
+	</string>
+	<string id="agr_mole_kill_mutants_descr">
+		<text>Допомогти Кротові позбутися від мутантів</text>
+	</string>
+	<string id="agr_mole_kill_dogs_1">
+		<text>Убити собак на пагорбі</text>
+	</string>
+	<string id="agr_mole_kill_dogs_1_text">
+		<text>Цуциків не бачив? Тут бігає одная зграя, гадят увесь час. Набридли вже мені! Прибий їх.</text>
+	</string>
+	<string id="agr_mole_kill_dogs_2">
+		<text>Убити собак за пагорбом</text>
+	</string>
+	<string id="agr_mole_kill_dogs_2_text">
+		<text>А за пагорбом собак не вбив? Вони мені теж заважають</text>
+	</string>
+	<string id="agr_mole_kill_boars">
+		<text>Убити верескливих кабанів</text>
+	</string>
+	<string id="agr_mole_kill_boars_text">
+		<text>Кабани увесь час попадають в аномалії, а потім верещать як різані. Особливо вночі це заважає. Прибий їх усіх</text>
+	</string>
+	<string id="agr_kill_swamp_flesh">
+		<text>Убити плоть</text>
+	</string>
+	<string id="agr_kill_swamp_flesh_text">
+		<text>Хотів пройтися там по територіях, артефакти пошукати. Але лінь із хрюшками возитися, куль шкода. А грошей не шкода, заплачу якщо вб'єш їх.</text>
+	</string>
+	<string id="general_bring_item_descr">
+		<text>Принести замовлений предмет роботодавцеві</text>
+	</string>
+	
+
+  <string id="st_prop_scope_x">
+		<text>x</text>
+  </string>
+  <string id="st_prop_scope_xx">
+		<text>Збільшення кратності</text>
+  </string>
+  <string id="st_prop_scope_xx_8">
+		<text>Оптичний приціл 8x</text>
+  </string>
+  <string id="st_prop_scope_xx_10">
+		<text>Оптичний приціл 10x</text>
+  </string>
+  <string id="st_prop_radius">
+		<text>Радіус виявлення +</text>
+  </string>
+  <string id="st_prop_af_db">
+		<text>Поліпшення бази даних</text>
+  </string>
+  <string id="st_up_detect_af_db_name">
+		<text>Відновлення прошивання</text>
+  </string>
+  <string id="st_up_detect_af_db_desc">
+		<text>Системний патч вносить зміни в базу даних, додаючи в неї нові типи артефактів. </text>
+  </string>
+  <string id="prop_af_db_zhrk">
+		<text>База даних: артефакти "Жарка"</text>
+  </string>
+  <string id="prop_af_db_vrnk">
+		<text>База даних: артефакти "Лійки"</text>
+  </string>
+  <string id="prop_af_db_krsl">
+		<text>База даних: артефакти "Каруселі"</text>
+  </string>
+  <string id="prop_af_db_trpl">
+		<text>База даних: артефакти "Трампліна"</text>
+  </string>
+  <string id="prop_af_db_lktr">
+		<text>База даних: артефакти "Електри"</text>
+  </string>
+  <string id="prop_af_db_hldc">
+		<text>База даних: артефакти "Холодець"</text>
+  </string>
+  <string id="prop_af_db_rvls">
+		<text>База даних: артефакти "Іржаве волосся"</text>
+  </string>
+  <string id="prop_af_db_pstk">
+		<text>База даних: артефакти-пустишки</text>
+  </string>
+  <string id="prop_af_db_zhph">
+		<text>База даних: артефакти "Пекучий пух"</text>
+  </string>
+  <string id="prop_af_db_przt">
+		<text>База даних: артефакти-паразити</text>
+  </string>
+  <string id="prop_af_db_tsmt">
+		<text>База даних: Трансмутування артефактів</text>
+  </string>
+  <string id="st_up_binoc_1_name">
+		<text>Шкіряні вставки</text>
+  </string>
+  <string id="st_up_binoc_1_descr">
+		<text>Шкіряні накладки з виїмками під пальці. Трохи збільшують розміри бінокля, але зате бінокль набагато зручніше лежить у руці. </text>
+  </string>
+  <string id="st_up_detect_radius_name">
+		<text>Удосконалення системи детектора</text>
+  </string>
+  <string id="st_up_detect_radius_desc">
+		<text>Удосконалення системи детектора дозволяє збільшити радіус його роботи. </text>
+  </string>
+  <string id="st_up_detect_radius_2_name">
+		<text>Потужні антени</text>
+  </string>
+  <string id="st_up_detect_radius_2_desc">
+		<text>Нові антени майже вдвічі підсилюють покриття детектора, збільшуючи радіус його дії. </text>
+  </string>
+  <string id="st_m">
+		<text>м</text>
+  </string>
+  <string id="st_upgr_experience">
+		<text>техніку не вистачає кваліфікації</text>
+  </string>
+  <string id="st_upgr_materials">
+		<text>техніку не вистачає матеріалів</text>
+  </string>
+  <string id="st_upgr_relation">
+		<text>недостатньо гарні відносини з техніком</text>
+  </string>
+  <string id="st_prop_zoom">
+		<text>Збільшений зум</text>
+  </string>
+  <string id="ui_inv_psy_health_restore_speed">
+		<text>Псі-випромінювання</text>
+  </string>
+  <string id="ui_inv_outfit_add_weight">
+		<text>Додаткова вага</text>
+  </string>
+  <string id="ui_inv_outfit_add_weight2">
+		<text>Додаткова вага</text>
+  </string>
+  <string id="ui_inv_outfit_sprint_allowed">
+		<text>Можливість перегону</text>
+  </string>
+  <string id="binocular_reg_name">
+		<text>Бінокль військовий БКФЦ 4-8х35</text>
+  </string>
+  <string id="binocular_reg_nm">
+		<text>Бінокль БКФЦ</text>
+  </string>
+  <string id="binocular_reg_descr">
+		<text>Військовий бінокль виробництва СРСР. Оснащений кутомірною сіткою і роздільним фокусуванням окулярів. Головна перевага такого бінокля перед іноземними моделями - це більш висока довговічність і більш низька вартість. Головні недоліки - вага та зручність</text>
+  </string>
+  <string id="binocular_modif_name">
+		<text>Бінокль військовий БКФЦ 6-12х35</text>
+  </string>
+  <string id="binocular_modif_descr">
+		<text>Покращена версія розповсюдженого військового бінокля. Небагато дорожчий, але набагато ефективніший.</text>
+  </string>
+  <string id="binocular_electron_name">
+		<text>Бінокль Вітакон 6-12х35</text>
+  </string>
+  <string id="binocular_electron_nm">
+		<text>Бінокль "Вітакон"</text>
+  </string>
+  <string id="binocular_electron_descr">
+		<text>Бінокль японського виробництва. Легкий, з великою кратністю, механічним зумом і можливістю установки електронної начинки. Головний недолік - величезна ціна</text>
+  </string>
+  <string id="st_nightvis_1">
+		<text>ПНВ-01 "Вамір"</text>
+	</string>
+	<string id="st_nightvis_1_descr">
+		<text>Неякісний, дешевий прилад нічного бачення 1-го покоління китайського виробництва. Можливо, може трохи допомогти дивитися в темряві, але якість картинки залишає бажати кращого. Одержав назву через німецькі прилади нічного бачення часів 2 Світової, про які розповідали жарт: "Поки ти користуєшся цим приладом, ти сліпнув як кажан".</text>
+	</string>
+	<string id="st_nightvis_2">
+		<text>ІПН-42 "Білий місяць"</text>
+	</string>
+	<string id="st_nightvis_2_descr">
+		<text>Передовий вітчизняний прилад нічного бачення 3-го покоління військового застосування, іменований у народі "Білий місяць". Імовірно, такі зразки обмінюють на артефакти самі військові, або сталкери знімають із трупів загиблих військових. Забезпечує дуже гарну картинку і яскравість. Незамінна річ для довгих вилазок і експедицій, а його головний плюс, що навіть у безмісячну ніч від нього є користь</text>
+	</string>
+	<string id="st_nightvis_3">
+		<text>АНВ-01 "Полярна зірка"</text>
+	</string>
+	<string id="st_nightvis_3_descr">
+		<text>Остання розробка й лідер в у технологіях нічного бачення. Прилад нічного бачення 4-го покоління, винайдений ученими на Янтарі. У пристрій додана частина 
+		артефакту "Спалах", а картинка виходить сліпуче яскравою і чіткою. У назві є поетичні ноти, начебто прилад вказує шлях, як Полярна зірка</text>
+	</string>
+		<string id="mutant_chimera_hand_name">
+		<text>Chimera hand</text>
+	</string>
+	<string id="mutant_chimera_hand_descr">
+		<text>A hand cut off from one of the most dangerous beasts in the Zone - the Chimera. The paper-thin skin is covered with coarse, short hairs like on a dog, and the steel-hard claws look as if they would flail a man effortlessly.</text>
+	</string>
+	<string id="mutant_giant_eye_name">
+		<text>Pseudogian eye</text>
+	</string>
+	<string id="mutant_giant_eye_descr">
+		<text>An intact eye plucked out of the skull of a the Zone's flesh and bone tank - the Giant. Much bigger than a normal human eye, it's capable of picking up the faintest traces of light, one a human eye would be blind to.</text>
+	</string>
+	<string id="mutant_tushkano_tail_name">
+		<text>Tushkano tail</text>
+	</string>
+	<string id="mutant_tushkano_tail_descr">
+		<text>A tail from a Tushkano, one of the most annoying things in the Zone besides the lack of toilet paper. Lanky, smelly, with some spots of hair, it won't fetch a great price, provided someone will buy one in the first place.</text>
+	</string>
+	<string id="mutant_swampbeast_nose_name">
+		<text>Swambbeast nose</text>
+	</string>
+	<string id="mutant_swampbeast_nose_descr">
+		<text>The olfactory organ of the clumsy swampbeast is nothing to scoff at. According to the eggheads at Lake Yantar, the swampbeast nose has more olfactory receptors than a dog.</text>
+	</string>
+	<string id="mutant_karlito_hand_name">
+		<text>Dwarf hand</text>
+	</string>
+	<string id="mutant_karlito_hand_descr">
+		<text>Hand severed from one of the rarest encounters in the Zone - a braun Dwarf. One can feel the hardness of the skin, as if it's made from steel.</text>
+	</string>
+	<string id="wpn-addon-silencer45">
+		<text>Silencer for .45 cal</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-silencer45">
+		<text>A silencer for pistols using .44 or .45 cal rounds.</text>
+	</string>
+	<string id="wpn-addon-silencer5_45">
+		<text>Silencer for 5.45 mm</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-silencer5_45">
+		<text>A silencer for rifles using 5.45 mm USSR rounds.</text>
+	</string>
+	<string id="wpn-addon-silencer5_56">
+		<text>Silencer for 5.56 mm</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-silencer5_56">
+		<text>A silencer for rifles using 5.56 mm NATO rounds.</text>
+	</string>
+	<string id="wpn-addon-silencer939">
+		<text>Silencer for 9x39 mm</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-silencer939">
+		<text>A silencer for rifles using 9x39 mm rounds.</text>
+	</string>
+	<string id="wpn-addon-silencer7_62">
+		<text>Silencer for 7.62 mm</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-silencer7_62">
+		<text>A silencer for rifles using 7.62 mm rounds.</text>
+	</string>
+	<string id="wpn-addon-silencer918">
+		<text>Silencer for 9 mm</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-silencer918">
+		<text>A silencer for pistols using 9x18 or 9x19 mm rounds.</text>
+	</string>
+	<string id="upgr_data_main">
+		<text>Дані для поліпшення</text>
+	</string>
+	<string id="upg_info_soldier_outfit_name">
+		<text>Командирові блока-поста.txt</text>
+	</string>
+	<string id="upg_info_soldier_outfit_nm">
+		<text>Бронежилети військових</text>
+	</string>
+	<string id="upg_info_soldier_outfit_text">
+		<text>Командирові поста. Віднестися вкрай серйозно. У нас більше немає грошей постійно постачати вас новими костюмами, 
+		але, зважаючи на все, незабаром ми не зможемо забирати костюми і відправляти їх на ремонт виробникові. Тому за кожним великим блоком-постом 
+		буде приставлений технік. Ось вам схема, опис, у загальному все, що потрібно, щоб технік впорався з скостюмами.</text>
+	</string>
+	<string id="upg_info_military_outfit_nm">
+		<text>Костюми спецназу</text>
+	</string>
+	<string id="upg_info_military_outfit_text">
+		<text>Конструктивна схема, технічні характеристики, повний опис. Усе, що потрібно для покращення даного типу костюмів. Дуже корисна і важлива інформація</text>
+	</string>
+  <string id="pda_btn_skiped">
+		<text>Скасовані</text>
+  </string>
+  <string id="pda_btn_skiped_hint">
+		<text>Показати скасовані завдання</text>
+  </string>  
+	<string id="general_reserved_task">
+		<text>Завдання скасовано:</text>
+	</string>
+	<string id="st_no_trade_tip_1">
+		<text>Торговець не цікавиться подібними предметами</text>
+	</string>
+	<string id="st_no_trade_tip_2">
+		<text>Предмет у занадто поганому стані для продажу</text>
+	</string>
+	<string id="st_no_repair_tip_2">
+		<text>Предмет у занадто поганому стані для ремонту</text>
+	</string>
+	<string id="st_detector1">
+		<text>Детектор "Відгук"</text>
+	</string>
+	<string id="st_detector1_descr">
+		<text>Застаріла модель детектора аномальної активності. Може реєструвати присутність артефактів і вимірювати відстань до найближчого з них - відстань до артефакту визначається періодичністю подаваного звукового сигналу. Режим пошуку артефактів включається підняттям кришки-антени на лицьовій панелі приладу. Через простоту конструкції здатний знаходити тільки найпоширеніші артефакти, але є можливість установки нових патчів.</text>
+	</string>
+	<string id="st_detector2">
+		<text>Детектор "Ведмідь"</text>
+	</string>
+	<string id="st_detector2_descr">
+		<text>Детектор аномальної активності минулого покоління. Оснащений локатором аномальних утворень і світодіодним табло для відображення напрямку на артефакт, причому може не тільки виявляти артефакти, але й визначати відстані до них. Режим пошуку артефактів включається підняттям кришки-антени на лицьовій стороні приладу. На жаль, що вже трохи застарів список артефактів, який вшитий у прилад намертво - на апаратному рівні</text>
+	</string>
+	<string id="st_detector3">
+		<text>Детектор "Велес"</text>
+	</string>
+	<string id="st_detector3_descr">
+		<text>Детектор-сканер нового покоління, використовуваний ученими. Завдяки трьом удосконаленим реєстраційним камерам розташування артефакту щодо детектора відображається на спеціальному екрані. Здатний фіксувати випромінювання і присутність аномалій. Режим пошуку артефактів включається підняттям індикатора-табло на лицьовій стороні приладу; у даному режимі здатний виявляти всі відомі науці артефакти</text>
+	</string>
+	<string id="st_detector4">
+		<text>Прототип детектора "Сварог"</text>
+	</string>
+	<string id="st_detector4_descr">
+		<text>Прототип сканера аномальних зон розширеної функціональності. Додано програму розпізнавання статичних зон аномальної активності, які є в базі даних; при цьому збережена можливість виявлення артефактів. Розташування аномальних зон і артефактів щодо детектора відображаються на спеціальному екрані. Програма пошуку артефактів, що включає при піднятті індикатора-табло на лицьовій стороні приладу, удосконалена; теоретично це дозволяє виявити поки не відомі науці аномальні утворення</text>
+	</string>
+	<string id="st_toolkit_1_desc">
+		<text>Набір інструментів «Юний технік». Навряд чи підійде для роботи, у якій потрібна тонкість, але в умовах тотальної недостачі інструментів у Зоні може знадобитися технікові</text>
+	</string>
+	<string id="st_toolkit_1_name">
+		<text>Інструменти для грубої роботи</text>
+	</string>
+	<string id="st_toolkit_2_desc">
+		<text>Непоганий набір інструментів. Зважаючи на все, ретельно підібраний досвідченим майстром «під себе, рідного». Незважаючи на роки, весь інструментарій добре зберігся</text>
+	</string>
+	<string id="st_toolkit_2_name">
+		<text>Інструменти для тонкої роботи</text>
+	</string>
+	<string id="device-torch-adv">
+		<text>Advanced flashlight.</text>
+	</string>
+	<string id="device-torch-eco">
+		<text>Low-voltage flashlight</text>
+	</string>
+	<string id="enc_equipment_devic_device-torch3">
+		<text>A flashlight made by the Zone's native technicians in response to the deficiency of batteries. By lowering the voltage, the power consumption dropped dramaticaly, at the obvious expense of light intensity.</text>
+	</string>
+		<string id="enc_equipment_devic_device-torch2">
+		<text>A military grade flashlight, with increased battery life and a much wider and brighter beam.</text>
+	</string>
+		<string id="enc_weapons1_ammo_ammo_762x39_s">
+		<text>Standard army 7.62x39 ammunition. It packs a mean punch and is cheap and plentiful, since army supplies tend to 'fall off trucks'.</text>
+	</string>
+		<string id="enc_weapons1_ammo_ammo_762x39_ap">
+		<text>Imported chinese steel core ammunition that has improved penetration against body armor.</text>
+	</string>
+		<string id="wpn_fort_m2_name">
+		<text>Fort-15A</text>
+	</string>
+		<string id="wpn_fort_m2_descr">
+		<text>A special, experimental model of the Fort-15. Thanks to changes in the internal mechanisms, it can now fire in full-auto mode. To make such a fire rate viable, the magazine was also enlarged.</text>
+	</string>
+		<string id="enc_weapons1_wpn-groza_m2-1">
+		<text>A custom Groza variant, made for the commander of the Agroprom Research Institure. Besides being rechambered to a more common round, it features the ability to use bigger magazines, and with its mechanisms strenghtened for the harsh conditions of the Zone.</text>
+	</string>
+		<string id="wpn-44_magnum_m1">
+		<text>Borov's Pecker</text>
+	</string>
+		<string id="enc_weapons1_wpn_44_magnum_m1">
+		<text>A .44 Magnum revolver, 'liberated' from the cold, dead hands of the bandit leader, Borov. One can see 'KHUI' crudely carved into the handle. One can wonder what the author of this inscription meant...</text>
+	</string>
+	<string id="st_detector1a_descr">
+		<text>A special, custom-made variant of the Echo detector. It features all the possible upgrades from the base model, and has been given a nice ochre color, hence it's name.</text>
+	</string>
+	<string id="st_addon_scope_susat_custom">
+		<text>Приціл SUSAT "Міра"</text>
+	</string>
+	<string id="st_addon_scope">
+		<text>Приціл ПСО-1м</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>Широко розповсюджений оптичний приціл радянського виробництва фіксованої кратності (5 діоптрій). Оснащений шкалою для визначення дальності до мети. Для установки на зброю використовується стандартне в країнах - учасницях Варшавського договору кріплення типу "хвіст горобця".</text>
+	</string>
+	<string id="st_addon_scope_detector">
+		<text>Приціл ПСС-2х</text>
+	</string>
+	<string id="st_addon_scope_detector_descr">
+		<text>Оптичний приціл фіксованої кратності (5 діоптрій) з убудованою системою захоплення мети на основі тепловизора. Призначений для використання групами спеціального призначення. Для установки на зброю використовується стандартне в країнах - учасницях Варшавського договору кріплення типу "хвіст горобця".</text>
+	</string>
+	<string id="st_addon_scope_night_vision">
+		<text>Приціл НСПУ-3</text>
+	</string>
+	<string id="st_addon_scope_night_vision_descr">
+		<text>Нічний бесподсветочный приціл фіксованої кратності (5 діоптрій). Призначений для ведення бою в умовах відсутності джерел світла. Для установки на зброю використовується стандартне в країнах - учасницях Варшавського договору кріплення типу "хвіст горобця".</text>
+	</string>
+    <string id="st_addon_scope_var">
+		<text>Приціл PO 3-9x24</text>
+  </string>
+  <string id="st_addon_scope_var_descr">
+		<text>Масштабований снайперський приціл. Кріпиться до зброї за допомогою "хвоста горобця".</text>
+  </string>
+	<string id="st_addon_scope_susat">
+		<text>Приціл SUSAT 4х</text>
+	</string>
+	<string id="st_addon_scope_susat_custom_descr">
+		<text>Регульований далекомірний приціл змінної кратності, що (від 1,6 до 4 діоптрій) з можливістю самостійного регулювання для підвищення точності ведення вогню. Установлюється на планку Пікатінні.</text>
+	</string>
+	<string id="st_addon_scope_susat_descr">
+		<text>Оптичний приціл фіксованої кратності (4 діоптрії). Найчастіше використовується для ведення прицільного вогню з легкої стрілецької зброї на середні й більші дистанції. Установлюється на планку Пікатінні. </text>
+	</string>
+	<string id="st_addon_scope_susat_dusk">
+		<text>Приціл SUSAT х1.6 "Сутінки"</text>
+	</string>
+	<string id="st_addon_scope_susat_dusk_descr">
+		<text>Оптичний приціл SUSAT фіксованої кратності (1,6 діоптрії) з підвищеною контрастністю. Призначений для ведення ближнього бою в умовах недостатньої освітленості. Установлюється на планку Пікатінні.</text>
+	</string>
+	<string id="st_addon_scope_susat_night_vision">
+		<text>Приціл SUSAT х4 "Ніч"</text>
+	</string>
+	<string id="st_addon_scope_susat_night_vision_descr">
+		<text>Оптичний приціл фіксованої кратності (4 діоптрії) з інтегрованим приладом нічного бачення. Призначений для ведення бою на далеких дистанціях під час відсутності джерел світла. Установлюється на планку Пікатінні.</text>
+	</string>
+	<string id="st_addon_scope_susat_x1.6">
+		<text>Приціл SUSAT 1.6х</text>
+	</string>
+	<string id="st_addon_scope_susat_x1.6_descr">
+		<text>Оптичний приціл фіксованої кратності (1,6 діоптрії). Призначений для ведення бою на малих і середніх дистанціях. Установлюється на планку Пікатінні.</text>
+	</string>
+	<string id="st_addon_scope_x2.7">
+		<text>Приціл ПСОВІ-1</text>
+	</string>
+	<string id="st_addon_scope_x2.7_descr">
+		<text>Оптичний приціл фіксованої кратності (2,7 діоптрії). Оптимизирован для бою на середніх дистанціях, а також для використання в умовах міської забудови. Для установки на зброю використовується стандартне в країнах - учасницях Варшавського договору кріплення типу "хвіст горобця".</text>
+	</string>
+	<string id="st_wpn_rp">
+		<text>ПКМ</text>
+	</string>
+	<string id="st_wpn_rp_descr">
+		<text>Ручна модифікація армійського кулемета зі стрічковим харчуванням. Незважаючи на високу масу й незадовільну точність бою, знайшов собі досить широке застосування в Зоні. В основному використовується для придушення переважаючого по чисельності супротивника й при зачищеннях мутантів</text>
+	</string>
+	<string id="st_wpn_protecta">
+		<text>Protecta</text>
+	</string>
+	<string id="st_wpn_protecta_descr">
+		<text>Гладкоствольний бойовий дробовик, розроблений для підвищення вогневої моці спецподразделений армії й поліції. Основні достоїнства - високі ємність магазина й практична скорострільність; основні недоліки - значні габарити і вага зброї, а також невисока швидкість перезарядження. У Зоні зустрічається рідко й застосовується в основному для зачищення мутантів</text>
+	</string>
+	<string id="st_toolkit_3_desc">
+		<text>Професійний набір інструментів для тонкого доведення устаткування; напис на ящику говорить, що зроблений він у НДР. Того, що включено в комплект, досить для проведення майже будь-яких робіт з налаштування та калібрування</text>
+	</string>
+	<string id="st_toolkit_3_name">
+		<text>Інструменти для калібрування</text>
+	</string>
+	<string id="st_upg_electro_accur">
+  <text>Електронна стабілізація</text>
+ </string>
+ <string id="st_upg_electro_accur_descr">
+  <text>Автоматичне коректування імпульсу кулі. Значно підвищує влучність пострілу</text>
+ </string>
+<string id="upg_info_f2000_nm">
+  <text>F2000</text>
+ </string>
+ <string id="upg_info_f2000_text">
+  <text>Докладна інформація з усіма необхідними кресленнями для F2000, що дозволяє збільшити швидкострільність</text>
+ </string>
+<string id="upg_info_lr300_nm">
+  <text>LR-300</text>
+ </string>
+ <string id="upg_info_lr300_text">
+  <text>Докладна інформація з усіма необхідними кресленнями для LR-300, що дозволяє зменшити зношування</text>
+ </string>
+ <string id="upg_info_g36_nm">
+  <text>G36</text>
+ </string>
+ <string id="upg_info_g36_text">
+  <text>Докладна інформація з усіма необхідними кресленнями для G36, що дозволяє зменшити віддачу</text>
+ </string>
+<string id="upg_info_sig550_nm">
+  <text>SG 550</text>
+ </string>
+ <string id="upg_info_sig550_text">
+  <text>Докладна інформація з усіма необхідними кресленнями для SG 550, що дозволяє збільшити влучність</text>
+ </string>
+<string id="upg_info_beretta_nm">
+  <text>92FS</text>
+ </string>
+ <string id="upg_info_beretta_text">
+  <text>Докладна інформація з усіма необхідними кресленнями для 92FS, що дозволяє встановити автоматичний режим вогню</text>
+ </string>
+<string id="upg_info_sig220_nm">
+  <text>P220</text>
+ </string>
+ <string id="upg_info_sig220_text">
+  <text>Докладна інформація з усіма необхідними кресленнями для P220, що дозволяє встановити режим вогню відсіченням по 3 кулі</text>
+ </string>
+<string id="upg_info_usp45_nm">
+  <text>USP</text>
+ </string>
+ <string id="upg_info_usp45_text">
+  <text>Докладна інформація з усіма необхідними кресленнями для USP, що дозволяє встановити автоматичний режим вогню</text>
+ </string>
+<string id="upg_info_walther_nm">
+  <text>P99</text>
+ </string>
+ <string id="upg_info_walther_text">
+  <text>Докладна інформація з усіма необхідними кресленнями для P99, що дозволяє встановити режим вогню відсіченням по 3 кулі</text>
+ </string>
+<string id="upg_info_protecta_nm">
+  <text>Protecta</text>
+ </string>
+ <string id="upg_info_protecta_text">
+  <text>Докладна інформація з усіма необхідними кресленнями для Protecta, що дозволяє встановити автоматичний режим вогню</text>
+ </string>
+<string id="upg_info_spas12_nm">
+  <text>SPAS-12</text>
+ </string>
+ <string id="upg_info_spas12_text">
+  <text>Докладна інформація з усіма необхідними кресленнями для SPAS-12, що дозволяє встановити автоматичний режим вогню</text>
+ </string>
+<string id="upg_info_wincheaster1300_nm">
+  <text>Wincheaster 1300</text>
+ </string>
+ <string id="upg_info_wincheaster1300_text">
+  <text>Докладна інформація з усіма необхідними кресленнями для Wincheaster 1300, що дозволяє встановити автоматичний режим вогню</text>
+ </string>
+<string id="upg_info_ik_sys_nm">
+  <text>Автозахват мети в прицілі</text>
+ </string>
+ <string id="upg_info_ik_sys_text">
+  <text>Докладна інформація з усіма необхідними кресленнями для інтеграції інфрачервоного модуля, що забезпечує розпізнавання цілей.</text>
+ </string>	
+<string id="upg_info_exo_nm">
+  <text>Hydraulic boosters</text>
+ </string>
+ <string id="upg_info_exo_text">
+  <text>Extensive info on hydraulic boosters allowing the wearer to sprint.</text>
+ </string>
+
+<string id="upg_info_health_nm">
+  <text>Restoration system schematics</text>
+ </string>
+ <string id="upg_info_health_text">
+  <text>Schematics of generation B injectors that introduce a combat mix of dubious content into the bloodstream, improving tissue regeneration and removing pain.</text>
+ </string>
+
+<string id="upg_info_power_nm">
+  <text>Internal thermal regulation system schematics</text>
+ </string>
+ <string id="upg_info_power_text">
+  <text>Schematics of bodysuit ventilation system with a prevention filter. Suited for work in contaminated areas increasing endurance.</text>
+ </string>
+<string id="upg_info_bleeding_nm">
+  <text>Life support system schematics</text>
+ </string>
+ <string id="upg_info_bleeding_text">
+  <text>Schematics of an integrated system that monitors the wearer's health and introduces coagulation agent into the bloodstream.</text>
+ </string>
+	<string id="agroprom_fixer_name">
+		<text>Кулибин</text>
+	</string>
+	<string id="wave_registrator_name">
+		<text>Сканер мозкових хвиль PSI-1</text>
+	</string>
+	<string id="wave_registrator_descr">
+		<text>Удосконалений пристрій для виявлення, аналізу і запису будь-яких видів телепатичного впливу</text>
+	</string>
+	<string id="pda_item_name">
+		<text>КПК</text>
+	</string>
+	<string id="item_megafon_name">
+		<text>Мегафон</text>
+	</string>
+	<string id="item_megafon_descr">
+		<text>Універсальний переносний пристрій для звукопідсилення</text>
+	</string>
+	<string id="item_document_name">
+		<text>Документ</text>
+	</string>
+	<string id="item_document_descr">
+		<text>Дуже секретно.</text>
+	</string>
+	<string id="item_tranceiver_name">
+		<text>Передатчик</text>
+	</string>
+	<string id="item_tranceiver_descr">
+		<text>Універсальний радіочастотний радіопередатчик.</text>
+	</string>
+	<string id="item_pda_sid_name">
+		<text>КПК для Сидоровича</text>
+	</string>
+	<string id="item_pda_fox_name">
+		<text>КПК Лиса</text>
+	</string>
+	<string id="item_pda_lucky_name">
+		<text>ПДА Щасливчика</text>
+	</string>
+	<string id="item_pda_tiran_name">
+		<text>ПДА Тирана</text>
+	</string>
+	<string id="item_dolg_disc_name">
+		<text>Диск угруповання Долг</text>
+	</string>
+	<string id="item_borov_docs_name">
+		<text>Документи Кабана</text>
+	</string>
+	<string id="item_borov_docs_descr">
+		<text>Карта Темної долини і особисті записи Кабана, у яких є деяка інформація з лабораторії Х-18.</text>
+	</string>
+	<string id="item_wc_map_name">
+		<text>Карта WC</text>
+	</string>
+	<string id="item_wc_map_descr">
+		<text>"Тільки хоробрий пройде!".</text>
+	</string>
+	<string id="item_sheet_mus_name">
+		<text>Ноти</text>
+	</string>
+	<string id="item_sheet_mus_descr">
+		<text>Ноти музичного добутку "Opus Drei".</text>
+	</string>
+	<string id="item_pda_dima_name">
+		<text>КПК для Дмитрика</text>
+	</string>
+	<string id="item_lab_key_name">
+		<text>Ключ від секретної лабораторії</text>
+	</string>
+	<string id="item_pda_scient_name">
+		<text>КПК вченого</text>
+	</string>
+	<string id="item_dog_tags_name">
+		<text>Особистий знак</text>
+	</string>
+	<string id="item_dog_tags_descr">
+		<text>Особистий знак Скаженого Пса</text>
+	</string>
+	<string id="item_textolite_name">
+		<text>Текстоліт</text>
+	</string>
+	<string id="item_extolite_descr">
+		<text>Звичайний текстоліт</text>
+	</string>
+	<string id="item_wires_name">
+		<text>Дроти</text>
+	</string>
+	<string id="item_wires_descr">
+		<text>Звичайні дроти</text>
+	</string>
+	<string id="item_freedom_leader_name">
+		<text>КПК лідера Волі</text>
+	</string>
+	<string id="item_maddog_cristal_name">
+		<text>Артефакт Скаженого Пса</text>
+	</string>
+	<string id="item_scient_flash_card_name">
+		<text>Флешка вченого</text>
+	</string>
+	<string id="item_code_x18_name">
+		<text>Флешка вченого</text>
+	</string>
+	<string id="item_hermit_belong_name">
+		<text>Речі Кочівника</text>
+	</string>
+	<string id="item_hermit_belong_descr">
+		<text>Особисті речі Кочівника</text>
+	</string>
+	<string id="item_lukash_mashine_name">
+		<text>Машина Лукаша</text>
+	</string>
+	<string id="item_lukash_mashine_descr">
+		<text>Машина, що належить Лукашу.</text>
+	</string>
+	<string id="item_batery_case_name">
+		<text>Енергобатарея</text>
+	</string>
+	<string id="item_sar_brick_name">
+		<text>Цегла</text>
+	</string>
+	<string id="item_sar_brick_descr">
+		<text>Цегла</text>
+	</string>
+	<string id="item_sar_tube_name">
+		<text>Труба</text>
+	</string>
+	<string id="item_sar_tube_descr">
+		<text>Металева труба</text>
+	</string>
+	<string id="item_sar_box_name">
+		<text>Ящик</text>
+	</string>
+	<string id="item_sar_box_descr">
+		<text>Дерев'яний ящик</text>
+	</string>
+	<string id="item_scient_package_name">
+		<text>Посилка вчених</text>
+	</string>
+	<string id="item_scient_package_descr">
+		<text>Посилка, яку потрібно доставити вченим</text>
+	</string>
+	<string id="item_forg_toolkit_name">
+		<text>Набір інструментів</text>
+	</string>
+	<string id="item_forg_toolkit_descr">
+		<text>Невеликий набір різних інструментів</text>
+	</string>
+	<string id="item_forg_transistors_name">
+		<text>Транзистори</text>
+	</string>
+	<string id="item_forg_transistors_descr">
+		<text>Коробка транзисторів</text>
+	</string>
+	<string id="item_forg_key_name">
+		<text>Ключ</text>
+	</string>
+	<string id="item_forg_key_descr">
+		<text>Ключ для Лукаша.</text>
+	</string>
+	<string id="item_bcr_calib_tools_name">
+		<text>Інструменти для калібрування</text>
+	</string>
+	<string id="item_bcr_calib_tools_descr">
+		<text>Набір інструментів для калібрування і покращення</text>
+	</string>
+	<string id="item_bcr_basic_tools_name">
+		<text>Інструменти для грубої роботи</text>
+	</string>
+	<string id="item_bcr_basic_tools_descr">
+		<text>Набір основних слюсарних інструментів</text>
+	</string>
+	<string id="item_bcr_condensors_name">
+		<text>Конденсатори</text>
+	</string>
+	<string id="item_bcr_condensors_descr">
+		<text>Конденсатори</text>
+	</string>
+	<string id="item_bcr_code_59_name">
+		<text>Код від дверей</text>
+	</string>
+	<string id="item_bcr_code_59_descr">
+		<text>Число 59.</text>
+	</string>
+	<string id="item_bcr_code_47_name">
+		<text>Код від дверей</text>
+	</string>
+	<string id="item_bcr_code_47_descr">
+		<text>Число 47.</text>
+	</string>
+	<string id="item_bcr_code_5947_name">
+		<text>Кодова комбінація</text>
+	</string>
+	<string id="item_bcr_code_5947_descr">
+		<text>Повна кодова комбінація - 5947.</text>
+	</string>
+	<string id="item_vesics_rifle_name">
+		<text>Гвинтівка</text>
+	</string>
+	<string id="item_vesics_rifle_descr">
+		<text>Рушниця, загублена у катакомбах.</text>
+	</string>
+	<string id="ui_repair_kit_nm">
+		<text>Вікно ремонту</text>
+	</string>
+	<string id="ui_wind_ui_reset_nm">
+		<text>Скидання</text>
+	</string>
+	<string id="ui_wind_ui_open_nm">
+		<text>Відкрити</text>
+	</string>
+	<string id="ui_wind_ui_comm_press_nm">
+		<text>Натисніть (T)</text>
+	</string>
+	<string id="dm_perform_fix_0">
+		<text>Я чув, ти займаєшся ремонтом?</text>
+	</string>
+	<string id="dm_perform_fix_1">
+		<text>Так, що тобі потрібно полагодити?</text>
+	</string>
+	<string id="dm_perform_fix_2">
+		<text>У мене є декілька речей, які потрібно полагодити..</text>
+	</string>
+	<string id="dm_perform_fix_3">
+		<text>Нічого, зараз усе нормально.</text>
+	</string>
+	<string id="dm_perform_fix_ivancov_0">
+		<text>Ви можете дещо полагодити мені?</text>
+	</string>
+	<string id="dm_perform_fix_ivancov_1">
+		<text>Так, звичайно! Що там у тебе?</text>
+	</string>
+	<string id="dm_perform_fix_ivancov_2">
+		<text>Ці речі мають потребу в ремонті...</text>
+	</string>
+	<string id="dm_vehicle_purchase_0">
+	    <text>Я шукаю собі автомобіль для купівлі</text>
+	</string>
+	<string id="dm_vehicle_purchase_1">
+		<text>Звичайно! Який цікавить?</text>
+	</string>
+	<string id="dm_vehicle_purchase_11">
+		<text>У тебе вже є автомобіль, я думаю ще один тобі не потрібний!</text>
+	</string>
+	<string id="dm_vehicle_purchase_111">
+		<text>Добре. Я повернуся пізніше, коли він потрібний буде</text>
+	</string>
+	<string id="dm_vehicle_purchase_2">
+		<text>ВАЗ 2106 - 150 000 гривень</text>
+	</string>
+	<string id="dm_vehicle_purchase_21">
+		<text>Ось, це інформація про нього.</text>
+	</string>
+	<string id="dm_vehicle_purchase_17">
+		<text>Шкода, але грошей на купівлю машини не вистачає</text>
+	</string>
+	<string id="dm_vehicle_purchase_16">
+		<text>Нічого, поки нічого не треба.</text>
+	</string>
+	<string id="dm_vehicle_purchase_3">
+		<text>Нива Армійська - 150 000 гривень</text>
+	</string>
+	<string id="dm_vehicle_purchase_4">
+		<text>Нива Медична - 150 000 гривень</text>
+	</string>
+	<string id="dm_vehicle_purchase_5">
+		<text>УАЗ - 150 000 гривень</text>
+	</string>
+	<string id="dm_vehicle_purchase_6">
+		<text>Трактор T40 - 150 000 гривень</text>
+	</string>
+	<string id="dm_vehicle_purchase_7">
+		<text>Нива - 200 000 гривень</text>
+	</string>
+	<string id="dm_vehicle_purchase_8">
+		<text>Москвич "Кабріолет" - 200 000 гривень</text>
+	</string>
+	<string id="dm_vehicle_purchase_9">
+		<text>Москвич - 200 000 гривень</text>
+	</string>
+	<string id="dm_vehicle_purchase_12">
+		<text>ВАЗ 2106 "Лада Кабріолет" - 200 000 гривень</text>
+	</string>
+	<string id="dm_vehicle_purchase_13">
+		<text>РАФ 33111 - 200 000 гривень</text>
+	</string>
+	<string id="dm_vehicle_purchase_14">
+		<text>КАМАЗ - 300 000 гривень</text>
+	</string>
+	<string id="dm_vehicle_purchase_15">
+		<text>БТР-70 - 500 000 гривень</text>
+	</string>
+	<string id="escape_deal_fox_dstalkers_00">
+        <text>Що тобі потрібно, сталкере?</text>
+	</string>
+	<string id="escape_fox_greatings_3">
+        <text>Добре, дякую. Звучить непогано!</text>
+	</string>
+	<string id="forg_stalker_trader_ask_25">
+        <text>Дякую, ще зустрінемося</text>
+	</string>
+	<string id="forg_dolg_raid_dialog_end0">
+        <text>Як ти?</text>
+	</string>
+	<string id="out_barman_talk_0">
+        <text>Так, що-небудь ще?</text>
+	</string>
+	<string id="agr_stalker_talk_level_00">
+        <text>Привіт сталкере, радий знову зустрітися. Що трапилося?</text>
+	</string>
+	<string id="agr_storinfo_gunsling_flash">
+        <text>Флешка Стрільця</text>
+	</string>
+	<string id="agr_storinfo_gunsling_book">
+        <text>Книга Стрільця</text>
+	</string>
+	<string id="dam_storinfo_sewer_code">
+        <text>Код від дверей у каналізацію</text>
+	</string>
+	<string id="dar_storinfo_admin_pda">
+        <text>Передсмертна записка</text>
+	</string>
+	<string id="dar_storinfo_sec_door">
+        <text>Код від дверей</text>
+	</string>
+	<string id="dar_storinfo_x18_first_key">
+        <text>X-18. Перший ключ</text>
+	</string>
+	<string id="dar_storinfo_x18_second_key">
+        <text>X-18. Другий ключ</text>
+	</string>
+	<string id="dar_storinfo_x18_document_1">
+        <text>X-18. Документ 1</text>
+	</string>
+	<string id="dar_storinfo_x18_document_2">
+        <text>X-18. Документ 2</text>
+	</string>
+	<string id="dar_storinfo_x18_document_3">
+        <text>X-18. Документ 3</text>
+	</string>
+	<string id="dar_storinfo_x18_document_4">
+        <text>X-18. Документ 4</text>
+	</string>
+	<string id="dar_storinfo_x18_document_5">
+        <text>X-18. Документ 5</text>
+	</string>
+	<string id="esc_storinfo_tolik_flash">
+        <text>Флешка Толіка</text>
+	</string>
+	<string id="esc_storinfo_seriy_flash">
+        <text>Флешка Сірого</text>
+	</string>
+	<string id="esc_storinfo_dead_flash">
+        <text>Флешка мертвого сталкера</text>
+	</string>
+	<string id="esc_storinfo_bandit_flash">
+        <text>Флешка бандитів</text>
+	</string>
+	<string id="esc_storinfo_novice_flash">
+        <text>Флешка мертвого новачка</text>
+	</string>
+	<string id="rad_storinfo_patr_call">
+        <text>Поклик Патріарха</text>
+	</string>
+	<string id="rad_monolith_captain_name">
+        <text>Капітан</text>
+	</string>
+	<string id="pri_secret_trader_msg">
+            <text>Таємний торговець:</text>
+	</string>
+	<string id="pri_secret_trader_msg_text">
+            <text>Я буду в цих краях недовго. Моя мітка відображається у тебе на карті. Поспішай!</text>
+	</string>
+	<string id="mil_contact_msg">
+            <text>Повідомлення від Зв'язкового:</text>
+	</string>
+	<string id="mil_contact_msg_text">
+            <text>Привіт! Я вже в дорозі, чекай мене біля розбитого "Москвича".</text>
+	</string>
+	<string id="mil_stalk_camp_msg">
+            <text>Табір сталкерів:</text>
+	</string>
+	<string id="mil_stalk_camp_msg_text">
+            <text>Братики, всі хто мене чує, допоможіть! Наш табір на Армійських складах піддався нападу бандитів!</text>
+	</string>
+	<string id="stalker_camp_contact_name">
+            <text>Зв'язковий</text>
+	</string>
+	<string id="mil_base_down_bm_msg">
+		    <text>Повідомлення від Бармена:</text>
+	</string>
+	<string id="mil_base_down_bm_msg_text">
+		    <text>Мічений! Військові дізналися, що база Найманців тепер вільна і вирішили там влаштуватися! Звалюй звідти і швидшо!</text>
+	</string>
+	<string id="out_meet_fang_msg">
+		    <text>Повідомлення від Ікла:</text>
+	</string>
+	<string id="out_meet_fang_msg_text">
+		    <text>Привіт! Я в секретному укритті на Армійських складах. Нам терміново потрібно зустрітися!</text>
+	</string>
+	<string id="dialogs_my_car_nm">
+            <text>Моя машина</text>
+	</string>
+	<string id="la_actor_sleep_hmmm">
+            <text>Хм...</text>
+	</string>
+	<string id="la_actor_sleep_thirsty">
+            <text>Я хочу пити... Я повинен випити щось, перш ніж лягати спати!</text>
+	</string>
+	<string id="la_actor_sleep_hungry">
+            <text>Я голодний... Я повинен поїсти, перш ніж лягати спати!</text>
+	</string>
+	<string id="la_actor_sleep_enemy">
+            <text>Поблизу вороги! Не час для сну!</text>
+	</string>
+	<string id="la_input_save_prog">
+            <text>Зараз Ви не можете зберегти гру!</text>
+	</string>
+	<string id="sr_blocker_esc_ds_blocker">
+            <text>Дорога закрита через обвал! Будь ласка, знайдіть інший шлях!</text>
+	</string>
+	<string id="sr_blocker_esc_gar_blocker">
+            <text>Загроза зсуву, дорога закрита! Ми вибачаємося за надані незручності!</text>
+	</string>
+	<string id="sr_blocker_gar_agr_blocker">
+            <text>Проводяться дослідження! Будь ласка, майте терпіння!</text>
+	</string>
+	<string id="sr_blocker_gar_rosf_blocker">
+            <text>Заражена ділянка! Прохід закритий!</text>
+	</string>
+	<string id="sr_blocker_gar_val_blocker">
+            <text>Це територія бандитів! Тікайте!</text>
+	</string>
+	<string id="sr_blocker_agr_forg_blocker">
+            <text>Увага! Високе радіаційне забруднення!</text>
+	</string>
+	<string id="sr_blocker_agr_rosf_blocker">
+            <text>Заражена ділянка! Прохід закритий!</text>
+	</string>
+	<string id="sr_blocker_dol_ds_blocker">
+            <text>Дорога закрита через обвал! Будь ласка, знайдіть інший шлях!</text>
+	</string>
+	<string id="sr_blocker_mil_rad_blocker">
+            <text>Високий рівень радіації! Прохід закритий!</text>
+	</string>
+	<string id="sr_blocker_yan_swa_blocker">
+            <text>Територія затоплена! Прохід закритий!</text>
+	</string>
+	<string id="sr_blocker_yan_dc_blocker">
+            <text>Дорога закрита за наказом Військових!</text>
+	</string>
+	<string id="sr_blocker_dam_out_blocker">
+            <text>Вхід у печеру закритий!</text>
+	</string>
+	<string id="sr_blocker_lost_lab_blocker">
+            <text>Щоб пройти, необхідний гарний захист!</text>
+	</string>
+	<string id="sr_blocker_rad_bun_blocker">
+            <text>Для входу потрібний пароль!</text>
+	</string>
+	<string id="sr_blocker_bar_for_blocker">
+            <text>Здійснюється вирубка дерев!</text>
+	</string>
+	<string id="sr_blocker_out_pri_blocker">
+            <text>Шлях заблоковано!</text>
+	</string>
+	<string id="sr_blocker_esc_rosf_blocker">
+            <text>Територія контролюється військовими! Прохід закритий!</text>
+	</string>
+	<string id="darkscape_sin_boss_name">
+            <text>Лідер угруповання Гріх</text>
+	</string>
+	<string id="rad_hidden_pasage">
+            <text>Схований прохід</text>
+	</string>
+	<string id="tr_man_stash_nm">
+            <text>Схованка</text>
+	</string>
+	<string id="credit_name_rimantas">
+            <text>Рімантас Янулявічус</text>
+	</string>
+	<string id="credit_name_raven">
+            <text>Ворон</text>
+	</string>
+	<string id="credit_bio_raven">
+            <text>Ворон любить подорожувати по гарних місцях у Зоні, де ще не бували інші сталкери. Він любить спостерігати за дикими тваринами Зони з безпечної відстані</text>
+	</string>
+	<string id="credit_name_chezz">
+            <text>Чезз Одержимий</text>
+	</string>
+	<string id="credit_bio_chezz">
+            <text>Чезз є сталкером-ветераном, що провів багато років у Зоні. Це час трохи вплинув на його соціальне поводження, що здається досить дивним для більшості інших. Він уважає, що він живе для того, щоб служити великої мети. За свої чудності Чезз одержав прізвисько "Одержимий".</text>
+	</string>
+	<string id="credit_name_alek">
+            <text>Алек Бассел</text>
+	</string>
+	<string id="credit_bio_alek">
+            <text>Алек був ще зовсім молодий, коли уряд США після аварії на Чорнобильської АЕС в 1986 році відправив його родину в Україну, тому що його батько міг надати допомогу у вивченні наслідків катастрофи. Алек виріс у суворих умовах і Зона була єдиним місцем, щоб продовжувати справу батька. Алек залишається осторонь від більшості людей, тільки радиться із ученими, коли йому попадаються цікаві дані. Незважаючи на дуже високе випромінювання, Алек хоче подорожувати в найглибші райони Зони для збору нових і цікавих даних</text>
+	</string>
+	<string id="credit_name_boris">
+            <text>Boris the Shashlik King</text>
+	</string>
+	<string id="credit_bio_boris">
+            <text>Boris the Shashlik King is on his eternal quest to deliver slav culture to the uneducated masses. Although coming into the Zone, where gopniks run around with submachine guns and everyone already squats and drinks vodka might seem as bringing wood to the forest...</text>
+	</string>
+	<string id="credit_name_daniel">
+            <text>Даніель "Чеська смерть" Тейницкі</text>
+	</string>
+	<string id="credit_bio_daniel">
+            <text>Даніель прийшов у Зону, тому що втомився від повсякденного життя і грошового рабства. Він вирішив чекати в Зоні доти, поки зовнішній світ не стане набагато краще.</text>
+	</string>
+	<string id="credit_name_angel">
+            <text>Янгол Убивця</text>
+	</string>
+	<string id="credit_name_hash">
+            <text>Гашиш</text>
+	</string>
+	<string id="credit_bio_hash">
+            <text>Картограф за професією. Детальна інформація відсутня.</text>
+	</string>
+	<string id="credit_name_luke">
+            <text>Люк Кантрелл</text>
+	</string>
+	<string id="credit_name_willis">
+            <text>Джон Уілліс</text>
+	</string>
+	<string id="credit_name_salmon">
+            <text>Майкл Салмон</text>
+	</string>
+	<string id="credit_name_joseph">
+            <text>Джозеф Джеймс</text>
+	</string>
+	<string id="credit_bio_joseph.">
+            <text>Лідер групи сталкерів-одинаків, що базується в барі.</text>
+	</string>
+	<string id="credit_name_musa">
+            <text>Муса</text>
+	</string>
+	<string id="credit_bio_musa">
+            <text>Начитаний сталкер, відчуває себе джентльменом. Він прекрасно ладить із тими, хто розділяє його ідеологічні погляди, але нехтує звичайними сталкерами. Стверджує, що він колись працював з Привидом.</text>
+	</string>
+	<string id="credit_name_thomas">
+            <text>Томас</text>
+	</string>
+	<string id="credit_name_lucian">
+            <text>Люціан Мангу</text>
+	</string>
+	<string id="credit_name_saccone">
+            <text>Йоханнес Сакконі</text>
+	</string>
+	<string id="credit_name_pablo">
+            <text>Пабло Даллас</text>
+	</string>
+	<string id="credit_name_eduard">
+            <text>Едуард Мкртчян</text>
+	</string>
+	<string id="credit_name_ingram">
+            <text>Джозеф Інгрем</text>
+	</string>
+	<string id="credit_name_nataniel">
+            <text>Натаніель Лейн</text>
+	</string>
+	<string id="credit_name_dietmar">
+            <text>Дітмар Стокенрайтнер</text>
+	</string>
+	<string id="credit_name_simm">
+            <text>Нікнув Сімм</text>
+	</string>
+	<string id="credit_name_steiner">
+            <text>Стейнар Міккельсен</text>
+	</string>
+	<string id="credit_name_vilmantas">
+            <text>Вілмантас Покус</text>
+	</string>
+	<string id="credit_name_popov">
+            <text>Микола Попов</text>
+	</string>
+	<string id="credit_name_caplin">
+            <text>Девід Кеплін</text>
+	</string>
+	<string id="credit_name_mainer">
+            <text>Роман Майнер</text>
+	</string>
+	<string id="credit_name_nysted">
+            <text>Пол-Ерік Нестед</text>
+	</string>
+	<string id="credit_name_viktorio">
+            <text>Викторіо Дрілон</text>
+	</string>
+	<string id="credit_name_petr">
+            <text>Піт Кобрл</text>
+	</string>
+	<string id="credit_name_semak">
+            <text>Марко Семак</text>
+	</string>
+	<string id="credit_name_raphael">
+            <text>Рафаель Дордеинс</text>
+	</string>
+	<string id="credit_name_alexander">
+            <text>Олександр Балан</text>
+	</string>
+	<string id="credit_name_rohit">
+            <text>Рохіт Савант</text>
+	</string>
+	<string id="credit_name_grazyna">
+            <text>Гражин Стругін</text>
+	</string>
+	<string id="credit_name_kazakhd">
+            <text>Олексій Козак</text>
+	</string>
+	<string id="credit_name_medvedev">
+            <text>Кирило Медведєв</text>
+	</string>
+	<string id="credit_name_michal">
+            <text>Мічел Шонгет</text>
+	</string>
+	<string id="credit_name_kennedy">
+            <text>Джонатан Кеннеді</text>
+	</string>
+	<string id="credit_name_vladimir">
+            <text>Володимир Лозовський</text>
+	</string>
+	<string id="credit_name_bobilev">
+            <text>Дмитро Бобильов</text>
+	</string>
+	<string id="credit_name_geoff">
+            <text>Джефф Хендерсон</text>
+	</string>
+	<string id="credit_name_nowicki">
+            <text>Андрій Новицкий</text>
+	</string>
+	<string id="credit_name_hajek">
+            <text>Мартін Хашек</text>
+	</string>
+	<string id="credit_name_alois">
+            <text>Алоїс Смолік</text>
+	</string>
+	<string id="credit_name_ivancov">
+            <text>Антон Іванов</text>
+	</string>
+	<string id="credit_name_esbjornson">
+            <text>Андре Есборнсон</text>
+	</string>
+	<string id="credit_name_swift">
+            <text>Кенні Свіфт</text>
+	</string>
+	<string id="credit_name_dave">
+            <text>Дейв Едвардс</text>
+	</string>
+	<string id="credit_name_chris">
+            <text>Кріз</text>
+	</string>
+	<string id="credit_name_naylor">
+            <text>Ентоні Нейлор</text>
+	</string>
+	<string id="specific_character_alex">
+            <text>Алекс</text>
+	</string>
+	<string id="specific_character_milo">
+            <text>Мілоу</text>
+	</string>
+	<string id="gar_sin_meeting">
+            <text>Зустріти перемовника</text> 
+    </string>
+</string_table>

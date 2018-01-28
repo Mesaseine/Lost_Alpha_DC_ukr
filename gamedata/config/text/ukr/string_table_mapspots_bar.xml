@@ -1,0 +1,42 @@
+	<string id="bar_arena_locator">
+		<text>Арена.</text>
+	</string>
+	<string id="bar_bar_locator">
+		<text>Бар «100 рентген»</text>
+	</string>
+	<string id="bar_dolg_locator">
+		<text>База угрупування «Долг»</text>
+	</string>
+	<string id="rostok_banda_volkodava">
+		<text>Вовкодав і його головорізи на гелікоптері</text>
+	</string>
+	<string id="rostok_kruglov">
+		<text>Професор Круглов</text>
+	</string>
+	<string id="rostok_tainyi_hod">
+		<text>Засідка на заводі</text>
+	</string>
+	<string id="rostok_volkodav">
+		<text>Вовкодав</text>
+	</string>
+	<string id="petrenko">
+		<text>Петренко</text>
+	</string>
+	<string id="bar_dead_rpg">
+		<text>РПГ</text>
+	</string>
+	<string id="bar_mutants">
+		<text>Гніздо псевдособак</text>
+	</string>
+		<string id="bar_loner_leader">
+		<text>Лідер сталкерів</text>
+	</string>
+	<string id="guide">
+		<text>Провідник</text>
+	</string>
+	<string id="bug">
+		<text>Жучок</text>
+	</string>
+	<string id="coordinates">
+		<text>Координати</text>
+	</string>

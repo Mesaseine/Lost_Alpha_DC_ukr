@@ -1,0 +1,18 @@
+	<string id="rosf_military_blokpost_warning">
+		<text>Ти на військовій території, сталкере, дотримуйся свого шляху і все буде добре а якщо ні, то у тебе є десять секунд, щоб покинути цю територію!</text>
+	</string>
+	<string id="rosf_military_blokpost_fight">
+		<text>Ти був попереджений, сталкере!</text>
+	</string>
+	<string id="rosf_military_blokpost_warning_been">
+		<text>Сталкере, дотримуйся свого шляху, і не лізь у заборонену територію!</text>
+	</string>
+	<string id="rosf_military_blokpost_ending">
+		<text>Сталкере, ти вчинив мудро.Хай щастить у подорожі!</text>
+        </string>
+	<string id="rosf_safe_code">
+		<text>Код від сейфу на заводі "Росток" - 437.</text>
+	</string>
+	<string id="rosf_find_pda2">
+		<text>Оглянь заповнену газом будівлю, якщо ти хочеш знайти КПК. Не забувай одягнути там протигаз!</text>
+	</string>

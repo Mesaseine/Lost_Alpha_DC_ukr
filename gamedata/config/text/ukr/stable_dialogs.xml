@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="actor_break_dialog_0">
+		<text>До зустрічі!</text>
+	</string>
+	<string id="actor_help_wounded_0">
+		<text>Як ти?</text>
+	</string>
+	<string id="actor_help_wounded_1">
+		<text>Хріново мені, не бачиш? Потрібна аптечка чи хоча б бинт.</text>
+	</string>
+	<string id="actor_help_wounded_11">
+		<text>Тримай аптечку.</text>
+	</string>
+	<string id="actor_help_wounded_111">
+		<text>Дякую, брате, не забуду.</text>
+	</string>
+	<string id="actor_help_wounded_12">
+		<text>Тримай бинт.</text>
+	</string>
+	<string id="actor_help_wounded_13">
+		<text>Вибач, нічого нема.</text>
+	</string>
+	<string id="actor_help_wounded_131">
+		<text>Як же це ти в Зоні ходиш? Підхопиш якусь болячку і навіть не зможеш підлікуватися.</text>
+	</string>
+	<string id="actor_help_wounded_14">
+		<text>Хех, чого ж ти так? Вибач, власні, я тобі не дам, інакше сам залишуся ні з чим.</text>
+	</string>
+	<string id="actor_help_wounded_141">
+		<text>Твоя справа, але не думай, що це тебе прикрашає.</text>
+	</string>
+	<string id="hello_dialog_2">
+		<text>Привіт!</text>
+	</string>
+	<string id="hello_dialog_3">
+		<text>Чуєш, братику, допоможи!</text>
+	</string>
+	
+<!-- trans-arts mutation -->
+
+	<string id="dm_mutation_tutorial_01">
+		<text>Я тут щось чув стосовно експериментів з артефактами...</text>
+	</string>
+	<string id="dm_mutation_tutorial_02">
+		<text>Так, я зараз працюю над процесом під назвою «трaнсмутaцiя». Щоб об'єднати артефакти тобі знадобиться спеціальний ручний сканер вільний від будь-якої радіації. Сканер надасть тобі змогу об'єднати артефакти... так зване «Злиття артефактів». Зазвичай, цей прилад об'єднує компоненти які всередині нього та створює нову хімічну сполуку. Ця хімічна сполука потім буде піддаватися звуковим вібраціям на певних частотах. Зрештою, ультрафіолетові промені покриють поверхню субстанції... ох, що ж це я таке кажу? Все буде добре друже... чи хочеш ти придбати деякі рецепти для з'єднання?</text>
+	</string>
+	<string id="dm_mutation_tutorial_03">
+		<text>Я буду радий, якщо ця штукенція не вибухне в мене в руках.</text>
+	</string>
+	<string id="dm_mutation_tutorial_04">
+		<text>Я застосував усі можливі запобіжні заходи. Просто не намагайся змішувати ці матеріали самотужки  без моєї інформації і все буде добре.</text>
+	</string>
+	<string id="dm_mutation_recipes_01">
+		<text>Чи є у тебе рецепти для змішування артефактів?</text>
+	</string>
+	<string id="dm_mutation_recipes_02">
+		<text>Так, багато з них. Звичайно, використовуй їх на свій страх і ризик, тому що вони не сертифіковані.</text>
+	</string>
+	<string id="dm_mutation_recipes_03">
+		<text>Ось твої гроші.</text>
+	</string>
+	<string id="dm_mutation_recipes_04">
+		<text>Дякую, до зустрічі.</text>
+	</string>
+	<string id="dm_mutation_recipes_05">
+		<text>На даний момент нічого немає, можливо буде пізніше.</text>
+	</string>
+	<string id="dm_mutation_electra_recipe">
+		<text>Електра: 3500.</text>
+	</string>
+	<string id="dm_mutation_eye_recipe">
+		<text>Око: 5000.</text>
+	</string>
+	<string id="dm_mutation_compass_recipe">
+		<text>Компас: 6000.</text>
+	</string>
+	<string id="dm_mutation_ice_recipe">
+		<text>Крига: 4000.</text>
+	</string>
+	<string id="dm_mutation_fire_recipe">
+		<text>Вогонь: 6000.</text>
+	</string>
+	<string id="dm_mutation_baloon_recipe">
+		<text>Повітряна куля: 5k.</text>
+	</string>
+	<string id="dm_mutation_bouquet_recipe">
+		<text>Букет: 3500.</text>
+	</string>
+		<string id="dm_mutation_glass_recipe">
+		<text>Скло: 6000.</text>
+	</string>
+		<string id="dm_mutation_rock_recipe">
+		<text>Камінь: 4000.</text>
+	</string>
+		<string id="dm_mutation_liver_recipe">
+		<text>Печінка: 4000.</text>
+	</string>
+		<string id="dm_mutation_cuttlefish_recipe">
+		<text>Каракатиця: 5000.</text>
+	</string>
+	<string id="dm_mutation_recipes_051">
+		<text>Гарний вибір для початківця. Дуже електрифіковані та ефективні зразки.</text>
+	</string>
+	<string id="dm_mutation_recipes_052">
+		<text>Не залишайте цю річ без нагляду на ніч. Досить страшнувато як не крути!</text>
+	</string>
+	<string id="dm_mutation_recipes_053">
+		<text>Ця річ має дуже чудернацький вигляд, але вона може покращити твій рівень життездатності.</text>
+	</string>
+	<string id="dm_mutation_recipes_054">
+		<text>Воно створює дещо, схоже на сніжинку,так шо ця річ дуже радіоактивна, стережися!.</text>
+	</string>
+	<string id="dm_mutation_recipes_055">
+		<text>І це мій друже...дуже потужно. Я навіть не можу уявити як доторкнутися до цього без перчаток!</text>
+	</string>
+	<string id="dm_mutation_recipes_056">
+		<text>Я створив цю річ про всяк випадок. В результаті отримаємо свого роду бульбашку, що зможе зменшити радіоактивність.</text>
+	</string>
+	<string id="dm_mutation_recipes_057">
+		<text>Це моя улюблена іграшка для гостей, ти можеш спробувати зробити це, якщо хочеш.</text>
+	</string>
+	<string id="dm_mutation_recipes_058">
+		<text>Виробляє ще один потужний артефакт. Не впевнений навіщо я тобі це продаю... Тримай цей рецепт подалі від інших сталкерів.</text>
+	</string>
+	<string id="dm_mutation_recipes_059">
+		<text>Це дасть вам хороший камінчик. От і все.</text>
+	</string>
+	<string id="dm_mutation_recipes_060">
+		<text>Намагався змішувати всі види лайна й отримав цей смердючий шматок... Не впевнений, що від нього є якась користь.</text>
+	</string>
+	<string id="dm_mutation_recipes_061">
+		<text>Я не очікував, що необхідна щелепа кровососа, але будь я проклятий, він поводиться теж як тварина! Тримайте це поруч з собою.</text>
+	</string>
+	<string id="dm_mutation_recipes_062">
+		<text>Губка, що вироблена з цього рецепта, є дуже корисним артефактом. Вона зупинить випромінювання від розповсюдження і допоможе зупинити кровотечу.</text>
+	</string>
+	<string id="dm_mutation_recipes_064">
+		<text>Ну, у мене не так багато слівн стосовно цього. Це була дійсно не дуже гарна ідея об'єднати «Нічну Зірку» та «Золоту Рибку», але ось і маєш.</text>
+	</string>
+	<string id="dm_mutation_recipes_065">
+		<text>Цей рецепт для зацікавлених людей. По суті це кристал, він маленький і захистить тебе від незначних доз радіації.</text>
+	</string>
+</string_table>

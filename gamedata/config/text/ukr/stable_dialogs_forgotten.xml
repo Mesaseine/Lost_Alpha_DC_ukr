@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<string_table>
+	<!--stalker trader-->	
+	<string id="forg_stalker_trader_ask_2">
+        <text>Агов, сталкере. Щось хотів запитати?</text>
+    </string>
+	<string id="forg_stalker_trader_ask_21">
+        <text>Що відбувається у цих краях?</text>
+    </string>
+	<string id="forg_stalker_trader_ask_211">
+        <text>Війна. Принаймні раніше була. Це те місце де «Долг» і «Воля» часто зустрічаються між собою. Моя тобі порада. Шукай кращих місць. Це не Кордон</text>
+    </string>
+	<string id="forg_stalker_trader_ask_2111">
+        <text>Дякую за пораду</text>
+    </string>
+	<string id="forg_stalker_trader_ask_22">
+        <text>Що ти тут робиш</text>
+    </string>
+	<string id="forg_stalker_trader_ask_221">
+        <text>Ну, де є війна, там є прибуток. І я продавав боєприпаси, аптечки, їжу. Звісно зараз тут тихіше, але мені тут подобається, тому я вирішив залишитися. Тепер я займаюся ще й ремонтом і обслуговуванням машин.</text>
+    </string>
+	<string id="forg_stalker_trader_ask_2211">
+        <text>Розумію. Добре що є продавець у цих краях.</text>
+    </string>
+	<string id="forg_stalker_trader_ask_23">
+        <text>Що це за місце?</text>
+    </string>
+	<string id="forg_stalker_trader_ask_231">
+        <text>Ти маєш на увазі те чим було це місце? Наскільки я пам'ятаю це мав бути великий комплекс заводів, але будівництво не було завершене. Це сталося після першого вибуху. Сам розумієш чому. </text>
+    </string>
+	<string id="forg_stalker_trader_ask_2311">
+        <text>Ну так. Дякую за інформацію</text>
+    </string>
+	<string id="forg_stalker_trader_start_2">
+        <text>Агов, сталкере. Не бачив тебе раніше. Що привело тебе у ці краї?</text>
+    </string>
+	<string id="forg_stalker_trader_start_21">
+        <text>Та я просто проходив.. Справи різні, розумієш..</text>
+    </string>
+	<string id="forg_stalker_trader_start_211">
+        <text>Ясно. Ти це, подалі від бару найманців тримайся, а то відріжуть твої справи, не розбираючись</text>
+    </string>
+	<string id="forg_stalker_trader_start_2111">
+        <text>Що, знову погані хлопці? Блін, мені б горло промочити, якщо чесно.</text>
+    </string>
+	<string id="forg_stalker_trader_start_21111">
+        <text>А що, сильно треба?</text>
+    </string>
+	<string id="forg_stalker_trader_start_211111">
+        <text>Ну так. Приємно, коли є що випити, а в наших краях взагалі вибирати не доводиться. А що?</text>
+    </string>
+	<string id="forg_stalker_trader_start_2111111">
+        <text>Що ж. Є один спосіб потрапити туди. Це пароль. І я його знаю.</text>
+    </string>
+	<string id="forg_stalker_trader_start_21111111">
+        <text>Я припускаю що ти так просто його не скажеш. Що ти хочеш за пароль?</text>
+    </string>
+	<string id="forg_stalker_trader_start_211111111">
+        <text>Правильно міркуєш. Є кілька речей які мені потрібні. Принесеш і пароль твій. Що кажеш?</text>
+    </string>
+	<string id="forg_stalker_trader_start_2111111111">
+        <text>Що саме тобі потрібно?</text>
+    </string>
+	<string id="forg_stalker_trader_start_21111111111">
+        <text>Потрібен набір інструментів для точної роботи і декілька транзисторів. Бачиш, радіо накрилося, а я без музики ну ніяк не можу працювати. Інструменти можеш пошукати на старій насосній станції. Кажуть, вони постійно щось ремонтували. А от з транзисторами - труба. Пошукай в таборах бандитів, чим біс не жартує, правильно? Вони там постійно граються з різними дрібницями, якщо ти розумієш про що я, хах.. Ну що, візьмешся?</text>
+    </string>
+	<string id="forg_stalker_trader_start_211111111111">
+        <text>Звичайно. Звучить нескладно. Я дістану їх.</text>
+    </string>
+	<string id="forg_stalker_trader_start_211111111112">
+        <text>Ні друже. Замов на Розетці. Я не настільки пити хочу.</text>
+    </string>
+	<string id="forg_stalker_trader_start_3">
+        <text>Ти знайшов інструменти?</text>
+    </string>
+	<string id="forg_stalker_trader_start_31">
+        <text>Ще ні, я працюю над цим.</text>
+    </string>
+	<string id="forg_stalker_trader_start_4">
+        <text>Ти знайшов інструменти?</text>
+    </string>
+	<string id="forg_stalker_trader_start_41">
+        <text>Так, ось вони</text>
+    </string>
+	<string id="forg_stalker_trader_start_411">
+        <text>Відмінно. Ти знаєш, у мене були сумніви стосовно тебе. Не думав що знову тебе побачу</text>
+    </string>
+	<string id="forg_stalker_trader_start_4111">
+        <text>Я людина слова. Пам'ятай це.</text>
+    </string>
+	<string id="forg_stalker_trader_start_41112">
+        <text>Це точно. І судячи за твоїми очима, і пароль ти вже нарив. Ну що ж, я теж слово давав. Ось, прийми на знак подяки</text>
+    </string>
+	<string id="forg_stalker_trader_start_41111">
+        <text>Це точно. Я теж слово давав. Пароль - «Забув». Цілком собі очевидно, вірно? Хочеш щось сховати - поклади на видне місце. Скажи охороні пароль, і вони пропустять тебе без зайвих слів.</text>
+    </string>
+	<string id="forg_stalker_trader_start_411111">
+        <text>Дякую. Я ціную це</text>
+    </string>
+	<string id="forg_password_dialog_2">
+        <text>Ее, ти що тут робиш? Сподіваюсь знаєш пароль</text>
+    </string>
+	<string id="forg_password_dialog_21">
+        <text>Так, «Забув».</text>
+    </string>
+	<string id="forg_password_dialog_211">
+        <text>Пощастило тобі. Добре, проходь</text>
+    </string>
+	<string id="forg_password_dialog_2111">
+        <text>Побачимося</text>
+    </string>
+	<string id="forg_password_dialog_22">
+        <text>Звісно, пароль «Зона».</text>
+    </string>
+	<string id="forg_password_dialog_221">
+        <text>Краще йди звідси, поки я не пустив тобі кулю в лоб.</text>
+    </string>
+	<string id="forg_password_dialog_2211">
+        <text>Який вразливий. Я впевнений що ще побачимось</text>
+    </string>
+	<string id="forg_barman_good_dialog_2">
+        <text>Чим можу бути корисний, сталкере?</text>
+    </string>
+	<string id="forg_barman_good_dialog_21">
+        <text>Припасами, медикаментами і всім іншим</text>
+    </string>
+	<string id="forg_barman_good_dialog_211">
+        <text>Не питання. Обирай</text>
+    </string>
+	<string id="forg_barman_good_dialog_2111">
+        <text>Дякую.</text>
+    </string>
+	<string id="forg_barman_bad_dialog_2">
+        <text>Тобі тут не раді, сталкере. Не затримуйся!</text>
+    </string>
+	<string id="forg_barman_bad_dialog_21">
+        <text>Звичайно...</text>
+    </string>
+	<string id="forg_dolg_raid_dialog1">
+        <text>Фухх... От халепа! Ти... Ти ж новий лейтенант, так? Воронін про тебе був доброї думки. Бачив тих виродків. Небезпечні тварюки... Чорт, Зона не перестає дивувати! Не нам одним потрібна допомога. Ці тварюки забрали ще 2 бійців.Швидше за все, вони були поранені і закріпились в районі насосної станції. А там бачили цілу зграю мутантів. Боюсь, вони доберуться до хлопців. Захопи з собою побільше аптечок</text>
+    </string>
+	<string id="forg_dolg_raid_dialog2">
+        <text>Нічого, прорвемося. Я погнав.</text>
+    </string>
+	<string id="forg_dolg_raid_dialog3">
+        <text>Друже, величезна тобі подяка! Вибач, але, боюсь помічники з нас зараз ніякі. Ми краще тут закріпимося і почекаємо. Ось координати, тримай.</text>
+    </string>
+    	<string id="forg_dolg_raid_wounded_dialog_0">
+        <text>Допоможіть! Аптечку!</text>
+    </string>
+	<string id="forg_dolg_raid_wounded_dialog_1">
+        <text>[Віддати аптечку]</text>
+    </string>
+	<string id="forg_dolg_raid_wounded_dialog_11">
+        <text>Дякую тобі, друже! Жахливі, створіння, ні? Ще та гидота..!</text>
+    </string>
+	<string id="forg_dolg_raid_wounded_dialog_12">
+        <text>Дякую, лейтенанте! Чесно кажучи, ми вже і не сподівалися вибратись. Бісові карлики нас майже дістали! Ми повинні негайно повернутися до групи і відправитись назад у табір.</text>
+    </string>
+	<string id="forg_dolg_raid_dialog_end1">
+        <text>Все зроблено.</text>
+    </string>
+	<string id="forg_dolg_raid_dialog_end2">
+        <text>Дякую, брате! Дякую, що прийшов! Ще б хвилина - і все! Ми ж ледь не відкинулись тут. Ти зробив для нам неможливе. Повір, ми цього не забудемо! Як зможу, доповім Вороніну, що ми живі. Дякуючи тобі</text>
+    </string>
+	<string id="forg_dolg_raid_dialog_end_fail1">
+        <text>Вони не вижили.</text>
+    </string>
+	<string id="forg_dolg_raid_dialog_end_fail2">
+        <text>Чорт візьми лейтенанте, поганні новини ти приніс. Ці хлопці - кращі з кращих, експерти. Були. Ми їх відправили вивчити новий вид мутантів.Вони тільки частину дослідів записали. Очевидно, решту хотіли записати пізніше, або просто не встигли. Ти хоч уявляєш собі, скільки ми втратили інформації? Чорт! Ну.... Хоча б ми живі, правильно? І на тому добре. Врятував ти нас від тих тварюк.</text>
+    </string>
+	
+	<!-- informer -->
+
+	<string id="forg_informer_0">
+        <text>Сталкере. Можеш вважати мене місцевою бібліотекою. Не безкоштовною, зрозуміло. Потрібна інформація заходь.</text>
+    </string>
+	<string id="forg_informer_1">
+        <text>500 гривень.</text>
+    </string>
+	<string id="forg_informer_11">
+        <text>Пліточка одна пройшла, шо бандюки почали рації робити. В крайньом випадку вони так назвають ці наколінні накладки. Транзистори паяють і все таке. Сталкер спускався в їхній бункер і бачив.</text>
+    </string>
+	<string id="forg_informer_2">
+        <text>1000 гривень.</text>
+    </string>
+	<string id="forg_informer_21">
+        <text>Тут недалеко є насосна станція. Ну як станція? Шматок металу іржавого це, а не станція. Ламалась постійно і її постійно ремонтували. Люди кажуть там навіть інструменти залишились.</text>
+    </string>
+	<string id="forg_informer_3">
+        <text>1500 гривень.</text>
+    </string>
+	<string id="forg_informer_31">
+        <text>У Бармена найманців є ключик, який він сильно любить. Постійно про нього балакає, мов, який він прекрасний і він його до влади приведе. Ніхто не знає про що йде мова, так, мужика всі дебілом вважають. Ні, ну а шо: коли про нього говорить, він цей ключ на стійці залишає - бери і все. А уночі ледь не під подушку ховає.</text>
+    </string>
+	<string id="forg_informer_4">
+        <text>2000 гривень.</text>
+    </string>
+	<string id="forg_informer_41">
+        <text>Найманці в барі - народ серйозний. Я б навіть сказав агресивний. Чужинців  не дуже люблять. Але якщо ти знаєш пароль - зайдеш і вийдеш без проблем, ніхто і слова не скаже. Пароль «Забув», знаю, ориганільно...Але як вже є</text>
+    </string>
+	<string id="forg_informer_5">
+        <text>А монет вистачає?</text>
+    </string>
+	<string id="forg_informer_51">
+        <text>Вистачає.</text>
+    </string>
+	<string id="forg_informer_52">
+        <text>Блін, здається немає</text>
+    </string>
+ 	<string id="forg_informer_53">
+        <text>Як буде - повертайся.</text>
+    </string>
+ 	<string id="forg_informer_6">
+        <text>Чим ще порадуєш?</text>
+    </string>
+ 	<string id="forg_informer_7">
+        <text>Вибач Мічений, більше нічого на даний момент немає.</text>
+    </string>
+	<string id="forg_informer_16">
+        <text>1000 гривень.</text>
+    </string>
+	<string id="forg_informer_18">
+        <text>Якщо вірити старим байкам, є схованка. Код до дверей втрачений. Записаний на папірець, потім порваний і по вітру розвіяний. Ніхто не знає, що в цій схованці, але є людинка, яка має певну інформацію.. Тільки він утік до хутору</text>
+    </string>
+	
+	
+	<string id="forg_stalker_trader_fuel_task_1">
+        <text>Є робота для мене?</text>
+    </string>
+	<string id="forg_stalker_trader_fuel_task_11">
+        <text>Є, звісно є. В Темній долині в судні на річці є пальне. Поставка, як розумієш. Потрібно знищити. Знаєш, скільки шкоди можуть нанести такі речі, коли потраплять не в ті руки?</text>
+    </string>
+	<string id="forg_stalker_trader_fuel_task_111">
+        <text>Навіть не уявляю.</text>
+    </string>
+	<string id="forg_stalker_trader_fuel_task_1111">
+        <text>А тобі і не треба. Відправляйся туди, на базу найманців. Моя людина заховала на даху РПГ. Найди гранатомет і влаштуй там свято з феєрверками, щоб аж на кордоні зацінили. Ну а з мене могорич.</text>
+    </string>
+	<string id="forg_stalker_trader_fuel_task_11111">
+        <text>Зроблю.</text>
+    </string>
+	<string id="forg_stalker_trader_fuel_task_11112">
+        <text>Вибач, але не справа - свята влаштовувати. А я лізти не в свої справи лізти не хочу.</text>
+    </string>
+	<string id="forg_stalker_trader_fuel_task_2">
+        <text>На рахунок пального.</text>
+    </string>
+	<string id="forg_stalker_trader_fuel_task_21">
+        <text>Так, я чув. Своїит вухами, можна сказати. Молодець. Це тобі замість могорича.</text>
+    </string>
+	<string id="forg_stalker_trader_fuel_task_211">
+        <text>Ого дякую! Це навіть більше, ніж я очікував.</text>
+    </string>
+	<string id="forg_stalker_trader_fuel_task_22">
+        <text>Що - на рахунок пального? Воно ще там? Ну швидше. Час не чекає!.</text>
+    </string>
+	<string id="forg_stalker_trader_fuel_task_221">
+        <text>Все буде добре.</text>
+    </string>
+</string_table>

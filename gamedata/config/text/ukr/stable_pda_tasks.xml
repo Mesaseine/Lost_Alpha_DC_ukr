@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<!-- npc_sell -->
+	<string id="pda_npc_sell_001_descr">
+		<text>Зустрітися з продавцем та купити 3x аптечки.</text>
+	</string>
+	<string id="pda_npc_sell_002_descr">
+		<text>Зустрітися з продавцем та купити 2x антирадіації.</text>
+	</string>
+	<string id="pda_npc_sell_003_descr">
+		<text>Зустрітися з продавцем та купити 1x ПМ.</text>
+	</string>
+	<string id="pda_npc_sell_004_descr">
+		<text>Зустрітися з продавцем та купити 1x BM16.</text>
+	</string>
+	<string id="pda_npc_sell_005_descr">
+		<text>Зустрітися з продавцем та купити 1x аптечку та 4x бинти.</text>
+	</string>
+	<string id="pda_npc_sell_006_descr">
+		<text>Зустрітися з продавцем та купити 1x спорядження новачка.</text>
+	</string>
+	<string id="pda_npc_sell_007_descr">
+		<text>Зустрітися з продавцем та купити 1x артефакт «Медуза».</text>
+	</string>
+	<string id="pda_npc_sell_008_descr">
+		<text>Зустрітися з продавцем та купити 1x артефакт «Граві».</text>
+	</string>
+	<string id="pda_npc_sell_009_descr">
+		<text>Зустрітися з продавцем та купити 1x спорядження бандита.</text>
+	</string>
+	<string id="pda_npc_sell_010_descr">
+		<text>Зустрітися з продавцем та купити 1x спорядження новачка.</text>
+	</string>
+	<string id="pda_npc_sell_011_descr">
+		<text>Зустрітися з продавцем та купити 1x артефакт «Краплі».</text>
+	</string>
+	<string id="pda_npc_sell_012_descr">
+		<text>Зустрітися з продавцем та купити 1x артефакт «Кров Каменю».</text>
+	</string>
+	<string id="pda_npc_sell_013_descr">
+		<text>Зустрітися з продавцем та купити 1x голову кота-мутанта.</text>
+	</string>
+	<string id="pda_npc_sell_014_descr">
+		<text>Зустрітися з продавцем та купити 1x хвіст псевдо-собаки.</text>
+	</string>
+	<string id="pda_npc_sell_015_descr">
+		<text>Зустрітися з продавцем та купити 4x акумулятори.</text>
+	</string>
+	<string id="pda_npc_sell_016_descr">
+		<text>Зустрітися з продавцем та купити 1x ремкомплект.</text>
+	</string>
+	<string id="pda_npc_sell_017_descr">
+		<text>Зустрітися з продавцем та купити 2x протигази.</text>
+	</string>
+	<string id="pda_npc_sell_018_descr">
+		<text>Зустрітися з продавцем та купити 1x артефакт «Душа».</text>
+	</string>
+	<string id="pda_npc_sell_019_descr">
+		<text>Зустрітися з продавцем та купити 1x артефакт «Бенгальський Вогонь».</text>
+	</string>
+	<string id="pda_npc_sell_020_descr">
+		<text>Зустрітися з продавцем та купити 1x протиотруту.</text>
+	</string>
+	<string id="pda_npc_sell_021_descr">
+		<text>Зустрітися з продавцем та купити 4x гранати F1.</text>
+	</string>
+	<string id="pda_npc_sell_022_descr">
+		<text>Зустрітися з продавцем та купити 4x банки сардин.</text>
+	</string>
+	
+	<!-- npc_buy -->
+	<string id="pda_npc_buy_001_descr">
+		<text>Зустрітися з покупцем та продати 3x аптечки.</text>
+	</string>
+	<string id="pda_npc_buy_002_descr">
+		<text>Зустрітися з покупцем та продати 2x антирадіації.</text>
+	</string>
+	<string id="pda_npc_buy_003_descr">
+		<text>Зустрітися з покупцем та продати 2x мінеральної води та 2x ковбаси.</text>
+	</string>
+	<string id="pda_npc_buy_004_descr">
+		<text>Зустрітися з покупцем та продати 4x горілки та 4x енергетичних напої.</text>
+	</string>
+	<string id="pda_npc_buy_005_descr">
+		<text>Зустрітися з покупцем та продати 1x ПМ та 1x BM16 обріз.</text>
+	</string>
+	<string id="pda_npc_buy_006_descr">
+		<text>Зустрітися з покупцем та продати 4x коробки боєприпасів 9x18 та 4x коробки 12x70 магазинів картечі.</text>
+	</string>
+	<string id="pda_npc_buy_007_descr">
+		<text>Зустрітися з покупцем та продати 2x гранати F1.</text>
+	</string>
+	<string id="pda_npc_buy_008_descr">
+		<text>Зустрітися з покупцем та продати 1x глушник.</text>
+	</string>
+	<string id="pda_npc_buy_009_descr">
+		<text>Зустрітися з покупцем та продати 1x Susat приціл.</text>
+	</string>
+	<string id="pda_npc_buy_010_descr">
+		<text>Зустрітися з покупцем та продати 1x спорядження бандита.</text>
+	</string>
+	<string id="pda_npc_buy_011_descr">
+		<text>Зустрітися з покупцем та продати 1x артефакт «Кров Каменю».</text>
+	</string>
+	<string id="pda_npc_buy_012_descr">
+		<text>Зустрітися з покупцем та продати 1x артефакт «Кам'яна Квітка».</text>
+	</string>
+	<string id="pda_npc_buy_013_descr">
+		<text>Зустрітися з покупцем та продати 1x артефакт «Граві».</text>
+	</string>
+	<string id="pda_npc_buy_014_descr">
+		<text>Зустрітися з покупцем та продати 1x артефакт «Медуза».</text>
+	</string>
+	
+	<!-- npc know -->
+	<string id="pda_npc_know_001_descr">
+		<text>Купити інформацію.</text>
+	</string>
+	<string id="pda_npc_know_002_descr">
+		<text>Купити інформацію.</text>
+        </string>
+
+<string id="pda_npc_know_003_descr">
+<text>Купити інформацію.</text>
+</string>
+
+<string id="pda_npc_know_004_descr">
+<text>Купити інформацію.</text>
+</string>
+
+<string id="pda_npc_know_005_descr">
+<text>Купити інформацію.</text>
+</string>
+
+<string id="pda_npc_know_006_descr">
+<text>Купити інформацію.</text>
+</string>
+
+<string id="pda_npc_know_007_descr">
+<text>Купити інформацію.</text>
+</string>
+
+<string id="pda_npc_know_008_descr">
+<text>Купити інформацію.</text>
+</string>
+
+<string id="pda_npc_know_009_descr">
+<text>Купити інформацію.</text>
+</string>
+
+<string id="pda_npc_know_010_descr">
+<text>Купити інформацію.</text>
+</string>
+
+<string id="pda_npc_know_011_descr">
+<text>Купити інформацію.</text>
+</string>
+
+<string id="pda_npc_know_012_descr">
+<text>Купити інформацію.</text>
+</string>
+<string id="pda_npc_know_003_descr">
+<text>Купити інформацію.</text>
+</string>
+
+<string id="pda_npc_know_004_descr">
+<text>Купити інформацію.</text>
+</string>
+
+<string id="pda_npc_know_005_descr">
+<text>Купити інформацію.</text>
+</string>
+
+<string id="pda_npc_know_006_descr">
+<text>Купити інформацію.</text>
+</string>
+
+<string id="pda_npc_know_007_descr">
+<text>Купити інформацію.</text>
+</string>
+
+<string id="pda_npc_know_008_descr">
+<text>Купити інформацію.</text>
+</string>
+
+<string id="pda_npc_know_009_descr">
+<text>Купити інформацію.</text>
+</string>
+
+<string id="pda_npc_know_010_descr">
+<text>Купити інформацію.</text>
+</string>
+
+<string id="pda_npc_know_011_descr">
+<text>Купити інформацію.</text>
+</string>
+
+<string id="pda_npc_know_012_descr">
+<text>Купити інформацію.</text>
+</string>
+
+</string_table>

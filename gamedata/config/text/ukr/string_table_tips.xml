@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="car_use">
+		<text>Відчинити двері ($$ACTION_USE$$)</text>
+	</string>
+	<string id="character_use">
+		<text>Розмовляти ($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use">
+		<text>Обшукати тіло ($$ACTION_USE$$)</text>
+	</string>
+	<string id="inventory_item_use">
+		<text>Підняти предмет ($$ACTION_USE$$)</text>
+	</string>
+	<string id="physic_shell_use">
+		<text>Пересунути об'єкт ()</text>
+	</string>
+</string_table>

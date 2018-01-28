@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<!-- barin start -->
+	<string id="enc_gasmask_name">
+		<text>Протигаз</text>
+    </string>
+	<string id="enc_gasmask_descr">
+		<text>Протигаз носиться на обличчі для захисту власника від вдихання повітря із забруднюючими речовинами та токсичними матеріалами. Протигаз забезпечує герметичний захист для носа та рота, але може також захищати очі та інші вразливі м'які тканини обличчя. В процесі Викиду повітря стає забрудненим і ви повинні носити протигаз, інакше отримаєте велику дозу опроміннення і помрете протягом декількох хвилин. Також протигаз може бути корисним ву підземеллях, так як вони були давно завалені.</text>
+    </string>
+	<string id="anom_detector_simple">
+		<text>Простий детектор аномалій</text>
+	</string>
+	<string id="anom_detector_simple_descr">
+		<text>Пристрій для виявлення аномальних полів та збуджень. Повідомляє про присутність аномалії звуком. Для правильної роботи повинен бути під'єднаним до поясу та ввімкненим. Це найдешевший тип серед усіх детекторів і дальність виявлення аномалій залишає бажати кращого.</text>
+	</string>
+	<string id="anom_detector_advanced">
+		<text>Поліпшений детектор аномалій</text>
+	</string>
+	<string id="anom_detector_advanced_descr">
+		<text>Удосконалений детектор аномалій. Для правильної роботи повинен бути під'єднаним до поясу та ввімкненим. У порівнянні зі звичайним детектором аномалій, може знаходити різні аномалії, і діапазон детектування набагато вище.</text>
+	</string>
+	<string id="anom_detector_elite">
+		<text>Елітний детектор аномалій</text>
+	</string>
+	<string id="anom_detector_elite_descr">
+		<text>Пристрій призначений для виявлення аномальних зон, а також осередків радіоактивного забруднення. Для правильної роботи повинен бути під'єднаним до поясу та ввімкненим. Діапазон виявлення дуже високий. Поєднує в собі прості і покращені детектори, це один з кращих способів залишитися живим у Зоні.</text>
+	</string>
+	<string id="enc_guitar_name">
+		<text>Гітара</text>
+	</string>
+	<string id="enc_guitar_descr">
+		<text>Струнний музичний інструмент, що нагадує лютню або скрипку, але більший за розміром та з шістьма струнами. Використовується Сталкерами по всій Зоні, зазвичай коли вони сидять навколо багать.</text>
+	</string>
+	<string id="enc_harmonica_name">
+		<text>Губна гармоніка</text>
+	</string>
+	<string id="enc_harmonica_descr">
+		<text>Від блюзу до гімну Радянського Союзу, цей скромний духовий музичний інструмент програє будь-яку мелодію, яка вам прийде в голову, і, на відміну від вашої аудиторії, гармоніка не буде заперечувати.</text>
+	</string>
+	<string id="enc_nonstop_energy_drink_name">
+		<text>Енергетичний напій «NonStop»</text>
+	</string>
+	<string id="enc_nonstop_energy_drink_descr">
+		<text>На етикетці написано: «Цей напій миттєво омолодить твої розум та тіло». Він схожий на звичайні енергетичні напої, але також має лікувальні властивості, зменшує вплив радіації, зменшує відчуття голоду і дає більше витривалості. Звичайно, він трохи дорожчий, але ціна того варта!</text>
+	</string>
+	<string id="enc_vodka_absolut_name">
+		<text>Горілка "Absolut"</text>
+	</string>
+	<string id="enc_vodka_absolut_descr">
+		<text>Імпортна горілка. Чиста й свіжа з легким ароматом лимонного пирога.</text>
+	</string>
+	<string id="enc_vodka_nemiroff_name">
+		<text>Горілка «Nemiroff»</text>
+	</string>
+	<string id="enc_vodka_nemiroff_descr">
+		<text>Українська горілка з вишуканим тонким смаком. Активний, сильний і в той же час, м'який напій з довгим приємним післясмаком.</text>
+	</string>
+	<string id="enc_vodka_smirnoff_name">
+		<text>Горілка «Smirnoff»</text>
+	</string>
+	<string id="enc_vodka_smirnoff_descr">
+		<text>Імпортна горілка. Горілка отримала 90 очок від інституту дегустації, тому вона просто зобов'язана бути хорошою! Помірно насичена горілка Smirnoff нагадує лимон, білий перець, деревне вугілля, та інше, за якими слідує сплеск багатих ароматів.</text>
+	</string>
+	<string id="enc_mineral_water_name">
+		<text>Мінеральна вода</text>
+	</string>
+	<string id="enc_mineral_water_descr">
+		<text>Нащо багато говорити про це. Це - імпортована чиста вода із зовнішніх земель. Якщо ви не алкоголік, то вам, мабуть, сподобається, навіть якщо смак буде несвіжим. Вона не знизить вплив радіації, але відновить витривалість, здоров'я, і знизить відчуття голоду набагато краще, ніж будь-яка горілка.</text>
+	</string>
+	<string id="enc_korn_conserva_name">
+		<text>Консервована кукурудза</text>
+	</string>
+	<string id="enc_korn_conserva_descr">
+		<text>Через високий вміст білка і вуглеводів, кукурудза була важливим елементом харчування протягом тисяч років. Сьогодні, кукурудза має менше крохмалю та солоду. Добре в ній є те, що заморожена і консервована кукурудза має приблизно таку ж поживну цінність, як і свіжа.\n Якщо кукурудза не буде приготована незабаром після придбання, то вона повинна зберігатися в холодильнику. Холодильник допомагає кукурудзі зберегти цукор і вміст вітаміну С. Консервована кукурудза може зберігатися в закритому вигляді до 10 років!</text>
+	</string>
+	<string id="enc_olives_conserva_name">
+		<text>Тушковане м'ясо з оливками</text>
+	</string>
+	<string id="enc_olives_conserva_descr">
+		<text>Щедра порція консервованого добра для голодного Сталкера. Містить тушковану яловичину та оливки.</text>
+	</string>
+	<string id="enc_sardinia_conserva_name">
+		<text>Сардини</text>
+	</string>        
+	<string id="enc_sardinia_conserva_descr">
+		<text>Загальна назва, яка використовується для позначення різних видів малих, морських риб, таких як шпроти, молоді сардини та оселедці. Ці крихітні риби, райдужні та сріблясті, плавають у величезних басейнах, як правило, поблизу поверхні води. Свіжі сардини доступні в обмежених кількостях протягом літніх місяців, як правило, тільки на узбережжі, де вони були зловлені. Загалом, їх жирне м'ясо краще смакує смаженим, печеним або на грилі. У Сполучених Штатах сардини частіше зустрічаються в солоному, копченому виді або консервовані в маслі, томатному чи гірчичному соусі. Деякі упаковані в звичайному вигляді, в той час як з інших видалили шкіру та кістки і продають у вигляді філе. Назва, як вважають, походить від молодої кільки, яку спіймали біля берегів Сардинії - це була одна з перших риб упакована в олії.</text>
+	</string>
+	<string id="enc_yantar_food_name">
+		<text>Плавлений сирок</text>
+	</string>
+	<string id="enc_yantar_food_descr">
+		<text>Плавлений сирок «Янтар». Має ніжний смак і аромат</text>
+	</string>
+	<string id="enc_peanut_conserva_name">
+		<text>Снек із арахісу</text>
+	</string>
+	<string id="enc_peanut_conserva_descr">
+		<text>Арахіс або земляний горіх (Arachis hypogaea) один з видів родини бобових родом з Південної Америки. Ідеальна закуска в поєднанні з пляшкою пива або горілки в Зоні.</text>
+	</string>
+	<string id="enc_tushenka_conserva_name">
+		<text>Консерва</text>
+	</string>
+	<string id="enc_tushenka_conserva_descr">
+		<text>Дійсно соковита річ, багата на білки та жири. Саме те, що потрібно голодному Сталкеру. Дешевше, ніж будь-яка інша їжа в Зоні, тому що зроблена зі щурів. Однак, якщо ви закриєте очі і подумаєте про курку, ви не відчуєте різниці.</text>
+	</string>
+	<string id="enc_antidote_name">
+		<text>Протиотрута для Х-вірусу</text>
+	</string>
+	<string id="enc_antidote_descr">
+		<text>Протиотрута для Х-вірусу. Вона була розроблена в лабораторії Х-18 в 1989 році. Дуже цінний і рідкісний товар у Зоні. Також підвищує імунітет під час Викидів, що може бути дуже доречним, якщо ви опинилися далеко від схованки.</text>
+	</string>
+	<string id="enc_sleeping_bag_name">
+		<text>Спальний мішок</text>
+	</string>
+	<string id="enc_sleeping_bag_descr">
+		<text>Звичайний спальний мішок. Він не замінить тепле ліжко і обійми матері, але принаймні він непроникний.</text>
+	</string>
+	<string id="enc_item_hand_radio_name">
+		<text>Рація</text>
+	</string>
+	<string id="enc_item_hand_radio_descr">
+		<text>Штатна рація військових, також використовується сталкерами, щоб спілкуватися зі своїми друзями.</text>
+	</string>
+	<string id="enc_rubles_10_name">
+		<text>10 UA</text>
+	</string>
+	<string id="enc_rubles_10_descr">
+		<text>Звичайні 10 гривень.</text>
+	</string>
+	<string id="enc_rubles_50_name">
+		<text>50 UA</text>
+	</string>
+	<string id="enc_rubles_50_descr">
+		<text>Звичайні 50 гривень.</text>
+	</string>
+	<string id="enc_rubles_100_name">
+		<text>100 UA</text>
+	</string>
+	<string id="enc_rubles_100_descr">
+		<text>Звичайні 100 гривень.</text>
+	</string>
+	<string id="enc_rubles_500_name">
+		<text>500 UA</text>
+	</string>
+	<string id="enc_rubles_500_descr">
+		<text>Звичайні 500 гривень.</text>
+	</string>
+	<string id="enc_rubles_1000_name">
+		<text>1000 UA</text>
+	</string>
+	<string id="enc_rubles_1000_descr">
+		<text>Звичайні 1000 гривень.</text>
+	</string>
+	<string id="enc_rubles_5000_name">
+		<text>5000 UA</text>
+	</string>
+	<string id="enc_rubles_5000_descr">
+		<text>Звичайні 5000 гривень.</text>
+	</string>
+	<string id="xray_pda_name">
+		<text>Модуль розширення X-Ray КПК</text>
+	</string>
+	<string id="xray_pda_descr">
+		<text>Цей пристрій розширює можливості вашого КПК. Тепер ви можете спілкуватися зі Сталкерами неподалік, грати в ігри і зберігати різні типи даних на КПК.</text>
+	</string>
+	<string id="xray_pda_skills_name">
+		<text>Модуль навичок X-Ray КПК</text>
+	</string>
+	<string id="xray_pda_skills_descr">
+		<text>Цей модуль був розроблений спеціально, щоб бачити ваші особисті досягнення, здобуті під час дослідження Зони. Він також дозволяє оцінювати навчальні показники, стан здоров'я і т.д.</text>
+	</string>
+	<string id="xray_pda_downs_name">
+		<text>Модуль «Завантаження» для X-Ray КПК</text>
+	</string>
+	<string id="xray_pda_downs_descr">
+		<text>Використовуйте цей модуль, щоб ваш КПК міг читати всю завантажену інформацію з комп'ютерів, він підтримує Wi-Fi і віддалений доступ через ОС на базі Лінукс.</text>
+	</string>
+	<string id="enc_item_battery_name">
+		<text>Лужні батарейки</text>
+	</string>
+	<string id="enc_item_battery_descr">
+		<text>Звичайні лужні батарейки. Саме те, що вам потрібне, коли ліхтарик не світить.</text>
+	</string>
+	<!-- barin end -->
+
+	<!-- vintar start -->
+	
+	<string id="enc_equipment_devic_device-pda_rosf_task">
+		<text>КПК долгівця.</text>
+	</string>
+	<string id="enc_equipment_devic_device-pda_secret_task">
+		<text>КПК ученого.</text>
+	</string>
+	<!-- vintar end -->
+	
+	<!-- lox start -->
+	<string id="enc_equipment_food_vodka2">
+		<text>Горілка використовується Loxotron'ом, щоб заглушити свої почуття. Вкрай небезпечна, має рівну за обсягом кількість спирту і аміаку.</text>
+	</string>
+	<string id="enc_vodka_cmuphob_name">
+		<text>Горілка «Cmuphob»</text>
+	</string>
+	<string id="enc_vodka_cmuphob_descr">
+		<text>Імпортна горілка з Фінляндії. Була переможцем чемпіонату «Кращий смак року".</text>
+	</string>
+	<string id="enc_vodka_hemupob_name">
+		<text>Горілка «Hemupob»</text>
+	</string>
+	<string id="enc_vodka_hemupob_descr">
+		<text>Особлива горілка від відомої торгової марки в Швейцарії. 40 відсотків алкоголю та висока ступінь очищення зробили її лідером на світовому ринку. На етикетці написано - «Ми живемо тільки один раз, наповни свій час задоволенням».</text>
+	</string>
+	<string id="enc_wine_name">
+		<text>Вина Масандри</text>
+	</string>
+	<string id="enc_wine_descr">
+		<text>Вино українського столу найвищої якості, яке зберігалося впродовж майже 2 років у спеціальних умовах. Старі традиції Криму завжди робили це вино кращим вибором на ринку.</text>
+	</string>	
+	<string id="beer_chmielnitskoe_name">
+		<text>Пиво «Хмельницьке»</text>
+	</string>
+	<string id="enc_equipment_beer_chmielnitskoe">
+		<text>Починаючи з 1907 ця популярна марка набиває шлунки усіх громадян України однаково. Вирощені на полях Старої Синяви та Хмельницького, хміль та ячмінь, зібрані за найвищими стандартами, щоб доставити вам найбільшого задоволення.</text>
+	</string>
+	<string id="pripiat_beer_name">
+		<text>Пиво «Прип'ять»</text>
+	</string>
+	<string id="enc_equipment_pripiat_beer">
+		<text>Бармен завжди знав, що прийде день, коли спеціальний рецепт його родини буде втілено в чудовий продукт. Це висококонцентроване пиво зроблене з найкращих місцевих злаків та деяких секретних інгредієнтів.</text>
+	</string>
+	<string id="repair_kit_name">
+		<text>Ремкомплект</text>
+	</string>
+	<string id="repair_kit_descr">
+		<text>Викрутки, обценьки, точильний камінь... усе, що треба в маленькій і компактній майстерні.</text>
+	</string>
+	<!-- lox end -->
+	
+	<string id="Antirad">
+		<text>Антирадіаційні препарати</text>
+	</string>
+	<string id="Arm-heavy">
+		<text>Важке сталкерське спорядження</text>
+	</string>
+	<string id="Arm-light">
+		<text>Легке сталкерське спорядження</text>
+	</string>
+	<string id="Arm-medium">
+		<text>Середнє сталкерське спорядження</text>
+	</string>
+	<string id="bandage">
+		<text>Бинт</text>
+	</string>
+	<string id="Binocul">
+		<text>Бінокль</text>
+	</string>
+	<string id="Bread">
+		<text>Хліб</text>
+	</string>
+	<string id="cit_deadcity_maps_desc">
+		<text>Детальна карта Мертвого міста, що містить схему розташування позицій найманців</text>
+	</string>
+	<string id="cit_deadcity_maps_name">
+		<text>Карта Мертвого міста</text>
+	</string>
+	<string id="cit_doctors_key_desc">
+		<text>Ключ Доктора від схованки у Прип'яті</text>
+	</string>
+	<string id="cit_doctors_key_short_desc">
+		<text>Ключ Доктора</text>
+	</string>
+	<string id="Conserva">
+		<text>«Сніданок туриста»</text>
+	</string>
+	<string id="Detect1">
+		<text>Детектор аномалій</text>
+	</string>
+	<string id="Devic">
+		<text>Прилади та пристрої</text>
+	</string>
+	<string id="device-PDA">
+		<text>КПК</text>
+	</string>
+	<string id="device-torch">
+		<text>Ліхтарик</text>
+	</string>
+	<string id="enc_equipment_armors_arm-heavy">
+		<text>Захисний костюм. Вага - 18 кг. Особливості: захищає тіло від «холодцю», «пекучого пуху», більшості аномалій і механічних ушкоджень. Грудна клітка і спина захищені вбудованими біометалічними пластинами. Обладнаний герметичним металопластиковим шоломом і двома кисневими балонами. Увага: при тривалому використанні стає непридатним - пошкоджується і рветься.</text>
+	</string>
+	<string id="enc_equipment_armors_arm-light">
+		<text>Захисний костюм. Вага - 8 кг. Особливості: захищає тіло від впливу слабких аномалій і механічних ушкоджень. Обладнаний кисневою маскою. Увага: при тривалому використанні стає непридатним - пошкоджується і рветься.</text>
+	</string>
+	<string id="enc_equipment_armors_arm-medium">
+		<text>Захисний костюм. Вага - 12 кг. Особливості: захищає тіло від «холодцю», «пекучого пуху», багатьох аномалій і механічних ушкоджень. Обладнаний герметичним шоломом і кисневим балоном. Увага: при тривалому використанні стає непридатним - пошкоджується і рветься.</text>
+	</string>
+	<string id="enc_equipment_armors_sci2">
+		<text>Захисний скафандр червоного кольору з герметичним шоломом. Вага - 11 кг. Особливості: захищає тіло від вогню, кислот, газів, впливу різноманітних аномалій, «пекучого пуху» і механічних ушкоджень. Обладнаний двома кисневими балонами. Увага: при тривалому використанні стає непридатним - пошкоджується і рветься.</text>
+	</string>
+	<string id="enc_equipment_devic_binocul1">
+		<text>Армійський портативний бінокль.</text>
+	</string>
+	<string id="enc_equipment_devic_detect1">
+		<text>Пристрій, що визначає наявність аномальних полів і збурень і повідомляє про них звуковим сигналом. Для роботи необхідно активувати, розмістивши прилад на поясі.</text>
+	</string>
+	<string id="enc_equipment_devic_device-PDA1">
+		<text>Кишеньковий персональний комп'ютер - незамінний пристрій в Зоні.</text>
+	</string>
+	<string id="enc_equipment_devic_device-PDA2">
+		<text>У цьому КПК згадується клієнт, який послав експедицію в цю лабораторію, і його контактні дані GPS, зашифровані в мобільному, досить нелегко відстежити, хто має цей номер.</text>
+	</string>
+	<string id="enc_equipment_devic_device-torch1">
+		<text>Ліхтарик з досить потужною лампою. Дуже корисна річ в умовах недостатньої освітленості.</text>
+	</string>
+	<string id="enc_equipment_devic_device-torch1_m1">
+		<text>Ліхтарик з досить потужною лампою. Завдяки вдосконаленому трансформатору зменшений час зарядки акумулятора.</text>
+	</string>
+	<string id="enc_equipment_energydrink">
+		<text>Відмінний енергетичний напій «Non stop». Містить кофеїн, таурин і потужний вітамінний комплекс, що знімають втому і додають сил. Не в змозі зробити навіть крок? Тоді це саме те, що потрібно.</text>
+	</string>
+	<string id="enc_equipment_food_bread1">
+		<text>Невідомо, хто примудряється пекти батони на території Зони, проте цей хліб не заражений і цілком їстівний. У всякому разі, ніхто зі сталкерів поки не скаржився.</text>
+	</string>
+	<string id="enc_equipment_food_conserva1">
+		<text>Консерви з розтягнутого сталкерами армійського продовольчого складу. Термін придатності начебто не закінчився.</text>
+	</string>
+	<string id="enc_equipment_food_kolbasa1">
+		<text>Часто, через відсутність кращого, ця ковбаса - суміш курятини і соєвого замінника - сніданок, обід і вечеря сталкера.</text>
+	</string>
+	<string id="enc_equipment_food_vodka1">
+		<text>Горілка виробництва компанії «GSC». Добре п'ється, помітно знижує вплив радіації, проте зловживати нею не слід.</text>
+	</string>
+	<string id="enc_equipment_medi_antirad1">
+		<text>Знижують дію радіації на організм.</text>
+	</string>
+	<string id="enc_equipment_medi_bandage1">
+		<text>Перев'язувальний матеріал. Допомагає зупинити кровотечу.</text>
+	</string>
+	<string id="enc_equipment_medi_medkit1">
+		<text>Універсальний медичний набір. Дозволяє впоратися з травмами різного виду і міри складності - пораненнями, опіками, отруєннями й іншим.</text>
+	</string>
+	<string id="enc_equipment_medi_medkit2">
+		<text>Спеціалізований медичний набір для боротьби з фізичними ушкодженнями і кровотечею. В нього входять компоненти для прискорення згортання крові, знеболювальні, антибіотики та імунні стимулятори.</text>
+	</string>
+	<string id="enc_equipment_medi_medkit3">
+		<text>Медичний набір, розроблений спеціально для роботи в умовах Зони. Склад набору підібраний як для боротьби з пораненнями, так і для виводу радіонуклідів з організму. Перешкоджає розвитку променевої хвороби, а також знижує дозу накопиченої радіації.</text>
+	</string>
+	<string id="energy_drink_name">
+		<text>Енергетичний напій «Non stop»</text>
+	</string>
+	<string id="energy_drink_short_name">
+		<text>Енергетичний напій «Non stop»</text>
+	</string>
+	<string id="Equipment">
+		<text>Екіпіруваня та їжа</text>
+	</string>
+	<string id="Food">
+		<text>Продукти харчування</text>
+	</string>
+	<string id="Kolbasa">
+		<text>Ковбаса Дієтична</text>
+	</string>
+	<string id="Medi">
+		<text>Медичні препарати</text>
+	</string>
+	<string id="Medkit">
+		<text>Аптечка</text>
+	</string>
+	<string id="Medkit_army">
+		<text>Армійська аптечка</text>
+	</string>
+	<string id="Medkit_scientific">
+		<text>Наукова аптечка</text>
+	</string>
+	<string id="Sci2">
+		<text>Науковий EXP-4</text>
+	</string>
+	<string id="Vodka">
+		<text>Горілка «Козаки»</text>
+	</string>
+	<string id="st_detector">
+		<text>Детектор аномалій</text>
+	</string>
+	<string id="st_detector_descr">
+		<text>Призначений для виявлення аномальних зон, а також осередків радіоактивного забруднення.</text>
+	</string>
+	<string id="st_grenade_gd5">
+		<text>Димова граната</text>
+	</string>
+	<string id="enc_pheremones_descr">
+		<text>Феромони мутанта: кажуть, можна заспокоїти деякі види мутантів на короткий час, обливши їх цим.</text>
+	</string>
+	<string id="out_bug_desc">
+		<text>Прослуховувальний пристрій.</text>
+	</string>
+	<string id="out_bug_name">
+		<text>Диктофон.</text>
+	</string>
+	<string id="secret_docs_name">
+		<text>Документи для «Гріха»</text>
+	</string>
+	<string id="secret_docs_descr">
+		<text>Документи із секретної лабораторії, в яких є інформація про проведені в ній експериментів. Цілком таємно.</text>
+	</string>
+	<string id="secret_task_pda_name">
+		<text>КПК ученого</text>
+	</string>
+	<string id="device_pda_sidor_name">
+		<text>КПК зв'язкового</text>
+	</string>
+	<string id="device_pda_sidor_descr">
+		<text>КПК підручного Сидоровича, відправленого шпигувати за бандитами</text>
+	</string>
+	<string id="item_dolg_disc_name">
+		<text>Диск «Долгу»</text>
+	</string>
+	<string id="borov_docs_name">
+		<text>Документи Кабана</text>
+	</string>
+	<string id="borov_docs_descr">
+		<text>Карта Темної долини й особисті записи Кабана, в яких є деяка інформація з лабораторії Х-18.</text>
+	</string>
+	<string id="forest_sheet_music_descr">
+		<text>Ноти музичного твору «Opus Dei».</text>
+	</string>
+	<string id="forest_wc_map_descr">
+		<text>«Тільки хоробрий пройде!»</text>
+	</string>
+	<string id="Pheremones">
+		<text>Феромони мутанта</text>
+	</string>
+	<string id="scientist_flash_name">
+		<text>Флешка вченого</text>
+	</string>
+	<string id="dar_pass_document_name">
+		<text>Паролі лабораторії Х-18</text>
+	</string>
+	<string id="dar_pass_document_descr">
+		<text>Паролі й секретні коди лабораторії Х-18.</text>
+	</string>
+	<string id="mil_svoboda_leader_pda_name">
+		<text>КПК лідера «Волі»</text>
+	</string>
+	<string id="bcr_name">
+		<text>Код від дверей</text>
+	</string>
+	<string id="bcr_nomad_name">
+		<text>Код Пустельника</text>
+	</string>
+	<string id="package_name">
+		<text>Посилка вчених</text>
+	</string>
+	<string id="package_descr">
+		<text>Посилка, яку потрібно доставити вченим</text>
+	</string>
+	<string id="hermit_belongings_name">
+		<text>Речі Мандрівника</text>
+	</string>
+	<string id="hermit_belongings_descr">
+		<text>Речі Мандрівника</text>
+	</string>
+	<string id="rad_anom_machine_name">
+		<text>Генератор аномалій</text>
+	</string>
+	<string id="rad_anom_machine_descr">
+		<text>За словами Лукаша, ця «машина» може створювати будь-які аномалії в будь-якому зручному місці</text>
+	</string>
+	<string id="cristall_maddog_name">
+		<text>Артефакт Скаженого Пса</text>
+	</string>
+	<string id="bcr_tools1_name">
+	    <text>Інструменти для калібрування</text>
+	</string>
+	<string id="bcr_tools1_descr">
+	    <text>Інструменти для калібрування й доведення</text>
+	</string>
+	<string id="bcr_tools2_name">
+	    <text>Інструменти для грубої роботи</text>
+	</string>
+	<string id="bcr_tools2_descr">
+	    <text>Набір основних слюсарних інструментів</text>
+	</string>
+	<string id="forg_tookit_name">
+	    <text>Набір інструментів</text>
+	</string>
+	<string id="forg_tookit_descr">
+	    <text>Невеликий набір інструментів</text>
+	</string>
+	<string id="sar_box_descr">
+	    <text>Дерев'яний ящик</text>
+	</string>
+	<string id="sar_tube_descr">
+	    <text>Металева труба</text>
+	</string>
+	<string id="yan_badge_name">
+	    <text>Особистий знак</text>
+	</string>
+	<string id="yan_badge_descr">
+	    <text>Особистий знак</text>
+	</string>
+	<string id="rosf_lab_key_name">
+	    <text>Ключ від лабораторії</text>
+	</string>
+	<string id="rosf_lab_key_descr">
+		<text>Вхід у лабораторію був замкнений. Цей ключ допоможе потрапити у середину.</text>
+	</string>
+	<string id="red_fox_pda_name">
+	    <text>КПК Лиса</text>
+	</string>
+	<string id="yan_rifle_name">
+		<text>Рушниця</text>
+	</string>
+	<string id="yan_rifle_descr">
+		<text>Рушниця Олега Рагова, загублена у катакомбах.</text>
+	</string>
+
+</string_table>

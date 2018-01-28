@@ -1,0 +1,9 @@
+	<string id="bun_broken_lock">
+		<text>Замок зламаний</text>
+	</string>
+	<string id="bun_shut_down_security_first">
+		<text>Виявлення небезпеки, автоматичний захист вмикається.</text>
+	</string>
+	<string id="tips_labx10switcher_press">
+		<text>Щоб активувати вимикач натисніть ($$ACTION_USE$$)</text>
+	</string>

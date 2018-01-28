@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<!-- barin start -->
+	<string id="item_wpn_explosive_fuelcan_name">
+		<text>Газовий балон</text>
+	</string>
+	<string id="item_wpn_explosive_fuelcan_desc">
+		<text>Старий червоний газовий балон на 10л.</text>
+	</string>
+	<string id="item_wpn_explosive_bomb_name">
+		<text>Бомба</text>
+	</string>
+	<string id="item_wpn_explosive_bomb_desc">
+		<text>Набір вибухівки. Дуже ефективна проти місцевих тварин.</text>
+	</string>
+	<string id="item_wpn_explosive_tank_name">
+		<text>Рідке паливо</text>
+	</string>
+	<string id="item_wpn_explosive_tank_desc">
+		<text>Небезпечний тип палива, яке не горить, тому що в ньому використовується залізний каталізатор. Багато промислових об'єктів використовують його для виробництва важких металів. Радянські військові використовували його в минулому для живлення підземних генераторів та портативних пристроїв у сфері важкої оборони.</text>
+	</string>
+	<string id="item_wpn_explosive_barrel_name">
+		<text>Бочка палива</text>
+	</string>
+	<string id="item_wpn_explosive_barrel_desc">
+		<text>Стара червона бочка палива на 25л.</text>
+	</string>
+	<string id="item_wpn_explosive_mobiltank_name">
+		<text>Каністра бензину</text>
+	</string>
+	<string id="item_wpn_explosive_mobiltank_desc">
+		<text>Зелена металева каністра бензину. Якщо в тебе закінчиться паливо, короткий шлях до найближчої заправки може бути єдиним варіантом.</text>
+	</string>
+	<string id="item_wpn_explosive_dinamit_name">
+		<text>Динаміт</text>
+	</string>
+	<string id="item_wpn_explosive_dinamit_desc">
+		<text>Корисний, якщо тобі потрібно рознести щось на друзки.</text>
+	</string>
+	<!-- barin end -->
+
+	<string id="item test1">
+		<text>This is an ITEM test string</text>
+	</string>
+	<string id="item test2">
+		<text>This is another ITEM test string</text>
+	</string>
+	<string id="item_case_esc_desc">
+		<text>Кейс з документами. Виготовлений з вогнестійкого матеріалу.</text>
+	</string>
+	<string id="item_decoder_desc">
+		<text>Щось накшталт потужної електронної відмички. Схоже, що вона була створена з метою зламати якийсь специфічний електронний замок. Як не дивно, конструкція не передбачає універсальності - вона створювалася для конкретного замка і неспроможна зламувати будь-які інші коди.</text>
+	</string>
+	<string id="item_decoder_name">
+		<text>Декодер</text>
+	</string>
+	<string id="item_detector_yantar_desc">
+		<text>Пристрій для вимірювання псі-випромінювання.</text>
+	</string>
+	<string id="item_detector_yantar_name">
+		<text>Сенсор ПП-4а</text>
+	</string>
+	<string id="item_card_desc">
+		<text>VIP-картка, яка вручається переможцю Арени. Зараз ти можеш потрапити до Бару як ветеран!</text>
+	</string>
+	<string id="item_card_name">
+		<text>VIP картка</text>
+	</string>
+	<string id="item_doc_x16_desc">
+		<text>Поліетиленовий файл з документами. Без вченого звання з біології складно щось у них розібрати.</text>
+	</string>
+	<string id="item_doc_x16_name">
+		<text>Документи з лабораторії Х-16</text>
+	</string>
+	<string id="item_doc_x18p1_desc">
+		<text>Телепортація; декілька адаптованих визначень чи технічних теорій фактичної науки на те, як це робиться. Насправді проблемою є не неможливість, а те як обійти закони природи - правда, але не незворотня остаточність - створити червоточини. Проте, дослідження інших лабораторій дали «дивний камінь» з надзвичайними характеристиками що - якщо контролювати і використовувати правильно - робить телепортацію та інші подібні чудеса можливими! Я впевнений в цьому, навіть якщо це божевільна теорія в моїй голові. Треба записати деякі графіки та помітки щоб продемонструвати концепцію... Я можу тільки уявити, що стане можливим, якщо інші типи цього «артефактного каміння» можуть бути виготовленими.</text>
+	</string>
+	<string id="item_doc_x18p1_name">
+		<text>Червоточини - Карл Д.</text>
+	</string>
+	<string id="item_doc_x18p1_name_short">
+		<text>Документи з лабораторії Х-18, 1 частина</text>
+	</string>
+	<string id="item_doc_x18p2_desc">
+		<text>Експеримент R-0925 дав відмінні результати. Попередній тест, особливо той де використовувався набір K-3, виявив смерть щурів перед тим, як можна було зробити якісь змістовні спостереження на живих особинах. Набір K-4 дозволив щурам прийняти мутаген та розвиватись, будучи живими більше тижня, перед тим як вони померли через «ефект зморщування» ДНК живих особин. Результати, хоча й хаотичні, показали багато можливостей для генетичних маніпуляцій в медичному та військовому застосуванні. В такому випадку, ми можемо перейти до тестування на людях після ще декількох змін суміші K-X.</text>
+	</string>
+	<string id="item_doc_x18p2_name">
+		<text>Мутагени для щурів - Іван С.</text>
+	</string>
+	<string id="item_doc_x18p2_name_short">
+			<text>Документи з лабораторії Х-18, 2 частина</text>
+	</string>
+	<string id="item_doc_x18p3_desc">
+		<text>Після вчорашньої втечі тварин із загону було вирішено заблокувати місце та витравити їх газом. Іван придумав щось, що вб'є їх - ну тих, що ви - збоченці, зшивали. Вважайте що це справедливе попередження; наступного разу мутанти не будуть єдиним, що потрапить до газової камери. Спочатку був інцидент, коли вбили Долована, зараз це. Я очікував більш допитливих людей, таких як ви. Ви всі у вимушених відпустках, доки ми не прочистимо територію. Але є одна позитивна сторона всього цього - ви можете весело провести час з трупами.</text>
+	</string>
+	<string id="item_doc_x18p3_name">
+		<text>Сувора ізоляція - Начальник охорони Адам</text>
+	</string>
+	<string id="item_doc_x18p3_name_short">
+		<text>Документи з лабораторії Х-18, 3 частина</text>
+	</string>
+	<string id="item_doc_x18p4_desc">
+		<text>Іван відправився в X-5, лабораторію під старими шахтами, щоб доставити пару тестових об'єктів. Ми повинні використати змішані зразки ДО7 і ДО9 і вперше спостерігати реакцію людини на наші мутагени. Але чому я все намагаюся відстрочити цей момент? Я був переконаний, що піддослідні - кровожерливі вбивці й шибеники, що їх краще використати як піддослідних пацюків, ніж з комфортом тримати у в'язницях до кінця їхнього життя. Я постійно прокручую це в голові, але нічого не можу із собою поробити. А, до чорта все! Якщо пекло існує, то я вже отримав там почесне місце за те, що я накоїв.</text>
+	</string>
+	<string id="item_doc_x18p4_name">
+		<text>Тестування на людях - Долован К</text>
+	</string>
+	<string id="item_doc_x18p4_name_short">
+		<text>Документи з лабораторії Х-18, 4 частина</text>
+	</string>
+	<string id="item_doc_x18p5_desc">
+		<text>З мене досить. Я не можу більше цього робити. Коли я записався в цей проект, мені говорили про нескінченні можливості для нестримних наукових пошуків. Мені не говорили що ми будемо вбивати заради науки; мені не говорили що ми будемо інструментом уряду; мені не говорили що не буде стандартів пристойності - будь якої форми етики. Ось чому я йду. Мене змусять навіки замовчати - о, я впевнений в цьому - але смерть звучить привітніше в порівнянні з цією оргією аморальності. Ганьба вам усім.</text>
+	</string>
+	<string id="item_doc_x18p5_name">
+		<text>Зрада</text>
+	</string>
+	<string id="item_doc_x18p5_name_short">
+		<text>Документи з лабораторії Х-18, 5 частина</text>
+	</string>
+	<string id="item_docs_hiden_pri_desc">
+		<text>Потертий рукопис в шкіряній обкладинці. Написаний самим Стрільцем. Судячи з заголовків, в ньому розкриваються деякі загадки Зони.</text>
+	</string>
+	<string id="item_docs_hiden_pri_name">
+		<text>Документи з Прип'яті</text>
+	</string>
+	<string id="item_dynamite_esc_desc">
+		<text>Важкий дерев'яний ящик з написами «Вибухонебезпечно» різними мовами.</text>
+	</string>
+	<string id="item_dynamite_esc_name">
+		<text>Ящик з динамітом</text>
+	</string>
+	<string id="item_esc_vagon_key_desc">
+		<text>Зниклий ключ</text>
+	</string>
+	<string id="item_esc_vagon_key_name">
+		<text>Ключ до вагону</text>
+	</string>
+	<string id="item_flash_crazy_mil_desc">
+		<text>Флеш-накопичувач - зручний пристрій для переносу інформації.</text>
+	</string>
+	<string id="item_flash_crazy_mil_name">
+		<text>Флешка божевільного</text>
+	</string>
+	<string id="item_flash_eco_rost_desc">
+		<text>Флеш-накопичувач - зручний пристрій для переносу інформації.</text>
+	</string>
+	<string id="item_flash_eco_rost_name">
+		<text>Флешка професора Круглова</text>
+	</string>
+	<string id="item_flash_esc_desc">
+		<text>Флеш-накопичувач - зручний пристрій для переносу інформації.</text>
+	</string>
+	<string id="item_flash_esc_name">
+		<text>Флешка полоненого</text>
+	</string>
+	<string id="item_flash_gslinger_agro_desc">
+		<text>Флеш-накопичувач - зручний пристрій для переносу інформації.</text>
+	</string>
+	<string id="item_flash_gslinger_agro_name">
+		<text>Флешка Стрільця</text>
+	</string>
+	<string id="item_val_prison_key_desc">
+		<text>Ключ до в'язниці у підвалі</text>
+	</string>
+	<string id="item_val_prison_key_name">
+		<text>Ключ до в'язниці</text>
+	</string>
+	<string id="item_key_x18_desc">
+		<text>Електронний ключ від підземної лабораторії Х-18.</text>
+	</string>
+	<string id="item_key_x18_name">
+		<text>Ключ Борова</text>
+	</string>
+	<string id="item_krot_flash">
+		<text>Флешка Крота</text>
+	</string>
+	<string id="item_pda_lucky_desc">
+		<text>Кишеньковий персональний комп'ютер. Незамінний пристрій в Зоні. Даний КПК належить сталкеру «Щасливчик».</text>
+	</string>
+	<string id="item_pda_lucky_name">
+		<text>КПК Щасливчика</text>
+	</string>
+	<string id="item_pda_tiran_desc">
+		<text>Кишеньковий персональний комп'ютер. Незамінний пристрій в Зоні. Даний КПК належить сталкеру «Тиран».</text>
+	</string>
+	<string id="item_pda_tiran_name">
+		<text>КПК Тирана</text>
+	</string>
+	<string id="item_quest_case_02_desc">
+		<text>Кейс з документами. Виготовлений з вогнестійкого матеріалу.</text>
+	</string>
+	<string id="item_quest_case_02_name">
+		<text>Документи військових із НДІ «Агропром»</text>
+	</string>
+	<string id="item_case_esc_name">
+		<text>Документи з блокпосту</text>
+	</string>
+	<string id="yan_bad_psy_helmet_desc">
+		<text>Неналаштований прототип, розроблений вченими для захисту від ПСІ-випромінювання</text>
+	</string>
+	<string id="yan_bad_psy_helmet_name">
+		<text>Неналаштований псі-шолом</text>
+	</string>
+	<string id="yan_good_psy_helmet_desc">
+		<text>Неналаштований прототип, розроблений вченими для захисту від ПСІ-випромінювання</text>
+	</string>
+	<string id="yan_good_psy_helmet_name">
+		<text>Робочий псі-шолом</text>
+	</string>
+	<string id="out_strange_psy_helmet_name">
+		<text>Дивний псі-шолом.</text>
+	</string>
+	<string id="out_strange_psy_helmet_desc">
+		<text>Невідомий тип псі-шолому з дивним синім світлом на котушках кондуктивності. Корисність невідома.</text>
+	</string>
+	<string id="esc_killed_flash_name">
+		<text>Флеш-накопичувач контакту</text>
+	</string>
+	<string id="esc_killed_flash_desc">
+		<text>Флеш-накопичувач контакту</text>
+	</string>
+	<string id="item_dam_station_desc">
+		<text>Повідомлення всьому персоналу! Блокуючий механізм службового входу станції метро був замінений. Новий код до дверей: 4134.</text>
+	</string>
+	<string id="item_dam_station_doc_name">
+		<text>Пропуск служби метро</text>
+	</string>
+	<string id="item_dolg_disc_desc">
+		<text>Диск з цінною інформацією про базу «Долга» та розвідувальні операції.</text>
+	</string>
+	<string id="item_yan_drug_case_name">
+		<text>Дипломат з наркотиками</text>
+	</string>
+	<string id="item_yan_drug_case_desc">
+		<text>Пахне як... марихуана. Дуже привабливо.</text>
+	</string>
+	<string id="item_docs_generator_name">
+		<text>Наукові нотатки</text>
+	</string>
+	<string id="item_docs_generator_desc">
+		<text>Науковий щоденник та технічна інформація про ультразвукові частоти.</text>
+	</string>
+	<string id="item_sar_battery_desc">
+		<text>Резервна батарея для головного терміналу.</text>
+	</string>
+	<string id="agr_strelok_book_name">
+		<text>Роман «Глибока Пітьма»</text>
+	</string>
+	<string id="agr_strelok_book_desc">
+		<text>Книжка з порваними сторінками та дивним епіграфом, написаним рукою на внутрішній частині обкладинки.</text>
+	</string>
+	<string id="item_docs_seif_rad_name">
+		<text>Документи Бункера</text>
+	</string>
+	<string id="item_docs_seif_rad_desc">
+		<text>Ключ до лабораторії X-10 під радаром.</text>
+	</string>
+	<string id="item_hunter_weapon">
+		<text>Дробовик Мисливця</text>
+	</string>
+	<string id="cit_borziy_pda_name">
+		<text>КПК Борзого</text>
+	</string>
+	<string id="cit_borziy_pda_desc">
+		<text>КПК найбільш розшукуваного лідера бандитів, Борзого.</text>
+	</string>
+</string_table>

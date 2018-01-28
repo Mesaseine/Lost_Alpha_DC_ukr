@@ -1,0 +1,36 @@
+	<string id="war_generator_hint">
+		<text>Генератор</text>
+	</string>
+	<string id="war_get_fuel_hint">
+		<text>Паливо</text>
+	</string>
+	<string id="war_pipe_hint">
+		<text>Труба</text>
+	</string>
+	<string id="war_switcher_hint">
+		<text>Перемикач системи безпеки</text>
+	</string>
+	<string id="war_doc_pc_hint">
+		<text>Старе робоче місце доктора</text>
+	</string>
+	<string id="war_scanner1_hint">
+		<text>Сканер</text>
+	</string>
+	<string id="war_tech_hint">
+		<text>Інженерний комп'ютер</text>
+	</string>
+	<string id="war_primary_computer_hint">
+		<text>Головна робоча станція</text>
+	</string>
+	<string id="war_con_switcher_hint">
+		<text>Аварійний перемикач</text>
+	</string>
+	<string id="tips_labx2_pipe_1">
+		<text>Труба генератора</text>
+	</string>
+	<string id="tips_labx2_switcher_lock">
+		<text>Перемикач дверей</text>
+	</string>
+	<string id="tips_labx2_sec">
+		<text>Сканер лабораторії</text>
+	</string>

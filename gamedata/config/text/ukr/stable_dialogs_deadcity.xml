@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="windows-1251" ?>	
+<string_table>	
+	
+<!-- meet with merc guard -->	
+    	
+    <string id="cit_entrance_guard_0">	
+        <text>Стій, сталкере! Що тобі тут потрібно?</text>	
+    </string>	
+    <string id="cit_entrance_guard_1">	
+        <text>Я від Сахарова. Ось перепустка, яку він мені дав.</text>	
+    </string>	
+    <string id="cit_entrance_guard_2">	
+        <text>Ану, дай сюди. Гм, так, сходиться. Не затримуйся.</text>	
+    </string>	
+    <string id="cit_entrance_guard_3">	
+        <text>Тоді всього найкращого.</text>	
+    </string>	
+    <string id="cit_entrance_guard_4">	
+        <text>Агов, ану почекай. Підійди ближче. Я тебе раніше ніде не міг бачити?</text>	
+    </string>	
+    <string id="cit_entrance_guard_5">	
+        <text>Я... Я точно скажу - не пам'ятаю. Може, у тебе дежавю. По секрету: я декількох чоловік в натовпі не занадто-то і розрізню.</text>	
+    </string>	
+    <string id="cit_entrance_guard_6">	
+        <text>Точно. Проїхали, не затримуйся, проходь давай...</text>	
+    </string>	
+    <string id="cit_entrance_guard_7">	
+        <text>Та, добре.</text>	
+    </string>	
+    	
+<!-- meet with merc guard without yantar task -->	
+    	
+    <string id="cit_mercs_harsh_0">	
+        <text>А ти що тут винюхуєш? Звали звідси, дурню!</text>	
+    </string>	
+    <string id="cit_mercs_harsh_1">	
+        <text>Я вже йду.</text>	
+    </string>	
+    <string id="cit_stairs_guard_dialog_0">	
+        <text>Що тобі потрібно?</text>	
+    </string>	
+    <string id="cit_stairs_guard_dialog_1">	
+        <text>Я можу пройти?</text>	
+    </string>	
+    <string id="cit_stairs_guard_dialog_2">	
+        <text>Тут пройти не можна, якщо ти не у справі. Тобі пощастило, що ти взагалі досі цілий, сталкере.</text>	
+    </string>	
+    <string id="cit_stairs_guard_dialog_3">	
+        <text>Я врахую.</text>	
+    </string>	
+    	
+<!-- meet sakharov informer -->	
+    	
+    <string id="cit_informer_dialog_0">	
+        <text>Так ти на побігеньках у вчених?</text>	
+    </string>	
+    <string id="cit_informer_dialog_1">	
+        <text>Саме. Я від цього не в захваті, але у мене на те свої причини. Тепер давай перейдемо до справи.</text>	
+    </string>	
+    <string id="cit_informer_dialog_2">	
+        <text>Не поспішай... Почекай, ти ж - нічого собі, та ти ж...! Та ти на декілька місяців пропав!? Навіть Доктор цей думав, що ти помер!</text>	
+    </string>	
+    <string id="cit_informer_dialog_3">	
+        <text>Що?? Ти про що зараз?</text>	
+    </string>	
+    	
+<!-- meet doc in prison -->	
+    	
+    <string id="cit_doctor_wait_0">	
+        <text>Нам треба почекати, поки не прийде підмога, і не витягне нас звідси. Можеш в іграшку на КПК зіграти.</text>	
+    </string>	
+    <string id="cit_doctor_wait_1">	
+        <text>Е-м, тут ігор немає.</text>	
+    </string>	
+    <string id="cit_doctor_wait_2">	
+        <text>Та як це? Ану, дай мені, я тобі покажу... Постій-постій, та у тебе КПК зламаний. Не дивно, що цієї функції у тебе немає.</text>	
+    </string>	
+    <string id="cit_doctor_wait_3">	
+        <text>Та ти що, зламаний, невже?... Але якщо у мене бракує такої дрібниці, я переживу.</text>	
+    </string>	
+    <string id="cit_doctor_wait_4">	
+        <text>Взагалі-то, у тебе багатьох корисних дрібниць бракує. Забавно, що це саме зараз сталося, тому що Примара якраз повинен був дістати один з артефактів «Кристал», які використовують для лагодження зламаних КПК. Ми цим займемося, коли звідси виберемося.</text>	
+    </string>	
+    <string id="cit_doctor_wait_5">	
+        <text>Я пам'ятатиму про це.</text>	
+    </string>	
+    	
+<!-- meet army soldier after military raid -->	
+	
+    <string id="cit_army_harsh_0">	
+        <text>Сталкере, не думай, що ми це робимо по своїй волі! Йди звідси, поки не поховали тебе тут разом з найманцями!</text>	
+    </string>	
+    <string id="cit_army_harsh_1">	
+        <text>Дякую за пораду.</text>	
+    </string>	
+    	
+<!-- meet colonel -->	
+	
+    <string id="cit_colonel_help_0">	
+        <text>Стрільцю, усе пішло догори дригом, але послухай: яйцеголові на «Янтарі» цікавилися, що з тобою сталося, але хвилюватися немає про що, я їм відправлю повідомлення, що все в шоколаді. Роби, що повинен. Обережніше там, і повертайся до них, як закінчиш.</text>	
+    </string>	
+    <string id="cit_colonel_help_1">	
+        <text>Я так і зроблю.</text>	
+    </string>	
+    	
+<!-- freedom -->	
+	
+	<string id="cit_freedom_dlg_0">
+        <text>Проходь, сталкере, тут немає на що дивитися!</text>	
+    </string>	
+    <string id="cit_freedom_dlg_1">	
+        <text>Гаразд, я тоді піду...</text>	
+    </string>	
+	
+</string_table>	

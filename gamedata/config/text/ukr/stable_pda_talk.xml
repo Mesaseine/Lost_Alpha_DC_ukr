@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="task_pda_meet_with_npc">
+		<text>Зустрітися з</text>
+	</string>
+	<string id="task_pda_meet_with_npc_buy">
+		<text>Доставити</text>
+	</string>
+	<string id="task_pda_meet_with_npc_sell">
+		<text>Купити</text>
+	</string>
+	<string id="task_pda_meet_with_npc_know">
+		<text>Купити інформацію.</text>
+	</string>
+	
+	<string id="pda_talk_status_msg_offline">
+		<text>OFFLINE</text>
+	</string>
+	<string id="pda_talk_status_msg_occupied">
+		<text>Зайнятий</text>
+	</string>
+	<string id="pda_talk_status_msg_disturb">
+		<text>Не турбувати</text>
+	</string>
+	<string id="pda_talk_status_msg_anotherday">
+		<text>Ще один день у Зоні...</text>
+	</string>
+	<string id="pda_talk_status_msg_freechat">
+		<text>Вільний для спілкування</text>
+	</string>
+	<string id="pda_talk_status_msg_boringplace">
+		<text>Це місце таке нудне...</text>
+	</string>
+	<string id="pda_talk_status_msg_depression">
+		<text>Пригнічений</text>
+	</string>
+	<string id="pda_talk_status_msg_peace">
+		<text>Спокій</text>
+	</string>
+	<string id="pda_talk_status_msg_freedom">
+		<text>Правила «Волі»</text>
+	</string>
+	<string id="pda_talk_status_msg_mirrors">
+		<text>Я ненавиджу дзеркала!</text>
+	</string>
+	<string id="pda_talk_status_msg_funny">
+		<text>Справді веселі хлопці!</text>
+	</string>
+	<string id="pda_talk_status_msg_recovering">
+		<text>Відновлення</text>
+	</string>
+	<string id="pda_talk_status_msg_scirules">
+		<text>Наука рулить!</text>
+	</string>
+	<string id="pda_talk_status_msg_love">
+		<text>Я люблю науку!</text>
+	</string>
+	<string id="pda_talk_status_msg_formulating">
+		<text>Формулювання</text>
+	</string>
+	<string id="pda_talk_status_msg_computing">
+		<text>Обчислення</text>
+	</string>
+	<string id="pda_talk_status_msg_discipline">
+		<text>Дисципліна</text>
+	</string>
+	<string id="pda_talk_status_msg_contract">
+		<text>Згода</text>
+	</string>
+	<string id="pda_talk_status_msg_killer">
+		<text>Найманий убивця за наймом</text>
+	</string>
+	<string id="pda_talk_status_msg_gun">
+		<text>Найманець</text>
+	</string>
+	<string id="pda_talk_status_msg_kp">
+		<text>Знову КП «Долгу»...</text>
+	</string>
+	<string id="pda_talk_status_msg_cure">
+		<text>Потрібні ліки...</text>
+	</string>
+	<string id="pda_talk_status_msg_fuckoff">
+		<text>Відмахайся!</text>
+	</string>
+	<string id="pda_talk_status_msg_staringat">
+		<text>На що ти вирячився?</text>
+	</string>
+	<string id="pda_talk_status_msg_fuckyou">
+		<text>Пішов ти!</text>
+	</string>
+	<string id="pda_talk_status_msg_blin">
+		<text>Блін!</text>
+	</string>
+	<string id="pda_talk_status_msg_favour">
+		<text>Зроби мені послугу та... згинь!</text>
+	</string>
+	<string id="pda_talk_status_msg_sameshit">
+		<text>Те ж лайно, день другий</text>
+	</string>
+	<string id="pda_talk_status_msg_looking">
+		<text>Не можу знайти схованку знову!</text>
+	</string>
+	<string id="pda_talk_status_msg_mu">
+		<text>Не зрозумів</text>
+	</string>
+	<string id="pda_talk_status_msg_home">
+		<text>Думаю про домівку...</text>
+	</string>
+	<string id="pda_talk_status_msg_duty">
+		<text>Завжди на варті!</text>
+	</string>
+	<string id="pda_talk_status_msg_drunk">
+		<text>П'яний...</text>
+	</string>
+	<string id="pda_talk_status_msg_onmission">
+		<text>На завданні</text>
+	</string>
+	<string id="pda_talk_status_msg_huntmutants">
+		<text>Полюю на мутантів</text>
+	</string>
+	<string id="pda_talk_status_msg_killspree">
+		<text>Шаленство...</text>
+	</string>
+	<string id="pda_talk_status_msg_chasingbandits">
+		<text>У гонитві за бандитами</text>
+	</string>
+	<string id="pda_talk_status_msg_measure">
+		<text>Проведення вимірів</text>
+	</string>
+	<string id="pda_talk_status_msg_experiment">
+		<text>Експериментую</text>
+	</string>
+	<string id="pda_talk_status_msg_studying">
+		<text>Вивчення Зони</text>
+	</string>
+	<string id="pda_talk_status_msg_monolith">
+		<text>«Моноліт»!</text>
+	</string>
+	<string id="pda_talk_status_msg_wohooooo">
+		<text>Ура</text>
+	</string>
+	<string id="pda_talk_status_msg_traiding">
+		<text>Торгівля</text>
+	</string>
+	<string id="pda_talk_status_msg_meditating">
+		<text>Медитую</text>
+	</string>
+	<string id="pda_talk_status_msg_resting">
+		<text>Відпочиваю</text>
+	</string>
+	<string id="pda_talk_status_msg_eating">
+		<text>Їм</text>
+	</string>
+	<string id="pda_talk_status_msg_vodka">
+		<text>П'ю горілку</text>
+	</string>
+	<string id="pda_talk_status_msg_sleeping">
+		<text>Сплю...</text>
+	</string>
+	<string id="pda_talk_status_msg_wounded1">
+		<text>Поранений, потрібна допомога!</text>
+	</string>
+	<string id="pda_talk_status_msg_wounded2">
+		<text>Будь ласка, допоможіть, я вмираю</text>
+	</string>
+	<string id="pda_talk_status_msg_wounded3">
+		<text>Допоможіііііть</text>
+	</string>
+	<string id="pda_talk_status_msg_afhunt">
+		<text>Пошук артефактів</text>
+	</string>
+	<string id="pda_talk_status_msg_patrol1">
+		<text>Патрулюю</text>
+	</string>
+	<string id="pda_talk_status_msg_patrol2">
+		<text>Патрулюю периметр</text>
+	</string>
+	<string id="pda_talk_status_msg_patrol3">
+		<text>Патрулюю... знову :(</text>
+	</string>
+	<string id="pda_talk_status_msg_patrol4">
+		<text>Патрулювання сектору</text>
+	</string>
+	<string id="pda_talk_status_msg_danger">
+		<text>Небезпека</text>
+	</string>
+	<string id="pda_talk_status_msg_scared">
+		<text>Переляканий</text>
+	</string>
+	<string id="pda_talk_status_msg_blowout1">
+		<text>Втікаю до схованки</text>
+	</string>
+	<string id="pda_talk_status_msg_blowout2">
+		<text>Тільки спокій та біжииии</text>
+	</string>
+	<string id="pda_talk_status_msg_blowout3">
+		<text>Ооооооооооооооой Викид</text>
+	</string>
+	<string id="pda_talk_status_msg_blowout4">
+		<text>У разі, якщо ти не знав, ВИКИД!</text>
+	</string>
+	<string id="pda_talk_status_msg_blowout5">
+		<text>Ховаюсь</text>
+	</string>
+	<string id="pda_talk_status_msg_blowout6">
+		<text>Перечікую</text>
+	</string>
+	<string id="pda_talk_status_msg_know_1">
+		<text>Дещо знаю...</text>
+	</string>
+	<string id="pda_talk_status_msg_know_2">
+		<text>У мене є інформація...</text>
+	</string>
+	<string id="pda_talk_status_msg_need">
+		<text>Дещо треба...</text>
+	</string>
+	<string id="pda_talk_status_msg_sell1">
+		<text>Є запасні елементи...</text>
+	</string>
+	<string id="pda_talk_status_msg_sell2">
+		<text>Є дещо на продаж...</text>
+	</string>
+	
+</string_table>

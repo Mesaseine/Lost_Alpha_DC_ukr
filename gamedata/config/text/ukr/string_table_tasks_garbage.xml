@@ -1,0 +1,108 @@
+	<string id="gar_car_graveyard_quest">
+		<text>Відповісти на заклик про допомогу</text>
+	</string>
+	<string id="gar_defend_garbage">
+		<text>Відбити рейд бандитів.</text>
+	</string>
+	<string id="gar_dialog_hellcar">
+		<text>Запропонувати допомогу лідерові загону нейтралів.</text>
+	</string>
+	<string id="gar_dialog_hellcar_1">
+		<text>Запропонувати допомогу Бісові.</text>
+	</string>
+	<string id="gar_hellcar_alive">
+		<text>Поговорити з Бісом.</text>
+	</string>
+	<string id="gar_get_reward">
+		<text>Отримати нагороду.</text>
+	</string>
+	<string id="gar_help_dymon">
+		<text>Відбити рейд бандитів.</text>
+	</string>
+	<string id="gar_help_tunnel_newbie">
+		<text>Допомогти новачкові зі Смітника</text>
+	</string>
+	<string id="gar_kill_bandits">
+		<text>Знищити бандитський рейд</text>
+	</string>
+	<string id="gar_kill_boars">
+		<text>Допомогти заставі «Долгу»</text>
+	</string>
+	<string id="gar_kill_boars_1">
+		<text>Убити кабанів.</text>
+	</string>
+	<string id="gar_kill_boars_2">
+		<text>Поговорити з командиром «Долгу»</text>
+	</string>
+	<string id="gar_kill_boars_descr">
+		<text>Долг: «Усім, хто мене чує! Каже загін «Долгу», що базується на Смітнику. Рухається хвиля мутантів з Темної долини у напрямку до Бару. Ми гарантуємо нашу вдячність усім, хто допоможе нам розправитися з цими тварюками. Слово «Долгу»!</text>
+	</string>
+	<string id="gar_kill_boars_main">
+		<text>Цей квест допоможе отримати доступ у Бар.</text>
+	</string>
+	<string id="garbage_meet_stalker_1">
+		<text>Дізнатися у Сірого про Стрільця.</text>
+	</string>
+	<string id="graveyard_raid_text">
+		<text>Біс: «Група бандитів пробує отримати контроль над Смітником. Був скандал тут півгодини назад. Ми вбили трьох, із дуже крутих. Інша частина бандюків відступила, але я маю відчуття, що вони повернуться у будь-яку хвилину з підкріпленням. Якщо ти допоможеш нам знищити їх підкріплення, то я допопожу тобі».</text>
+	</string>
+	<string id="help_for_neitrals_text">
+		<text>Там перестрілка на Смітнику між сталкерами і бандитами. Сталкери відбили атаку бандитів, але просять допомоги.</text>
+	</string>
+	<string id="gar_kill_sniper_title">
+		<text>Вбити снайпера</text>
+	</string>
+	<string id="gar_find_sniper_weapon">
+		<text>Знайти зброю.</text>
+	</string>
+	<string id="gar_sniper_kill">
+		<text>Зняти снайпера.</text>
+	</string>
+	<string id="gar_assault_hangar_title">
+		<text>Взяти ангар під контроль</text>
+	</string>
+	<string id="gar_assault_hangar_yarik">
+		<text>Зустрітися з Юриком у каналізації</text>
+	</string>
+	<string id="gar_assault_hangar_2">
+		<text>Перебити бандитів</text>
+	</string>
+	<string id="gar_seriy_could_fail">
+		<text>Сталкере, без дурниць! Ти зіпсуєш раптову атаку!</text>
+	</string>
+	<string id="gar_seriy_strelok_info">
+		<text>Зустрітися з Кротом на «Агропромі»</text>
+	</string>
+	<string id="gar_talk_to_seriy">
+		<text>Поговорити з Сірим.</text>
+	</string>
+	<string id="gar_sins_get_art_title">
+		<text>Знайти артефакт.</text>
+	</string>
+		<string id="gar_sins_get_art_text">
+		<text>Знайти «Золоту рибку».</text>
+	</string>
+		<string id="gar_sins_get_gold_fish_text">
+		<text>Знайти «Золоту рибку» і повернутися.</text>
+	</string>
+		<string id="gar_sins_talk_blockpost_title">
+		<text>Поговорити з групою на блокпосту.</text>
+	</string>
+		<string id="gar_sins_talk_blockpost_text">
+		<text>Поговорити з групою «Долгу» на блокпосту.</text>
+	</string>
+		<string id="gar_sins_talk_to_blockpost_text">
+		<text>Поговорити з групою «Долгу» поряд з блокпостом.</text>
+	</string>
+		<string id="gar_sins_clean_enemy_base_title">
+		<text>Зачистити базу «Гріха» з групою долгівців.</text>
+	</string>
+		<string id="gar_sins_clean_base_text">
+		<text>Зачистити базу «Гріха».</text>
+	</string>
+		<string id="gar_sins_talk_to_blockpost_ds_text">
+		<text>Знайти групу «Долгу» в печерах ДаркЛаб.</text>
+	</string>
+		<string id="gar_sins_clean_enemy_base_text">
+		<text>Знищити «Гріх» на їхній базі.</text>
+	</string>

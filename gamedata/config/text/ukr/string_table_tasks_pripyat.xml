@@ -1,0 +1,66 @@
+	<string id="pripyat_task_objective_1">
+		<text>Прямувати за групою</text>
+	</string>
+	<string id="pripyat_task_objective_2">
+		<text>Дістатися входу на стадіон</text>
+	</string>
+	<string id="pripyat_task_title">
+		<text>Пробитися через Прип'ять</text>
+	</string>
+	<string id="pripyat_under_attack">
+		<text>Тут серйозний конфлікт між Військовими та «Монолітом», тому тримай свої очі та вуха широко відкритими!</text>
+	</string>
+	<string id="pri_meet_ghost">
+		<text>Зустріти Привида в готелі</text>
+	</string>
+	<string id="pri_find_room">
+		<text>Знайти кімнату 26</text>
+	</string>
+	<string id="pri_talk_ghost">
+		<text>Поговорити з Привидом</text>
+	</string>
+	<string id="pri_find_sarcofagus">
+		<text>Знайти шлях до Саркофагу</text>
+	</string>
+	<string id="pri_go_stancia">
+		<text>Йти до АЕС</text>
+	</string>
+	<string id="pri_find_sar_entrance">
+		<text>Знайти вхід до Саркофагу</text>
+	</string>
+	<string id="pri_help_military">
+		<text>Мічений, Військові атаковані силами «Моноліту» недалеко від твого місцезнаходження. Поквапся, будь ласка, їх дуже багато і я боюсь, що може статися найгірше!</text>
+	</string>
+	<string id="pri_help_military_title">
+		<text>Допоможи військовим</text>
+	</string>
+	<string id="pri_help_military_objective">
+		<text>Допоможи Військовим завдати поразки «Моноліту»</text>
+	</string>
+	<string id="pri_mil_contacts_actor">
+		<text>Агов, Мічений! Це лейтенант Васильов. Давай зустрінемося, я хочу особисто подякувати тобі за надану нам допомогу.</text>
+	</string>
+	<string id="pri_meet_mil_title">
+		<text>Зустрітися з лейтенантом Васильовим</text>
+	</string>
+	<string id="pri_measurement_task_title">
+		<text>Допомогти Екологам зробити вимірювання</text>
+	</string>
+	<string id="pri_meet_eco_contact">
+		<text>Запропонувати допомогу Екологам</text>
+	</string>
+	<string id="pri_take_measurements">
+		<text>Допомогти агенту зробити вимірювання</text>
+	</string>
+	<string id="pri_return_measurements">
+		<text>Повернутися з результатами вимірювання</text>
+	</string>
+	<string id="pri_find_psy_cause">
+		<text>Знайти причину псі-марень</text>
+	</string>
+	<string id="pri_meet_field_agent">
+		<text>Зустрітися з польовим агентом</text>
+	</string>
+	<string id="pri_meet_eco_contact_title">
+		<text>Зустрітися з контактним Екологів</text>
+	</string>

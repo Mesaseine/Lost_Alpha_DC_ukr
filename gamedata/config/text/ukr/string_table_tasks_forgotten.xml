@@ -1,0 +1,33 @@
+	<string id="bar_dolg_mutants_task_text">
+		<text>Допомогти решті групи «Долг»</text>
+	</string>
+	<string id="forg_help_backwards_text">
+		<text>Допомогти розділеним членам «Долгу»</text>
+	</string>
+	<string id="forg_return_to_dolg_leader_text">
+		<text>Повернутися до загону «Долг»</text>
+	</string>
+	<string id="forg_bar_veronin_report_text">
+		<text>Відрапортувати Вороніну</text>
+	</string>
+	<string id="forg_tools_title">
+		<text>Допомогти покинутому сталкеру-торгівцю</text>
+	</string>
+	<string id="forg_tools_text1">
+		<text>Знайти інструменти та транзистори</text>
+	</string>
+	<string id="forg_tools_text2">
+		<text>Повернути інструменти та транзистори торгівцеві</text>
+	</string>
+	<string id="forg_fuel_title">
+		<text>Знищити запас палива</text>
+	</string>
+	<string id="forg_fuel_text1">
+		<text>Знайти РПГ на даху бази Найманців</text>
+	</string>
+	<string id="forg_fuel_text2">
+		<text>Знищити склад палива</text>
+	</string>
+	<string id="forg_fuel_text3">
+		<text>Доповісти торгівцю</text>
+	</string>

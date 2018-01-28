@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+
+	<string id="crow_far_away">
+		<text>Ворони відлітають, швидше прибий їх!</text>
+	</string>	
+	<string id="st_cr_you_win">
+		<text>Ви перемогли!</text>
+	</string>
+		<string id="st_cr_you_lose">
+		<text>Ви програли!</text>
+	</string>
+	<string id="st_cr_you_killed">
+		<text>Вбито ворон:</text>
+	</string>
+	<string id="st_cr_lvl_un">
+		<text>Ви розблокували новий рівень!</text>
+	</string>
+
+	<string id="st_cr_0000">
+		<text>Привіт, як щодо того, щоб підстрілити декілька ворон? Хочеш?</text>
+	</string>	
+	<string id="st_cr_0001">
+		<text>Так, я готовий!</text>
+	</string>	
+	<string id="st_cr_0002">
+		<text>Ні, це занадто нудно. Бувай.</text>
+	</string>	
+	<string id="st_cr_0003">
+		<text>Добре, обери тип гри</text>
+	</string>
+	<string id="st_cr_0004">
+		<text>Аркадний</text>
+	</string>
+	<string id="st_cr_0005">
+		<text>Рекордний</text>
+	</string>
+	<string id="st_cr_0006">
+		<text>Гм, у мене є інші справи, побачимося!</text>
+	</string>
+	<string id="st_cr_0007">
+		<text>Вибери складність:</text>
+	</string>
+	<string id="st_cr_0008">
+		<text>Легко</text>
+	</string>
+	<string id="st_cr_0009">
+		<text>Нормально</text>
+	</string>
+	<string id="st_cr_0010">
+		<text>Складно</text>
+	</string>
+	<string id="st_cr_0011">
+		<text>Обери рівень:</text>
+	</string>
+	<string id="st_cr_0012">
+		<text>Рівень 1</text>
+	</string>
+	<string id="st_cr_0013">
+		<text>Рівень 2</text>
+	</string>
+	<string id="st_cr_0014">
+		<text>Рівень 3</text>
+	</string>
+	<string id="st_cr_0015">
+		<text>Рівень 4</text>
+	</string>
+	<string id="st_cr_0016">
+		<text>Рівень 5</text>
+	</string>
+	<string id="st_cr_0017">
+		<text>Рівень 6</text>
+	</string>
+	<string id="st_cr_0018">
+		<text>Рівень 7</text>
+	</string>
+	<string id="st_cr_0019">
+		<text>Рівень 8</text>
+	</string>
+	<string id="st_cr_0020">
+		<text>Уперед!!</text>
+	</string>
+	<string id="st_cr_0021">
+		<text>Я повинен убити якнайбільше ворон!</text>
+	</string>
+	<string id="st_cr_0022">
+		<text>Гаразд, поїхали!</text>
+	</string>
+	<string id="st_cr1_0000">
+		<text>Ти вже закінчив? Добре, ось твої результати:</text>
+	</string>
+	<string id="st_cr1_0001">
+		<text>Добре!</text>
+	</string>
+	<string id="st_cr1_0002">
+		<text>Хочеш спробувати ще раз?</text>
+	</string>
+	<string id="st_cr1_0003">
+		<text>Чом би й ні?</text>
+	</string>
+	<string id="st_cr_time_elapsed">
+		<text>Час закінчився!</text>
+	</string>
+</string_table>

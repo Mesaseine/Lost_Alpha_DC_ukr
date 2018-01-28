@@ -1,0 +1,81 @@
+	<string id="ds_not_safe">
+		<text>На відкритому просторі небезпечно, потрібно знайти шлях через копальні.</text>
+	</string>
+	<string id="ds_reach_tunnel">
+		<text>Дістатися залізничного тунелю</text>
+	</string>
+	<string id="ds_go_deeper">
+		<text>Зайти далі в копальні</text>
+	</string>
+	<string id="ds_reach_mines">
+		<text>Знайти вхід до копалень</text>
+	</string>
+	<string id="ds_find_tunnel_exit">
+		<text>Знайти інший вихід з копалень</text>
+	</string>
+	<string id="ds_find_sin_documents">
+		<text>Знайти документи для «Гріха»</text>
+	</string>
+	<string id="ds_find_documents">
+		<text>Знайти секретну лабораторію та дістати документи</text>
+	</string>
+	<string id="ds_take_sin_documents">
+		<text>Віднести документи до Велеса</text>
+	</string>
+	<string id="ds_borov_documents">
+		<text>Знайти документи бандитів</text>
+	</string>
+	<string id="dark_sin_pc_undegrounds_info">
+		<text>Схоже, що Бандити знайшли тебе! Поки ти ще там, йди та знайди нам більше цікавої інформації в підземній лабораторії. Спробуй знайти комп'ютер адміністраторів, у ньому повинна знаходитись найцікавіша інформація. Якщо для доступу потрібен пароль, подивись навколо, може десь є тіла. Оглянь їх КПК, тобі може пощастити. Щоб потрапити всередину тобі потрібен код - "5271". Спробуй не облажатися!</text>
+	</string>
+	<string id="ds_pc_info">
+		<text>Отримати інформацію з комп'ютера</text>
+	</string>
+	<string id="ds_take_sin_docs_and_info">
+		<text>Віднести документи до лідера «Гріха».</text>
+	</string>
+	<string id="ds_sins_get_another_art_title">
+		<text>Знайти артефакт «Місячне світло»</text>
+	</string>
+	<string id="ds_get_art_prisoner_text">
+		<text>Знайти «Місячне світло»</text>
+	</string>
+	<string id="ds_get_moonlight_prisoner_text">
+		<text>Знайти артефакт «Місячне світло»</text>
+	</string>
+	<string id="ds_return_to_prisoner_text">
+		<text>Знайти артефакт «Місячне світло» та повернутися назад до Велеса</text>
+	</string>
+	<string id="ds_find_disc_title">
+		<text>Знайти диск з розвідданими</text>
+	</string>
+	<string id="ds_find_intelligence_text">
+		<text>Знайти диск</text>
+	</string>
+	<string id="ds_find_second_disc_text">
+		<text>Знайти другий диск «Долгу»</text>
+	</string>
+	<string id="ds_talk_to_veronin_text">
+		<text>Поговорити з Вороніним</text>
+	</string>
+	<string id="ds_return_to_veronin_title">
+		<text>Повернутися до Вороніна</text>
+	</string>
+	<string id="ds_return_to_veronin_text">
+		<text>Поговорити з Вороніним</text>
+	</string>
+	<string id="ds_report_to_veronin_text">
+		<text>Доповісти Вороніну</text>
+	</string>
+	<string id="ds_reach_rostok">
+		<text>Дістатися заводу «Росток» через Смітник</text>
+	</string>
+	<string id="ds_leave_mines_title">
+		<text>Покинути копальні</text>
+	</string>
+	<string id="ds_leave_mines_text">
+		<text>Вибратись з копалень</text>
+	</string>
+	<string id="ds_get_to_dolina">
+		<text>Дістатися Темної Долини</text>
+	</string>

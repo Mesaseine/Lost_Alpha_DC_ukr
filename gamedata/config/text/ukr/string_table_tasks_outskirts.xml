@@ -1,0 +1,63 @@
+	<string id="out_disable_emitters">
+		<text>Вимкнути випромінювачі</text>
+	</string>
+	<string id="out_get_psy_bad">
+		<text>Знайти псі-шолом</text>
+	</string>
+	<string id="out_turn_off_generator">
+		<text>Вимкнути генератор</text>
+	</string>
+	<string id="out_turn_off_emitters">
+		<text>Вимкнути випромінювачі</text>
+	</string>
+	<string id="out_see_veronin">
+		<text>Доповісти Вороніну</text>
+	</string>
+	<string id="out_meet_ivancov">
+		<text>Зустріти Іванцова</text>
+	</string>
+	<string id="out_talk_to_veronin">
+		<text>Зустрітися з Вороніним</text>
+	</string>
+	<string id="out_speak_to_veronin">
+		<text>Поговорити з Вороніним</text>
+	</string>
+	<string id="out_meet_guide">
+		<text>Зустріти Провідника</text>
+	</string>
+	<string id="out_talk_to_guide">
+		<text>Поговорити з Провідником</text>
+	</string>
+	<string id="out_intelligence_text">
+		<text>Зберегти інформацію розвідки</text>
+	</string>
+	<string id="out_keep_freedom_flash_text">
+		<text>Зберегти карту пам'яті</text>
+	</string>
+	<string id="out_keep_flash_text">
+		<text>Не втратити цю карту пам'яті</text>
+	</string>
+	<string id="out_get_to_lab_title">
+		<text>Дістатися об'єкта на околиці</text>
+	</string>
+	<string id="out_get_to_outskirts_lab">
+		<text>Дістатися лабораторії X-7</text>
+	</string>
+	<string id="out_lukash_task_title">
+		<text>Відновити механізм для Лукаша</text>
+	</string>
+	<string id="out_lukash_task_text1">
+		<text>Отримати пароль до табору Найманців</text>
+	</string>
+	<string id="out_lukash_task_text2">
+		<text>Знайти вночі ключ у бармена Найманців</text>
+	</string>
+	<string id="out_lukash_task_text3">
+		<text>Відчинити двері та відновити механізм</text>
+	</string>
+	<string id="out_lukash_task_text4">
+		<text>Повернути механізм Лукашу</text>
+	</string>
+	<string id="out_hunter_message">
+		<text>Привіт, Мічений! Мені пощастило, і я выдправився у Бар в Чорнобилі. Заходь, як будеш мати час. Якщо, звичайно, ти все ще хочеш допомогти мені!</text>
+	</string>

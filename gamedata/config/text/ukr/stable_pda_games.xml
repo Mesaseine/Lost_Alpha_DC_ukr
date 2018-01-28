@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="ui_puzzle_select_image">
+		<text>Вибрати зображення ...</text>
+	</string>
+	<string id="ui_puzzle_new_image">
+		<text>Нове зображення</text>
+	</string>
+	<string id="ui_puzzle_valid_elems">
+		<text>Вірні фрагменти:</text>
+	</string>
+	<string id="ui_puzzle_solved">
+		<text>Пазл вирішено!</text>
+	</string>
+	<string id="ui_pda_games_mnu">
+		<text>Меню ігор</text>
+	</string>
+	
+	<string id="ui_tetris_points">
+		<text>Бали</text>
+	</string>
+	<string id="ui_tetris_lines">
+		<text>Лінії</text>
+	</string>
+	<string id="ui_tetris_level">
+		<text>Рівень</text>
+	</string>
+	<string id="ui_tetris_pause">
+		<text>Пауза</text>
+	</string>
+	<string id="ui_tetris_resume">
+		<text>Продовжити</text>
+	</string>
+	<string id="ui_tetris_paused">
+		<text>На паузі</text>
+	</string>
+	<string id="ui_tetris_new_game">
+		<text>Нова гра</text>
+	</string>
+	<string id="ui_tetris_new_level">
+		<text>Новий рівень</text>
+	</string>
+	<string id="ui_tetris_t_key1">
+		<text>Переміщати: вниз|ліворуч|праворуч</text>
+		<!--<text>Moving: down|left|right arrows</text>-->
+	</string>
+	<string id="ui_tetris_t_key2">
+		<text>Обертати|кидати: вгору|Enter</text>
+		<!--<text>Rotate|drop: up arrow|enter</text>-->
+	</string>
+	<string id="ui_tetris_t_key3">
+		<text>Пауза: P</text>
+	</string>
+	
+	<string id="ui_klondike_selected">
+		<text>Вибрано</text>
+	</string>
+	<string id="ui_klondike_play_again">
+		<text>Бажаєте зіграти знову?</text>
+	</string>
+
+</string_table>

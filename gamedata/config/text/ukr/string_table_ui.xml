@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="cant_walk">
+		<text>Ви занадто виснажені, щоб іти</text>
+	</string>
+	<string id="cant_walk_weight">
+		<text>Ви перевантажені, щоб іти</text>
+	</string>
+	<string id="dar_poltergeist_hold_the_door">
+		<text>Хтось утримує двері.</text>
+	</string>
+	<string id="Global Map">
+		<text>Глобальна карта</text>
+	</string>
+	<string id="gun_jammed">
+		<text>Зброю заклинило. Потрібно перезарядитись.</text>
+	</string>
+	<string id="torch_battery_low">
+		<text>Батареї у ліхтарику розряджені. Замініть їх.</text>
+	</string>
+	<string id="zombie_choke">
+		<text>Натискайте ($$ACTION_USE$$), щоб звільнитися від задушення.</text>
+	</string>
+	<string id="inventory_box_use">
+		<text>Обшукати ящик ($$ACTION_USE$$)</text>
+	</string>
+	<string id="Local Map">
+		<text>Локальна карта</text>
+	</string>
+	<string id="st_game_saved">
+		<text>гра збережена</text>
+	</string>
+	<string id="tip_car_locked">
+		<text>Заблоковано</text>
+	</string>
+	<string id="tip_car_use">
+		<text>Відчинити двері ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_door_close">
+		<text>Натисніть ($$ACTION_USE$$), щоб зачинити двері</text>
+	</string>
+	<string id="press_to_lock">
+		<text>Натисніть ($$ACTION_USE$$), щоб зачинити двері камери</text>
+	</string>
+	<string id="press_to_unlock">
+		<text>Натисніть ($$ACTION_USE$$), щоб відчинити двері камери</text>
+	</string>
+	<string id="tip_door_coded">
+		<text>Двері закодовані</text>
+	</string>
+	<string id="tip_door_decode">
+		<text>Натисніть ($$ACTION_USE$$), щоб декодувати двері</text>
+	</string>
+	<string id="tip_door_decoding">
+		<text>Йде процес декодування</text>
+	</string>
+	<string id="tip_door_locked">
+		<text>Двері зачинені</text>
+	</string>
+	<string id="tip_door_open">
+		<text>Натисніть ($$ACTION_USE$$), щоб відчинити двері</text>
+	</string>
+	<string id="tip_gate_close">
+		<text>Натисніть ($$ACTION_USE$$) для того, щоб зачинити ворота</text>
+	</string>
+	<string id="tip_gate_locked">
+		<text>Ворота заблоковані</text>
+	</string>
+	<string id="tip_gate_open">
+		<text>Натисніть ($$ACTION_USE$$) для того, щоб відчинити ворота</text>
+	</string>
+	<string id="tip_monolith">
+		<text>ЗАГАДАТИ ЗАПОВІТНЕ БАЖАННЯ ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_kg">
+		<text>кг</text>
+	</string>
+	<string id="ui_inv_outfit_additional_weight">
+		<text>Додаткова стерпна вага +</text>
+	</string>
+	<string id="ui_ammo_count">
+		<text>Ємність</text>
+	</string>
+	<string id="ui_inv_outfit_power_restore">
+		<text>Відновлення сил</text>
+	</string>
+</string_table>

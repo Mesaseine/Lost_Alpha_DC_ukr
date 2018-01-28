@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+<!-- meet doorman -->
+
+	<string id="out_doorman_talk_2">
+		<text>Вітаю. Чим можу допомогти?</text>
+	</string>
+	<string id="out_doorman_talk_21">
+		<text>Я - Мічений, полковник Петренко направив мене до Бармена і Вороніна</text>
+	</string>
+	<string id="out_doorman_talk_211">
+		<text>А, ти і є Мічений. Проходь, я впевнений, він сподівається на тебе. Ласкаво просимо в новий бар «100 рентген». Можемо пограти в більярд</text>
+	</string>
+	<string id="out_doorman_talk_2111">
+		<text>Дякую за пропуск.</text>
+	</string>
+	<string id="out_doorman_talk_22">
+		<text>Є шанс, що мене пропустять?</text>
+	</string>
+	<string id="out_doorman_talk_221">
+		<text>Йди геть, сталкере. Тобі тут немає чого робити.</text>
+	</string>
+	<string id="out_doorman_talk_2211">
+		<text>Я повернусь.</text>
+	</string>
+	<string id="out_doorman_talk_3">
+		<text>Знову ти? Я сподіваюсь ти тут у справі</text>
+	</string>
+	<string id="out_doorman_talk_31">
+		<text>Ні, але я повернусь.</text>
+	</string>
+	<string id="out_doorman_talk_4">
+		<text>Заспокойся і насолоджуйся, сталкере.</text>
+	</string>
+	<string id="out_doorman_talk_41">
+		<text>Не проти, якщо я зроблю.</text>
+	</string>
+
+	<!-- meet barman at outskirts -->
+	
+	<string id="out_barman_talk_2">
+		<text>Радий тебе бачити, Мічений. Ми отримали звістку, що в тебе все вийшло.</text>
+	</string>
+	<string id="out_barman_talk_21">
+		<text>Так, це було нелегко, але я тут, цілий і неушкоджений</text>
+	</string>
+	<string id="out_barman_talk_211">
+		<text>Бачу. Я зараз зайнятий підраховуванням збитків мого бізнесу. Це бардак. Ми втратили багато хороших хлопців під час атаки. Тонкий баланс сил змістився на користь «Волі» - і дозволь мені сказати, «Долг» не дуже щасливий. Піди поговори з Вороніним в іншій кімнаті. В нас є велика проблема.</text>
+	</string>
+	<string id="out_barman_talk_2111">
+		<text>Вже йду.</text>
+	</string>
+	<string id="out_barman_talk_31">
+		<text>Вже поговорив з Вороніним?</text>
+	</string>
+	<string id="out_barman_talk_311">
+		<text>Ще ні, я зайнятий.</text>
+	</string>
+	<string id="out_barman_talk_32">
+		<text>Хай щастить, Мічений!</text>
+	</string>
+	<string id="out_barman_talk_321">
+		<text>Дякую.</text>
+	</string>
+	<string id="out_barman_talk_33">
+		<text>Мої вітання, Стрільцю. Ти вимкнув це лайно, яке зомбувало наших друзів усі ці роки. Воронін чекає тебе. Думаю, він хоче віддячити тобі особисто</text>
+	</string>
+	<string id="out_barman_talk_34">
+		<text>Привіт. Ти просто йдеш повз чи хочеш про щось поговорити??</text>
+	</string>
+	<string id="out_barman_talk_341">
+		<text>Просто дивлюся.</text>
+	</string>
+	
+<!-- meet Voronin -->
+	
+	<string id="out_veronin_talk_2">
+		<text>Я чув від полковника Петренка, що ви розібралися з документами в Барі. Чудово. Ну, настільки чудово, наскільки може бути на даний момент. Мутанти тиснуть на нас зі сторони Диких Територій. Бар під нашим контролем, але на цьому не варто зупинятися, розумієш, Мічений?</text>
+	</string>
+	<string id="out_veronin_talk_21">
+		<text>Стріляй.</text>
+	</string>
+	<string id="out_veronin_talk_211">
+		<text>Як ти знаєш, дорога в Прип'ять і далі закрита Псі-випромінювання яке надходить від Випалювача Мізків. Він існував ще зі створення Зони. Іноді потужність випромінювання піднімається чи опускається. Але після всіх цих пошуків по лабораторіях проведених полковником Петренко, ми знаємо як вимкнути цю систему. Нам потрібен хтось надійний і ти - найкращий з усіх можливих для цього завдання. Тут у моїх хлопців думки розходяться, але я хочу, щоб Випалювач був вимкнений, навіть якщо цього не бажають бійці «Волі». Ця хрінь приносила забагато шкоди. Поговори з капітаном Іванцовим, він розповість більше, його приблизне місцезнаходження я тобі відмітив на карті.</text>
+	</string>
+	<string id="out_veronin_talk_2111">
+		<text>Згоден. Якщо ми зможемо вимкнути його, то я зроблю все що можу.</text>
+	</string>
+	<string id="out_veronin_talk_3">
+		<text>Йди до Іванцова, він пояснить ситуацію. Він розповість про наш план краще ніж я.</text>
+	</string>
+	<string id="out_veronin_talk_31">
+		<text>Добре, вже йду.</text>
+	</string>
+	
+<!-- meet ivancov -->
+<!-- get bad hemlet at yantar -->
+
+	<string id="out_ivancov_talk_2">
+		<text>Як ти знайшов це місце, сталкере? Я не збираюсь тебе вбивати, але якщо в тебе немає причини тут бути, то краще іди звідси.</text>
+	</string>
+	<string id="out_ivancov_talk_21">
+		<text>Генерал Воронін прислав мене до вас, щоб ви пояснили мені ситуацію з Випалювачем. Я Мічений.</text>
+	</string>
+	<string id="out_ivancov_talk_211">
+		<text>Приношу вибачення. Не знав. Добре, Мічений, ситуація така: нам необхідно вирубити випромінювачі Псі-випромінювання. Тобі потрібен буде захист від випромінювання. Йди до Сахарова на «Янтар» - в нього є Псі-шоломи.</text>
+	</string>
+	<string id="out_ivancov_talk_2111">
+		<text>Тоді я пішов.</text>
+	</string>
+	<string id="out_ivancov_talk_21111">
+		<text>Притримай коней! Вимкнути Випалювач - це ще не все. Існує ще і «резервний Випалювач», який знаходиться під Закинутою Фабрикою. Перед тим як йти на Випалювач, потрібно вимкнути «запасний» в Х16, в іншому випадку антени на Радарі не вимкнуться. Вчені допоможуть тобі в цьому - вони так само зацікавлені у вимкненні Випалювача</text>
+	</string>
+	<string id="out_ivancov_talk_211111">
+		<text>Добре, буду мати на увазі.</text>
+	</string>
+	<string id="out_ivancov_talk_3">
+		<text>Ти ще не вимкнув випромінювачі?</text>
+	</string>
+	<string id="out_ivancov_talk_31">
+		<text>Ще ні, працюю над цим.</text>
+	</string>
+	<string id="out_ivancov_talk_4">
+		<text>Привіт! Те що ти вимкнув вимикачі - це чудово, сталкере. Я в тобі не сумнівався</text>
+	</string>
+	<string id="out_ivancov_talk_41">
+		<text>Дякую, звичайна справа.</text>
+	</string>
+	
+<!-- lost factory and radar scorcher disabled -->
+<!-- disable eathquake device at basement -->
+
+	<string id="out_veronin_talk_4">
+		<text>Дякую, Мічений. «Долг» в боргу перед тобою.</text>
+	</string>
+	<string id="out_veronin_talk_41">
+		<text>Радий допомогти, генерале. Хочу запитати - що за справа з усіма цими поштовхами?</text>
+	</string>
+	<string id="out_veronin_talk_411">
+		<text>Так, тепер я розумію про що ти. Ці поштовхи викликаються старим експериментальним пристроєм - Дереліктом, це свого роду зброя, але призначена для бомбардування хвилями окремих частин на Землі. Це не було проблемою, поки ми не переїхали сюди. Навіть «Воля» звинувачує нас у всьому. Якщо що, то ми не причетні до цього, це так... для протоколу.</text>
+	</string>
+	<string id="out_veronin_talk_4111">
+		<text>Тоді ми повинні вимкнути це заради нашого блага. Де це знаходиться?</text>
+	</string>
+	<string id="out_veronin_talk_41111">
+		<text>Це в лабораторії під дамбою. Я відіслав декількох людей розслідувати, але вони так і не повернулись.</text>
+	</string>
+	<string id="out_veronin_talk_411111">
+		<text>Я потурбуюсь про це. Стає все гірше, і хто зна, можливо щось жахливе станеться з цією будовою</text>
+	</string>
+	<string id="out_veronin_talk_5">
+		<text>Швидше, Мічений! Ці землетруси відбуваються все частіше й частіше </text>
+	</string>
+	<string id="out_veronin_talk_51">
+		<text>Я розберусь. Ти ж допоміг пораненим.</text>
+	</string>
+	
+<!-- earthquake device disabled -->
+	
+	<string id="out_veronin_talk_6">
+		<text>Дякую тобі, Мічений! Завдяки тобі нам вдалося уникнути конфліктів з «Волею». Зараз це нам ні до чого. Тепер ми можемо сконцентруватися на відновленні безпеки.</text>
+	</string>
+	<string id="out_veronin_talk_61">
+		<text>Це не було проблемою, генерале.</text>
+	</string>
+	<string id="out_veronin_talk_611">
+		<text>В якості нашої подяки, я скажу нашому механіку щоб він дав тобі амуніцію. Також, хтось лишив тобі записку, поки тебе тут не було. Здається він хоче з тобою побачитись в Старій церкві.</text>
+	</string>
+	<string id="out_veronin_talk_6111">
+		<text>Записка? Що ж, ммм.. Дякую, Генерале, я ціную це. Я краще піду гляну що там написано...</text>
+	</string>
+	
+<!-- veronin after all finished -->
+
+	<string id="out_veronin_talk_7">
+		<text>Будь обережний, Мічений.</text>
+	</string>
+	<string id="out_veronin_talk_71">
+		<text>Слухаюсь, генерале.</text>
+	</string>
+	
+<!-- meet guide -->
+<!-- chitchat -->
+	
+	<string id="out_guide_talk_2">
+		<text>Стрільцю, радий бачити тебе живим. Я вже думав ти помер, але очевидно я помилявся.</text>
+	</string>
+	<string id="out_guide_talk_21">
+		<text>Ти... Ти.</text>
+	</string>
+	<string id="out_guide_talk_211">
+		<text>Я - Провідник, той самий із легенд. Провів тебе до центру кілька місяців тому. Пам'ятаєш?</text>
+	</string>
+	<string id="out_guide_talk_2111">
+		<text>Не дуже. До речі, Док хотів тебе бачити.</text>
+	</string>
+	<string id="out_guide_talk_21111">
+		<text>І ось я тут. Знаю не так вже й багато, але питай - я постараюсь відповісти.</text>
+	</string>
+	<string id="out_guide_talk_211111">
+		<text>Це чудово.</text>
+	</string>
+	<string id="out_guide_talk_22">
+		<text>Чому ти провів мене в центр перший раз?</text>
+	</string>
+	<string id="out_guide_talk_221">
+		<text>В мене було відчуття. Звісно, я не знав, хто ти, але внутрішній голос підказував мені, що тобі можна довіряти. Ти був одним з небагатьох, в кого не затуманився розум у цьому божевільному місці. Можеш вважати це такою благодійністю, чи щось типу того</text>
+	</string>
+	<string id="out_guide_talk_2211">
+		<text>Я бачу.</text>
+	</string>
+	<string id="out_guide_talk_23">
+		<text>Як ти минулого разу провів нас через Випалювач Мізків і повернувся назад?</text>
+	</string>
+	<string id="out_guide_talk_231">
+		<text>Інтуїтивно. Я не вчений і не Бог, але я можу читати Зону, як відкриту книгу. Що ти можеш дізнатися, дивлячись, як кабани смакують тілами мертвих сталкерів, я здатен побачити ключ до Зони навколо нас і можливість дізнатися більше. В мене є щось ніби шостого відчуття, яке дозволяє мені обходити біди Зони. Знання як пройти Випалювач і повернутися, було так само природньо, як прогулянка</text>
+	</string>
+	<string id="out_guide_talk_2311">
+		<text>Правильно.</text>
+	</string>
+	<string id="out_guide_talk_24">
+		<text>Ти знаєш як виникла Зона?</text>
+	</string>
+	<string id="out_guide_talk_241">
+		<text>Як би то не було, ти прийшов, усвідомлюючи тільки частину правди. Звісно, Зона отримала життя завдяки помилкам природи, але вона вже вийшла за межі простого людського розуміння. Це як відчуття - зародження нової реальності, не скованої космічними законами. Навіть якщо ядро Зони буде розірвано на шматки, вона не зникне. В кращому випадку, це тільки зупинить розростання. Поки що. Я сумніваюсь, що все це закінчиться, як в казці. Це схоже на пролог до чогось більш зловісного.</text>
+	</string>
+	<string id="out_guide_talk_2411">
+		<text>Цікава версія.</text>
+	</string>
+	<string id="out_guide_talk_3">
+		<text>Маєш якісь питання?</text>
+	</string>
+	<string id="out_guide_talk_31">
+		<text>Питай.</text>
+	</string>
+	<string id="out_guide_talk_32">
+		<text>Лишились ще запитання?</text>
+	</string>
+	<string id="out_guide_talk_4">
+		<text>Отже, ти тепер будеш рухатися швидше</text>
+	</string>
+	<string id="out_guide_talk_41">
+		<text>Що ти збираєшся робити? Ми збираємся назад до центру. Ти допоможеш нам чи ні?</text>
+	</string>
+	<string id="out_guide_talk_411">
+		<text>Я подумаю над цим, але мені потрібно розібратися зі своїми справами.</text>
+	</string>
+	<string id="out_guide_talk_4111">
+		<text>Ну, значить ні. Слухай, мені вже пора, будь обережніший.</text>
+	</string>
+	<string id="out_guide_talk_41111">
+		<text>Щасливо. І так, в мене є щось для тебе - артефакт «Компас». Він принесе тобі щастя.</text>
+	</string>
+	<string id="out_guide_talk_411111">
+		<text>Дякую. Буду носити.</text>
+	</string>
+	<string id="out_guide_talk_5">
+		<text>Всього найкращого, сталкере!</text>
+	</string>
+	<string id="out_guide_talk_51">
+		<text>Ага, постараюсь.</text>
+	</string>
+	
+<!-- after dialog we meet fang at military warehouse -->
+
+	<string id="out_guard_conversation_0">
+		<text>Агов, сталкере, це територія «Волі» і ми зараз закриті. Що ти тут робиш?</text>
+	</string>
+	<string id="out_guard_conversation_1">
+		<text>В мене є пароль.</text>
+	</string>
+	<string id="out_guard_conversation_11">
+		<text>Кажи.</text>
+	</string>
+	<string id="out_guard_conversation_21">
+		<text>Ти з «ДОЛГУ»??! ЗАБИРАЙСЯ ЗВІДСИ, МУДАКУ!</text>
+	</string>
+	<string id="out_guard_conversation_22">
+		<text>Ти думаєш, що я настільки тупий і вже забув твоє обличчя??!! Вали звідси, долгівський пацюче!</text>
+	</string>
+	<string id="out_guard_conversation_2">
+		<text>Хмм... справді? Цікаво що це таке</text>
+	</string>
+	<string id="out_guard_conversation_3">
+		<text>Торчок.</text>
+	</string>
+	<string id="out_guard_conversation_4">
+		<text>Як ти... Добре, не важливо. Я думаю, ти друг для нас. Можеш проходити, просто не веди себе там як свиня і пий у міру</text>
+	</string>
+	<string id="out_guard_flashcard_1">
+		<text>Ей ти! Бачив флешку на барній стійці? А ну виверни кишені!</text>
+	</string>
+	<string id="out_guard_flashcard_11">
+		<text>[Суперечка]</text>
+	</string>
+	<string id="out_guard_flashcard_12">
+		<text>Віддай флешку назад.</text>
+	</string>
+	<string id="out_guard_flashcard_121">
+		<text>Серйозно!? Ти думав що можна просто так взяти і вийти звідси? І спокійно продати її? Ідіот! Ще раз побачу і ти труп, чоловіче! Зрозумів!?</text>
+	</string>
+	<string id="out_guard_flashcard_1211">
+		<text>Добре. Я зрозумів. Вже йду.</text>
+	</string>
+	<string id="out_guard_flashcard_13">
+		<text>Це був не я, це був...</text>
+	</string>
+	<string id="out_guard_flashcard_131">
+		<text>Хто???</text>
+	</string>
+	<string id="out_guard_flashcard_1311">
+		<text>Можливо той що поряд зі столом?!</text>
+	</string>
+	<string id="out_merc_robbery_0">
+		<text>Ми знаємо, що в тебе є щось від «Волі». Будь ласкавий, віддай нам це. Ну, ми, звісно, можемо всадити в тебе кулю, якщо ти так хочеш...</text>
+	</string>
+	<string id="out_merc_robbery_1">
+		<text>[Віддати флешку]</text>
+	</string>
+	<string id="out_merc_robbery_11">
+		<text>Мудре рішення. Тепер ти можеш піти, живим..</text>
+	</string>
+	<string id="out_merc_robbery_2">
+		<text>Вали, салаго!</text>
+	</string>
+    <string id="out_dolg_guide_dialog_0">
+        <text>Я буду чекати тебе тут, поки ти не закінчищ свою роботу там.</text>
+    </string>
+    <string id="out_dolg_guide_dialog_11">
+        <text>Це правильно, вперед.</text>
+    </string>
+    <string id="out_dolg_guide_dialog_12">
+        <text>Добре, сподіваюсь я ще повернусь</text>
+    </string>
+<!-- misc -->
+	<string id="out_veronin_back_text">
+		<text>Сержанте, ми знайшли групу найманців, які перейшли на ваші позиції... хм.. Я думаю ми запізнилися, добре, буду очікувати доповідь.</text>
+	</string>
+
+	<!-- lukash -->
+	<string id="out_lukash_start_0">
+		<text>Привіт, сталкере, що ми можемо зробити для тебе?</text>
+	</string>
+	<string id="out_lukash_start_1">
+		<text>Я проходив поряд і вирішив підійти представитися</text>
+	</string>
+	<string id="out_lukash_start_11">
+		<text>Мудре рішення. Моїм хлопцям не подобаються незнайомі обличчя, вони від цього нервуються. Так як тебе звати, сталкере?</text>
+	</string>
+	<string id="out_lukash_start_111">
+		<text>Я Стрілець.</text>
+	</string>
+	<string id="out_lukash_start_1111">
+		<text>Стрілець, прямо переді мною. Ти відома особистість, я чув про тебе.</text>
+	</string>
+	<string id="out_lukash_start_11111">
+		<text>Справді? Ну якщо ти так кажеш...</text>
+	</string>
+	<string id="out_lukash_start_111111">
+		<text>Ну давай.. Не соромся! Я чув, ти людина слова. До речі, я Лукаш, лідер «Волі» в цих краях, та й взагалі скрізь. Хе-хе. Можливо колись ти станеш одним з нас?.</text>
+	</string>
+	<string id="out_lukash_start_1111111">
+		<text>Можливо. Але зараз в мене багато справ</text>
+	</string>
+	<string id="out_lukash_start_11111111">
+		<text>Нам завжди потрібно виконувати справи до кінця. В нас багато спільного, не будь чужаком.</text>
+	</string>
+	<string id="out_lukash_start_111111111">
+		<text>Так, звісно.</text>
+	</string>
+	
+	<string id="out_lukash_task_0">
+		<text>Щодо твоєї пропозиції.</text>
+	</string>
+	<string id="out_lukash_task_1">
+		<text>Ти готовий до серйозної справи?</text>
+	</string>
+	<string id="out_lukash_task_11">
+		<text>Звісно, викладай.</text>
+	</string>
+	<string id="out_lukash_task_12">
+		<text>Ще ні. Мені потрібен час.</text>
+	</string>
+	<string id="out_lukash_task_111">
+		<text>Тут недалеко є місце - Пропаще. Я впевнеий, назва тобі знайома. Там проживає Барига, він виманив у мене ключ. Він відчиняє двері на Радарі. Там ми ховаємо дуже важливий пристрій. Він знає, що я ховаю, але не знає де саме.</text>
+	</string>
+	<string id="out_lukash_task_1111">
+		<text>Просто взяти ключ?</text>
+	</string>
+	<string id="out_lukash_task_11111">
+		<text>Хах, а ти забавний. Тобі потрібно отримати пароль.</text>
+	</string>
+	<string id="out_lukash_task_111112">
+		<text>Я маю пароль.</text>
+	</string>
+	<string id="out_lukash_task_1111121">
+		<text>Чудово. Півсправи зроблено.</text>
+	</string>
+	<string id="out_lukash_task_11111211">
+		<text>Отже, у мене є пароль. Просто пройти охорону і взяти?</text>
+	</string>
+	<string id="out_lukash_task_111111">
+		<text>Після того як отримаю пароль, просто пройти охорону і взяти?</text>
+	</string>
+	<string id="out_lukash_task_1111111">
+		<text>Йди вночі, всі ті алкаші будуть в барі і міцно спатимуть. Але будь обережний. Зазвичай ключ лежить біля нього, потім він напивається і забуває про нього. Але ні я, ні мої хлопці не можуть туди потрапити.</text>
+	</string>
+	<string id="out_lukash_task_11111111">
+		<text>Взяти ключ, піти на Радар і знайти ваш пристрій?</text>
+	</string>
+	<string id="out_lukash_task_111111111">
+		<text>Саме так! Ти схоплюєш все на льоту. Зроби це для нас і ти станеш бажаним гостем, а я дам тобі щось цікаве у винагороду.</text>
+	</string>
+	<string id="out_lukash_task_1111111111">
+		<text>Добре, давай координати і я пішов.</text>
+	</string>
+	
+	<string id="out_lukash_task_during_0">
+		<text>Щодо завдання.</text>
+	</string>
+	<string id="out_lukash_task_during_1">
+		<text>Ти дістав пароль?</text>
+	</string>
+	<string id="out_lukash_task_during_11">
+		<text>Так. Він у мене.</text>
+	</string>
+	<string id="out_lukash_task_during_12">
+		<text>Ще ні.</text>
+	</string>
+	<string id="out_lukash_task_during_111">
+		<text>Добре, тепер знайди ключ.</text>
+	</string>
+	<string id="out_lukash_task_during_1111">
+		<text>Так, я у справі.</text>
+	</string>
+	<string id="out_lukash_task_during_2">
+		<text>Ти знайшов ключ?</text>
+	</string>
+	<string id="out_lukash_task_during_21">
+		<text>Так. Він у мене.</text>
+	</string>
+	<string id="out_lukash_task_during_22">
+		<text>Ще ні, але скоро знайду</text>
+	</string>
+	<string id="out_lukash_task_during_211">
+		<text>Добре. Тепер дістань мені пристрій.</text>
+	</string>
+	<string id="out_lukash_task_during_2111">
+		<text>Добре, побачимось.</text>
+	</string>
+	<string id="out_lukash_task_during_3">
+		<text>Пристрій в тебе?</text>
+	</string>
+	<string id="out_lukash_task_during_31">
+		<text>Так, ось він. Розповіси що це таке?</text>
+	</string>
+	<string id="out_lukash_task_during_32">
+		<text>Поки ні, вибач.</text>
+	</string>
+	<string id="out_lukash_task_during_311">
+		<text>Чудова робота, чуваче! Ну за те що ти мені так допоміг, я розповім тобі невелику таємницю. Цей пристрій, чи машина, називай як хочеш, може створювати аномалії. Так, абсолютно всі. Вона якимось чином зв'язується з просторово-часовим континіумом і через нього... Ай, я і сам уже не пам'ятаю, надто складно це все. Її створили в якійсь лабораторії тут, у Зоні. У Х-13 здається, а може й ні. Вояки, як тільки дізналися, що цей агрегат у робочому стані, відправили декілька груп найманців для її захоплення і транспортування. Тільки уяви, що було б, якби така машина потрапила в руки військових. Я не міг цього допустити, і ми з хлопцями трохи відредагували їхні плани, відбивши цю машину в найманців. Історію повинні писати ми, а не корумповані чиновники.</text>
+	</string>
+	<string id="out_lukash_task_during_3111">
+		<text>Нічого собі, я радий що допоміг тобі в той момент. Схоже, це була хороша справа.</text>
+	</string>
+	<string id="out_lukash_task_during_31111">
+		<text>Достойно. Але зараз про мою обіцянку. Ось, тримай. Подяка від всіх наших хлопців. І як я вже казав раніше, не будь чужинцем!.</text>
+	</string>
+	<string id="out_lukash_task_during_311111">
+		<text>Дякую. Можливо ще зустрінемось.</text>
+	</string>
+	
+	<string id="out_lukash_join_0">
+		<text>Отже, я повернувся з завдання.</text>
+	</string>
+	<string id="out_lukash_join_1">
+		<text>Ти готовий приєднатися до «Волі»?</text>
+	</string>
+	<string id="out_lukash_join_11">
+		<text>Так, я готовий.</text>
+	</string>
+	<string id="out_lukash_join_12">
+		<text>Ще ні. Можливо пізніше.</text>
+	</string>
+	<string id="out_lukash_join_111">
+		<text>Тоді тримай цей костюм. Тепер ти один з нас.</text>
+	</string>
+	<string id="out_lukash_join_1111">
+		<text>І все? Без церемонії чи ще чогось?</text>
+	</string>
+	<string id="out_lukash_join_11111">
+		<text>Немає необхідності. Ти довів мені все, цього достатньо.</text>
+	</string>
+	<string id="out_lukash_join_111111">
+		<text>Дякую. Буду носити з честю.</text>
+	</string>
+	
+	<!-- hunter -->
+	<string id="out_hunter_start_0">
+		<text>Ну, це мій старий знайомий Мічений.</text>
+	</string>
+	<string id="out_hunter_start_1">
+		<text>Радий тебе бачити, ти зробив це.</text>
+	</string>
+	<string id="out_hunter_start_11">
+		<text>Так, і дякую вам, що в мене ще є моя лялечка.</text>
+	</string>
+	<string id="out_hunter_start_111">
+		<text>Не варто подяки, бережи себе.</text>
+	</string>
+	<string id="out_hunter_start_2">
+		<text>Як справи?</text>
+	</string>
+	<string id="out_hunter_start_21">
+		<text>Та ніби живий, але завдяки тобі я втратив свою лялечку і довелось купити паршивий АК!</text>
+	</string>
+	<string id="out_hunter_start_211">
+		<text>Ну... Спокійніше чоловіче..</text>
+	</string>
+</string_table>	
+
+

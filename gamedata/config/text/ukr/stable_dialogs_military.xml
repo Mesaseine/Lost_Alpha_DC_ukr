@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+<!-- ghost meet -->
+<!-- get artefact from mercs task -->	
+	
+	<string id="mil_ghost_start_1">
+		<text>Стрільцю. Я бачу ти повернувся з пекла. Хех, вибач за такі слова - рана і ліки від Лікаря роблять це зі мною. Я вже дізнався все у Лікаря, тому можеш не пояснювати. В крайньому випадку, з пам'яттю в тебе все в порядку??</text>
+	</string>
+	<string id="mil_ghost_start_11">
+		<text>Мені вже краще. Я тебе не дуже пригадую, тому все нормально.</text>
+	</string>
+	<string id="mil_ghost_start_111">
+		<text>Адекватні результати. Слухай, я тут брав певну роботу, щоб заплатити за горілку й інші маленькі задоволення. Договір був у тому, щоб група найманців вбивала сталкерів і крала в них рідкісні артефакти. Сталкери зараз мертві, і я подумав: Чому б мені не розповісти найманцям про кармічну справедливість?. Справа в тому, що я не думаю, що вони були пов'язані з цілим кривавим гарнізоном. Вони дістались і до мене. Вони напевно і зараз над цим сміються. Зроби мені послугу і піди вибий з них дурість, добре? Артефактом «Кристал» яйцеголові на «Янтарі» зможуть відремонтувати твій КПК. Якщо тобі пощастить, можливо вони відновлять втрачену інформацію.</text>
+	</string>
+	<string id="mil_ghost_start_1111">
+		<text>Давай їхні координати і я піду перевірю їхні кишені.</text>
+	</string>
+	<string id="mil_ghost_start_11111">
+		<text>Добре, вони десь тут. Там також буде сталкер з Волі, він хотів щоб ти йому допоміг. Ці вбиті сталкери були його друзями, але він нічого не розповідав. Ах так, поки не забув: візьми цю снайперську рушницю - вона повинна ідеально підходити до цих Свиней. Тобі раніше подобалась така зброя.</text>
+	</string>
+	<string id="mil_ghost_start_111111">
+		<text>Добре. Я зроблю це зараз. Ну, я пішов!</text>
+	</string>
+	<string id="mil_ghost_start_1111111">
+		<text>Добре. Приходь, коли закінчиш. І не забудь про артефакт!</text>
+	</string>
+	<string id="mil_ghost_start_11111111">
+		<text>Звісно.! Я зв'яжусь з тобою, як тільки дістану його</text>
+	</string>
+	
+<!-- meet freedom contact -->
+	
+	<string id="mil_contact_st1">
+		<text>Агов хлопче. Вибач за затримку - авто виявилось гівном. Сподіваюсь я не запізнився на тусовку, тому що я теж хочу шматувати цих виродків. Як тут справи? </text>
+	</string>
+	<string id="mil_contact_st2">
+		<text>Найманці, які вбили твоїх друзів і вкрали артефакт на складах попереду. З вигляду, там їх цілий гарнізон.</text>
+	</string>
+	<string id="mil_contact_st3">
+		<text>Це буде нелегко. Як мені здається, ми повинні пройти біля снайперів на вежі і декількох патрулів. Я чув, що викид очікується найближчим часом, тому це повинно допомогти нам створити хаос серед них. Проведи мене туди і я особисто знайду того хто це зробив! В якості оплати, я віддам тобі артефакт. Для мене зараз головне, щоб ці виродки здохли... Отже, ти знімаєш першого снайпера на вході до бази, і тоді ми пройдемо далі. Придумай якусь тактику - використай свою рушницю, особливо не шуми.</text>
+	</string>
+	<string id="mil_contact_st4">
+		<text>Добре, я прямо за тобою.</text>
+	</string>
+		
+<!-- get artefact from mercs task done -->
+
+	<string id="mil_ghost_0">
+		<text>Нарешті дістав? Сподіваюсь цей виродок здох!</text>
+	</string>
+	<string id="mil_ghost_1">
+		<text>Ще ні. Скоро повернусь.</text>
+	</string>
+	<string id="mil_ghost_2">
+		<text>Я вбив Скаженого Пса і знайшов кристал. Організатор мертвий, хоча - він витиснув з нього всі соки .</text>
+	</string>
+	<string id="mil_ghost_21">
+		<text>Мало часу. Тягни цю штуку на «Янтар»! Боюсь я не в тому стані, щоб йти з тобою. Поспішай.</text>
+	</string>
+	<string id="mil_ghost_211">
+		<text>Вже в дорозі!</text>
+	</string>
+	
+<!-- military trader chitchat -->	
+	
+		<string id="mil_basement_trader_dialog_0">
+		<text>Привіт, сталкере! Ласкаво просимо до підвального табору. .</text>
+	</string>
+		<string id="mil_basement_trader_dialog_3">
+		<text>Ще щось?</text>
+	</string>
+		<string id="mil_basement_trader_dialog_4">
+		<text>Побачимось!</text>
+	</string>
+	<string id="mil_basement_trader_dialog_1">
+		<text>Що продаєш?</text>
+	</string>
+	<string id="mil_basement_trader_dialog_11">
+		<text>Нічого особливого, насправді. Аптечки і бинти в основному.Я не продаю зброю, але боєприпаси - це завжди будь-ласка, піджену що треба.</text>
+	</string>
+	<string id="mil_basement_trader_dialog_2">
+		<text>Чому ви тут?</text>
+	</string>
+	<string id="mil_basement_trader_dialog_21">
+		<text>Тут,глибоко в Зоні, ціна для звичайного спорядження дуже висока. Не надто багато продавців хочуть тут торгувати в цих частинах Зони - шукати тут товар дуже геморойно. Але, я з легкістю покриваю витрати, маючи непоганний прибуток. </text>
+	</string>
+	
+<!-- crazy stalker side task -->	
+	
+	<string id="mil_crazy_stalker_job_1">
+		<text>Агов? Стій! Стріляти буду!</text>
+	</string>
+	<string id="mil_crazy_stalker_job_2">
+		<text>Та вгамуйся ти. Я не мутант. Поки що..</text>
+	</string>
+	<string id="mil_crazy_stalker_job_3">
+		<text>Звичайна людина? Чудово! Допоможеш з однією проблемою?</text>
+	</string>
+	<string id="mil_crazy_stalker_job_4">
+		<text>Що даєш взамін?</text>
+	</string>
+	<string id="mil_crazy_stalker_job_5">
+		<text>Взамін даю ці штуки...Як їх... А, так. Артефакти всякі. Отримаєш їх якщо знайдеш мою рушницю. Бачиш, не потрібно було вилізати із цієї нички - загубив коли втікав від мутантів. Будь ласка, поверни. Загубив десь біля закинутого села недалеко звідси. Ну то що, знайдеш її для мене</text>
+	</string>
+	<string id="mil_crazy_stalker_job_6">
+		<text>Так.</text>
+	</string>	
+	<string id="mil_crazy_stalker_job_7">
+		<text>Ні.</text>
+	</string>
+	<string id="mil_crazy_stalker_job_8">
+		<text>Дякую, хай щастить... «Рятівник».</text>
+	</string>
+	
+<!-- crazy stalker chitchat -->
+
+	<string id="mil_crazy_stalker_dialog_1">
+		<text>Розкажи мені про:</text>
+	</string>
+	<string id="mil_crazy_stalker_dialog_2">
+		<text>Що ти тут робиш?</text>
+	</string>
+	<string id="mil_crazy_stalker_dialog_21">
+		<text>Виживаю! Як ти думаєш, як я живу біля людей? Вони тобі в спину вистрілять, як тільки ти відвернешся, і навіть оком не моргнуть!</text>
+	</string>
+	<string id="mil_crazy_stalker_dialog_3">
+		<text>Ти хто такий?</text>
+	</string>
+	<string id="mil_crazy_stalker_dialog_31">
+		<text>Ніхто. Вигнанець суспільства як і більшість сталкерів. Просто те що в мене є своя хатина не робить мене особливим.</text>
+	</string>
+	<string id="mil_crazy_stalker_dialog_4">
+		<text>Знаєш щось цікаве?</text>
+	</string>
+		<string id="mil_crazy_stalker_dialog_41">
+		<text>Подивись навкруги. Все це, що тут є це дива Зони.</text>
+	</string>
+	
+<!-- crazy stalker side task done -->	
+	
+		<string id="mil_crazy_stalker_job_done_0">
+		<text>Хочу поговорити про твою зброю.</text>
+	</string>
+		<string id="mil_crazy_stalker_job_done_1">
+		<text>Ти дістав її??</text>
+	</string>
+		<string id="mil_crazy_stalker_job_done_2">
+		<text>Ще ні.</text>
+	</string>		
+		<string id="mil_crazy_stalker_job_done_3">
+		<text>Так, ось твоя рушниця. Але перш ніж я віддам її, я хочу бачити нагороду..</text>
+	</string>	
+		<string id="mil_crazy_stalker_job_done_4">
+		<text>...Чорт, як ти вижив після цього..</text>
+	</string>
+		<string id="mil_crazy_stalker_job_done_5">
+		<text>Про що ти говориш? Ти хотів щоб я помер</text>
+	</string>
+		<string id="mil_crazy_stalker_job_done_6">
+		<text>Мої друзі всього лише хотіли спробувати свіженької, соковитої шкіри сталкера.</text>
+	</string>
+		<string id="mil_crazy_stalker_job_done_7">
+		<text>Стій, ти про шо.. Як це.. Що це означає?!</text>
+	</string>
+		<string id="mil_crazy_stalker_job_done_8">
+		<text>...</text>
+	</string>
+	
+<!-- meet fang -->
+<!-- let's move to pripyat through radar -->
+	
+	<string id="mil_fang_dialog_2">
+		<text>А ти і не надто поспішав, Стрільцю. Вирішив з'явитися із нізвідки через стільки часу. Ну, що з тобою сталося - це твоя справа. Радий тебе бачити, друже.</text>
+	</string>
+	<string id="mil_fang_dialog_21">
+		<text>Ти.. Твоє обличя здається знайомим. Ти Ікло?</text>
+	</string>
+	<string id="mil_fang_dialog_211">
+		<text>Так, це я. Але, як я помітив, твоя амнезія потроху проходить. Ну, скоро ти все згадаєщ. А тепер про справу - у нас є серйозні проблеми. Стрільцю, ти пам'ятаєш що декілька місяців тому ми планували повернутися назад</text>
+	</string>
+	<string id="mil_fang_dialog_2111">
+		<text>Лікар розповів мені всю суть. Ти повинен був зібрати декодер, щоб відкрити лаборатоію під Генераторами</text>
+	</string>
+	<string id="mil_fang_dialog_2112">
+		<text>Я.. я не багато можу згадати.</text>
+	</string>
+	<string id="mil_fang_dialog_21121">
+		<text>Я якраз збираюсь зробити декодер, з моїх старих записів, він потрібен для того, щоб відкрити лабораторію під генераторами. Я думаю, що ця лабораторія є ключовою.</text>
+	</string>
+	<string id="mil_fang_dialog_21111">
+		<text>Можливо в цій лабораторії є те, що є головною причиною всього бжевілля і усіх викидів які відбуваються в Зоні.</text>
+	</string>
+	<string id="mil_fang_dialog_211111">
+		<text>Так, пам'ять трохи повертається до мене. І так, що ми будемо робити далі?</text>
+	</string>
+	<string id="mil_fang_dialog_2111111">
+		<text>Добре, як тільки я візьму останню деталь для декодера на Янтарі, піду до Прип'яті. Тим часом, ти повинен зустрітися з Привидом у Прип'яті, він буде чекати тебе в готелі, в кімнаті 26. Як тільки зустрінетесь чекайте мене, коли підійду, обговоримо наші подальші дії.</text>
+	</string>
+	<string id="mil_fang_dialog_21111111">
+		<text>Добре, я піду зустріну Привида як можна швидше..</text>
+	</string>
+	<string id="mil_fang_dialog_3">
+		<text>Поспішай брате, час не чекає!</text>
+	</string>
+	<string id="mil_fang_dialog_31">
+		<text>Добре, вже біжу..</text>
+	</string>
+	
+<!-- fang chitchat -->
+	
+	<string id="mil_fang_dialog_4">
+		<text>Щось хочеш запитати?</text>
+	</string>
+	<string id="mil_fang_dialog_41">
+		<text>Звідки такі знання в механіці?</text>
+	</string>
+	<string id="mil_fang_dialog_411">
+		<text>Механік-самоук. Я думаю що краще вже знати математику, ніж гнити у вигрібній ямі. Якщо є час і бажання, то можна навчитись. Ньютон же вивчив математичний аналіз без будь-якого комп'ютера, чи не так? Ну а я створив Псі-шолом для вчених, маючи тільки ручку і папір.</text>
+	</string>
+	<string id="mil_fang_dialog_4111">
+		<text>Ти винайшов Псі-шолом?</text>
+	</string>
+	<string id="mil_fang_dialog_41111">
+		<text>Так, зовсім недавно. Продав креслення, оскільки не маю точних інструментів, щоб зробити власноруч. Віслюки не можуть бути зацікавлені, щоб, хоча б на крайній випадок назвати моє ім'я, коли вони будуть хвалитися. До біса їх. Їх оплата до цих пір десь на Багамах. Ха-ха. Гроші тих хто платить податки. Знаєш, коли ми це все створили, ми могли прожити велике життя. Ти, Я, Привид, Док - якщо він хоче ми прийдемо до влади разом. …</text>
+	</string>
+	<string id="mil_fang_dialog_411111">
+		<text>Так, звучить переконливо. Слідкуйте за мною, я можу провести тебе туди куди потрібно. Добре, я повинен працювати.</text>
+	</string>
+	<string id="mil_fang_dialog_42">
+		<text>Як ми зустрілись?</text>
+	</string>
+	<string id="mil_fang_dialog_421">
+		<text>Нічого особливого - на відміну від того, як ти зустрів Привида. Я допоміг Лікарю, коли якісь найманці намагались захопити його болотце і дім для себе. Довелось вивихнути плече, але вони отримали сповіщення. Лікар познайомив нас і ми добре провели час з напоями і так далі. Після цього ми мали справу з найманцями знову. Це було справжнє видовище. Ніколи не варто недооцінювати ПКМ заряджений запалювальними снарядами. Боже, як я сумую за цим звірячим пістолетом. Я повинен знайти цей пістолет коли-небудь. </text>
+	</string>
+	<string id="mil_fang_dialog_4211">
+		<text>Де був Привид в цей час?</text>
+	</string>
+	<string id="mil_fang_dialog_42111">
+		<text>Привида не було з нами, хоча - пізніше він з'явився на фото. Запитай у нього, я впевнений що він розповість тобі про все.</text>
+	</string>
+	<string id="mil_fang_dialog_421111">
+		<text>Добре, дякую.</text>
+	</string>
+	
+<!--freeplay-->
+<!--mad guy freeplay task -->
+
+	<string id="mil_task_mad_guy_dialog_2">
+		<text>Агов сталкере! Мені потрібна допомога. Я грав в покер з хлопцями і ці миші з'явились. Ми втікли від тих малих гівнюків. Мені немає чим вбити цих мишей, допоможеш мені позбутись від них? </text>
+	</string>
+	<string id="mil_task_mad_guy_dialog_21">
+		<text>Що мені за це буде?</text>
+	</string>
+	<string id="mil_task_mad_guy_dialog_211">
+		<text>Агов, мужик, в мене нічого немає.. але я знаю місце, де мій друг заховав свій хабар. Я можу скинути координати, якщо ти вб'єш їх для мене.</text>
+	</string>
+	<string id="mil_task_mad_guy_dialog_2111">
+		<text>Звісно, я розберусь. Скоро повернусь!</text>
+	</string>
+	<string id="mil_task_mad_guy_dialog_2112">
+		<text>В мене немає часу на це, вибач.</text>
+	</string>
+	<string id="mil_task_mad_guy_dialog_3">
+		<text>Я тебе благаю. Можеш мені допомогти з цією брудною проблемою?</text>
+	</string>
+	<string id="mil_task_mad_guy_dialog_31">
+		<text>Я занадто зайнятий, вибач.</text>
+	</string>
+	<string id="mil_task_mad_guy_dialog_4">
+		<text>Чи всі миші мертві?</text>
+	</string>
+	<string id="mil_task_mad_guy_dialog_41">
+		<text>Ще ні. Я працюю на цим.</text>
+	</string>
+	<string id="mil_task_mad_guy_dialog_42">
+		<text>Так, все зачищено!</text>
+	</string>
+	<string id="mil_task_mad_guy_dialog_421">
+		<text>Оце так! Дякую, чуваче! Я вдячний тобі! Ось координати схованки</text>
+	</string>
+	<string id="mil_task_mad_guy_dialog_4211">
+		<text>Приємно вести з тобою справи. Побачимось.</text>
+	</string>
+	<string id="mil_task_mad_guy_dialog_5">
+		<text>Чи всі миші мертві?</text>
+	</string>
+	<string id="mil_task_mad_guy_dialog_51">
+		<text>Ще ні... Є декілька проблем...</text>
+	</string>
+	<string id="mil_task_mad_guy_dialog_52">
+		<text>Так, все зачищено.. Тепер, якщо ти дасиш мені координати, я буквально побіжу!</text>
+	</string>
+	<string id="mil_task_mad_guy_dialog_521">
+		<text>Ого, дякую, мужиче. Я це ціную. Ось координати.</text>
+	</string>
+	<string id="mil_task_mad_guy_dialog_5211">
+		<text>Бережи себе</text>
+	</string>
+	<string id="mil_task_mad_guy_dialog_53">
+		<text>У тебе серйозні проблеми чоловіче і в твоїх друзів... Не забувай це, я йду!</text>
+	</string>
+	
+<!--mad guy freeplay task part 1 -->
+
+	<string id="mil_task_controller_dialog_2">
+		<text>Уххх..., ще один «мишолов»</text>
+	</string>
+	<string id="mil_task_controller_dialog_21">
+		<text>Ти... Ти можеш говорити??!</text>
+	</string>
+	<string id="mil_task_controller_dialog_211">
+		<text>Так. Не всі контролери спілкуються телепатично, деякі пам'ятають як говорити по-людськи.</text>
+	</string>
+	<string id="mil_task_controller_dialog_2111">
+		<text>Що ти тут робиш, істото!</text>
+	</string>
+	<string id="mil_task_controller_dialog_21111">
+		<text>Тобто ти хочеш знайти мого друга</text>
+	</string>
+	<string id="mil_task_controller_dialog_211111">
+		<text>Не друг я тобі! Я не буду питати знову! Що ти тут робиш?</text>
+	</string>
+	<string id="mil_task_controller_dialog_2111111">
+		<text>Ти просто вирішив проблему за мене!</text>
+	</string>
+	<string id="mil_task_controller_dialog_21111111">
+		<text>Що?.. Про що ти говориш?</text>
+	</string>
+	<string id="mil_task_controller_dialog_211111111">
+		<text>Йди до мертвих мишей і зрозумієш.</text>
+	</string>
+	<string id="mil_task_controller_dialog_2111111111">
+		<text>Це краще ніж просто добре</text>
+	</string>
+	<string id="mil_task_controller_dialog_2111112">
+		<text>Просто виріши дану проблему і ми поговоримо.</text>
+	</string>
+	<string id="mil_task_controller_dialog_21111121">
+		<text>Добре, я повернусь.</text>
+	</string>
+	
+<!--mad guy freeplay task part 2 -->	
+	
+	<string id="mil_task_controller_dialog_3">
+		<text>Отже, ти виконав завдання?</text>
+	</string>
+	<string id="mil_task_controller_dialog_31">
+		<text>Так, а тепер скажи мені, що це за фігня!</text>
+	</string>
+	<string id="mil_task_controller_dialog_32">
+		<text>Ще ні, я працюю над цим.</text>
+	</string>
+	<string id="mil_task_controller_dialog_33">
+		<text>Забудь про це. Я йду!</text>
+	</string>
+	<string id="mil_task_controller_dialog_4">
+		<text>Щось не так?</text>
+	</string>
+	<string id="mil_task_controller_dialog_41">
+		<text>Що, чорт забирай, з тобою?!</text>
+	</string>
+	<string id="mil_task_controller_dialog_411">
+		<text>Це був мій будинок протягом багатьох років. Декілька алкашів наштовхнулись на нього для гри в карти, і я би просто дозволив їм там бути? Я так не думаю! Тому я ввів свій розум в оману і уявив, що вони були мишами.</text>
+	</string>
+	<string id="mil_task_controller_dialog_4111">
+		<text>Ти хворий! Я сподіваюсь ми більше не побачимось!</text>
+	</string>
+</string_table>

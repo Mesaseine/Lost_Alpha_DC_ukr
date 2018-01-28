@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+<!-- meet with outpost leader -->
+
+	<string id="rad_outpost_hello_0">
+		<text>Привіт.</text>
+	</string>
+	<string id="rad_outpost_hello_1">
+		<text>Стій, сталкере! Ти знаходишся на святій землі. Що ти тут забув?</text>
+	</string>
+	<string id="rad_outpost_hello_2">
+		<text>Я тут у своїх особистих справах.</text>
+	</string>
+	<string id="rad_outpost_hello_3">
+		<text>Поки ми не маємо проблем з твоїми справами, «Моноліт» пропонує тобі угоду, нам потрібно 5,000, не більше, не менше.</text>
+	</string>
+	<string id="rad_outpost_hello_4">
+		<text>Ось. Тепер я можу йти далі?</text>
+	</string>
+	<string id="rad_outpost_hello_5">
+		<text>Йди далі, але будь обережним. «Моноліт» постійно спостерігає за тобою, з центру зони.</text>
+	</string>
+	<string id="rad_outpost_hello_41">
+		<text>Дякую, будьте обережні.</text>
+	</string>
+	<string id="rad_outpost_hello_6">
+		<text>Щодо тих грошей, що я щойно віддав вам на належний похорон?</text>
+	</string>
+	<string id="rad_outpost_hello_7">
+		<text>Я скоро повернусь.</text>
+	</string>
+		
+<!-- meet hermit on radar -->
+<!-- get hermit belongings task -->
+		
+	<string id="rad_hermit_belonings_0">
+		<text>Хто там? Будь ласка, не вбивайте мене, я не мутант!</text>
+	</string>
+	<string id="rad_hermit_belonings_1">
+		<text>Я знаю, ти волоцюга, доктор казав про тебе.</text>
+	</string>
+	<string id="rad_hermit_belonings_2">
+		<text>Доктор? Ех, хороша людина, хороша людина... навіщо він тебе сюди прислав?</text>
+	</string>
+	<string id="rad_hermit_belonings_3">
+		<text>Лабораторія X10. Мені потрібно спуститися туди, та вимкнути випалювач мізків, тоді дорога до Прип'яті та до ЧАЕС відкриється.</text>
+	</string>
+	<string id="rad_hermit_belonings_4">
+		<text>Це прокляте місце! Ти повинен підірвати цю кляту лабораторію, чи не так?!</text>
+	</string>
+	<string id="rad_hermit_belonings_5">
+		<text>Все настільки погано?</text>
+	</string>
+	<string id="rad_hermit_belonings_6">
+		<text>Колись я працював там! А тепер подивись на мене! По-твоєму схоже на те, що там добре!?</text>
+	</string>
+	<string id="rad_hermit_belonings_7">
+		<text>...Бачиш шолом на моїй голові? Він не дозволяє випалювачу мізків проникнути в мою голову, та перетворити мене на зомбі, або гірше, одним з «Моноліту». Ти єдиний хто знає, як потрапити в лабораторію X10. Я впевнений, ти хочеш вимкнути випалювач. Я можу це зробити, але ти повинен мені допомогти.</text>
+	</string>
+	<string id="rad_hermit_belonings_8">
+		<text>Я... Я думаю ти маєш рацію. Я повинен дорожити честю. Тут є одна дорога, через бункер в пагорбах, але вона була закрита. Тобі потрібен пароль, щоб потрапити в нього. Я маю один, він захований у зеленому сейфі в мене вдома. Знаєте те звалище? Це там де будинки робітників, котрі працювали тут до аварії в 1986 році. Вчені використовували їх, коли збудували лабораторіїї, після припинення дослідів, усе це було поховане під купою сміття.</text>
+	</string>
+	<string id="rad_hermit_belonings_9">
+		<text>То мені потрібли лиш піти туди і взяти його?</text>
+	</string>
+	<string id="rad_hermit_belonings_10">
+		<text>Це не спрацює. Там є аномалія - дуже дивна, вона єдина в цій місцевості. Це вірна смерть, кажуть, що ні артефакти, ні захистні костюми не зможуть захистити тебе від неї. Хоча...</text>
+	</string>
+	<string id="rad_hermit_belonings_11">
+		<text>Що хоча...?</text>
+	</string>
+	<string id="rad_hermit_belonings_12">
+		<text>В мене є деякі спеціальні препарати. Якщо ти візьмеш їх з собою, в тебе з'являться шанси залишитися живим. Але в мене їх викрав мутант! Мені потрібно їх прийняти, інакше я стану божевільним. Принеси мені ці ліки і я дам тобі необхідний набір, і тоді ми можемо знищити це місце!</text>
+	</string>
+	<string id="rad_hermit_belonings_13">
+		<text>Добре, я вб'ю його, як-не-як він викрав це у старого чоловіка.</text>
+	</string>
+	
+<!-- hermit chitchat -->
+	
+	<string id="rad_hermit_questions_0">
+		<text>Можна питання?</text>
+	</string>
+	<string id="rad_hermit_questions_1">
+		<text>Так, звичайно.</text>
+	</string>
+	<string id="rad_hermit_questions_11">
+		<text>Як ви познайомились з доктором?</text>
+	</string>
+	<string id="rad_hermit_questions_111">
+		<text>Я допомогав йому збирати опромінені рослини в цьому місці, доки «Моноліт» не влаштував тут перестрілку. За це він дав мені відвар з різними добавками, котрі можуть усунути будь-який біль. Я навіть мав змогу випити чай з ним в цій болотистій місцевості. Ми хороші друзі.</text>
+	</string>
+	<string id="rad_hermit_questions_1111">
+		<text>Зрозуміло.</text>
+	</string>
+	<string id="rad_hermit_questions_12">
+		<text>Розкажи більше про себе.</text>
+	</string>
+	<string id="rad_hermit_questions_121">
+		<text>Раніше я працював тут, ми проводили експерименти, до того, як з'явилась зона. Та наче і все, мені більше нічого тобі розповісти. Я не маю ні сім'ї, ні дружини, ні особистого життя - наука, це єдине, що мене хвилювало. Наука мене поглинула, і тепер, як ти можеш бачити, я страждаю від наслідків.</text>
+	</string>
+	<string id="rad_hermit_questions_1211">
+		<text>Так... я бачу.</text>
+	</string>
+	<string id="rad_hermit_questions_13">
+		<text>Монолітовці залишили тебе тут одного?</text>
+	</string>
+	<string id="rad_hermit_questions_131">
+		<text>Так, і це достатньо дивно. В основному вони мене ігнорують. Знаючи який рівень загрози вони несуть, я вважаю це щастям. Сталкери в чорних з червоним костюмах не перетинають межі території «Моноліту», тож я вважаю, що це місце безпечне.</text>
+	</string>
+	<string id="rad_hermit_questions_1311">
+		<text>Добре це чути.</text>
+	</string>
+	
+<!-- follow outpost leader to monolith commander -->
+	
+	<string id="rad_outpost_follower_1">
+		<text>Стій, сталкере! Командир хоче тебе бачити. Тобі потрібно пройти зі мною. Ніяких питаннь. Ніяких обговореннь, Мічений. Патріарх хотів би з тобою зустрітись, ніяких «але». Тримайся біля мене, і навіть не думай втекти!</text>
+	</string>
+	<!--string id="rad_outpost_follower_2">
+		<text>Ти про що?</text>
+	</string>
+	<string id="rad_outpost_follower_3">
+		<text></text>
+	</string-->
+	<string id="rad_outpost_follower_4">
+		<text>...Добре. Тримайся, я йду.</text>
+	</string>	
+	<string id="rad_outpost_follower_5">
+		<text>Я так не думаю, божевільний.</text>
+	</string>
+	
+<!-- help to monolith outpost -->
+	
+	<string id="rad_outpost_mutants_help_0">
+		<text>Вони всі мертві.</text>
+	</string>
+	<string id="rad_outpost_mutants_help_1">
+		<text>Деякі пройшли цей шлях, та чекають поки «Моноліт» піде. Набагато рідше приходять ті, хто сильніше «Моноліту». То ж... хто ти, сталкере?</text>
+	</string>
+	<string id="rad_outpost_mutants_help_2">
+		<text>Ніхто. Я просто людина, яка хворіє секретами зони.</text>
+	</string>
+	<string id="rad_outpost_mutants_help_3">
+		<text>Це справді так? Певне ти набрався цього у патріарха. Він був би радий мати можливість порозмовляти з такою цікавою людиною, як ти.</text>
+	</string>
+	<string id="rad_outpost_mutants_help_4">
+		<text>Ні, я передумав, а тепер ти помреш, як і ті мутанти!</text>
+	</string>
+	<string id="rad_outpost_mutants_help_5">
+		<text>Пішли...</text>
+	</string>
+	<string id="rad_outpost_mutants_help_6">
+		<text>Потім відведи мене до нього.</text>
+	</string>
+	
+<!-- meet monolith leader -->
+<!-- chitchat -->
+
+	<string id="rad_monolith_commander_0">
+		<text>Мічений, чи мені тебе називати Стрілець? В будь-якому випадку, прийміть мої щирі вітання. Ви певне маєте багато питаннь, і я буду радий на них відповісти.</text>
+	</string>
+	<string id="rad_monolith_commander_1">
+		<text>Ну тоді до справи. Скажіть мені, навіщо ви привели мене сюди?</text>
+	</string>
+	<string id="rad_monolith_commander_2">
+		<text>Хто ти?</text>
+	</string>
+	<string id="rad_monolith_commander_21">
+		<text>Я Патріарх, котрий несе знання та волю моноліту. Ніхто так не зв'язаний з «Монолітом», як я. Вважайте мене попом, а Святого Моноліта - богом . Ось воно як.</text>
+	</string>
+	<string id="rad_monolith_commander_3">
+		<text>Звідки ти знаєш моє справжнє ім'я?</text>
+	</string>
+	<string id="rad_monolith_commander_31">
+		<text>Ми знаємо, тому що «Моноліт» знає все.</text>
+	</string>
+	<string id="rad_monolith_commander_4">
+		<text>Хто такі моноліт насправді?</text>
+	</string>
+	<string id="rad_monolith_commander_41">
+		<text>Насправді, насправді наша назва це «Діти Моноліту». Моноліт це єдиний творець зони - всемогутній, самомислячий, мудрий Святий Артефакт який впав на землю, надісланий з глибин космосу протестувати людський рід та його рішучість. Ми діти, які визнають його, та його могутність.</text>
+	</string>
+	<string id="rad_monolith_commander_5">
+		<text>То що тепер? Навіщо ви привели мене сюди?</text>
+	</string>
+	<string id="rad_monolith_commander_6">
+		<text>Ти маєш хороший потенціал, дитя. Твоє прагнення до знаннь та правди привело тебе сюди. Це доля. Приєднуйся до нас, щоб вивчити Зону та дізнатись правду. Прошу тебе, Стрільцю! Ти ж хочеш зрозуміти це все, чи не так?</text>
+	</string>
+	<string id="rad_monolith_commander_7">
+		<text>Так, звичайно, але...</text>
+	</string>
+	<string id="rad_monolith_commander_8">
+		<text>Подумай про це. Ми маємо... О ні, не зараз...</text>
+	</string>
+	<string id="rad_monolith_commander_9">
+		<text>...Що?</text>
+	</string>	
+	
+<!-- get hermit belongings task done -->
+<!-- get the passkey in safe near deadly anomalies -->
+	
+	<string id="rad_hermit_belonings_done_0">
+		<text>Я приніс тобі дещо особливе.</text>
+	</string>
+	<string id="rad_hermit_belonings_done_1">
+		<text>Ти знайшов мої препарати?</text>
+	</string>
+	<string id="rad_hermit_belonings_done_2">
+		<text>Я зіткнувся з головорізами з «Моноліту», але як бачиш, твої препарати я приніс.</text>
+	</string>
+	<string id="rad_hermit_belonings_done_3">
+		<text>Дякую тобі, ДЯКУЮ! Я думав, що вже ніколи їх не побачу! Отже, код до сейфу такий: 2-1-8. Збережи препарати, і вони захистять тебе від аномалії, та допоможуть дізнатися код. Повертайся потім до мене, і я допоможу активувати ключ до лабораторії Х10.</text>
+	</string>
+	<string id="rad_hermit_belonings_done_4">
+		<text>Добре, повернусь настільки швидко, наскільки зможу.</text>
+	</string>
+	
+<!-- passkey task done -->
+<!-- let's move to radar undeground -->
+	
+	<string id="rad_hermit_x10_documents_0">
+		<text>Я хочу подивитися на твої речі.</text>
+	</string>	
+	<string id="rad_hermit_x10_documents_1">
+		<text>Ти вже їх дістав?</text>
+	</string>	
+	<string id="rad_hermit_x10_documents_2">
+		<text>Ось речі з сейфу та пароль. Що тепер?</text>
+	</string>		
+	<string id="rad_hermit_x10_documents_3">
+		<text>Дайте мені попрацювати з ними... Ось, я полагодив це. Тепер воно повинно працювати. Моя робота завершена, сталкере. Йди... заради тих, хто помер. Тепер я можу спокійно померти, знаючи, що мої помилки та помилки моїх колег будуть виправлені. Сподіваюсь, що з часом це все забудеться...</text>
+	</string>	
+
+<!-- not implented -->	
+<!-- chief chitchat -->
+	
+	<string id="rad_chief_start_dialog_0">
+		<text>Здоров!</text>
+	</string>
+	<string id="rad_chief_start_dialog_100">
+		<text>Привіт!</text>
+	</string>
+	<string id="rad_find_deputy_dialog_1_0">
+		<text>Де гроші за завдання?</text>
+	</string>
+	<string id="rad_find_deputy_dialog_1_100">
+		<text>Знайди мого помічника і будуть тобі гроші!</text>
+	</string>
+	<string id="rad_find_deputy_dialog_1_1000">
+		<text>Добре, але на цей раз точно!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_1_0">
+		<text>Хто ти?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_1_10">
+		<text>Олексій-Щелепа мене звуть! А ці волоцюги моя команда!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_1_100">
+		<text>Що ти з своїми людьми робите тут?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_1_20">
+		<text>Ми відпочиваємо тут. Як тільки відпочинемо, підемо до Прип'яті!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_2_0">
+		<text>Що тобі відомо про Прип'ять?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_2_10">
+		<text>Знаю, що це старе закинуте місто, з епохи комунізму! Це з історії! \nДумаю зараз він переповнений мутантами та безліччю монолітівців! Ніхто звідти не повертався! \n</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_2_100">
+		<text>Думаєш там небезпечно?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_2_20">
+		<text>Без сумнівів, так як всі, хто ходив туди, не повернулись.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_0">
+		<text>Ти бачив військових поблизу?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_10">
+		<text>Ні, військових не бачив, взагалі давно їх ніде не бачив.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_100">
+		<text>А що до військових сталкерів?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_20">
+		<text>Кажуть вони десь на радарі з'явились, ну там де антени! Як тільки вони вимкнулись, багато хто пішов до радару, і до При'яті! Як ми тут опинилися, а ми вже тут добу перебуваємо, ніхто не з'являвся. Певне сюди хтось закрив прохід.</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_200">
+		<text>Думаєш дорогу на Радар заблокували військові?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_30">
+		<text>Не думаю, що військові,  кажу ж, давно я їх не бачив, а от військові сталкери могли! Вони не жартують, вони дуже жорсті хлопці, і діють швидко та узгоджено, дивно, що вони раніше не закрили дорогу сюди!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_300">
+		<text>Чому вони не пішли до Прип'яті, або дорогу туди не заблокували?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_3_40">
+		<text>Не знаю, можливо бояться або готуются до чогось, залишається здогадуватися що у них там за плани.</text>
+	</string>
+	
+<!-- not implented -->
+<!-- find mates or their weapons from dead bodies task -->
+
+	<string id="rad_find_stalkers_dialog_4_0">
+		<text>Може в тебе є якесь завдання для мене?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_10">
+		<text>Ну, є одне, але воно непросте, візьмешся?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_100">
+		<text>Звичайно, мене не налякати таким формулюванням!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_101">
+		<text>Ні, ну його, мені ніколи!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_11">
+		<text>Розумію, я сам боюсь, надаю перевагу тому, щоб витратити гроші та послати когось, замість себе та своїх людей!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_20">
+		<text>Ну от і добре! \nЗавдання таке, знайди моїх розвідників, Лома та Колоду! Вони відправились до Прип'яті, я вирішив не йти як усі, швидко, в пащеку тигру, а надіслав туди своїх найкращих хлопців! \nЗнайди їх живими, та приведи до мене, ну а якщо померли, то принеси мені їхню зброю! \nВиконаєш завдання - отримаєш 2000 дерев'яними!!!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_200">
+		<text>Добре, по руках!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_201">
+		<text>Мало грошей даєш, давай 4000 дерев'яниїх та по руках, добре?</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_21">
+		<text>Це все, що я можу запропонувати тобі за це завдання!</text>
+	</string>
+	<string id="rad_find_stalkers_dialog_4_30">
+		<text>Добре, чекаю тебе тут!</text>
+	</string>
+	
+<!-- not implented -->
+<!-- find mates or their weapons from dead bodies task done -->
+
+	<string id="rad_found_deputy_dialog_1_0">
+		<text>Завдання виконано!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_100">
+		<text>Чудово, давай його КПК!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1000">
+		<text>Тримай, тепер гроші!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1100">
+		<text>За що, у нього тут майже нічого немає!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1200">
+		<text>Я тебе зараз вб'ю!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1300">
+		<text>Попадешся мені ще раз, я тебе вб'ю!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_1400">
+		<text>Добре, я розумію, хай щастить!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_200">
+		<text>Я тобі не можу нічого дати, грошей немає. Якщо хочеш, можеш залишити собі його речі!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_1_300">
+		<text>Грошей немає! Вільний!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_2_0">
+		<text>Я ще не знайшов його!</text>
+	</string>
+	<string id="rad_found_deputy_dialog_2_10">
+		<text>Знайди його швидше, якщо хочеш отримати свої гроші!</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_0">
+		<text>Я знайшов твоїх хлопців, вони мертві, ось їх зброя!</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_100">
+		<text>Дякую, значить вони загинули, думаю тоді немає сенсу йти до Прип'яті, поки що! Одна проблема залишаєтся, я не можу віддати тобі гроші за завдання. Мій заступник, зник, а з ним і всі гроші!</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_1001">
+		<text>Добре, я його знайду! Скажи мені де його знайти? І навіть не думай надурити мене на цей раз!!!</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_200">
+		<text>Я думаю далеко він не зміг відійти, він може бути, дай тобі на карті позначу, тут або ось тут! Як знайдеш, поверни його сюди, або ж його КПК!</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_1_2000">
+		<text>Добре, чекай на мене!!!</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_2_0">
+		<text>Я ще не знайшов їх.</text>
+	</string>
+	<string id="rad_found_stalkers_dialog_2_10">
+		<text>Знайди їх швидше! Я не можу чекати вічно!!! Хай щастить!</text>
+	</string>
+</string_table>

@@ -1,0 +1,108 @@
+	<string id="aes_help_raiders_title">
+		<text>Допомогти військовим</text>
+	</string>	
+	<string id="aes_help_raiders_text">
+		<text>Запропонувати допомогу військовим</text>
+	</string>	
+	<string id="aes_speak_raid_leader">
+		<text>Поговорити з лідером рейду</text>
+	</string>	
+	<string id="aes_military_help">
+		<text>Допомогти в наступі військових</text>
+	</string>		
+	<string id="aes_military_help_task">
+		<text>Допомогти військовим захопити та відкрити ворота.</text>
+	</string>
+	<string id="aes_military_task_1">
+		<text>Відбити ворота.</text>
+	</string>
+	<string id="aes_military_task_gate">
+		<text>Зібрати війська та чекати на сигнал.</text>
+	</string>
+	<string id="aes_wait_helis">
+		<text>Укріпити ворота</text>
+	</string>	
+	<string id="aes_military_task_2">
+		<text>Тримати позицію та чекати до кінця атаки гелікоптера.</text>
+	</string>	
+	<string id="aes_destroy_btr">
+		<text>Знищити БТР</text>
+	</string>	
+	<string id="aes_see_raid_leader">
+		<text>Поговорити з лідером рейду</text>
+	</string>
+	<string id="aes_ambush_task_title">
+		<text>Допомогти відбити засідку.</text>
+	</string>	
+	<string id="aes_ambush_task_text">
+		<text>Знищити засідку «Моноліту»</text>
+	</string>
+	<string id="aes_hunter_task_title">
+		<text>Допогти знищити мисливців на гелікоптері</text>
+	</string>	
+	<string id="aes_hunter_task_text">
+		<text>Знищити РПГ «Моноліту»</text>
+	</string>
+	<string id="aes_hunter_task_leader">
+		<text>Побачитися в місці зустрічі</text>
+	</string>
+	<string id="aes_mutants_wave_title">
+		<text>Допомогти знищити мутантів</text>
+	</string>	
+	<string id="aes_mutants_wave_text">
+		<text>Вбити мутантів</text>
+	</string>
+	<string id="aes_mutants_speak_leader">
+		<text>Поговорити з лідером рейду</text>
+	</string>
+	<string id="aes_meet_recon_leader_title">
+		<text>Зустрітися з лідером військових розвідників</text>
+	</string>	
+	<string id="aes_meet_recon_leader_text">
+		<text>Поговорити з капітаном Макаровим</text>
+	</string>	
+	<string id="aes_macarov_title">
+		<text>Допомогти підрозділу розвідників</text>
+	</string>	
+	<string id="aes_get_to_btr">
+		<text>Потрапити в БТР</text>
+	</string>
+	<string id="aes_follow_through_enemy_lines">
+		<text>Супроводити підрозділ розвідників</text>
+	</string>
+	<string id="aes_follow_talk_to_macarov">
+		<text>Поговорити з Макаровим</text>
+	</string>
+	<string id="aes_help_dolg_title">
+		<text>Допомогти «Долгу»</text>
+	</string>	
+	<string id="aes_help_dolg_text">
+		<text>Запропонувати допомогу «Долгу»</text>
+	</string>	
+	<string id="aes_speak_dolg_leader">
+		<text>Поговорити з лідером «Долгу»</text>
+	</string>	
+	<string id="aes_dolg1_help_title">
+		<text>Допомогти «Долгу»</text>
+	</string>
+	<string id="aes_dolg1_help_text">
+		<text>Завдати поразки «Моноліту»</text>
+	</string>
+	<string id="aes_dolg1_btr_text">
+		<text>Розмістити приймач</text>
+	</string>
+	<string id="aes_dolg1_defeat">
+		<text>Знищити одиночну загрозу</text>
+	</string>
+	<string id="aes_dolg1_talk">
+		<text>Поговорити з лідером «Долгу»</text>
+	</string>
+	<string id="aes_dolg1_sar_details">
+		<text>Ми знайшли вхід до саркофагу. Йди центральною дорогою на захід та поверни ліворуч після другого високого крану, там ти знайдеш двері. Код - 4237.</text>
+	</string>
+	<string id="aes_find_recon">
+		<text>Знайти розвідувальний підрозділ «Долгу»</text>
+	</string>
+	<string id="aes_locate_recon_text">
+		<text>Засікти відсутній підрозділ</text>
+	</string>

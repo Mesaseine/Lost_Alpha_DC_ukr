@@ -1,0 +1,22 @@
+	<string id="ds_tunnel_entrance">
+		<text>Вхід у тунель</text>
+	</string>
+	<string id="ds_mine_entrance">
+		<text>Вхід у копальню</text>
+	</string>
+	<string id="ds_borov_docs">
+		<text>Документи Бандитів</text>
+	</string>
+	<string id="ds_mine_exit">
+		<text>Вихід</text>
+	</string>
+	<string id="ds_borov">
+		<text>Лідер «Гріха»</text>
+	</string>
+	<string id="ds_secret_docs">
+		<text>Таємні документи</text>
+	</string>
+	<string id="ds_rostok_factory_enterance">
+		<text>Завод «Росток»</text>
+	</string>
+	

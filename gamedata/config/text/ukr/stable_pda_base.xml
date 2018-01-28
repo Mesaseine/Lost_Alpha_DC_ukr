@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<!--
+	<string id="xray_pda_name">
+		<text>Модуль розширення Xray КПК</text>
+	</string>
+	<string id="xray_pda_desc">
+		<text>Модуль розширення для КПК. Дозволяє Вам спілкуватися з іншими сталкерами дистанційно, слухати музику і грати в ігри. Це також збільшує місткість даних Вашого КПК.</text>
+	</string>
+-->
+	<string id="ui_pda_base_close">
+		<text>Вимкнути</text>
+	</string>
+	<string id="ui_pda_npc_lost_connection">
+		<text>З'єднання перервано</text>
+	</string>
+	<string id="ui_pda_base_comm">
+		<text>Спілкування</text>
+	</string>
+	<string id="ui_pda_base_comm_hint">
+		<text>Дистанційне спілкування з іншими сталкерами</text>
+	</string>
+	<string id="ui_pda_base_skills">
+		<text>Вміння</text>
+	</string>
+	<string id="ui_pda_base_skills_hint">
+		<text>Показати вміння гравця</text>
+	</string>
+	<string id="ui_pda_base_skills_managment">
+		<text>Керування очками вмінь:</text>
+	</string>	
+	<string id="ui_pda_base_downloads">
+		<text>Завантаження</text>
+	</string>
+	<string id="ui_pda_base_downloads_hint">
+		<text>Дані, отримані з комп'ютерів</text>
+	</string>
+	<string id="ui_pda_base_tetris">
+		<text>Розваги</text>
+	</string>
+	<string id="ui_pda_base_tetris_hint">
+		<text>Скоротать время...</text>
+	</string>
+	<string id="ui_pda_base_mplayer">
+		<text>Музичний плеєр</text>
+	</string>
+	<string id="ui_pda_base_mplayer_hint">
+		<text>Щоб скоротати час...</text>
+	</string>
+	<string id="points_amount_descr">
+		<text>Тут Ви можете побачити, скільки очок вмінь Ви зібрали. Кількість убивств, виконані квести та допомога іншим сталкерам дадуть вам додаткові очки, щоб Ви могли витратити їх на свої вміння. Добре подумайте, перш ніж витрачати очки вмінь, тому що Ви не зможете повернути їх.</text>
+	</string>
+	<string id="ui_pda_base_contacts">
+		<text>Контакти</text>
+	</string>
+	<string id="ui_pda_base_contact_name">
+		<text>Ім'я</text>
+	</string>
+	<string id="ui_pda_base_contact_group">
+		<text>Група</text>
+	</string>
+	<string id="ui_pda_base_contact_stat">
+		<text>Статус повідомлення</text>
+	</string>
+	<string id="ui_pda_base_contact_details">
+		<text>Контактна інформація</text>
+	</string>
+	<string id="ui_pda_base_chat_start">
+		<text>Розмовляти</text>
+	</string>
+	<string id="ui_pda_talk_chat_end">
+		<text>Закінчити розмову</text>
+	</string>
+	
+	<string id="points_amount">
+		<text>Всього очок</text>
+	</string>
+	
+	<string id="select_skill">
+		<text>Показати опис вміння</text>
+	</string>
+	
+	<string id="st_pda_skills_barter">
+		<text>Торгівля</text>
+	</string>
+	
+	<string id="st_pda_skills_endurance">
+		<text>Витривалість</text>
+	</string>
+	
+	<string id="st_pda_skills_sharpshooter">
+		<text>Влучність</text>
+	</string>
+
+	<string id="st_pda_skills_survivor">
+		<text>Виживання</text>
+	</string>
+
+	<string id="st_pda_skills_barter_descr">
+		<text>Обмін і торгівля відіграє важливу роль у житті людей в Зоні. Ви будете зустрічати багато торговців, які будуть пропонувати Вам різні предмети для покупки або обміну. Підвищення вміння "Торгівля" допоможе Вам одержати ці предмети за більш низькими цінами.</text>
+	</string>
+
+	<string id="st_pda_skills_endurance_descr">
+		<text>Під час вашої подорожі по Зоні, Ви будете знаходити безліч предметів, які Ви б хотіли взяти із собою, щоб використати або продати. За допомогою підвищення вміння "Витривалість", збільшується вага і Ви зможете нести більше предметів, перетворюючи ваш рюкзак у справжній багажник.</text>
+	</string>
+
+	<string id="st_pda_skills_sharpshooter_descr">
+		<text>Зона являє собою небезпечне місце. Є багато добре охоронюваних баз, які можливо Ви захочете перевірити, однак легко одержати доступ до них у Вас не вийде. Вам потрібно мати високе вміння "Влучність" для того, щоб усувати охоронців з більш далеких відстаней. Підвищуючи це вміння, ваша рука буде нерухома під час прицілювання, що дозволить стріляти більш влучно.</text>
+	</string>
+
+	<string id="st_pda_skills_survivor_descr">
+		<text>Не забувайте, що Ви сталкер! Зона не для дітей, і ви будете мати потребу в підвищенні вміння "Виживання" для того, щоб залишитися живим. Піднімаючи вміння "Виживання", Ви будете одержувати більше інформації про мертвих сталкерів і схованки. Крім того, ваше здоров'я буде підвищуватися, а це означає, що загинути в перестрілках буде набагато складніше!</text>
+	</string>
+</string_table>

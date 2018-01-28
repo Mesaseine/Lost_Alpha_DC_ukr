@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="enc_af_merger_name">
+		<text>Об'єднувач артефактів</text>
+	</string>
+	<string id="enc_af_merger_descr">
+		<text>Пристрій, останнє досягнення наукових експериментів. Дозволяє поєднувати артефакти.</text>
+	</string>
+	<string id="ui_af_merger_combine">
+		<text>Об'єднати</text>
+	</string>
+	<string id="ui_af_merger_use_recipe">
+		<text>Використати рецепт</text>
+	</string>
+	<string id="ui_af_merger_components">
+		<text>Компоненти</text>
+	</string>
+	<string id="ui_af_merger_recipes">
+		<text>Рецепти</text>
+	</string>
+	<string id="ui_af_merger_description">
+		<text>Опис</text>
+	</string>
+	<string id="ui_af_merger_stats">
+		<text>Статистика</text>
+	</string>
+	<string id="ui_af_merger_succeed">
+		<text>Артефакт створено!</text>
+	</string>
+	<string id="ui_af_merger_failed">
+		<text>Напівпродукт створено!</text>
+	</string>
+	<string id="ui_af_merger_worn_out">
+		<text>Артефакт виснажений!</text>
+	</string>
+	<string id="ui_af_merger_caption">
+		<text>Об'єднувач артефактів</text>
+	</string>
+	<string id="ui_af_merger_recharged">
+		<text>Повністю перезаряджений, готовий до наступного перетворення!</text>
+	</string>
+	<string id="ui_af_merger_recharging">
+		<text>Перезарядка акумуляторів:</text>
+	</string>
+	<string id="ui_af_merger_time_left">
+		<text>Часу залишилось:</text>
+	</string>
+	<string id="ui_af_merger_elapsed">
+		<text>Минуло:</text>
+	</string>
+	<string id="ui_af_merger_idle">
+		<text>Статус: порожній</text>
+	</string>
+	<string id="af_merger_enc">
+		<text>Рецепти артефактів</text>
+		<!--<text>Рецепти Перетворення Виробів</text>-->
+	</string>
+	
+	<string id="ui_af_merger_recipe_comp">
+		<text>Компоненти:</text>
+	</string>
+	<string id="ui_af_merger_recipe_time">
+		<text>Час перетворення:</text>
+	</string>
+	<string id="ui_af_merger_recipe_prob">
+		<text>Імовірність:</text>
+	</string>
+	<string id="ui_af_merger_recipe_succ">
+		<text>Успішне перетворення:</text>
+	</string>
+	<string id="ui_af_merger_recipe_fail">
+		<text>Невдале перетворення:</text>
+	</string>
+	<string id="ui_af_merger_recipe_worn">
+		<text>Виснажений артефакт:</text>
+	</string>
+	<string id="ui_af_merger_recipe_youh">
+		<text>Ви маєте</text>
+	</string>
+	<string id="ui_af_merger_recipe_hour">
+		<text>Година</text>
+	</string>
+	<string id="ui_af_merger_recipe_hours">
+		<text>Годин(и)</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-electra_name">
+		<text>Електра</text>
+	</string>
+	<string id="enc_zone_artifact_af-electra_descr">
+		<text>З фізичної точки зору, це наукова таємниця. Прості реакції від маніпуляцій у тестуванні, за законом Ньютона, неможливі. Але стривайте, це ж Зона...</text>
+	</string>
+	<string id="enc_zone_artifact_af-electra_recipe">
+		<text>Компоненти:\n\n- 1x Спалах\n- 2x Бенгальський вогонь\n- 3x Собачий хвіст\n\nЧас перетворення: 1 година</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-eye_name">
+		<text>Око Саурона</text>
+	</string>
+	<string id="enc_zone_artifact_af-eye_descr">
+		<text>Що найдивніше в цьому артефакті так це його ім'я. Хто знав що Володар Перснів був популярний серед сталкерів?</text>
+	</string>
+	<string id="enc_zone_artifact_af-eye_recipe">
+		<text>Компоненти:\n\n- 1x Крапелька\n- 1x Спалах\n- 2x Рука зомбі\n\nЧас перетворення: 6 годин</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-compass_name">
+		<text>Компас</text>
+	</string>
+	<string id="enc_zone_artifact_af-compass_descr">
+		<text>Крім своїх позитивних властивостей, цей артефакт, здається, реагує на певні елементи, які присутні в Зоні. Дехто каже, що при правильному поводженні він може бути використаний як зононепроникний компас.</text>
+	</string>
+	<string id="enc_zone_artifact_af-compass_recipe">
+		<text>Компоненти:\n\n- 1x Колобок\n- 1x Кристальна колючка\n- 1x Слюда\n\nЧас перетворення: 5 годин</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-ice_name">
+		<text>Сніжинка</text>
+	</string>
+	<string id="enc_zone_artifact_af-ice_descr">
+		<text>Не будучи віддалено схожею на сніжинку для неозброєного ока, на мікроскопічному рівні її повна структура виглядає точно як тисячі сніжинок.</text>
+	</string>
+	<string id="enc_zone_artifact_af-ice_recipe">
+		<text>Компоненти:\n\n- 1x Місячне світло\n- 1x Спалах\n- 1x Бенгальський вогонь\n\nЧас перетворення: 4 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-fire_name">
+		<text>Полум'я</text>
+	</string>
+	<string id="enc_zone_artifact_af-fire_descr">
+		<text>Ні, воно тебе не спалить, але є досить гарячим. Випромінює яскравіше сяйво, ніж звичайний артефакт, чого і слід очікувати з такою стихією, як вогонь.</text>
+	</string>
+	<string id="enc_zone_artifact_af-fire_recipe">
+		<text>Компоненти:\n\n- 1x Вогняна куля\n- 1x Кам'яна квітка\n- 1x Нічна зірка\n\nЧас перетворення: 6 годин</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-baloon_name">
+		<text>Пузир</text>
+	</string>
+	<string id="enc_zone_artifact_af-baloon_descr">
+		<text>Цей артефакт у формі серця виділяє густий рідиноподібний слиз, котрий, якщо застосувати в потрібній області, зменшує вплив шкідливих хімічних речовин на вказаній поверхні.</text>
+	</string>
+	<string id="enc_zone_artifact_af-baloon_recipe">
+		<text>Компоненти:\n\n- 1x Плівка\n- 2x Виверт\n\nЧас перетворення: 4 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-bouquet_name">
+		<text>Букет</text>
+	</string>
+	<string id="enc_zone_artifact_af-bouquet_descr">
+		<text>Цей букет охайно вифарбованих шипів не найкращий подарунок для твоєї коханої, якщо тільки ти не жадаєш її смерті.</text>
+	</string>
+	<string id="enc_zone_artifact_af-bouquet_recipe">
+		<text>Компоненти:\n\n- 1x Кристальна квітка\n- 2x Медуза\n\nЧас перетворення: 4 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-glass_name">
+		<text>Світляк</text>
+	</string>
+	<string id="enc_zone_artifact_af-glass_descr">
+		<text>Артефакт з хаотичною манерою руху. Легко з'ясувати, що ядро є винуватцем безперервної хімічної реакції.</text>
+	</string>
+	<string id="enc_zone_artifact_af-glass_recipe">
+		<text>Компоненти:\n\n- 1x Виверт\n- 1x Кров каменю\n- 1x Слимак\n\nЧас перетворення: 3 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-rock_name">
+		<text>Камінь</text>
+	</string>
+	<string id="enc_zone_artifact_af-rock_descr">
+		<text>Твої очі будуть вражені унікальним та чудовим виглядом цієї фігурної краси. Коли ти тримаєш його у своїх долонях, ти можеш відчути як кожна клітина твого тіла напружилась на мить.</text>
+	</string>
+	<string id="enc_zone_artifact_af-rock_recipe">
+		<text>Компоненти:\n\n- 1x Кров каменю\n- 1x Душа\n- 1x Стопа снорка\n\nЧас перетворення: 3 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-liver_name">
+		<text>Печінка</text>
+	</string>
+	<string id="enc_zone_artifact_af-liver_descr">
+		<text>Відносно органічний та смердючий, це те, що використовують сталкери для характеристики цього артефакту. Ті, хто витримують цей «витончений» запах отримують вигоду від підвищення їхніх життєво важливих функцій та опору.</text>
+	</string>
+	<string id="enc_zone_artifact_af-liver_recipe">
+		<text>Компоненти:\n\n- 1x Душа\n- 1x Слюда\n- 1x Щупальця кровососа\n\nЧас перетворення: 3 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-cuttlefish_name">
+		<text>Каракатиця</text>
+	</string>
+	<string id="enc_zone_artifact_af-cuttlefish_descr">
+		<text>Цьому артефакту далеко до того щоб бути привабливим. Наслідки контакту твоєї шкіри з цим рівнозначні хорошій кислотній ванні, тому тримай рукавички вдягненими.</text>
+	</string>
+	<string id="enc_zone_artifact_af-cuttlefish_recipe">
+		<text>Компоненти:\n\n- 1x Медуза\n- 1x Граві\n\nЧас перетворення: 4 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-fungus_name">
+		<text>Грибок</text>
+	</string>
+	<string id="enc_zone_artifact_af-fungus_descr">
+		<text>Цей дивно забарвлений артефакт може виглядати небезпечним на перший погляд, але насправді це радіаційна губка яка ув'язнює радіацію в своїй зубчатій оболонці. Але діючи таким чином, звільняється газ без кольору і без запаху, котрий, при вдиханні, робить кровотечу набагато більш серйозною проблемою.</text>
+	</string>
+	<string id="enc_zone_artifact_af-fungus_recipe">
+		<text>Компоненти:\n\n- 1x Медуза\n- 1x Морський їжак\n- 2x Копито кабана\n\nЧас перетворення: 4 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-twine_name">
+		<text>Клубок мотузки</text>
+	</string>
+	<string id="enc_zone_artifact_af-twine_descr">
+		<text>Ну... це просто клубок мотузки. Виглядає неймовірно вразливо та не захоплююче, хоча зовнішній вигляд не свідчить про його істинні властивості.</text>
+	</string>
+	<string id="enc_zone_artifact_af-twine_recipe">
+		<text>Компоненти:\n\n- 1x Слиз\n- 1x Кристальна колючка\n- 1x Рука карлика\n\nЧас перетворення: 2 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-soother_name">
+		<text>Пустушка</text>
+	</string>
+	<string id="enc_zone_artifact_af-soother_descr">
+		<text>Забарвлена м'яким золотистим кольором, зроблена з його окремих сполук, Пустушка значно знижує викиди радіації від Золотої Рибки та Нічної Зірки.</text>
+	</string>
+	<string id="enc_zone_artifact_af-soother_recipe">
+		<text>Компоненти:\n\n- 1x Золота рибка\n- 2x Нічна зірка\n\nЧас перетворення: 2 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-quartz_name">
+		<text>Кварц</text>
+	</string>
+	<string id="enc_zone_artifact_af-quartz_descr">
+		<text>Не будучи блискучим і красивим, він зводить нанівець радіацію завдяки якомусь невідомому процесу.</text>
+	</string>
+	<string id="enc_zone_artifact_af-quartz_recipe">
+		<text>Компоненти:\n\n- 1x Кристал\n- 1x Спалах\n- 1x Хвіст псевдособаки\n\nЧас перетворення: 3 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-jewel_name">
+		<text>Коштовність</text>
+	</string>
+	<string id="enc_zone_artifact_af-jewel_descr">
+		<text>Цей блакитний артефакт насправді не дуже відомий, в основному через те, що вчені стверджують нібито він не має позитивних властивостей. Але чутки, здається, суперечать цьому твердженню.</text>
+	</string>
+	<string id="enc_zone_artifact_af-jewel_recipe">
+		<text>Компоненти:\n\n- 1x Стрибунець\n- 2x Бенгальський вогонь\n- 1x Хвіст псевдособаки\n\nЧас перетворення: 3 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-glassball_name">
+		<text>Скляна куля</text>
+	</string>
+	<string id="enc_zone_artifact_af-glassball_descr">
+	<text>Дивно схожий на легендарні кришталеві кулі, які використовували провидці. Скляна куля знижує рівень молочної кислоти, яка виділяється під час фізичних вправ, запобігає болю в ногах та дозволяє робити довші забіги.</text>
+	</string>
+	<string id="enc_zone_artifact_af-glassball_recipe">
+	<text>Компоненти:\n\n- 1x Місячне світло\n- 1x Спалах\n- 3x Хвіст псевдособаки\nЧас перетворення: 3 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-whitesun_name">
+		<text>Біле сонце</text>
+	</string>
+	<string id="enc_zone_artifact_af-whitesun_descr">
+		<text>З правом давати власнику практично нескінченну енергію, цей артефакт є охоронцем та твоїм кращим другом.</text>
+	</string>
+	<string id="enc_zone_artifact_af-whitesun_recipe">
+		<text>Компоненти:\n\n- 3x Спалах\n- 3x Хвіст псевдособаки\n\nЧас перетворення: 3 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-ivory_name">
+		<text>Ікло</text>
+	</string>
+	<string id="enc_zone_artifact_af-ivory_descr">
+		<text>Швидше незвичний, навіть за своєю натурою. Виглядає майже як ікло але містить у своїх внутрішніх стінках слабку, видиму енергію.</text>
+	</string>
+	<string id="enc_zone_artifact_af-ivory_recipe">
+		<text>Компоненти:\n\n- 1x Слиз\n- 1x Спалах\n- 1x Око плоті\n\nЧас перетворення: 4 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-devils_guts_name">
+		<text>Нутрощі диявола</text>
+	</string>
+	<string id="enc_zone_artifact_af-devils_guts_descr">
+		<text>Щоб це не було, це напевно найвульгарніша, найогидніша та найбридкіша річ у цілому Всесвіті. Через його похождення - якщо точніше, за чутками, ці артефакти є деформованими нутрощами розчленованих сталкерів - люди схильні думати що артефакти прокляті. Хоча це й далеко від істини, після впливу на тіло вони збільшують кількість метаболітів власника.</text>
+	</string>
+	<string id="enc_zone_artifact_af-devils_guts_recipe">
+		<text>Компоненти:\n\n- 1x Слиз\n- 1x Кров каменю\n- 1x Душа\n\nЧас перетворення: 4 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-gold_beads_name">
+		<text>Золоті намиста</text>
+	</string>
+	<string id="enc_zone_artifact_af-gold_beads_descr">
+		<text>Цей артефакт не має ні позитивних, ні негативних характеристик. Тим не менше, кожна намистинка має велике значення на Великій Землі. Вони стоять поряд з діамантами, через нешкідливі властивості. Влада пускає їх у продаж в ювелірних магазинах по всьому світу.</text>
+	</string>
+	<string id="enc_zone_artifact_af-gold_beads_recipe">
+		<text>Компоненти:\n\n- 1x Мамині намиста\n- 1x Душа\n\nЧас перетворення: 3 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-blue_beads_name">
+		<text>Сині намиста</text>
+	</string>
+	<string id="enc_zone_artifact_af-blue_beads_descr">
+		<text>Велика рідкість мати артефакт тільки з позитивними властивостями, але цей саме такий. Якщо тобі байдуже на це, то один артефакт все одно можна продати за високою ціною.</text>
+	</string>
+	<string id="enc_zone_artifact_af-blue_beads_recipe">
+		<text>Компоненти:\n\n- 1x Мамині намиста\n- 1x Місячне світло\n\nЧас перетворення: 3 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-red_beads_name">
+		<text>Червоні намиста</text>
+	</string>
+	<string id="enc_zone_artifact_af-red_beads_descr">
+		<text>Відносно токсичні намиста з певною мірою хорошими ефектами, незважаючи на смертоносність. Більшість сталкерів продають їх як і інші намиста.</text>
+	</string>
+	<string id="enc_zone_artifact_af-red_beads_recipe">
+		<text>Компоненти:\n\n- 1x Мамині намиста\n- 1x Кров каменю\n\nЧас перетворення: 2 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-green_beads_name">
+		<text>Зелені намиста</text>
+	</string>
+	<string id="enc_zone_artifact_af-green_beads_descr">
+		<text>Очевидно не найкращий вибір артефакту, якщо твоє тіло може бути легко вражене хімічним дисбалансом. Незважаючи на це, фармацевтичні компанії шукають його для науково-дослідних цілей. Що б вони не створили з ним - це повинно бути прибутковою справою.</text>
+	</string>
+	<string id="enc_zone_artifact_af-green_beads_recipe">
+		<text>Компоненти:\n\n- 1x Мамині намиста\n- 1x Зелений паразит\n\nЧас перетворення: 1 година</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-spine_name">
+		<text>Колючка</text>
+	</string>
+	<string id="enc_zone_artifact_af-spine_descr">
+		<text>Колючка, судячи з усього, досить слабкий артефакт. Він твердіє, коли контактує з деякими хімічними агентами.</text>
+	</string>
+	<string id="enc_zone_artifact_af-spine_recipe">
+		<text>Компоненти:\n\n- 1x Батарея\n- 1x Пліва\n- 1x Копито кабана\n\nЧас перетворення: 1 година</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-mercury_ball_name">
+		<text>Куля Меркурію</text>
+	</string>
+	<string id="enc_zone_artifact_af-mercury_ball_descr">
+		<text>Подвійна Куля Меркурію, отримала назву від назви планети та хімічного елементу меркурію (ртуті). Випромінюваний колір є таким же як і в пекучу спеку на Меркурії, а внутрішній шар рідини, на диво, важчий та більш токсичний варіант елементу Меркурій (ртуті), унікальний для Зони.</text>
+	</string>
+	<string id="enc_zone_artifact_af-mercury_ball_recipe">
+		<text>Компоненти:\n\n- 1x Вогняна куля\n- 1x Виверт\n\nЧас перетворення: 2 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-green_parasite_name">
+		<text>Зелений паразит</text>
+	</string>
+	<string id="enc_zone_artifact_af-green_parasite_descr">
+		<text>Це «напівпродукт» перетворення артефакту. Науковці вірять, що артефакт такого типу може бути використаний як компонент для перетворення артефактів, але підвердити це нічим. Потрібні подальші дослідження.</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-blue_parasite_name">
+		<text>Синій паразит</text>
+	</string>
+	<string id="enc_zone_artifact_af-blue_parasite_descr">
+		<text>Це «напівпродукт» перетворення артефакту. Імовірно, синій колір походить від мікробів, що втрутилися в процес перетворення. Науковці вірять, що артефакт такого типу може бути використаний як компонент для перетворення артефактів, але підвердити це нічим. Потрібні подальші дослідження.</text>
+	</string>
+
+	<string id="enc_zone_artifact_af-crescent_name">
+		<text>Півмісяць</text>
+	</string>
+	<string id="enc_zone_artifact_af-crescent_descr">
+		<text>Це насправді пахне... досить непогано! Хоча, я думаю, ніхно не наважиться відкусити його зі зрозумілих причин...</text>
+	</string>
+	<string id="enc_zone_artifact_af-crescent_recipe">
+		<text>Компоненти:\n\n- 1x Шмат м'яса\n- 1x Виверт\n\nЧас перетворення: 2 години</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-cake_name">
+		<text>Торт</text>
+	</string>
+	<string id="enc_zone_artifact_af-cake_descr">
+		<text>Коли цей артефакт захищає тебе від куль, твій метаболізм виснажує деякі ресурси, що викликає бажання їсти. Ну і назва відповідна!</text>
+	</string>
+	<string id="enc_zone_artifact_af-cake_recipe">
+		<text>Компоненти:\n\n- 1x Слюда\n- 1x Спалах\n\nЧас перетворення: 5 годин</text>
+	</string>
+	
+	<string id="enc_zone_artifact_af-accumulator_name">
+		<text>Акумулятор</text>
+	</string>
+	<string id="enc_zone_artifact_af-accumulator_descr">
+		<text>Акумулятор має чіткий ефект на маленьку шрапнель: вона розпадається до того як може викликати будь-які серйозні рани. Але, як припускає його назва, артефакт накопичує щось: електрику. При правильній стимуляції може використовувати постійний струм та якщо не може більше накопичувати - розривається з убивчою потужністю.</text>
+	</string>
+	<string id="enc_zone_artifact_af-accumulator_recipe">
+		<text>Компоненти:\n\n- 1x Батарея\n- 2x Бенгальський вогонь\n\nЧас перетворення: 1 година</text>
+	</string>
+	
+</string_table>

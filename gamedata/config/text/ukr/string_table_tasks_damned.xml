@@ -1,0 +1,27 @@
+	<string id="dam_find_pripyat">
+		<text>Знайти шлях до Прип'яті</text>
+	</string>
+	<string id="dam_meet_guide">
+		<text>Зустрітися з Провідником</text>
+	</string>
+	<string id="dam_find_entrance">
+		<text>Знайти вхід до Прип'яті</text>
+	</string>
+	<string id="dam_meet_ghost_radar">
+		<text>Пройти до Прип'яті через Радар</text>
+	</string>
+	<string id="dam_meet_ghost">
+		<text>Зустрітися з Привидом у Прип'яті</text>
+	</string>
+	<string id="dam_find_code_title">
+		<text>Знайти код до дверей</text>
+	</string>
+	<string id="dam_find_docs">
+		<text>Знайти документи з кодом до дверей</text>
+	</string>
+	<string id="dam_unlock_door">
+		<text>Вимкнути двері</text>
+	</string>
+	<string id="dam_code">
+		<text>Повідомлення всьому особовому складу, механізм блокування входу до станції було змінено, новий код - 4134.</text>
+	</string>

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="ui_st_pda_contacts_bio">
+		<text>Біографія</text>
+	</string>
+	
+	<string id="ui_up_caption">
+		<text>Меню ремонту</text>
+	</string>
+	
+	<string id="ammo_magazine">
+		<text>Магазин</text>
+	</string>
+	
+	<string id="btn_fix_caption">
+		<text>Полагодити</text>
+	</string>
+	
+	<string id="st_hours">
+		<text>г.</text>
+	</string>
+	
+	<string id="st_hour">
+		<text>г.</text>
+	</string>
+	
+	<string id="st_and">
+		<text>і</text>
+	</string>
+	
+	<string id="st_minutes">
+		<text>хв.</text>
+	</string>
+
+	<string id="st_minute">
+		<text>хв.</text>
+	</string>
+	
+	<string id="st_cooking_time">
+		<text>Час приготування</text>
+	</string>
+	
+	<string id="ui_up_repair_price">
+		<text>Вартість ремонту:</text>
+	</string>
+	
+	<string id="ui_up_repair_not_needed">
+		<text>Ця річ не потребує ремонту.</text>
+	</string>
+	
+	<string id="ui_up_fix_yes_not">
+		<text>Ви упевнені, що хочете витратити %d UA на ремонт цієї речі?</text>
+	</string>
+	
+	<string id="no_selected_weapons_to_repair">
+		<text>Будь ласка, оберіть річ для ремонту.</text>
+	</string>
+	
+	<string id="no_parts_available">
+		<text>У вас немає доступних частин для ремонту.</text>
+	</string>
+	
+	<string id="select_parts">
+		<text>Оберіть частину, яку ви бажаєте відремонтувати.</text>
+	</string>
+	
+	<string id="ui_up_buy_upgrade_yes_not">
+		<text>Ви упевнені, що хочете витратити %d UA на купівлю цього оновлення?</text>
+	</string>
+
+	<string id="ui_up_not_enough_money_cost">
+		<text>Недостатньо %d UA для купівлі оновлення...</text>
+	</string>
+	
+	<string id="ui_bt_repair_hint">
+		<text>Натисніть сюди, щоб відремонтувати цю річ...</text>
+	</string>
+	
+	<string id="ui_bt_buy_upg_hint">
+		<text>Натисніть сюди, щоб купити цей апгрейд...</text>
+	</string>
+	
+	<string id="la_veh_first_use">
+		<text>Використати транспорт (можна налаштувати)</text>
+	</string>
+	<string id="key_bind_turn_engine_key">
+		<text>$$ACTION_TURN_ENGINE$$</text> <!-- Do Not Touch! -->
+	</string>
+	<string id="key_bind_turn_engine_descr">
+		<text>Увімк/вимк двигун</text>
+	</string>
+	<string id="key_bind_forward_key">
+		<text>$$ACTION_FORWARD$$</text> <!-- Do Not Touch! -->
+	</string>
+	<string id="key_bind_forward_descr">
+		<text>Їхати вперед</text>
+	</string>
+	<string id="key_bind_back_key">
+		<text>$$ACTION_BACK$$</text> <!-- Do Not Touch! -->
+	</string>
+	<string id="key_bind_back_descr">
+		<text>Їхати назад</text>
+	</string>
+	<string id="key_bind_lstrafe_key">
+		<text>$$ACTION_LSTRAFE$$</text> <!-- Do Not Touch! -->
+	</string>
+	<string id="key_bind_lstrafe_descr">
+		<text>Повернути ліворуч</text>
+	</string>
+	<string id="key_bind_rstrafe_key">
+		<text>$$ACTION_RSTRAFE$$</text> <!-- Do Not Touch! -->
+	</string>
+	<string id="key_bind_rstrafe_descr">
+		<text>Повернути праворуч</text>
+	</string>
+	<string id="key_bind_accel_key">
+		<text>$$ACTION_ACCEL$$</text> <!-- Do Not Touch! -->
+	</string>
+	<string id="key_bind_accel_descr">
+		<text>Зміна передачі</text>
+	</string>
+	<string id="key_bind_torch_key">
+		<text>$$ACTION_TORCH$$</text> <!-- Do Not Touch! -->
+	</string>
+	<string id="key_bind_torch_descr">
+		<text>Увімк/вимк фари</text>
+	</string>
+	<string id="key_bind_horn_key">
+		<text>u</text> <!-- Do Not Touch! -->
+	</string>
+	<string id="key_bind_horn_descr">
+		<text>Клаксон</text>
+	</string>
+	<string id="key_bind_use_key">
+		<text>$$ACTION_USE$$</text> <!-- Do Not Touch! -->
+	</string>
+	<string id="key_bind_use_descr">
+		<text>Лагодити, заправити, відкрити багажник</text>
+	</string>
+	
+	<string id="key_bind_medkit_key">
+		<text>$$ACTION_USE_MEDKIT$$</text> <!-- Do Not Touch! -->
+	</string>
+	<string id="key_bind_bandage_key">
+		<text>$$ACTION_USE_BANDAGE$$</text> <!-- Do Not Touch! -->
+	</string>
+	
+	<string id="ui_hud_text_fuel">
+		<text>паливо</text>
+	</string>
+	<string id="ui_hud_text_torch">
+		<text>ліхтар</text>
+	</string>
+	<string id="ui_hud_text_vehicle">
+		<text>транспорт</text>
+	</string>
+	<string id="ui_hud_text_health">
+		<text>здоров'я</text>
+	</string>
+	<string id="ui_hud_text_suit">
+		<text>броня</text>
+	</string>
+	<string id="ui_hud_text_stamina">
+		<text>витривалість</text>
+	</string>
+	
+	<string id="ph_radio_on">
+		<text>Увімкнути ($$ACTION_USE$$)</text>
+	</string>
+	<string id="ph_radio_off">
+		<text>Вимкнути ($$ACTION_USE$$)</text>
+	</string>
+	<string id="ph_radio_destroyed">
+		<text>Це радіо не працює.</text>
+	</string>
+	
+	<string id="ui_sleep_caption">
+		<text>Спати? Скільки?</text>
+	</string>
+	<string id="ui_sleep_sleep_for1">
+		<text>Спати 1 г.</text>
+	</string>
+	<string id="ui_sleep_sleep_for">
+		<text>Спати</text>
+	</string>
+	<string id="ui_sleep_hour">
+		<text>г.</text>
+	</string>
+	<string id="ui_sleep_hours">
+		<text>г.</text>
+	</string>
+	<string id="ui_sleep_sleep">
+		<text>Спати</text>
+	</string>
+	<string id="ui_sleep_cancel">
+		<text>Скасувати</text>
+	</string>
+	
+	<string id="ui_sleep_msgbox">
+		<text>Щоб спати, будь ласка, закрийте спочатку інвентар.</text>
+	</string>
+	
+	<string id="car_character_use_trunk">
+		<text>Відкрити багажник ($$ACTION_USE$$)</text>
+	</string>
+	
+	<string id="ui_st_vehicle_condition">
+		<text>Стан транспорту</text>
+	</string>
+	<string id="ui_st_vehicle_fuel_status">
+		<text>Паливо</text>
+	</string>
+	
+	<string id="ui_st_open_trunk">
+		<text>Відкрити багажник</text>
+	</string>
+	<string id="ui_st_refuel">
+		<text>Заправити транспорт</text>
+	</string>
+	<string id="ui_st_repair">
+		<text>Полагодити транспорт</text>
+	</string>
+	
+	<string id="action_open_safe">
+		<text>Відкрити сейф ($$ACTION_USE$$)</text>
+	</string>
+	
+	<string id="ui_st_mnu_move_one">
+		<text>Перемістити один</text>
+	</string>
+	<string id="ui_st_mnu_move_half">
+		<text>Перемістити половину</text>
+	</string>
+	<string id="ui_st_mnu_move_all">
+		<text>Перемістити все</text>
+	</string>
+	
+	<string id="ui_st_trunk_capacity_reached">
+		<text>Більше предметів перемістити не можна, багажник завантажений!</text>
+	</string>
+	
+	<string id="ui_st_mnu_backpack">
+		<text>Рюкзак</text>
+	</string>
+	<string id="ui_st_mnu_trunk">
+		<text>Багажник</text>
+	</string>
+	<string id="ui_st_mnu_safe">
+		<text>Сейф</text>
+	</string>
+	<string id="ui_st_trunk_attached_addons">
+		<text>Прикріплені обвіси</text>
+	</string>
+	<string id="ui_st_trunk_mag_ammo">
+		<text>Зараз патронів у магазині</text>
+	</string>
+	<string id="psi_storm_start_header">
+		<text>Псі-Викид!</text>
+	</string>
+	<string id="psi_storm_start_msg">
+		<text>Псі-шторм наступає!\n Я повинен знайти укриття...</text>
+	</string>
+	<string id="psi_storm_end">
+		<text>Схоже, що псі-шторм закінчився. Можна виходити на вулицю, там уже безпечно...</text>
+	</string>
+	<string id="blowout_start_header">
+		<text>Викид!</text>
+	</string>
+	<string id="blowout_start_msg">
+		<text>Я повинен подивитися по карті,\n де є найближчі укриття, щоб там перечекати викид...</text>
+	</string>
+	<string id="blowout_end">
+		<text>Мабуть викид закінчився, я можу вийти на вулицю, тепер там безпечно...</text>
+	</string>
+	<string id="blowout_hideplace_hint">
+		<text>Укриття від викиду</text>
+	</string>
+	<string id="blowout_hideplace_hint_d">
+		<text>Відстань</text>
+	</string>
+
+	<string id="hmm">
+		<text>гм...</text>
+	</string>
+	<string id="ohh">
+		<text>ух...</text>
+	</string>
+	
+	<string id="have_a_nap1">
+		<text>Я дуже втомився. Треба подрімати... Мабуть, варто скористатися спальним мішком...</text>
+	</string>
+	<string id="have_a_nap2">
+		<text>Як же спати хочеться... Потрібно б знайти місце для нічлігу і скористатися спальним мішком ...</text>
+	</string>
+	<string id="have_a_nap3">
+		<text>Мені треба спати. Де там мій спальний мішок?..</text>
+	</string>
+	<string id="really_tired">
+		<text>Я так втомився, що можу заснути де завгодно...</text>
+	</string>
+	<string id="really_exhausted">
+		<text>Ну все, більше я не витримаю</text>
+	</string>
+	<string id="really_thirsty">
+		<text>Щось спрага мучить...</text>
+	</string>
+	<string id="very_thirsty">
+		<text>Ой... помираю від спраги... хоч би ковток води!</text>
+	</string>
+	<string id="really_hungry">
+		<text>Гм... треба перекусити..., а то ноги тягати перестануть.</text>
+	</string>
+	<string id="very_hungry">
+		<text>Ну усе... помираю від голоду... так і здохнути недовго.</text>
+	</string>
+	<string id="nearby_enemy">
+		<text>Невдале місце для сну... здається десь поблизу ворог...</text>
+	</string>
+	<string id="blow_sleep">
+		<text>Викид! Як я можу спати?</text>
+	</string>
+	<string id="no_need_sleep">
+		<text>Я не дуже втомився. Спати ще не хочу.</text>
+	</string>
+	<string id="havent_torch">
+		<text>У мене на голові немає ліхтарика, щоб його зарядити.</text>
+	</string>
+	
+	<string id="la_veh_buy">
+		<text>Купівля машини</text>
+	</string>
+	<string id="la_veh_select">
+		<text>Оберіть транспорт...</text>
+	</string>
+	<string id="la_veh_select_spawn">
+		<text>Оберіть місце появи...</text>
+	</string>
+	<string id="la_veh_name">
+		<text>Назва</text>
+	</string>
+	<string id="la_veh_cost">
+		<text>Ціна</text>
+	</string>
+	<string id="la_veh_has_trunk">
+		<text>Має багажник</text>
+	</string>
+	<string id="la_veh_trunk_capacity">
+		<text>Об'єм багажника</text>
+	</string>
+	<string id="la_veh_fuel_tank">
+		<text>Об'єм паливного бака</text>
+	</string>
+	<string id="la_veh_fuel_consumption">
+		<text>Витрата палива</text>
+	</string>
+	<string id="la_veh_yes">
+		<text>так</text>
+	</string>
+	<string id="la_veh_no">
+		<text>ні</text>
+	</string>
+	<string id="la_veh_buy_btn">
+		<text>Купити</text>
+	</string>
+	
+	<string id="veh_cordon_village">
+		<text>Село</text>
+	</string>
+	<string id="veh_cordon_carpark">
+		<text>Стоянка</text>
+	</string>
+	<string id="veh_cordon_elevator">
+		<text>Елеватор</text>
+	</string>
+	
+	<string id="month_january">
+		<text>Січень</text>
+	</string>
+	<string id="month_february">
+		<text>Лютий</text>
+	</string>
+	<string id="month_march">
+		<text>Березень</text>
+	</string>
+	<string id="month_april">
+		<text>Квітень</text>
+	</string>
+	<string id="month_may">
+		<text>Травень</text>
+	</string>
+	<string id="month_june">
+		<text>Червень</text>
+	</string>
+	<string id="month_july">
+		<text>Липень</text>
+	</string>
+	<string id="month_august">
+		<text>Серпень</text>
+	</string>
+	<string id="month_september">
+		<text>Вересень</text>
+	</string>
+	<string id="month_october">
+		<text>Жовтень</text>
+	</string>
+	<string id="month_november">
+		<text>Листопад</text>
+	</string>
+	<string id="month_december">
+		<text>Грудень</text>
+	</string>
+	<string id="st_mil_ghost_contacts_actor">
+		<text>Привіт, я Примара. Я знаходжуся на східній стороні в підвалі біля покинутого села, спробуй дістатися туди живим. :)</text>
+	</string>
+	<string id="points_msg">
+		<text>Нова мітка отримана</text>
+	</string>
+	<string id="points_update">
+		<text>Мітки оновлені</text>
+	</string>
+	
+	<string id="ui_hud_text_turret">
+		<text>Температура</text>
+	</string>
+	
+	<string id="turret_character_use">
+		<text>Використати кулемет ($$ACTION_USE$$)</text>
+</string>
+<string id="ui_st_repair_upgr">
+	<text>Ремонт</text>
+</string>
+<string id="ui_st_repair_new">
+	<text>Ремонт</text>
+</string>
+<string id="ui_inv_repair">
+	<text>Ремонтувати</text>
+</string>
+</string_table>

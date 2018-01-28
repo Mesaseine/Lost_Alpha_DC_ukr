@@ -1,0 +1,54 @@
+	<string id="aes_btr1">
+		<text>Броненосець 1</text>
+	</string>
+	<string id="aes_btr2">
+		<text>Броненосець 2</text>
+	</string>
+	<string id="aes_btr3">
+		<text>Броненосець 3</text>
+	</string>
+	<string id="aes_grif">
+		<text>Гриф</text>
+	</string>
+	<string id="aes_korshun">
+		<text>Коршун</text>
+	</string>
+	<string id="aes_kvartet">
+		<text>Квартет</text>
+	</string>
+	<string id="aes_lun">
+		<text>Лунь</text>
+	</string>
+	<string id="aes_pustelga">
+		<text>Пустельга</text>
+	</string>
+	<string id="aes_sapsan">
+		<text>Сапсан</text>
+	</string>
+	<string id="aes_sarcofag_hint">
+		<text>Вхід у саркофаг</text>
+	</string>
+	<string id="aes_sokol">
+		<text>Сокіл</text>
+	</string>
+	<string id="aes_sova">
+		<text>Сова</text>
+	</string>
+	<string id="aes_yastreb">
+		<text>Яструб</text>
+	</string>
+	<string id="aes_mono_btr">
+		<text>БТР «Моноліту»</text>
+	</string>
+	<string id="aes_dolg1_leader">
+		<text>Лідер «Долгу»</text>
+	</string>
+	<string id="aes_heli_hunters">
+		<text>Вбийте мисливців</text>
+	</string>
+	<string id="aes_raid_leader">
+		<text>Керівник рейду</text>
+	</string>
+	<string id="aes_dudaev">
+		<text>Капітан. Макаров</text>
+	</string>

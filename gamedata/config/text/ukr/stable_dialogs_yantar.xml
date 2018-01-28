@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+<!-- yantar bunker guard -->
+
+	<string id="yantar_gate_guard_talk_0">
+		<text>Що ти тут забув, сталкере?</text>
+	</string>
+	<string id="yantar_gate_guard_talk_1">
+		<text>Мене послали на допомогу вченим.</text>
+	</string>
+	<string id="yantar_gate_guard_talk_11">
+		<text>Вони тебе послали? Ну, ти не дуже схожий на тренованого професіонала! Ну що ж, можеш пройти, але дивися під ноги, сталкере!</text>
+	</string>
+	<string id="yantar_gate_guard_talk_111">
+		<text>Дякую за пораду.</text>
+	</string>
+	<string id="yantar_gate_guard_talk_2">
+		<text>Просто вештаюсь, милуюсь краєвидами.</text>
+	</string>
+	<string id="yantar_gate_guard_talk_21">
+		<text>Тоді провалюй звідси, це не туристичний маршрут. Тобі пощастило, що нам наказали бути стриманими з людьми поблизу яйцеголових.</text>
+	</string>
+	<string id="yantar_gate_guard_talk_211">
+		<text>Ну, добре, побачимось.</text>
+	</string>
+	
+<!-- Sakharov first meet -->
+<!-- get package from merc in deadcity -->
+	
+	<string id="yantar_sakharov_start_talk_1">	
+		<text>Так, сталкере, я можу тобі чимось допомогти?</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_11">
+		<text>Мене послав Сидорович. Він сказав, що тобі треба зробити якусь роботу.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_111">
+		<text>О, так, ми чекали на тебе, Мічений. Це дуже делікатне завдання, тож я хочу уникнути розголошення, якщо це можливо. Я... уклав угоду з найманцями, тож вони здобудуть певний пакунок для мене. Мені потрібно, щоб ти пішов на їхню базу в Мертвому місті та забрав пакунок. Тобі потрібно тільки забрати його і принести мені цілим та неушкодженим; а найманці вже отримали свою компенсацію.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_1111">
+		<text>А що це за пакунок такий? Я не в настрої мати справу з паразитами, що висмоктують мізки чи чимось подібним.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_11111">
+		<text>Не турбуйся, це неживий зразок та й не органіка взагалі. Це дослідницький матеріал, який було викопано в старій лабораторії на півночі. Більше нічого не можу сказати. Принеси мені його, і я добре тобі заплачу.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_111111">
+		<text>Добре, тоді я повернуся з пакунком.</text>
+	</string>
+	
+	<string id="yantar_sakharov_start_talk_0">
+		<text>Я тут з приводу пакунку.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_2">
+		<text>Чи пакунок вже в тебе?</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_21">
+		<text>Ні, я ще над цим працюю.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_22">
+		<text>Так, ось він.</text>
+	</string>
+	
+<!-- message to see sakh after krug -->
+
+	<string id="yan_sakh_pda_message">
+		<text>Стрільцю, я закінчив твій КПК, приходь до мене.</text>
+	</string>
+	
+<!-- get wiring to fix your the pda -->
+
+	<string id="yantar_sakharov_start_talk_221">
+		<text>Дякую, це дуже багато значить для нас. Через те, що зробили найманці, я тепер ніколи не буду мати з ними справу. Навіть якщо пакунок вартує більше за проблему. Я не думаю, що армія буде далі укладати будь-які угоди з ними. Не кажучи вже про те, що взяли Доктора в полон... І, як я чув, ти його друг. Збіг? Як би то не було, я чув, що твій КПК пошкоджено. Я можу відремонтувати його, але мені потрібно кілька речей, щоб він запрацював знову. Перше, це нова електропроводка. Є вхід в підземну лабораторію неподалік; спробуй пошукати там, в запасниках. Це кращий варіант. Принеси мені, що знайдеш.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_2211">
+		<text>Добре, я піду прямо зараз!</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_30">
+		<text>Щодо нової проводки.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_3">
+		<text>Ти приніс мені нову проводку?</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_31">
+		<text>Ні, ще ні.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_311">
+		<text>Пам'ятай, я не можу відремонтувати КПК без неї.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_3111">
+		<text>Добре, я зрозумів.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_32">
+		<text>Так, ось.</text>
+	</string>
+
+<!-- meet with doc on swamp -->
+<!-- get circuit boards to fix your pda -->
+<!-- get artefact to fix your pda -->
+<!-- after task finished bar attacked by merc -->
+
+	<string id="yantar_sakharov_start_talk_321">
+		<text>Ах, дуже добре, навіть жодної подряпини на них. Добре, наступне, що нам потрібно, це нові плати, і я знаю, де ми можемо дістати їх у відмінному стані. Я тільки-но розмовляв з Доком, і виявилося, що в нього є дещо для нас. Також він хотів би обговорити з тобою інші питання. Він сказав, що буде чекати тебе у своєму будинку на Великому Болоті. Будь обережним, зараз на патрулюванні вертоліт Військових, і вони всі напружені. Будуть стріляти в усе, що рухається. Просто йди через очерет, щоб вони тебе не бачили. Я постараюся зв'язатися з гелікоптером та сказати їм про твоє прибуття, щоб вони не стріляли, але мої слова не зможуть почути військові патрулі на місцях.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_3211">
+		<text>Відразу вирушаю.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_40">
+		<text>Ти впевнений, що мій КПК зламався? Мені стає нудно.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_4">
+		<text>Ти дістав для мене плати?</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_41">
+		<text>Так, тримай.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_411">
+		<text>Добре, ми можемо почати ремонт КПК. Чи згадував Док, що нам також потрібен артефакт Кристал?</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_4111">
+		<text>Так, здається, що я сходив в пекло і повернувся назад, намагаючись дістати його!</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_41111">
+		<text>Відмінно, тепер у мене є останній шматок пазлу для ремонту твого КПК, ооо це хороший Кристал! Це займе деякий час. Чому б тобі не піти поговорити з Кругловим, поки чекаєш. А я тим часом відремонтую КПК.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_411111">
+		<text>Чудово, скоро побачимося.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_4112">
+		<text>Він говорив мені про це, але я ще не дістав.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_41121">
+		<text>Добре, але краще тобі постаратися. Ми не можемо завершити ремонт без нього!</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_411211">
+		<text>Добре, добре, я дістану.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_5">
+		<text>Док сказав, що тобі вкрай необхідно зустрітися з ним. Краще вирушай; ми, старі люди, божеволіємо, коли нам приходиться чекати.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_51">
+		<text>Добре, добре, йду.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_6">
+		<text>Я сказав тобі, що потрібен деякий час, йди до Круглова.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_61">
+		<text>Добре, добре, йду.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_7">
+		<text>Ну, Мічений, у нас є хороша і погана новини. Погана новина полягає в тому, що сам КПК не підлягає ремонту; внутрішнім компонентам була нанесена занадто велика шкода. Доброю новиною є те, що ми змогли відновити всі функції та деякі важливі дані, які були на ньому. Я завантажив їх на цей новий модуль.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_71">
+		<text>Дякую, професоре, я ціную вашу допомогу.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_711">
+		<text>Немає проблем. Не будь чужим; ласкаво просимо сюди в будь-який час, сталкере. Ми можемо дати тобі якусь роботу, якщо знадобиться трохи грошей.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_7111">
+		<text>Добре, побачимося.</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_80">
+		<text>Про цей особливий артефакт...</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_8">
+		<text>Чи знайшов ти артефакт?</text>
+	</string>
+	<string id="yantar_sakharov_start_talk_82">
+		<text>Ні, не знайшов .</text>
+	</string>
+	
+<!-- meet kruglov -->
+
+	<string id="yantar_kruglov_start_talk_1">
+		<text>Хм, не бачив твоє обличчя тут раніше. Відрапортуй професору Сахарову в бункері та виклади свої наміри.</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_11">
+		<text>Буде зроблено.</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_2">
+		<text>Отже, ти познайомився з Сахаровим? Добре. Тепер на тебе не будуть дивитися з подивом.</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_21">
+		<text>Що ти тут робиш?</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_211">
+		<text>Трохи цього і багато того. Я керую експедиціями та польовими спостереженнями час від часу. Знаєш що, я скажу більше пізніше, коли ти будеш не так зайнятий з професором.</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_2111">
+		<text>Побачимось.</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_3">
+		<text>Я сказав тобі повернутися пізніше, коли виконаєш завдання Сахарова!</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_31">
+		<text>Добре, добре, побачимось пізніше.</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_4">
+		<text>Тож, сталкере, що привело тебе сюди?</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_41">
+		<text>Ну, ви сказали, що розкажете мені про те, чим займаєтесь тут.</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_411">
+		<text>Як я вже сказав, я свого роду менеджер і помічник Екологів в операціях на «Янтарі». Але в основному я відомий тут як тренер диких собак. Звичайно це не німецькі вівчарки, але роботи все одно багато.</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_4111">
+		<text>Цікаво. Напевно забирає багато часу.</text>
+	</string>
+	
+<!-- buy a dog -->
+	
+	<string id="yantar_kruglov_start_talk_41111">
+		<text>Ну так, це змушує мене трудитися, але я використовую це в якості основи для когнітивних досліджень порід собак у Зоні. Чи зацікавить вас придбання одного з моїх тренованих псів?</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_411111">
+		<text>Круто, побачимося.</text>
+	</string>
+	<!--string id="yantar_kruglov_start_talk_411111">
+		<text>Не зараз, але я буду пам'ятати про це.</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_411112">
+		<text>Можливо. Скільки коштує?</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_4111121">
+		<text>5000.</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_41111211">
+		<text>Добре, звичайно, завітай я візьму одного.</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_411112111">
+		<text>Окей, пес скоро буде доставлений до вас.</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_4111121111">
+		<text>Дякую.</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_41111212">
+		<text>Вибач, але у мене зараз недостатньо грошей. Може пізніше.</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_6">
+		<text>Так, можу я все ж зацікавити вас собакою?</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_61">
+		<text>Повторіть, скільки вони коштують?</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_7">
+		<text>Агов, сталкере, ти щасливий зі своїм собакою?</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_71">
+		<text>Так, дуже щасливий. Він дуже слухняний. Просто хотів зайти і сказати дякую. Побачимося.</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_72">
+		<text>На жаль, він помер. У вас є ще собаки для продажу?</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_721">
+		<text>Зараза, шкода чути це сталкере... Звичайно, у мене є для вас ще один, він скоро буде доставлений до вас.</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_7211">
+		<text>Щиро дякую.</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_73">
+		<text>Ти хотів щось запитати?</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_731">
+		<text>Отже, коли я можу побачити собаку?</text>
+	</string>
+	<string id="yantar_kruglov_start_talk_7311">
+		<text>Скоро... прогуляйтеся доки, я витягну його з клітки і доставлю до вас.</text>
+	</string>
+	
+<!-- get good psy hemlet at lost factory -->
+	
+	<string id="yantar_sakharov_helmet_talk_2">
+		<text>Привіт, Мічений, у тебе, здається, мало часу. Ти тут у справах?</text>
+	</string>
+	<string id="yantar_sakharov_helmet_talk_21">
+		<text>Так, я виконую завдання генерала Вороніна. Ми хочемо вимкнути випалювач мізків та X-16 та відкрити шлях до центру. Він сказав, у вас є псі-шолом, який захистить мене від псі-випромінювання.</text>
+	</string>
+	<string id="yantar_sakharov_helmet_talk_211">
+		<text>Ну, що ж... у нас був налаштований псі-шолом, який міг би захистити тебе від сильних псі-викидів, але я вже послав його з одним з наших до наукового бункера на Закинутому Заводі. Ти можеш піти туди і запитати мого колегу ДіДі про шолом від мого імені. У мене є експериментальний прототип тут зі мною, який ти можеш взяти.</text>
+	</string>
+	<string id="yantar_sakharov_helmet_talk_2111">
+		<text>Чи він чогось вартий? Чи ти просто позбуваєшся шматка непотребу?</text>
+	</string>
+	<string id="yantar_sakharov_helmet_talk_21111">
+		<text>Це допоможе тобі дістатися старої дороги, яка веде до закинутого заводу. Тобі краше поспішити. Але, як кажуть, дареному коню... чи не так?</text>
+	</string>
+	<string id="yantar_sakharov_helmet_talk_211111">
+		<text>Гадаю, що так. Я візьму його.</text>
+	</string>
+	<string id="yantar_sakharov_helmet_talk_2111111">
+		<text>Ось він. Удачі, сталкере!</text>
+	</string>
+	<string id="yantar_sakharov_helmet_talk_21111111">
+		<text>Мені вона знадобиться. Дякую за допомогу, професоре.</text>
+	</string>
+	
+<!-- get rifle side task -->
+	
+	<string id="yan_rifle_dude_dialog_2">
+		<text>Гей! Мені потрібна допомога, будь ласка, брате ... Я був на пошуках артефактів і раптом зрозумів, що опинився прямо в середині лігва кровососа! Ой лишенько, як я перелякався. \n Вони почали ганятися за мною! Я кинув зброю та почав тікати; Я не хочу туди повертатися. Чи можеш ти допомогти мені, піти в підземелля та принести мою зброю?</text>
+	</string>
+	<string id="yan_rifle_dude_dialog_21">
+		<text>Кровососи, кажеш? Скільки їх було?</text>
+	</string>
+	<string id="yan_rifle_dude_dialog_211">
+		<text>Ох... 6... Я думаю...</text>
+	</string>
+	<string id="yan_rifle_dude_dialog_2111">
+		<text>Дідько, добре, але якщо мені прийдеться ризикувати своїм життям, тобі потрібно знайти дуже хорошу компенсацію!</text>
+	</string>
+	<string id="yan_rifle_dude_dialog_21111">
+		<text>Звичайно, брате! Стій, ще одна річ... Я дістав це на мертвому тілі якогось вченого в тому районі. Схоже, свого роду блокатор аромату! Можливо, якщо ти вдягнеш це, то кровососи не будуть нападати, до тих пір, доки ти не застрелиш одного \n Не було часу, щоб спробувати його, але я надто наляканий, щоб навіть піти туди знову, навіть з цією річчю! Не знаю, як довго ця штука буде працювати, так що краще поквапитись.</text>
+	</string>
+	<string id="yan_rifle_dude_dialog_211111">
+		<text>Звичайно, дай мені цю гидоту і я поверну зброю.</text>
+	</string>
+	<string id="yan_rifle_dude_dialog_211112">
+		<text>Звичайно, без проблем, не потрібна мені ця гидота! Я можу подбати про себе і без цього!</text>
+	</string>
+	<string id="yan_rifle_dude_dialog_211113">
+		<text>Ні, дякую, звучить дуже ризиковано.</text>
+	</string>
+	<string id="yan_rifle_dude_dialog_3">
+		<text>Ей, брате, скажи, що ти передумав?</text>
+	</string>
+	<string id="yan_rifle_dude_dialog_4">
+		<text>Ей, брате, ти дістав це мені?</text>
+	</string>
+	<string id="yan_rifle_dude_dialog_41">
+		<text>Ще ні, працюю над цим.</text>
+	</string>
+	<string id="yan_rifle_dude_dialog_42">
+		<text>Ні, чуваче, можеш забути про це, те місце кишить ними!</text>
+	</string>
+	<string id="yan_rifle_dude_dialog_43">
+		<text>Так, ось вона. Місцина кишить тварюками, я би на твоєму місці не ризикнув би йти туди знову!</text>
+	</string>
+	<string id="yan_rifle_dude_dialog_431">
+		<text>Величезне спасибі, сталкере, ось, візьми цей костюм на знак моєї подяки.</text>
+	</string>
+	<string id="yan_rifle_dude_dialog_4311">
+		<text>Дякую, будь обережним, не дай кровососу себе вкусити!</text>
+	</string>
+	
+	<!-- duty task -->
+	
+	<string id="yan_dolg_recon_help_0">
+		<text>Ей, брате, ти наше підкріплення? Ми чекали на тебе протягом 2 днів, і тепер повністю втратили контроль над ситуацією!</text>
+	</string>
+	<string id="yan_dolg_recon_help_11">
+		<text>Так, мене послав Воронін з'ясувати нинішню ситуацію. Що там відбувається?</text>
+	</string>
+	<string id="yan_dolg_recon_help_12">
+		<text>Ні, я просто гуляю.</text>
+	</string>
+	<string id="yan_dolg_recon_help_121">
+		<text>Тоді зникни! Ми зайняті, якщо ти не помітив!</text>
+	</string>
+	<string id="yan_dolg_recon_help_111">
+		<text>У нас великі проблеми. Посланець, якого направив Воронін, був убитий бандитами, і вони також напали на наші позиції! Так що тепер у нас є купа поранених там. Ми повинні повернути контроль над цією територією, ти можеш допомогти нам з цим?</text>
+	</string>
+	<string id="yan_dolg_recon_help_1112">
+		<text>Звичайно, я попіклуюся про них найближчим часом. Де вони знаходяться?</text>
+	</string>
+	<string id="yan_dolg_recon_help_1113">
+		<text>Я позначу їх розміщення в твоєму КПК, давай віддамо їм те, що вони заслужили, я думаю, що вони заслуговують на те, щоб горіти в пеклі! Я рекомендую бути обережним, навколо занадто багато мутантів також, озеро Янтар не місце для новачків. До речі, у мене є додаткова робота тут для тебе .. потрібна? Це не важка робота, але потрібна ..</text>
+	</string>
+	<string id="yan_dolg_recon_help_111311">
+		<text>Не цікавить.</text>
+	</string>
+	<string id="yan_dolg_recon_help_111312">
+		<text>Звісно!</text>
+	</string>
+	<string id="yan_dolg_recon_help_1113121">
+		<text>Коли ці виродки атакували наші позиції, вони не тільки годували нас свинцем, але й украли мою улюблену гітару!! Сволота, я не можу пробачити їм це. В нас також був випадок з деяким матеріалом до.. ти знаєш.. що робить дні легше... якщо ти розумієш, що я маю на увазі! Вони забрали і це! Чи можеш ти спробувати знайти ці речі в їхньому таборі, будь ласка?</text>
+	</string>
+	<string id="yan_dolg_recon_help_11131211">
+		<text>Можете розраховувати на мене.</text>
+	</string>
+	<string id="yan_dolg_recon_help_1114">
+		<text>Дякую, дякую тобі! Я вже втратив усяку надію на вирішення цих питань. Я напишу хорошу доповідь про те, що ти зробив для нас.</text>
+	</string>
+	<string id="yan_dolg_recon_help_11140">
+		<text>Нема проблем. Один за всіх і всі за одного.</text>
+	</string>
+	<string id="yan_dolg_recon_help_111401">
+		<text>Чи вдалося знайти всі мої речі?</text>
+	</string>
+	<string id="yan_dolg_recon_help_1114011">
+		<text>Ні, ще ні, але скоро!</text>
+	</string>
+	<string id="yan_dolg_recon_help_11140111">
+		<text>Так, вдалося.</text>
+	</string>
+	<string id="yan_dolg_recon_help_11141">
+		<text>Ну що ж, у мене є для тебе подарунок. Ось він, ми знайшли його в аномалії неподалік.</text>
+	</string>
+	<string id="yan_dolg_recon_help_111411">
+		<text>Агов, дякую, я дуже ціную це. Побачимося.</text>
+	</string>
+	<string id="yan_dolg_recon_help_11151">
+		<text>Я тут з питання твоїх викрадених речей.</text>
+	</string>
+	<string id="yan_dolg_recon_help_11152">
+		<text>Агов, брате, дякую що допоміг нам повернути вкрадені речі, у мене є для тебе подарунок. Ось він, ми знайшли його в аномалії неподалік.</text>
+	</string>
+	<string id="yan_dolg_recon_help_11111">
+		<text>Бандити мертві?</text>
+	</string>
+	<string id="yan_dolg_recon_help_11112">
+		<text>Ще ні. Працюю над цим...</text>
+	</string>
+	<string id="yan_dolg_recon_help_11113">
+		<text>Так. Усі мертві.</text>
+	</string>
+</string_table>

@@ -1,0 +1,225 @@
+	<string id="bar_bring_hunter_rifle">
+		<text>Повернути рушницю родині мисливця</text>
+	</string>
+	<string id="bar_bring_PDA_lucky">
+		<text>Принести Бармену КПК лідера</text>
+	</string>
+	<string id="bar_crazy_veterans_quest">
+		<text>Вбити божевільних ветеранів</text>
+	</string>
+	<string id="bar_dolg_base_rules">
+		<text>Записатися в командира охорони «Долгу»</text>
+	</string>
+	<string id="bar_dolg_base_rules_fin">
+		<text>Повернутися до Бармена</text>
+	</string>
+	<string id="bar_dolg_base_rules_talk">
+		<text>Знайти командира охорони «Долга» та записатися</text>
+	</string>
+	<string id="bar_dolg_bring_rg6">
+		<text>Дістати Бульдог-6 для Генерала Вороніна</text>
+	</string>
+	<string id="bar_dolg_community_quest">
+		<text>Приєднатися до фракції «Долг»</text>
+	</string>
+	<string id="bar_dolg_community_quest_prisyaga">
+		<text>Присягти</text>
+	</string>
+	<string id="bar_dolg_community_quest_recomendation">
+		<text>Отримати рекомендацію від Капітана Іванцова</text>
+	</string>
+	<string id="bar_dolg_community_quest_vernost">
+		<text>Довести свою вірність «Долгу»</text>
+	</string>
+	<string id="bar_dolg_find_cook">
+		<text>Заслужити довіру кухаря «Волі» та розвідати де зберігається Бульдог-6</text>
+	</string>
+	<string id="bar_dolg_find_rg6">
+		<text>Проникнути на базу «Волі», знайти та викрасти Бульдог-6</text>
+	</string>
+	<string id="bar_dolg_info_gain">
+		<text>Знайти перехоплену інформацію про лабораторію Х-18</text>
+	</string>
+	<string id="bar_dolg_kill_tiran">
+		<text>Вбити Тирана, лідера групи</text>
+	</string>
+	<string id="bar_dolg_return_info">
+		<text>Повернути інформацію про лабораторію Х-18 Генералу Вороніну</text>
+	</string>
+	<string id="bar_dolg_return_rg6">
+		<text>Принести Бульдог-6 Генералу Вороніну</text>
+	</string>
+	<string id="bar_dolg_rg6_quest">
+		<text>Місія потребує долучення до «Долгу»</text>
+	</string>
+	<string id="bar_dolg_svoboda_ambush_quest">
+		<text>Знищити Найманців</text>
+	</string>
+	<string id="bar_dolg_svoboda_ambush_return">
+		<text>Дати нашивки Генералу Вороніну</text>
+	</string>
+	<string id="bar_dolg_tiran_PDA">
+		<text>Взяти КПК Тирана</text>
+	</string>
+	<string id="bar_hunter_find_rifle">
+		<text>Знайти сімейну рушницю</text>
+	</string>
+	<string id="bar_hunter_return_rifle">
+		<text>Повернути рушницю мисливцю в барі</text>
+	</string>
+	<string id="bar_hunter_rifle">
+		<text>Знайти сімейну рушницю</text>
+	</string>
+	<string id="bar_kill_crazy_veterans">
+		<text>Вбити лідера ветеранів</text>
+	</string>
+	<string id="bar_kill_crazy_veterans_PDA">
+		<text>Взяти КПК їх лідера</text>
+	</string>
+	<string id="bar_kill_veterans">
+		<text>Знищити табір божевільних ветеранів</text>
+	</string>
+	<string id="bar_radar_deactivate">
+		<text>Вимкнути Випалювач Мізків</text>
+	</string>
+	<string id="bar_resque_information">
+		<text>Зустрітися з Кругловим</text>
+	</string>
+	<string id="bar_resque_information_2">
+		<text>Направити Круглова до Янтаря</text>
+	</string>
+	<string id="bar_resque_scientific_follow">
+		<text>Направити Круглова до виходу на Янтар</text>
+	</string>
+	<string id="bar_resque_scientific_information">
+		<text>...</text>
+	</string>
+	<string id="bar_resque_scientific_information_bring">
+		<text>Поговорити з Кругловим</text>
+	</string>
+	<string id="bar_resque_scientific_information_get">
+		<text>Прорватися до Круглова</text>
+	</string>
+	<string id="bar_resque_scientific_information_get_2">
+		<text>Поговорити з професором Кругловим</text>
+	</string>
+	<string id="bar_x16_documents">
+		<text>Знайти документи в лабораторії Х-16</text>
+	</string>
+	<string id="bring_x16_documents">
+		<text>Принести документи Бармену</text>
+	</string>
+	<string id="deactivate_radar_now">
+		<text>Деактивувати механізм</text>
+	</string>
+	<string id="find_and_deactivate_radar">
+		<text>Знайти вхід до контрольного бункера</text>
+	</string>
+	<string id="get_to_antennas">
+		<text>Дістатися антени</text>
+	</string>
+	<string id="Kruglov_research">
+		<text>Дослідження Круглова</text>
+	</string>
+	<string id="look_for_x16_lab">
+		<text>Знайти документи Х-16</text>
+	</string>
+	<string id="wpn-winchester_m1">
+		<text>Бойовий Чейзер</text>
+	</string>
+	<string id="x16_yantar">
+		<text>Поговорити з науковцями</text>
+	</string>
+	<string id="bar_meet_outskirts_barman">
+		<text>Зустрітися з Барменом на окраїні.</text>
+	</string>
+	<string id="bar_outskirts_barman_talk">
+		<text>Поговорити з Барменом</text>
+	</string>
+	<string id="bar_attack_heli">
+		<text>Знищити вертольоти</text>
+	</string>
+	<string id="bar_find_rpg">
+		<text>Знайти РПГ</text>
+	</string>
+	<string id="bar_destroy_helis">
+		<text>Знищити вертольоти</text>
+	</string>
+	<string id="bar_heli_petrenko_talk">
+		<text>Поговорити з Петренком</text>
+	</string>
+	<string id="bar_help_loners_task_text">
+		<text>Допомогти групі сталкерів</text>
+	</string>
+	<string id="bar_help_loners_pass_text">
+		<text>Знищити гніздо псевдопса</text>
+	</string>
+	<string id="bar_help_loners_reward_text">
+		<text>Повернутися до лідера групи</text>
+	</string>
+	<string id="bar_dolg_join_task_text">
+		<text>Приєднатися до Долгу</text>
+	</string>
+	<string id="bar_dolg_supplies_text">
+		<text>Доставити продовольство «Долга» на завод «Росток»</text>
+	</string>
+	<string id="bar_veronin_join_text">
+		<text>Скласти угоду з Вороніним</text>
+	</string>
+	<string id="bar_dolg_task_1_text">
+		<text>Знайти розвідгрупу «Янтар»</text>
+	</string>
+	<string id="bar_dolg_find_out_task1_text">
+		<text>Поговорити з Гребенем</text>
+	</string>
+	<string id="bar_dolg_be_a_spy_task_text">
+		<text>Проникнути в бар «Волі»</text>
+	</string>
+	<string id="bar_meet_dolg_guide_text">
+		<text>Зустрітися з Провідником «Долгу»</text>
+	</string>
+	<string id="bar_set_a_bug_text">
+		<text>Встановити жучок у барі</text>
+	</string>
+	<string id="bar_get_intelligence_info_text">
+		<text>Дістати розвіддані</text>
+	</string>
+	<string id="bar_veronin_spy_report_text">
+		<text>Повернутися до Вороніна</text>
+	</string>
+	<string id="bar_dolg_task_mutants_text">
+		<text>Знайти групу «Долгу» глибоко в Зоні</text>
+	</string>
+	<string id="bar_dolg_find_task_mutants_text">
+		<text>Знайти ударну групу «Долгу»</text>
+	</string>
+	<string id="bar_dolg_help_task_mutants_text">
+		<text>Допомогти ударній групі «Долгу»</text>
+	</string>
+	<string id="bar_dolg_muta_fail_title">
+		<text>Доповісти Вороніну про групу «Долгу»</text>
+	</string>
+	<string id="bar_dolg_muta_fail_text">
+		<text>Доповісти Вороніну</text>
+	</string>
+	<string id="bar_dolg_muta_fail_ver_text">
+		<text>Доповісти Вороніну про ударну команду</text>
+	</string>
+	<string id="bar_dolg_task_sins_text">
+		<text>Зустрітися з переговорником</text>
+	</string>
+	<string id="bar_dolg_task_sins_need_text">
+		<text>Поговорити з переговорником</text>
+	</string>
+	<string id="bar_meet_dolg_guide_text2">
+		<text>Зустрітися з провідником.</text>
+	</string>
+	<string id="bar_hunter_task_title">
+		<text>Знайти викрадену рушницю та повернути її Мисливцю.</text>
+	</string>
+	<string id="bar_hunter_task_text1">
+		<text>Знайти викрадену рушницю.</text>
+	</string>
+	<string id="bar_hunter_task_text2">
+		<text>Повернути рушницю Мисливцю.</text>
+	</string>

@@ -1,0 +1,30 @@
+	<string id="bun_turn_on_control_panels">
+		<text>Вимкнути систему безпеки</text>
+	</string>
+	<string id="bun_security_switch_1_text">
+		<text>Вимкнути замок системи безпеки 1</text>
+	</string>
+	<string id="bun_security_switch_2_text">
+		<text>Вимкнути замок системи безпеки 2</text>
+	</string>
+	<string id="bun_turn_off_radar_emitters">
+		<text>Вимкнути псі-випромінювачі</text>
+	</string>
+	<string id="bun_enter_code_text">
+		<text>Знайти та ввести код до дверей</text>
+	</string>	
+	<string id="bun_security_shutdown_emitter_1_text">
+		<text>Вимкнути псі-випромінювач 1</text>
+	</string>
+	<string id="bun_security_shutdown_emitter_2_text">
+		<text>Вимкнути псі-випромінювач 2</text>
+	</string>
+	<string id="bun_security_shutdown_emitter_3_text">
+		<text>Вимкнути псі-випромінювач 3</text>
+	</string>
+	<string id="bun_security_shutdown_emitter_4_text">
+		<text>Вимкнути псі-випромінювач 4</text>
+	</string>
+	<string id="bun_scientist_code_msg">
+		<text>Ситуація погіршується та все навкруги досить непевне. Я змінив код до дверей, зараз це 3823.</text>
+	</string>

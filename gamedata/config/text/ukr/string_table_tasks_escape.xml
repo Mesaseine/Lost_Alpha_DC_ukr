@@ -1,0 +1,298 @@
+	<string id="esc_meet_sid">
+		<text>Дізнатися про себе</text>
+	</string>
+	<string id="esc_talk_to_sid">
+		<text>А тепер давай обговоримо, з чого тобі почати.</text>
+	</string>
+	<string id="tutorial_get_equipment_0">
+		<text>Взяти своє спорядження</text>
+	</string>
+	<string id="tutorial_get_equipment_1">
+		<text>Взяти спорядження з ящика</text>
+	</string>
+	<string id="tutorial_get_equipment_2">
+		<text>Повернутися до торговця</text>
+	</string>
+	<string id="esc_assault_bandit_factory_title">
+		<text>Знайти другого зв'язкового</text>
+	</string>
+		<string id="esc_rescue_novice_from_heli_title">
+		<text>Виручити новачка і повернути флеш-диск</text>
+	</string>
+	<string id="esc_rescue_fox_title">
+		<text>Врятувати Лиса</text>
+	</string>
+	<string id="esc_info_for_sins">
+		<text>Провести обмін</text>
+	</string>
+		<string id="esc_garbage_title">
+		<text>Зустрітися з Сірим</text>
+	</string>
+	<string id="esc_talk_with_wolf">
+		<text>Поговорити з Вовком</text>
+	</string>
+	<string id="escape_player_gain_artefact">
+		<text>Добути артефакт</text>
+	</string>
+	<string id="esc_assault_bandit_factory_0">
+		<text>Забрати речі зв'язкового</text>
+	</string>
+	<string id="esc_assault_bandit_factory_1">
+		<text>Поговорити з Вовком</text>
+	</string>
+	<string id="esc_assault_bandit_factory_2">
+		<text>Приєднатися до ударної групи</text>
+	</string>
+	<string id="esc_assault_bandit_factory_3">
+		<text>Атакувати бандитів і знайти зв'язкового</text>
+	</string>
+	<string id="esc_assault_bandit_factory_4">
+		<text>Повернутися до Сидоровича</text>
+	</string>
+	<string id="esc_assault_bandit_factory_5">
+		<text>Поговорити з Вовком</text>
+	</string>
+	<string id="esc_madog_stuff_title">
+		<text>Знайти загиблого товариша і взяти його речі</text>
+	</string>
+	<string id="esc_madog_stuff_help">
+		<text>Тепер знайди загиблого товариша і візьми його речі</text>
+	</string>
+	<string id="esc_clear_factory_title">
+		<text>Зачистити завод від бандитів</text>
+	</string>
+	<string id="esc_madog_stuff_01">
+		<text>Забрати ПДА та артефакт</text>
+	</string>
+	<string id="esc_rescue_novice_from_heli_0">
+		<text>Забрати флеш-диск</text>
+	</string>
+	<string id="esc_rescue_novice_from_heli_1">
+		<text>Знайти зв'язкового</text>
+	</string>
+	<string id="esc_rescue_novice_from_heli_3">
+		<text>Взяти флеш-диск</text>
+	</string>
+	<string id="esc_rescue_novice_from_heli_2">
+		<text>Принести флеш-диск торговцю</text>
+	</string>
+	<string id="esc_rescue_fox_0">
+		<text>Виручити Лиса</text>
+	</string>
+	<string id="esc_rescue_fox_1">
+		<text>Спробувати звільнити Лиса</text>
+	</string>
+	<string id="esc_rescue_fox_2">
+		<text>Поговорити з Лисом і повернутися до Сидоровича</text>
+	</string>
+	<string id="esc_talk_to_wolf">
+		<text>Поговорити з Лисом</text>
+	</string>
+	<string id="esc_info_for_sins_0">
+		<text>Домовитися з Темними сталкерами</text>
+	</string>
+	<string id="esc_info_for_sins_1">
+		<text>Забрати важливу інформацію у Сидоровича</text>
+	</string>
+	<string id="esc_info_for_sins_2">
+		<text>Принести інформацію Гріху</text>
+	</string>
+	<string id="esc_garbage_story_0">
+		<text>Зв'язковий з інформацією</text>
+	</string>
+	<string id="esc_garbage_story_1">
+		<text>Іти на Звалище</text>
+	</string>
+	<string id="esc_garbage_story_2">
+		<text>Поговорити з Сірим</text>
+	</string>
+	<string id="esc_bandits_on_factory">
+		<text>Вбити бандитів на фабриці</text>
+	</string>
+	<string id="esc_bandits_on_factory_0">
+		<text>Вбити засілих на фабриці бандитів</text>
+	</string>
+	<string id="esc_bandits_on_factory_1">
+		<text>Вбити всіх бандитів на фабриці</text>
+	</string>
+	<string id="esc_bandits_on_factory_2">
+		<text>Поговорити з торговцем</text>
+	</string>
+	<string id="esc_bandits_on_factory_3">
+		<text>Поговорити з Вовком</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader">
+		<text>Вкрасти ящик з армійського блокпосту</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader_0">
+		<text>Вкрасти ящик з важливими документами з армійського блокпосту</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader_1">
+		<text>Вкрасти ящик з армійського блокпосту</text>
+	</string>
+	<string id="esc_blockpost_case_to_trader_2">
+		<text>Віднести ящик торговцеві</text>
+	</string>
+	<string id="esc_defend_lager">
+		<text>Захистити табір новачків від Найманців</text>
+	</string>
+	<string id="esc_defend_lager_from_killers_0">
+		<text>Захистити табір новачків від Найманців</text>
+	</string>
+	<string id="esc_defend_lager_from_killers_1">
+		<text>Знищити Найманців</text>
+	</string>
+	<string id="esc_defend_lager_from_killers_2">
+		<text>Поговорити з командиром новачків</text>
+	</string>
+	<string id="esc_dinamit_to_volk">
+		<text>Вбити бандитів на АТП</text>
+	</string>
+	<string id="esc_dinamit_to_volk_0">
+		<text>Вбити бандитів на АТП і доповісти Вовкові</text>
+	</string>
+	<string id="esc_dinamit_to_volk_1">
+		<text>Зустрітися з людьми Вовка</text>
+	</string>
+	<string id="esc_dinamit_to_volk_2">
+		<text>Вбити всіх бандитів</text>
+	</string>
+	<string id="esc_dinamit_to_volk_3">
+		<text>Поговорити з Вовком</text>
+	</string>
+	<string id="esc_help_wounded_from_raid">
+		<text>Дізнатися у Лиса про Стрільця</text>
+	</string>
+	<string id="esc_help_wounded_from_raid_0">
+		<text>Допомогти пораненому сталкеру</text>
+	</string>
+	<string id="esc_help_wounded_from_raid_1">
+		<text>Допомогти Лису</text>
+	</string>
+	<string id="esc_help_wounded_from_raid_2">
+		<text>Отримати інформацію про Стрільця</text>
+	</string>
+	<string id="esc_wounded_to_trader_gift">
+		<text>Доставити пакет торговцеві</text>
+	</string>
+	<string id="esc_wounded_to_trader_gift_0">
+		<text>Доставити пакет торговцеві. Він зможе допомогти тобі</text>
+	</string>
+	<string id="garbage_meet_stalker">
+		<text>Зустрітися з Сірим</text>
+	</string>
+	<string id="garbage_meet_stalker_0">
+		<text>Зустрітися з Сірим на Звалищі</text>
+	</string>
+	<string id="meet_with_doctor">
+		<text>Зустрітися з Доктором</text>
+	</string>
+	<string id="meet_with_doctor_1">
+		<text>Зустрітися з Доктором</text>
+	</string>
+	<string id="meet_with_doctor_2">
+		<text>Зустрітися з Доктором у схованці Стрільця</text>
+	</string>
+	<string id="storyline_escape_eliminate_gunslinger">
+		<text>Вбити Стрільця</text>
+	</string>
+	<string id="storyline_escape_find_gunslinger">
+		<text>Знайти Стрільця</text>
+	</string>
+	<string id="escape_trader_find_artefact">
+		<text>Знайти Скаженого Пса і отримати артефакт "Місячне світло"</text>
+	</string>
+	<string id="tutorial_find_artefact">
+		<text>Знайти артефакт</text>
+	</string>
+	<string id="tutorial_find_artefact_0">
+		<text>Знайти свій перший артефакт</text>
+	</string>
+	<string id="tutorial_find_artefact_1">
+		<text>Знайти артефакт</text>
+	</string>
+	<string id="tutorial_find_artefact_2">
+		<text>Принести артефакт торговцю</text>
+	</string>
+	<string id="tutorial_help_wounded">
+		<text>Отримати інформацію від розвідника</text>
+	</string>
+	<string id="tutorial_help_wounded_0">
+		<text>Віднести інформацію торговцеві</text>
+	</string>
+	<string id="tutorial_help_wounded_1">
+		<text>Поговорити з Вовком</text>
+	</string>
+	<string id="tutorial_help_wounded_2">
+		<text>Взяти флеш-диск у Спритника</text>
+	</string>
+	<string id="tutorial_help_wounded_3">
+		<text>Віднести флеш-диск торговцеві</text>
+	</string>
+	<string id="esc_trader_job">
+		<text>Робота на торговця</text>
+	</string>
+	<string id="esc_trader_job_text">
+		<text>Отримати спецзавдання у торговця</text>
+	</string>
+	<string id="bar_barman_job">
+		<text>Робота на Бармена</text>
+	</string>
+	<string id="bar_barman_job_text">
+		<text>Попросити роботу у Бармена</text>
+	</string>
+	<string id="yan_scientist_job">
+		<text>Допомога вченим</text>
+	</string>
+	<string id="yan_scientist_job_text">
+		<text>Запропонувати допомогу вченим</text>
+	</string>
+	<string id="find_railroad_passage">
+		<text>Дістатися до залізничного насипу</text>
+	</string>
+	<string id="find_railroad_passage_1">
+		<text>Зустрітися з провідником</text>
+	</string>
+	<string id="find_railroad_passage_2">
+		<text>Перетнути залізничний насип</text>
+	</string>
+	<string id="find_railroad_passage_text">
+		<text>Перш ніж заглибитися в Зону, необхідно перетнути старий залізничний насип. Єдиний безпечний прохід в ньому охороняється військовими. Однак є невеликий тунель зліва, новачки зазвичай ходять через нього. Там тебе чекатиме один з моїх боржників.</text>
+	</string>
+	<!--freeplay-->
+	<string id="esc_blue_silhouette">
+		<text>Синій Силуете, якщо ти це читаєш, значить Зона мене забрала. Тепер тобі судилося повертатися в наш тайник і подбати про хабар. \ n Я замінив кодовий замок на двері, але я пам'ятаю, як ти любиш головоломки, так що я оновив GPS-пристрій на КПК, який відстежуватиме твоє місцезнаходження і буде програвати аудіо-повідомлення , коли ти наблизишся до трьох місць.</text>
+	</string>
+	<string id="esc_bs_task_title">
+		<text>Знайти три цифри до кодового замка</text>
+	</string>
+	<string id="esc_bs_clue1_text">
+		<text>Поруч з коміркою, в яку всі сталкери ходять торгувати</text>
+	</string>
+	<string id="esc_bs_clue2_text">
+		<text>Місце, де колись зловили Лиса</text>
+	</string>
+	<string id="esc_bs_clue3_text">
+		<text>У цій місцевості вовки влаштовують собі лігво</text>
+	</string>
+	<string id="esc_safe_task_title">
+		<text>Знайти сейф</text>
+	</string>
+	<string id="esc_safe_task_text">
+		<text>Сейф знаходиться там, де справжній солдат крокує до кордону</text>
+	</string>
+	<string id="esc_clear_factory_message">
+		<text>Хлопців, я чув постріли з заводу! Там походу серйозна колотнеча, краще тримайтеся від нього подалі.</text>
+	</string>
+	<string id="esc_wagon_key_task_title">
+		<text>Знайти зниклий ключ від вагончика</text>
+	</string>
+	<string id="esc_wagon_key_task_name">
+		<text>Знайти зниклий ключ і повернути Вовкові</text>
+	</string>
+	<string id="esc_wagon_key_text">
+		<text>Знайти ключ</text>
+	</string>
+	<string id="esc_wagon_key_wolf_text">
+		<text>Повернути ключ Вовкові</text>
+	</string>

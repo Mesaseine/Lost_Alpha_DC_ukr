@@ -1,0 +1,84 @@
+	<string id="bar_darklab_documents">
+		<text>Знайти документи в підземній лабораторії</text>
+	</string>
+	<string id="bar_darklab_documents_1">
+		<text>Забрати у Свині ключ від лабораторії</text>
+	</string>
+	<string id="bar_darklab_documents_2">
+		<text>Вибратися з бази бандитів</text>
+	</string>
+	<string id="bar_darklab_documents_3">
+		<text>Знайти вхід в лабораторію</text>
+	</string>
+	<string id="bar_darklab_documents_4">
+		<text>Проникнути на базу</text>
+	</string>
+	<string id="bar_darklab_documents2">
+		<text>Знайти документи Х-18</text>
+	</string>
+	<string id="bar_darklab_documents2_1">
+		<text>Знайти документи</text>
+	</string>
+	<string id="bar_darklab_documents2_2">
+		<text>Принести документи барменові</text>
+	</string>
+	<string id="dar_codedoor_1">
+		<text>Відкрити кодові двері</text>
+	</string>
+	<string id="dar_codedoor_1_1">
+		<text>Знайти код до дверей</text>
+	</string>
+	<string id="dar_codedoor_1_2">
+		<text>Відкрити двері за допомогою коду</text>
+	</string>
+	<string id="dar_codedoor_2">
+		<text>Відкрити двері в командний центр</text>
+	</string>
+	<string id="dar_codedoor_2_1">
+		<text>Знайти код до дверей</text>
+	</string>
+	<string id="dar_codedoor_2_2">
+		<text>Відкрити двері за допомогою коду</text>
+	</string>
+	<string id="val_captive_help">
+		<text>Відбити долгівця</text>
+	</string>
+	<string id="val_captive_help_1">
+		<text>Йти за Кулею до місця засідки</text>
+	</string>
+	<string id="val_captive_help_2">
+		<text>Знищити бандитів і врятувати долгівця</text>
+	</string>
+	<string id="val_come_to_trader">
+		<text>Вибратися через південні ворота</text>
+	</string>
+	<string id="val_come_to_trader_0">
+		<text>Повернутися до торговця</text>
+	</string>
+	<string id="val_come_to_trader_1">
+		<text>Вибратися з Темної Долини</text>
+	</string>
+	<string id="val_come_to_trader_2">
+		<text>Показати документи торговцеві</text>
+	</string>
+	<string id="dol_free_prisoner_title">
+		<text>Врятувати долгівця з в'язниці</text>
+	</string>
+	<string id="dol_free_prisoner_text">
+		<text>Витягти долгівця з полону бандитів</text>
+	</string>
+	<string id="dol_borov_code">
+		<text>Примітка для себе : код до сейфа - 2, 9, 5</text>
+	</string>
+	<string id="dol_prisoner_message">
+		<text>Мічений, це Петренко, мій таємний агент зник. Він тривалий час не виходив з нами на зв'язок. Я все ще можу відстежити його КПК на своєму радарі. Я дам тобі сигнал КПК, подивимось, чи зможеш ти відстежити та знайти його.</text>
+	</string>
+	<string id="dol_mil_find_bandit_1">
+		<text>Знайти і вбити ціль, повернути його КПК.</text>
+	</string>
+	<string id="dol_mil_find_bandit_2">
+		<text>Повернути КПК лідеру військових.</text>
+	</string>
+	<string id="dol_mil_find_bandit_title">
+		<text>Вбити та ідентифікувати ціль Бандитів.</text>
+	</string>

@@ -1,0 +1,72 @@
+	<string id="lab_hermit_meet">
+		<text>Стрільцю, йди та зустрінься з Волоцюгою на радарі, він допоможе тобі. Я позначу його положення на твоїй мапі.</text>
+	</string>
+	<string id="x16_follow_dream_title">
+		<text>Ти мариш, йди слідом за своїм видінням</text>
+	</string>
+	<string id="x16_follow_dream">
+		<text>Прямувати за видінням</text>
+	</string>
+	<string id="x16_disable_emitter_title">
+		<text>Вимкнути джерело живлення псі-випромінювання</text>
+	</string>
+	<string id="x16_turn_off_main power_station">
+		<text>Вимкнути основну електростанцію</text>
+	</string>
+	<string id="x16_turn_off_power_sup_01">
+		<text>Вимкнути резервне живлення 1</text>
+	</string>
+	<string id="x16_turn_off_power_sup_02">
+		<text>Вимкнути резервне живлення 2</text>
+	</string>
+	<string id="x16_turn_off_power_sup_03">
+		<text>Вимкнути резервне живлення 3</text>
+	</string>
+	<string id="x16_find_secret_tunnel_title">
+		<text>Знайти таємний вихід з лабораторії</text>
+	</string>
+	<string id="x16_find_secret_tunnel">
+		<text>Знайти таємний тунель</text>
+	</string>
+	<string id="x16_psy_station_text">
+		<text>Головна електростанція</text>
+	</string>
+	<string id="x16_power_sup_01_text">
+		<text>Резервне джерело живлення 1</text>
+	</string>
+	<string id="x16_power_sup_02_text">
+		<text>Резервне джерело живлення 2</text>
+	</string>
+	<string id="x16_power_sup_03_text">
+		<text>Резервне джерело живлення 3</text>
+	</string>
+	<string id="x16_secret_tunnel_text">
+		<text>Таємний тунель</text>
+	</string>
+	<string id="bra_vjacheslav_dead_pda">
+		<text>КПК учених X-16</text>
+	</string>
+	<string id="bra_vjacheslav_dead_info">
+		<text>День 1: Кожен тут божеволіє! Мені потрібно сховатись... поки не пізно або вони мене знайдуть. Щось урятувало мене, я думаю це цей прототип на моїй голові, котрий я носив вчора для випробовування... без нього я би був вже мертвим. День 2: Тут темно й сиро. Мені потрібна їжа та обладнання, але як я можу вибратись... вони повсюди! Всі мої товариші та друзі перетворились на щось... щось неймовірне, жахливе. Я навіть не можу описати це! День 3: Це все вина Лохотрона!! Він ДУРЕНЬ і він БРЕШЕ... ТОБІ, клятий колишній член GSC, НАВОЛОЧ, Я ТЕБЕ НЕНАВИДЖУ, ЗГИНЬ ЯКЩО ЗМОЖЕШ, ЗГИНЬ СУЧИЙ СИНУ, БЛАГАЮ!!!!! День 4: Це кінець... їжі немає, води немає, якщо хтось знайде цей запис, то знайте що це все було з благими намірами! Ми хотіли тільки захистити світ, не знищити його!</text>
+	</string>
+	<string id="labx16_disable_get_out">
+		<text>Агов, це я! Швидко вимкни резервне джерело живлення та забирайся звідси!! ЗАРАЗ ЖЕ!!!!</text>
+	</string>
+		<string id="x16_enable_emitter_title">
+		<text>Увімкнути електростанцію живлення</text>
+	</string>
+		<string id="x16_turn_on_power_sup_01">
+		<text>Увімкнути генератор джерела живлення 1</text>
+	</string>
+		<string id="x16_turn_on_power_sup_02">
+		<text>Увімкнути генератор джерела живлення 2</text>
+	</string>
+		<string id="x16_turn_on_power_sup_03">
+		<text>Увімкнути генератор джерела живлення 3</text>
+	</string>
+		<string id="x16_turn_on_main_power_station">
+		<text>Активувати основну електростанцію</text>
+	</string>
+		<string id="labx16_main_switcher">
+		<text>Хороша робота, Гордоне! Що ще залишилось, так це головний перемикач у пункті керування.</text>
+	</string>

@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+<!-- agroprom stalker chitchat -->
+
+	<string id="agr_factory_stalker_about_0">
+		<text>Що тут відбувається?</text>
+	</string>
+	<string id="agr_factory_stalker_about_1">
+		<text>Воюємо, а точніше сидимо і підставляємо свої дупи під кулі. Детальніше у Крота запитуй. Він тут за головного.</text>
+	</string>
+	<string id="agr_factory_stalker_start_0">
+		<text>Ух! Ну тут і веремія була, ворогові не побажаєш. Зовсім ці військові розійшлися.</text>
+	</string>
+	<string id="agr_krot_about_agroprom_0">
+		<text>Де знаходиться НДІ "Агропром"?</text>
+	</string>
+	<string id="agr_krot_about_agroprom_10">
+		<text>Недалеко звідси. Пройди по дорозі на захід - вона веде прямо до одних з воріт НДІ.</text>
+	</string>
+	<string id="agr_krot_about_agroprom_100">
+		<text>Кажуть там зараз військові розташувалися?</text>
+	</string>
+	<string id="agr_krot_about_agroprom_120">
+		<text>Дякую за інформацію.</text>
+	</string>
+
+<!-- Help to Mole -->
+	
+	<string id="agr_krot_help_0">
+		<text>Допоможи, сталкере!</text>
+	</string>
+	<string id="agr_krot_help_10">
+		<text>Добре.</text>
+	</string>
+	<string id="agr_ratcatcher_start_0">
+		<text>Не стріляй, братику!</text>
+	</string>
+	<string id="agr_stalker_esc_0">
+		<text>Що робиш?</text>
+	</string>
+	<string id="agr_stalker_esc_20">
+		<text>З заводу йду, це далі по дорозі. Не знаю як, але про нашу групу пронюхали військові. Не став я їх чекати і звалив звідти. Сподіваюся, наші всі вже злиняли, а то, якщо довго затримаються, їм точно недовго жити залишилося: ти ж бачив гелікоптери.</text>
+	</string>
+	<string id="agr_stalker_esc_300">
+		<text>Зрозумів, дякую.</text>
+	</string>
+	<string id="agr_stalker_esc_400">
+		<text>Зрозумів, дякую.</text>
+	</string>
+	
+<!-- Talk to Mole -->
+
+	<string id="agr_factory_krot_start_0">
+		<text>Дякую тобі за твою допомогу, сталкере! Не прийди ти вчасно, я був би вже покійником.</text>
+	</string>
+	<string id="agr_factory_krot_start_10001">
+		<text>Я шукаю інформацію про Стрільця, може ти що-небудь знаєш?</text>
+	</string>
+<!--
+	<string id="agr_factory_krot_start_10002">
+		<text>Де ця флешка зараз?</text>
+	</string>
+-->
+	<string id="agr_factory_krot_start_10002">
+		<text>Де ця книга зараз?</text>
+	</string>
+	<string id="agr_factory_krot_start_15001">
+		<text>Дивися: спускаєшся по цих гвинтових сходах, пройдеш декілька колон і заходиш у машинне відділення. Шукай вхід в укриття в одній з кімнат неподалік - ось там я і знайшов цю зашифровану книжку, тільки місце зараз точно не назву. Удачі!</text>
+	</string>
+<!--
+	<string id="agr_factory_krot_start_15001">
+		<text>Дивися: спускаєшся по цих гвинтових сходах, пройдеш декілька колон і заходиш у машинне відділення. В одній із суміжних кімнат пошукай розбитий вентиляційний канал - ось там я її і приховав, тільки місце зараз точно не назву. Щасливо!</text>
+	</string> -->
+	<string id="agr_factory_krot_start_15003">
+		<text>Дякую за інформацію.</text>
+	</string>
+<!--
+	<string id="agr_factory_krot_start_15002">
+		<text>Так, розкажи мені, що пам'ятаєш щодо того, де ховав.</text>
+	</string>
+	<string id="agr_factory_krot_start_1502">
+		<text>Я її заховав в підземеллі. Тут один з багатьох входів, через нього ти потрапиш в один зі сполучених один з одним підвалів. Я можу спробувати пояснити, де я її заховав, ну а там дивися сам, вони дуже довгі з багатьма кімнатами і досить заплутані. Та і мутантів там повно, так що я нізащо туди не повернуся.</text>
+	</string>
+-->
+	<string id="agr_factory_krot_start_15002">
+		<text>Так, розкажи мені, що пам'ятаєш щодо того, де ти її знайшов.</text>
+	</string>
+	<string id="agr_factory_krot_start_1502">
+		<text>Я бачив її в підземеллі. Тут один з багатьох входів, через нього ти потрапиш в один зі сполучених один з одним підвалів. Я можу спробувати пояснити, де я її заховав, ну а там дивися сам, вони дуже довгі з багатьма кімнатами і досить заплутані. Та і мутантів там повно, так що я нізащо туди не повернуся.</text>
+	</string>
+	<string id="agr_factory_krot_start_2">
+		<text>Сірий мене сюди не так просто відправив, а я врятував твою шкуру, так що якщо ти ще щось знаєш про Стрільця, то якраз час поговорити.</text>
+	</string>
+	<string id="agr_factory_krot_start_30001">
+		<text>Дякую.</text>
+	</string>
+	<string id="agr_factory_krot_start_3001">
+		<text>Так, ми теж його шукали, тільки нічого не знайшли. Я тобі скину інформацію, може тобі пощастить. Там уся інформація про схованку, яка у нас є.</text>
+	</string>
+		
+<!-- Mole chitchat -->
+
+	<string id="agr_krot_about_agroprom_20">
+		<text>Так, там зараз база військових. Я не в курсі скільки їх там, але можу сказати, військових там не менше, ніж один загін. Вони добре озброєні, і прорватися, якщо ти вже вирішиш, не вийде - завалять, пікнути не встигнеш. Краще всього туди проникати вночі, вдень базу добре охороняють, у них там скрізь пости розташовані. А взагалі, я чув, що на болотах ховається служивий, який втік з цієї бази. Потруси його - він тобі усе викладе.</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_0">
+		<text>Що тут відбувається?</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_100">
+		<text>Ми зі своїми хлопцями знайшли тут непогане містечко з артефактами, коли на нас незрозуміло чому напали військові. Не зрозумію, чого вони від нас хотіли?!</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_200">
+		<text>Так, я чув про таке, він ніби теж промишляв в цих місцях, тут непогане місце. Він пішов звідси давно, точно не знаю коли і куди. Більше мені нічого не відомо.</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_2000">
+		<text>Адже ти тут не даремно сидів? Інакше навіщо військовий спецназ тут висадився?</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_250">
+		<text>Добре, мені ще дещо відомо про Стрільця.</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_2500">
+		<text>Так? Мені це дуже потрібно знати!</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_3500">
+		<text>Якщо ти мене обдурив, я тебе знайду, і дороблю те, що військові не змогли!</text>
+	</string>
+	<string id="agr_krot_actor_hasnot_met_seriy_400">
+		<text>Я тебе не обдурюю. Знаю, що тут ніхто нікому не довіряє, але тут у тебе вибір невеликий.</text>
+	</string>
+	<string id="agr_krot_actor_met_seriy_100">
+		<text>Добре, слухай. Я знайшов книгу, яка можливо приведе тебе до деякої інфи, в якій ти зацікавлений, і якщо вона потрапить до правильних рук, то може бути дуже корисною. Я хотів продати її бармену, але оскільки ти врятував моє життя, можеш її забрати.</text>
+	</string>
+<!--
+	<string id="agr_krot_actor_met_seriy_100">
+		<text>Гаразд, слухай. Я знайшов флешку, на якій якраз може бути інформація, якою ти цікавишся, і якщо вона потрапить до правильної людини, то може виявитися дуже корисною. Я хотів продати її Барменові, але раз ти мені життя врятував, то забирай.</text>
+	</string>
+-->
+	<string id="agr_krot_actor_met_seriy_100_old">
+		<text>Ну добре, слухай. Кажуть, що Стрілець промишляв у цих місцях. До того ж десь в місцевих підвалах знаходиться схованка Стрільця. Говорили навіть, що схованку він зробив десь у трубі. Ми теж шукали схованку, тільки не знайшли ні фіга, може, тобі більше пощастить. Це все, що я знаю.</text>
+	</string>
+	<string id="agr_krot_actor_met_seriy_2000">
+		<text>Що ти ще знаєш?</text>
+	</string>
+	<string id="agr_krot_actor_met_seriy_250">
+		<text>Більше мені нічого не відомо, все, що я знав, уже тобі сказав, далі ти сам повинен діяти. Бажаю всього найкращого.</text>
+	</string>
+		
+<!-- Misc -->
+	
+	<string id="agr_stalker_talk_level_0">
+		<text>Розкажи мені про це місце.</text>
+	</string>
+	<string id="agr_stalker_talk_level_1">
+		<text>Це територія НДІ «Агропром». Сама будівля інституту знаходиться на південному заході. А завод на півночі - це виробничо-технічна база інституту. Будівлі давно покинуті були, і взяти там нічого. Але останнім часом військові почали щось активно шукати.</text>
+	</string>
+	<string id="agr_stalker_talk_level_2">
+		<text>Розкажи детальніше про інститут.</text>
+	</string>
+	<string id="agr_stalker_talk_level_21">
+		<text>Про інститут легенди ходять. До аварії у 1986 році тут тільки і було, що будівля інституту селекції та генетики злакових, що самотньо стоїть. А на місці заводу були експериментальні поля. Після аварії інститут закрили, а поля спалили. А потім згадали, будівлю побілили, обнесли огорожею, бараки побудували. На місці полів збудували завод. Вже не знаю чим там в інституті займалися, але грошей явно не шкодували.</text>
+	</string>
+	<string id="agr_stalker_talk_level_3">
+		<text>Розкажи детальніше про завод.</text>
+	</string>
+	<string id="agr_stalker_talk_level_31">
+		<text>Завод цей збудували у кінці вісімдесятих. Ніби як для того, щоб будувати і перевіряти машини, які здатні обробляти радіоактивно-заражений ґрунт. Але наскільки я знаю, ніхто жодної такої машини так і не побачив. Зараз він порожній зовсім. Тільки сталкери люблять там зупинятися. Кажуть, що досить безпечне місце, якщо не заглядати в темні кути.</text>
+	</string>
+	<string id="agr_stalker_talk_level_4">
+		<text>Дякую.</text>
+	</string>
+	
+<!-- Ratcatcher task -->
+	
+	<string id="agr_swamp_ratcatcher_talks_0">
+		<text>Що робиш?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_10">
+		<text>Ховаюся тут. Мені проблем не потрібно.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_100">
+		<text>Від кого ховаєшся?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_50">
+		<text>Ну-у... за військовим статутом я виходжу дезертир, а ще мене незаконно звинуватили у вбивстві. Поки я не очищу своє ім'я, я не можу і близько до військової бази підходити, інакше - розстріл.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_141">
+		<text>У чому тебе звинуватили?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_20">
+		<text>Я з розвідзагону. Нас в катакомби відправили, щоб подивитися, що там твориться під базою. Там повна срака. Я один утік... Інші всі мертві, а ці виродки звинуватили мене у вбивстві всіх своїх товаришів!</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_120">
+		<text>Катакомби?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_30">
+		<text>Підземні тунелі. Вони ведуть з НДІ за його територію.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_140">
+		<text>Так а що там сталося, все-таки?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_3111111111">
+		<text>Ти мені теж навряд чи повіриш, але я все одно розповім. НДІ «Агропром» до аварії у 1986-му був так званим «Інститутом селекції та генетики злакових». Очевидно, використовувався для випробувань експериментальних злакових. Після аварії його обнесли  огорожею і казарми побудували. Раніше я не знав, чим там в НДІ займалися, а тепер знаю. Експериментували з генетикою тварин. Якби ти бачив ту звірюку, яку я бачив унизу, ти б зрозумів, як саме згинула моя група!</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_31111111111">
+		<text>У звірюки були такі... щупальця навколо рота, і вона може ставати невидимою?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_311111111111">
+		<text>Так! Ти звідки знаєш?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_3111111111111">
+		<text>Я там одну таку зустрів - препаскудна тварюка. Так що я-то тобі вірю. Може, я зможу поговорити з військовими на твій рахунок і зняти з тебе підозри?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_31111111111111">
+		<text>Ні! Військові не стануть слухати наукову фантастику від якогось сталкера. Але є інший шлях. У НДІ є сила-силенна старих документів, в яких говориться про всі дивацтва, що відбувалися тут. Я впевнений, що в них і про цей екземпляр щось є. Якщо можеш, дістань ці документи і віднеси їх Барменові. Він пов'язаний зі впливовими людьми, вони його послухають.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_311111111111111">
+		<text>Ти знаєш де в НДІ «Агропром» зберігаються документи?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_3111111111111111">
+		<text>У штабі. Він на третьому поверсі інституту. Там же ці чортові папірці. Але туди ще дістатися потрібно. Вдень територія патрулюється повністю. Унночі патрулів менше. Якщо хочеш на базу пролізти, то відразу скажу: через ворота не пройдеш, найреальніший шлях - через катакомби. Але тобі видніше.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_31111111111111111">
+		<text>Добре, зроблю.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_2">
+		<text>Ну, знайшов кейс?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_21">
+		<text>Так, знайшов саме там, де ти і казав.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_211">
+		<text>Класно, щиро дякую! Віднеси Барменові, щоб він зміг очистити моє ім'я!</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_2111">
+		<text>Я пішов.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_22">
+		<text>Ні, працюю над цим.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_221">
+		<text>Поквапся, будь ласка! Я не можу тут залишатися навіки!</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_4">
+		<text>Ти відніс документи Барменові?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_41">
+		<text>Поки ні, але я якраз туди йду.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_5">
+		<text>Бармен зняв з мене підозри. Дякую, сталкере, дуже тобі вдячний.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks_51">
+		<text>Не питання, радий допомогти.</text>
+	</string>
+	
+<!-- Ratcatcher about -->
+	
+	<string id="agr_stalker_talk_about_ratcatcher_0">
+		<text>У мене є пару запитань.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_10">
+		<text>Що ти хочеш дізнатися?</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_1000">
+		<text>Є тут щось цікаве?</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_120">
+		<text>Скільки треба?</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_130">
+		<text>Ось, візьми гроші. А тепер викладай, де.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_131">
+		<text>Відвали!</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_140">
+		<text>Дякую.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_20">
+		<text>Так, є тут пару місць, але доведеться тобі поділитися багатствами, друзяко.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_21">
+		<text>Було досить тихо, та військові розгорнули тут діяльність і почали всіх мочити. Бандитів нещодавно викурили, тільки я чув, що деяким вдалося втекти в катакомби.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_30">
+		<text>Тридцять, по руках?</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_40">
+		<text>Поруч - виїзд із залізничного тунелю. У глухому куті там досить безпечно. Принаймні, там сплячим нікого не з'їли... поки що.  Далі, на північний схід від заводу знайдеш болотище, а в нім вагончик.  Але будь обережний, там радіації навкруги - аж світиться, так що краще заходь туди зі східного боку. А, ще дещо: там солдата помітили. Швидше за все, він з військової бази в інституті. З'їхав з глузду, напевно, бідолаха, - вже пару днів там стирчить. Та і сумніваюся я, що він довго там протягне один.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher_9999">
+		<text>Бувай!</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_0">
+		<text>Що-небудь цікаве тут відбувається?</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_1">
+		<text>Про Щуролова знаєш? Інфа коштуватиме тобі 30.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_11">
+		<text>По руках.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_111">
+		<text>Є тут у нас місцевий герой, Щуроловом звуть. На болотах живе. Він такий виводок щурів у колекторах зібрав, що вони скоро вояк цих поганих зжеруть.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_1111">
+		<text>Прекрасно. Дякую.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_1112">
+		<text>Розкажи більше про колектори.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_11121">
+		<text>Колектори? Та звичайна каналізація, що смердить лайном, збирає відходи НДІ і скидає в найближчу водойму. </text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_111211">
+		<text>Прекрасно. До зустрічі і будь обережний.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_12">
+		<text>Це я вже знаю. Дякую.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_121">
+		<text>Більше мені немає про що тобі розповісти.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_13">
+		<text>У мене недостатньо грошей.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_14">
+		<text>Не зацікавлений.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_3">
+		<text>Що-небудь цікаве тут відбувається?</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_31">
+		<text>Нічого. Взагалі нічого.</text>
+	</string>
+	<string id="agr_stalker_talk_about_ratcatcher1_311">
+		<text>Зрозуміло. Бувай!</text>
+
+	</string>
+	
+<!-- Old ratcatcher stuff -->
+	
+	<string id="agr_swamp_ratcatcher_talks1_0">
+		<text>Привіт.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_01">
+		<text>Що тут відбувається?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_011">
+		<text>Розкажи мені про колектори. Як добираюся? Де - виходи і входи?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0111">
+		<text>Це небезпечно усередині колектора. Є шість входів і два з них знаходяться в області навколо Інституту, де Військові розташували табір. Ця область патрулюється і Капітан тримає патрульний графік у своїй геральдиці.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_01111">
+		<text>А ти звідки знаєш?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_011111">
+		<text>Щурі сказали.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0111111">
+		<text>...Зрозуміло. Бувай і хай щастить тобі.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_012">
+		<text>Бувай. Ще побачимося.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_013">
+		<text>Ти хто такий?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0134">
+		<text>Я тут живу, якщо це можна назвати життям. Розводжу щурів, нервую війскових.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_0135">
+		<text>Я щуролов.</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_01351">
+		<text>Що ти робишв цьому болоті?</text>
+	</string>
+	<string id="agr_swamp_ratcatcher_talks1_123">
+		<text>Ох....Я зрозумів.. Шо ж, я з іншої історії</text>
+	</string>
+	
+<!-- freeplay -->
+<!-- agroprom task liar side task -->
+
+	<string id="agr_task_liar_dialog_2">
+		<text>Ей, хлопче, не знайдеш хвилинки?</text>
+	</string>
+	<string id="agr_task_liar_dialog_22">
+		<text>Не зараз, друже, мені потрібно піти.</text>
+	</string>
+	<string id="agr_task_liar_dialog_21">
+		<text>Звичайно, в чому справа?</text>
+	</string>
+	<string id="agr_task_liar_dialog_211">
+		<text>Я ходив да Знахаря, і він сказав що мені потрібен артефакт Граві. Не міг би ти мені дістати його. Я щедро заплачу!</text>
+	</string>
+	<string id="agr_task_liar_dialog_2111">
+		<text>Не проблема. Я скоро повернусь.</text>
+	</string>
+	<string id="agr_task_liar_dialog_21111">
+		<text>Благослови тебе, брате!</text>
+	</string>
+	<string id="agr_task_liar_dialog_211111">
+		<text>Подбай про це.</text>
+	</string>
+	<string id="agr_task_liar_dialog_3">
+		<text>Ласкаво прошу назад. Ти приніс артефакт?</text>
+	</string>
+	<string id="agr_task_liar_dialog_32">
+		<text>Ще ні. Я шукаю його.</text>
+	</string>
+	<string id="agr_task_liar_dialog_31">
+		<text>Так, ось він.</text>
+	</string>
+	<string id="agr_task_liar_dialog_311">
+		<text>Хм, це не «Кров каменю», мені потрібна «Кров каменю».</text>
+	</string>
+	<string id="agr_task_liar_dialog_3111">
+		<text>Ти мене просив дістати «Граві», я це добре пам'ятаю.</text>
+	</string>
+	<string id="agr_task_liar_dialog_31111">
+		<text>Так? Вибачай, моя болячка дає про себе знати. Дістань мені Кров каменю. Мені дуже потрібно.</text>
+	</string>
+	<string id="agr_task_liar_dialog_311111">
+		<text>Гаразд, я зроблю це.</text>
+	</string>
+	<string id="agr_task_liar_dialog_311112">
+		<text>Слухай, чоловіче, у мене є більш важливі справи. Ти просив Граві, я приніс Граві. До побачення!</text>
+	</string>
+	<string id="agr_task_liar_dialog_4">
+		<text>Ей, повернися. Чи ти вважаєш один?</text>
+	</string>
+	<string id="agr_task_liar_dialog_42">
+		<text>Поки ні. Ще шукаю.</text>
+	</string>
+	<string id="agr_task_liar_dialog_41">
+		<text>Так, ось він.</text>
+	</string>
+	<string id="agr_task_liar_dialog_411">
+		<text>Кров каменю, о ні, не кажіть що я попросив вас дістати кров каменю. Я не ідіот, але мені потрібен артефакт Шмат м'яса, і тоді знахар зцілить мене.</text>
+	</string>
+	<string id="agr_task_liar_dialog_412">
+		<text>Кров каменю, о ні, не кажіть що я попросив вас дістати кров каменю. Я не ідіот, але мені потрібен артефакт Золота рибка, і тоді знахар зцілить мене.</text>
+	</string>
+	<string id="agr_task_liar_dialog_413">
+		<text>Кров каменю, о ні, не кажіть що я попросив вас дістати кров каменю. Я не ідіот, але мені потрібен артефакт Їжак, і тоді знахар зцілить мене.</text>
+	</string>
+	<string id="agr_task_liar_dialog_414">
+		<text>Кров каменю, о ні, не кажіть що я попросив вас дістати кров каменю. Я не ідіот, але мені потрібен артефакт Кристалева колючка, і тоді знахар зцілить мене.</text>
+	</string>
+	<string id="agr_task_liar_dialog_415">
+		<text>Кров каменю, о ні, не кажіть що я попросив вас дістати кров каменю. Я не ідіот, але мені потрібен артефакт Душа, і тоді знахар зцілить мене.</text>
+	</string>
+	<string id="agr_task_liar_dialog_416">
+		<text>Кров каменю, о ні, не кажіть що я попросив вас дістати кров каменю. Я не ідіот, але мені потрібен артефакт Слиз, і тоді знахар зцілить мене.</text>
+	</string>
+	<string id="agr_task_liar_dialog_417">
+		<text>Послухай, я не був хворим. Я просто хотів дістати деякі артефакти легким способом...</text>
+	</string>
+	<string id="agr_task_liar_dialog_4171">
+		<text>Добре, зараз ти помреш!</text>
+	</string>
+	<string id="agr_task_liar_dialog_4172">
+		<text>Чому ти не сказав правду відразу. Ти більше нічого не отримаєш. До побачення.</text>
+	</string>
+	<string id="agr_task_liar_dialog_4173">
+		<text>Ех, варто було це передбачити. Візьми. Тобі він потрібен більше...</text>
+	</string>
+	<string id="agr_task_liar_dialog_41731">
+		<text>Дякую, бро. Ти вчений і джентельмен.</text>
+	</string>
+	<string id="agr_task_liar_dialog_417311">
+		<text>Не називай мене братом, ти збрехав мені. Гарного дня.</text>
+	</string>
+	<string id="agr_task_liar_dialog_4111">
+		<text>Це починає мене злити. Ти впевнений що це варто мого часу??</text>
+	</string>
+	<string id="agr_task_liar_dialog_41111">
+		<text>Так, будь ласка, цього разу я впевнений. Це варто твого часу!</text>
+	</string>
+	<string id="agr_task_liar_dialog_411111">
+		<text>Добре, але це останній раз!</text>
+	</string>
+	<string id="agr_task_liar_dialog_411112">
+		<text>Ти забрав достатньо мого часу, до побачення!</text>
+	</string>
+	<string id="agr_task_liar_dialog_5">
+		<text>Я запевняю, це востаннє. Ти допоможеш мені?</text>
+	</string>
+	<string id="agr_task_liar_dialog_6">
+		<text>Ти впевнений, що не зможещ допомогти хворому знайти Кров каменю?</text>
+	</string>
+	<string id="agr_task_liar_dialog_7">
+		<text>Чи є в тебе ще артефакти?</text>
+	</string>
+	<string id="agr_task_liar_dialog_71">
+		<text>Поки ні, ще шукаю.</text>
+	</string>
+</string_table>

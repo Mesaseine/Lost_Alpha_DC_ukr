@@ -1,0 +1,27 @@
+	<string id="lost_countdown_warning">
+		<text>Знайти хороший псі-шолом перед тим, як закінчиться зворотній відлік</text>
+	</string>
+	<string id="lost_scan_message">
+		<text>Стати перед камерою для перевірки ДНК.</text>
+	</string>
+	<string id="lost_scanning_message">
+		<text>Сканування ДНК...</text>
+	</string>
+	<string id="lost_scanned_clear">
+		<text>ДНК - очищено, пройти до дезактивації.</text>
+	</string>
+	<string id="lost_find_exit_title">
+		<text>Знайти вихід до тунелів.</text>
+	</string>
+	<string id="lost_music_task_title">
+		<text>Знайти щось від мертвого композитора.</text>
+	</string>
+	<string id="lost_music_task_desc">
+		<text>Знайти музичні пам'ятки для Круглова.</text>
+	</string>
+	<string id="lost_music_task_text1">
+		<text>Знайти щось для Круглова.</text>
+	</string>
+	<string id="lost_music_task_text2">
+		<text>Повернути знайдене Круглову.</text>
+	</string>

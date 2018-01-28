@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="actor">
+		<text>Одинак</text>
+	</string>
+	<string id="actor_dolg">
+		<text>«Долг»</text>
+	</string>
+	<string id="actor_freedom">
+		<text>«Воля»</text>
+	</string>
+	<string id="stranger">
+		<text>Незнайомець</text>
+	</string>
+	<string id="dark_stalker">
+		<text>«Гріх»</text>
+	</string>
+	<string id="arena_enemy">
+		<text>«Найманець»</text>
+	</string>
+	<string id="bad">
+		<text>погано</text>
+	</string>
+	<string id="bandit">
+		<text>«Бандит»</text>
+	</string>
+	<string id="actor_bandit">
+		<text>«Бандит»</text>
+	</string>
+	<string id="actor_mono">
+		<text>«Бандит»</text>
+	</string>
+	<string id="dolg">
+		<text>«Долг»</text>
+	</string>
+	<string id="ecolog">
+		<text>«Учений»</text>
+	</string>
+	<string id="enemy">
+		<text>ворог</text>
+	</string>
+	<string id="excellent">
+		<text>відмінно</text>
+	</string>
+	<string id="exo_outfit_name_m1">
+		<text>Екзоскелет ПНБ-4УЗ</text>
+	</string>
+	<string id="experienced">
+		<text>досвідчений</text>
+	</string>
+	<string id="Found_PDA">
+		<text>Знайдені КПК</text>
+	</string>
+	<string id="freedom">
+		<text>«Воля»</text>
+	</string>
+	<string id="friendly">
+		<text>друг</text>
+	</string>
+	<string id="good">
+		<text>добре</text>
+	</string>
+	<string id="indifferent">
+		<text>нейтрально</text>
+	</string>
+	<string id="killer">
+		<text>«Найманець»</text>
+	</string>
+
+	<string id="la01_escape">
+		<text>Кордон</text>
+	</string>
+	<string id="la02_garbage">
+		<text>Смітник</text>
+	</string>
+	<string id="la03_agroprom">
+		<text>НДІ Агропром</text>
+	</string>
+	<string id="la04_darkdolina">
+		<text>Темна долина</text>
+	</string>
+	<string id="la04u_darklab">
+		<text>Лабораторія X-18</text>
+	</string>
+	<string id="la05_bar_rostok">
+		<text>Великий Сталеварний Завод</text>
+	</string>
+	<string id="la06_yantar">
+		<text>Озеро Янтар</text>
+	</string>
+	<string id="la07_military">
+		<text>Військові склади</text>
+	</string>
+	<string id="la08_deadcity">
+		<text>Мертве місто</text>
+	</string>
+	<string id="la09_swamp">
+		<text>Великі болота</text>
+	</string>
+	<string id="la10_radar">
+		<text>Радар</text>
+	</string>
+	<string id="la10u_bunker">
+		<text>Лабораторія X-10</text>
+	</string>
+	<string id="la11_pripyat">
+		<text>Місто Прип'ять</text>
+	</string>
+	<string id="la12_stancia">
+		<text>ЧАЕС ім. В.І. Леніна</text>
+	</string>
+	<string id="la12u_sarcofag">
+		<text>Підземелля ЧАЕС</text>
+	</string>
+	<string id="la13_generators">
+		<text>Генератори</text>
+	</string>
+	<string id="la13u_warlab">
+		<text>Лабораторія X-2</text>
+	</string>
+	<string id="la14_rostok_factory">
+		<text>Завод «Росток»</text>
+	</string>
+	<string id="la14u_secret_lab">
+		<text>Лабораторія X-14</text>
+	</string>
+	<string id="la15_darkscape">
+		<text>Темна Лощина</text>
+	</string>
+	<string id="la16_lost_factory">
+		<text>Цементний завод</text>
+	</string>
+	<string id="la16u_labx16">
+		<text>Лабораторія X-16</text>
+	</string>
+	<string id="la17_outskirts">
+		<text>Чорнобиль</text>
+	</string>
+	<string id="la17u_labx7">
+		<text>Лабораторія X-7</text>
+	</string>
+	<string id="la18_damned">
+		<text>Підземелля Прип'яті</text>
+	</string>
+	<string id="la19_country">
+		<text>Село</text>
+	</string>
+	<string id="la20_forgotten">
+		<text>Будмайданчик</text>
+	</string>
+	<string id="la21_generators_2">
+		<text>Невідома територія</text>
+	</string>
+	<string id="la22_forest">
+		<text>Ліс</text>
+	</string>
+	
+	<string id="to_la01_escape">
+		<text>на Кордон</text>
+	</string>
+	<string id="to_la02_garbage">
+		<text>на Смітник</text>
+	</string>
+	<string id="to_la03_agroprom">
+		<text>до НДІ Агропром</text>
+	</string>
+	<string id="to_la04_darkdolina">
+		<text>до Темної долини</text>
+	</string>
+	<string id="to_la04u_darklab">
+		<text>до Лабораторії X-18</text>
+	</string>
+	<string id="to_la05_bar_rostok">
+		<text>у Бар-Росток</text>
+	</string>
+	<string id="to_la06_yantar">
+		<text>на Янтар</text>
+	</string>
+	<string id="to_la07_military">
+		<text>на Військові Склади</text>
+	</string>
+	<string id="to_la08_deadcity">
+		<text>у Мертве Місто</text>
+	</string>
+	<string id="to_la09_swamp">
+		<text>на Великі Болота</text>
+	</string>
+	<string id="to_la10_radar">
+		<text>на Радар</text>
+	</string>
+	<string id="to_la10u_bunker">
+		<text>у Лабораторію X-10</text>
+	</string>
+	<string id="to_la11_pripyat">
+		<text>у місто Прип'ять</text>
+	</string>
+	<string id="to_la12_stancia">
+		<text>до ЧАЕС ім. В.І. Леніна</text>
+	</string>
+	<string id="to_la12u_sarcofag">
+		<text>у підземелля АЕС</text>
+	</string>
+	<string id="to_la13_generators">
+		<text>до Генераторів</text>
+	</string>
+	<string id="to_la13u_warlab">
+		<text>у Лабораторію X-2</text>
+	</string>
+	<string id="to_la14_rostok_factory">
+		<text>на завод «Росток»</text>
+	</string>
+	<string id="to_la14u_secret_lab">
+		<text>у Лабораторію X-14</text>
+	</string>
+	<string id="to_la15_darkscape">
+		<text>до Темної Лощини</text>
+	</string>
+	<string id="to_la16_lost_factory">
+		<text>До Сталеварного Заводу</text>
+	</string>
+	<string id="to_la16u_labx16">
+		<text>у Лабораторію X-16</text>
+	</string>
+	<string id="to_la17_outskirts">
+		<text>до околиць Прип'яті</text>
+	</string>
+	<string id="to_la17u_labx7">
+		<text>у Лабораторію X-7</text>
+	</string>
+	<string id="to_la18_damned">
+		<text>до підземелля Прип'яті</text>
+	</string>
+	<string id="to_la19_country">
+		<text>Повернутись у Село</text>
+	</string>
+		<string id="to_la20_forgotten">
+		<text>на Будмайданчик</text>
+	</string>
+	<string id="to_la22_forest">
+		<text>До Лісу</text>
+	</string>
+	
+	<string id="master">
+		<text>експерт</text>
+	</string>
+	<string id="military">
+		<text>«Військовий»</text>
+	</string>
+	<string id="monolith">
+		<text>«Моноліт»</text>
+	</string>
+	<string id="neutral">
+		<text>нейтрально</text>
+	</string>
+	<string id="novice">
+		<text>новачок</text>
+	</string>
+	<string id="st_no_active_task">
+		<text>Немає активного завдання</text>
+	</string>
+	<string id="st_time_till_surge">
+		<text>Час до викиду</text>
+	</string>
+	<string id="stalker">
+		<text>«Одинак»</text>
+	</string>
+	<string id="terrible">
+		<text>жахливо</text>
+	</string>
+	<string id="trader">
+		<text>Торговець</text>
+	</string>
+	<string id="ui_st_community">
+		<text>Угруповання</text>
+	</string>
+	<string id="ui_st_price">
+		<text>Ціна</text>
+	</string>
+	<string id="ui_st_rank">
+		<text>ранг</text>
+	</string>
+	<string id="ui_st_relation">
+		<text>ставлення</text>
+	</string>
+	<string id="ui_st_reputation">
+		<text>репутація</text>
+	</string>
+	<string id="very_bad">
+		<text>дуж. погано</text>
+	</string>
+	<string id="very_good">
+		<text>дуж. добре</text>
+	</string>
+	<string id="veteran">
+		<text>ветеран</text>
+	</string>
+	<string id="zombied">
+		<text>Зомбований</text>
+	</string>
+	<string id="Btn_Cancel">
+		<text>Скасувати</text>
+	</string>
+	<string id="Btn_No">
+		<text>Ні</text>
+	</string>
+	<string id="Btn_OK">
+		<text>Гаразд</text>
+	</string>
+	<string id="Btn_Yes">
+		<text>Так</text>
+	</string>
+	<string id="global_map">
+		<text>Карта Зони</text>
+	</string>
+	<string id="st_autosave">
+		<text>автозбереження</text>
+	</string>
+	<string id="st_game_over">
+		<text>Гра закінчена</text>
+	</string>
+	<string id="st_item_used">
+		<text>Використано</text>
+	</string>
+	<string id="st_not_enough_money">
+		<text>Недостатньо грошей</text>
+	</string>
+	<string id="st_not_enough_money_npc">
+		<text>у НПС недостаточно грошей</text>
+	</string>
+	<string id="ui_st_opponent_items">
+		<text>Предмети на продаж</text>
+	</string>
+	<string id="ui_st_buy_items">
+		<text>Предмети на купівлю</text>
+	</string>
+	<string id="st_search_treasure">
+		<text>Обшукати схованку ($$ACTION_USE$$)</text>
+	</string>
+	<string id="inventory_item_use">
+		<text>Підняти предмет ($$ACTION_USE$$)</text>
+	</string>
+	<string id="ui_mm_check_updates">
+		<text>Оновлення</text>
+	</string>
+	<string id="ui_mm_alternative">
+		<text>Альтернатива</text>
+	</string>
+	<string id="ui_inv_health">
+		<text>Здоров'я</text>
+	</string>
+	<string id="ui_inv_radiation">
+		<text>Радіація</text>
+	</string>
+	<string id="ui_inv_satiety">
+		<text>Голод</text>
+	</string>
+	<string id="ui_inv_power">
+		<text>Витривалість</text>
+	</string>
+	<string id="ui_inv_bleeding">
+		<text>Кровотеча</text>
+	</string>
+	<string id="st_mp_say_to_all">
+		<text>Усім</text>
+	</string>
+	<string id="st_mp_say_to_team">
+		<text>Команді</text>
+	</string>
+	<string id="st_knife">
+		<text>Ніж</text>
+	</string>
+	<string id="st_mp_disabled_voting">
+		<text>Голосування недоступно на цьому сервері.</text>
+	</string>
+	<string id="st_mp_no_current_voting">
+		<text>Немає активних голосувань.</text>
+	</string>
+	<string id="st_mp_ready">
+		<text>Готовий</text>
+	</string>
+	<string id="st_mp_voting_succeed">
+		<text>Голосування пройшло успішно!</text>
+	</string>
+	<string id="st_mp_voting_failed">
+		<text>Голосування провалено!</text>
+	</string>
+</string_table>

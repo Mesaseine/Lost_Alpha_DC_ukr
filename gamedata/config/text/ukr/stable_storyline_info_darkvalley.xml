@@ -1,0 +1,78 @@
+<string id="dol_gusarov_message">
+	<text>Мічений, Гусаров тут. Оскільки ти знаєш, як пройти до бази «Моноліту», ти повинен піти туди і зустрітися з нашим контактом якнайскоріше. Він особисто мені винен. Я позначу його в твоєму КПК.</text>
+</string>
+<string id="dol_gusarov_message_header">
+	<text>Повідомлення від Олега Гусарова:</text>
+</string>
+<string id="dol_gusarov_message_fail">
+	<text>Оскільки тебе виявили, думаю, єдиним для тебе шляхом, щоб дістати документи, залишається покладатися на мої власні джерела секретної інформації, я позначу розміщення в твоєму КПК.</text>
+</string>
+<string id="dol_about_x18_docs_descr">
+	<text>Зашифрований текст про X-18, що знаходиться за межами цього заводу. Я повинен віднести його до «Гріха», вони будуть знати, що з ним робити.</text>
+</string>
+<string id="dol_army_gus_msg">
+	<text>Армія вирішила вигнати монолітівців із заводу! Ти повинен негайно забиратися звідти зараз! Спробуй украсти якийсь транспортний засіб!</text>
+</string>
+<string id="dol_meet_gusarov_title">
+	<text>Зустріти контакт Петренка</text>
+</string>
+<string id="dol_get_bandit_suit_title">
+	<text>Знайти й одягти костюм бандита</text>
+</string>
+<string id="dol_get_bandit_suit_article">
+	<text>Знайти костюм бандита і одягти його, щоб злитися з ворогом.</text>
+</string>
+<string id="dol_get_password_title">
+	<text>Дістати пароль бандита</text>
+</string>
+<string id="dol_get_password_1">
+	<text>Знайти легковірного бандита</text>
+</string>
+<string id="dol_get_password_2">
+	<text>Дістати пароль</text>
+</string>
+<string id="dol_get_password_txt">
+	<text>Знайти легковірного бандита та дістати пароль</text>
+</string>
+<string id="dol_meet_mono_informer_title">
+	<text>Зустріти інформатора «Моноліту»</text>
+</string>
+<string id="dol_meet_mono_informer_article">
+	<text>Спробуй отримати інформацію про підземну лабораторію від інформатора.</text>
+</string>
+<string id="dol_meet_mono_informer_hint">
+	<text>Інформатор «Моноліту».</text>
+</string>
+<string id="dol_get_x18_docs_title">
+	<text>Отримати інформацію про X-18</text>
+</string>
+<string id="dol_get_x18_docs_text">
+	<text>Знайти зашифрований щоденник</text>
+</string>
+<string id="dol_reach_dscape_title">
+	<text>Дістатися Темної Долини</text>
+</string>
+<string id="dol_reach_dscape_article">
+	<text>Знайти автомобіль та щодуху мчати до Темної Долини, по дорозі не вмирати!</text>
+</string>
+<string id="dol_reach_dscape_text1">
+	<text>Знайти автомобіль у безпосередній близькості</text>
+</string>
+<string id="dol_reach_dscape_text2">
+	<text>Уникати атак гелікоптера</text>
+</string>
+<string id="dol_reach_dscape_text3">
+	<text>Уникати атак та дістатися воріт до Темної Долини</text>
+</string>
+<string id="dol_reach_dscape_hint1">
+	<text>Транспортний засіб.</text>
+</string>
+<string id="dol_reach_dscape_hint2">
+	<text>Військовий гелікоптер.</text>
+</string>
+<string id="dol_reach_dscape_hint3">
+	<text>До Темної Долини.</text>
+</string>
+<string id="dol_marker">
+    <text>Вхід</text>
+</string>

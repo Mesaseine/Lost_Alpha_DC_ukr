@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="st_found_new_treasure">
+		<text>Інформація про нову схованку</text>
+	</string>	
+	
+    <!--Cordon-->
+    <string id="esc_village_tomb_left_cache_name">
+		<text>Батько новачків</text>
+	</string>
+	<string id="esc_village_tomb_left_cache_descr">
+		<text>На могилі викарбувано надгробний напис: "Отцю Валеріану, що врятував усіх нас ціною власного життя. Твоя жертва не буде забута, друже."</text>
+	</string>
+	<string id="esc_village_tomb_middle_cache_name">
+		<text>Могила Гончого</text>
+	</string>
+	<string id="esc_village_tomb_middle_cache_descr">
+		<text>На могилі викарбувано надгробний напис: "Гончому, якого так варварськи відняв у нас диявол. Спочивай з миром. Пам'ять про тебе завжди буде зі мною, братику."</text>
+	</string>
+	<string id="esc_village_tomb_right_cache_name">
+		<text>Могильні секрети</text>
+	</string>
+	<string id="esc_village_tomb_right_cache_descr">
+		<text>Назбирав трохи хабара і сховав у могилі поряд із селом новачків.</text>
+	</string>
+	<string id="esc_dead_train_fuel_cache_name">
+		<text>Схованка в паливному баку</text>
+	</string>
+	<string id="esc_dead_train_fuel_cache_descr">
+		<text>Паливний бак тепловоза далеко від тих, хто суне носа в чужі справи, так що поки піде й так.</text>
+	</string>
+	<string id="esc_exit_to_dscape_tomb_cache_name">
+		<text>Безіменна могила</text>
+	</string>
+	<string id="esc_exit_to_dscape_tomb_cache_descr">
+		<text>Вдалося завалити блукаючу льоху та забрати її лайно. Сховаю це, допоки не знадобиться.</text>
+	</string>
+	<string id="esc_kamaz_motor_cache_name">
+		<text>Під капотом</text>
+	</string>
+	<string id="esc_kamaz_motor_cache_descr">
+		<text>У цій старій іржавій бляшанці достатньо місця для мого хабара.</text>
+	</string>
+	<string id="esc_river_under_rocks_cache_name">
+		<text>Хабар під річковими каменями</text>
+	</string>
+	<string id="esc_river_under_rocks_cache_descr">
+		<text>Навряд чи хтось стане шукати солодке в річковому руслі. Молокососи.</text>
+	</string>
+	<string id="esc_tunnel_moskvichtrunk_cache_name">
+		<text>Аномальні матеріали</text>
+	</string>
+	<string id="esc_tunnel_moskvichtrunk_cache_descr">
+		<text>Не хотілося б усе це залишати в пропащому місці, але поки і так піде.</text>
+	</string>
+	<string id="esc_basement_motor_cache_name">
+		<text>Корпус двигуна</text>
+	</string>
+	<string id="esc_basement_motor_cache_descr">
+		<text>Ставлю мітку на це місце. Забагато я звалив на свою рахітичну спину...</text>
+	</string>
+	
+    <!--Garbage-->
+	
+	<string id="gar_bes_lager_cache_name">
+		<text>Великий багажник</text>
+	</string>
+	<string id="gar_bes_lager_cache_descr">
+		<text>Залишив улов поруч з кранами на випадок нестачі грошей.</text>
+	</string>
+	<string id="gar_broken_building_cache_name">
+		<text>Нелегко зеленим бути</text>
+	</string>
+	<string id="gar_broken_building_cache_descr">
+		<text>У покинутій будівлі надійно заклав у зеленому контейнері.</text>
+	</string>
+	<string id="gar_sniper_tunnel_cache_name">
+		<text>Нагорода в тунелі</text>
+	</string>
+	<string id="gar_sniper_tunnel_cache_descr">
+		<text>Ось оплата, як домовлялися. Краще забирай і якомога швидше.</text>
+	</string>
+	<string id="gar_large_hangar_cache_name">
+		<text>Велика труба в ангарі</text>
+	</string>
+	<string id="gar_large_hangar_cache_descr">
+		<text>Лади, пацани, не лапати, поки я не скажу! Всі пам'ятають, що стало з останнім шелихвостом, який намагався нас кинути?..</text>
+	</string>
+	<string id="gar_blokpost_cache_name">
+		<text>Коробка на блокпосту</text>
+	</string>
+	<string id="gar_blokpost_cache_descr">
+		<text>Не найнепримітніша схованка, але це краще, ніж дозволити бандитам пограбувати мене з цим...</text>
+	</string>
+	<string id="gar_field_cache_name">
+		<text>Хабар переляканого сталкера</text>
+	</string>
+	<string id="gar_field_cache_descr">
+		<text>От лайно! І близько до цих монолітівських виродків у житті більше не підійду! Кому тепер потрібен хабар - той просто збожеволів!</text>
+	</string>
+	<string id="gar_zombie_cache_name">
+		<text>Дрібниця</text>
+	</string>
+	<string id="gar_zombie_cache_descr">
+		<text>Дивись, Боров сказав мені забрати це геть, щоб ніхто зі сталкерів-гівноїдів не зміг дістатися до нього.</text>
+	</string>
+	<string id="gar_small_hangar_cache_name">
+		<text>Нагорода дігера</text>
+	</string>
+	<string id="gar_small_hangar_cache_descr">
+		<text>Непоганих дрібничок собі накупив, після того як покопався у сміттєвих купах.</text>
+	</string>
+	
+	<!--Agroprom-->
+	
+	<string id="agr_stalker_tunnel_cache_name">
+		<text>Шукачі, зберігачі</text>
+	</string>
+	<string id="agr_stalker_tunnel_cache_descr">
+		<text>Покинуті залишки припасів якихось дігерів. Тільки не охота мені в цей тунель сунутися...</text>
+	</string>
+	<string id="agr_factory_rukzak_cache_name">
+		<text>Схованка з припасами №1</text>
+	</string>
+	<string id="agr_factory_rukzak_cache_descr">
+		<text>На випадок НП залишив стратегічний запас на заводському даху. Непорушний запас!</text>
+	</string>
+	<string id="agr_factory_box_cache_name">
+		<text>Схованка з припасами №2</text>
+	</string>
+	<string id="agr_factory_box_cache_descr">
+		<text>Ящик з предметами першої необхідності на випадок термінової необхідності на базі. Непорушний запас!</text>
+	</string>
+	<string id="agr_nii_building1_cache_name">
+		<text>Капітанські запаси</text>
+	</string>
+	<string id="agr_nii_building1_cache_descr">
+		<text>Бісові салаги! Шастають тут цілодобово після чергової пригоди в катакомбах. Вирішив знову переховати особисті речі.</text>
+	</string>
+	<string id="agr_nii_building2_cache_name">
+		<text>Корисне</text>
+	</string>
+	<string id="agr_nii_building2_cache_descr">
+		<text>Склав усе корисне в рюкзак і залишив на даху. Там ніколи нікого не буває, так що все клас.</text>
+	</string>
+	<string id="agr_swamp_cache_name">
+		<text>Рюкзак мертвого рядового</text>
+	</string>
+	<string id="agr_swamp_cache_descr">
+		<text>Господи, один з них мене зачепив!.. Трясця, я, напевно, не дотягну...</text>
+	</string>
+	<string id="agr_ug_cache_name">
+		<text>Залишки з полювання</text>
+	</string>
+	<string id="agr_ug_cache_descr">
+		<text>Ми не змогли знайти створінь, потрібних штабу для яйцеголових на Янтарі. Ось це складу тут, щоб наступні загони користувалися.</text>
+	</string>
+	
+	<!--DarkValley-->
+	
+	<string id="dolina_bandit1_cache_name">
+		<text>Виграші везучого сучого сина</text>
+	</string>
+	<string id="dolina_bandit1_cache_descr">
+		<text>Чуваче, забий на заповіді! Грати це чудово!</text>
+	</string>
+	<string id="dolina_bandit2_cache_name">
+		<text>Мої... мм... пожитки!</text>
+	</string>
+	<string id="dolina_bandit2_cache_descr">
+		<text>Яка рима до слова рюкзак? Козак! Ха-ха, я справжній ко-ме-ді-ант! Ха... Чуваче, скільки там я сьогодні заробив на випивку..?</text>
+	</string>
+	<string id="dolina_stalker_lager_cache_name">
+		<text>Великий синій кейс</text>
+	</string>
+	<string id="dolina_stalker_lager_cache_descr">
+		<text>Ми тягалися з цим лайном занадто довго. Не впевнений, що з ним робити тепер...</text>
+	</string>
+	<string id="dolina_field1_cache_name">
+		<text>Робота з трубами</text>
+	</string>
+	<string id="dolina_field1_cache_descr">
+		<text>Залишив рюкзак в якійсь бетонній трубі. Не можу залишати нічого цінного біля цих йолопів.</text>
+	</string>
+	<string id="dolina_field2_cache_name">
+		<text>Нагорода великої цяці</text>
+	</string>
+	<string id="dolina_field2_cache_descr">
+		<text>Адам сказав мені тримати це як жест доброї волі. Не впевнений, що я повинен турбуватися про те, що він збирається робити далі...</text>
+	</string>
+	<string id="dolina_field3_cache_name">
+		<text>Попіл до попелу, прах до праху</text>
+	</string>
+	<string id="dolina_field3_cache_descr">
+		<text>Попіл з цього каміну приховає цю здобич добре.</text>
+	 </string>
+	<string id="dolina_field4_cache_name">
+		<text>Рюкзак у пошарпаній машині</text>
+	</string>
+	<string id="dolina_field4_cache_descr">
+		<text>Дивлячись на цей автомобіль, виникає питанням, де чуваки з «Моноліту» дістали справжню машину. Ненадійне лайно.</text>
+	</string>
+	<string id="dolina_mono1_cache_name">
+		<text>Конфіскації новобранців</text>
+	</string>
+	<string id="dolina_mono1_cache_descr">
+		<text>Конфісковане добро, забране у новобранців. Воно їм більше не знадобиться.</text>
+	</string>
+	<string id="dolina_mono2_cache_name">
+		<text>Сміття для наших друзів</text>
+	</string>
+	<string id="dolina_mono2_cache_descr">
+		<text>Здобич з розграбованих тіл наших ворогів. Усе сміття, тому, звичайно, наші галасливі друзі захочуть цього.</text>
+	</string>
+	<string id="dolina_tunnel1_cache_name">
+		<text>Сумні дроти</text>
+	</string>
+	<string id="dolina_tunnel1_cache_descr">
+		<text>Боже, дивитися на дроти діє дуже пригнічуюче... Вгадайте, що з ними можна зробити...</text>
+	</string>
+	<string id="dolina_tunnel2_cache_name">
+		<text>Наелектризована схованка</text>
+	</string>
+	<string id="dolina_tunnel2_cache_descr">
+		<text>Заховаю це тут; не хочу щоб хтось бачив.</text>
+	</string>
+	
+	<!--Bar-Rostok-->
+	
+	<string id="bar_bar_cache_name">
+		<text>У блакитному ящику під столом</text>
+	</string>
+	<string id="bar_bar_cache_descr">
+		<text>Довелося звалити сюди всі свої речі, поки Бар був порожній.</text>
+	</string>
+	<string id="bar_tower_cache_name">
+		<text>Речі з башти</text>
+	</string>
+	<string id="bar_tower_cache_descr">
+		<text>Сталкери не люблять лазити на висотах. Вони надто налякані одним із наших снайперів.</text>
+	</string>
+	<string id="bar_duty_cache_name">
+		<text>Ящик</text>
+	</string>
+	<string id="bar_duty_cache_descr">
+		<text>Я не можу продовжувати тягати це з собою, якщо не буду використовувати. Один з моїх товаришів прийде забрати його пізніше.</text>
+	</string>
+	<string id="bar_stalker_cache_name">
+		<text>Здобич поблизу табору сталкерів</text>
+	</string>
+	<string id="bar_stalker_cache_descr">
+		<text>Залишив свій мотлох прямо біля табору в рюкзаку.</text>
+	</string>
+	<string id="bar_wild1_cache_name">
+		<text>Між блоками</text>
+	</string>
+	<string id="bar_wild1_cache_descr">
+		<text>Поклав свій рюкзак між бетонних блоків на потім.</text>
+	</string>
+	<string id="bar_wild2_cache_name">
+		<text>Маленький бонус</text>
+	</string>
+	<string id="bar_wild2_cache_descr">
+		<text>Той, хто вб'є найбільше ворон сьогодні, отримає трофеї з нашого останнього рейду. Думайте про це, як про тренування стрільби по мішенях.</text>
+	</string>
+	<string id="bar_wild3_cache_name">
+		<text>Дуже гаряче</text>
+	</string>
+	<string id="bar_wild3_cache_descr">
+		<text>Думаю, в цій плиті моя фігня не пропаде.</text>
+	</string>
+	<string id="bar_veronin_cache_name">
+		<text>Схованка на уступі Вороніна</text>
+	</string>
+	<string id="bar_veronin_cache_descr">
+		<text>Генеральний дав мені цю коробку в якості нагороди. Ніхто не посміє навіть торкнутися.</text>
+	</string>
+	<string id="bar_hidden_cache_name">
+		<text>Не те, щоб бак...</text>
+	</string>
+	<string id="bar_hidden_cache_descr">
+		<text>Запхну між баки - підходяще місце</text>
+	</string>
+	
+	<!--Secret-->
+	
+	<string id="secret_stash1_cache_name">
+		<text>Останнє прохання</text>
+	</string>
+	<string id="secret_stash1_cache_descr">
+		<text>Я його бачив - Короля кровососів... Очі-намистинки і морда в щупальцях, слинявих від голоду... Живим мені звідси не вибратися. Прошу того, хто знайде: використайте це, якщо воно допоможе здерти шкіру з мерзоти!</text>
+	</string>
+	<string id="secret_stash2_cache_name">
+		<text>Схованка</text>
+	</string>
+	<string id="secret_stash2_cache_descr">
+		<text>Гніздо дійсно тут - це місце переповнене! Мені потрібно втекти та попередити своїх колег і «Долг»...</text>
+	</string>
+	
+	<!--Military-->
+	
+	<string id="mil_hideout_cache_name">
+		<text>Схованка в панелі</text>
+	</string>
+	<string id="mil_hideout_cache_descr">
+		<text>Вони сховали кілька товарів в електронній панелі, але ніколи не торкалися їх знову. Смерть Стрільця сильно вплинула.</text>
+	</string>
+	<string id="mil_killer_house_cache_name">
+		<text>Рюкзак на даху комори</text>
+	</string>
+	<string id="mil_killer_house_cache_descr">
+		<text>Знадобилося багато зусиль, але мені вдалося прокрастися через балки на даху і залишити свою здобич там.</text>
+	</string>
+	<string id="mil_bandit_cache_name">
+		<text>Рюкзак на горищі</text>
+	</string>
+	<string id="mil_bandit_cache_descr">
+		<text>Ми пограбували ще одного йолопа та дістали занадто багато мотлоху. Залишу дещо тут.</text>
+	</string>
+	<string id="mil_base1_cache_name">
+		<text>Добро в коробці</text>
+	</string>
+	<string id="mil_base1_cache_descr">
+		<text>Узяв вибухівку, але я був змушений облегшити себе, щоб донести все це.</text>
+	</string>
+	<string id="mil_base2_cache_name">
+		<text>Речі командора</text>
+	</string>
+	<string id="mil_base2_cache_descr">
+		<text>Командир тримає свої речі прямо під столом. Ніхто ще не скаржився...</text>
+	</string>
+	<string id="mil_base3_cache_name">
+		<text>Шафка найманця</text>
+	</string>
+	<string id="mil_base3_cache_descr">
+		<text>Я залишив своє спорядження в шафці, в казармах.</text>
+	</string>
+	<string id="mil_base4_cache_name">
+		<text>Підозра найманця</text>
+	</string>
+	<string id="mil_base4_cache_descr">
+		<text>Сволота намагається з усіх сил отримати це, і я не довіряю їм. Вони не будуть шукати в обваленому тунелі.</text>
+	</string>
+	<string id="mil_village_cache_name">
+		<text>Дилема дослідника</text>
+	</string>
+	<string id="mil_village_cache_descr">
+		<text>Був направлений на розслідування та повернення КПК одного хлопця. Опинився «по вуха» в кровососах. Кинув усе, що міг і втік.</text>
+	</string>
+	<string id="mil_tower_cache_name">
+		<text>Схованка в сільській вежі</text>
+	</string>
+	<string id="mil_tower_cache_descr">
+		<text>Я чув, як розумники кажуть, що кровососи не люблять висоту. Ну, я не збираюся залишитися тут надовго. Залишу це тут.</text>
+	</string>
+	<string id="mil_stalker_ug_cache_name">
+		<text>Маленьке задоволення</text>
+	</string>
+	<string id="mil_stalker_ug_cache_descr">
+		<text>Вдалося запхнути деякий мотлох у металевий контейнер.</text>
+	</string>
+	
+	<!--Pripyat-->
+	
+	<string id="pri_rubble_rukzak_cache_name">
+		<text>Речі експерта</text>
+	</string>
+	<string id="pri_rubble_rukzak_cache_descr">
+		<text>Експерт помер, намагаючись обійти військових. Ми залишили його речі в завалах.</text>
+	</string>
+	<string id="pri_storage_hangar_cache_name">
+		<text>Схованка мисливців за артефактами</text>
+	</string>
+	<string id="pri_storage_hangar_cache_descr">
+		<text>Не можу повірити, що ми нарешті дісталися сюди. Залишимо деякі речі тут; треба звільнити місце в сумках для нашого полювання на артефакти.</text>
+	</string>
+	<string id="pri_staircase_box_cache_name">
+		<text>Ящик під сходами</text>
+	</string>
+	<string id="pri_staircase_box_cache_descr">
+		<text>Тут багато хороших місць, щоб заховати награбоване. Так безлюдно та незвідано...</text>
+	</string>
+	<string id="pri_cinema_basement_box_cache_name">
+		<text>Синій ящик у підвалі кінотеатру</text>
+	</string>
+	<string id="pri_cinema_basement_box_cache_descr">
+		<text>Кінотеатр у Прип'яті. Ха, хто б міг подумати, що я сюди доберуся! Та й про дорогу сюди похвастати можна чимало.</text>
+	</string>
+	<string id="pri_cinema_basement_cabinet_cache_name">
+		<text>Добро в шафі</text>
+	</string>
+	<string id="pri_cinema_basement_cabinet_cache_descr">
+		<text>Нічого собі, це місце - криваве місиво. Але перспективи варті того.</text>
+	</string>
+	<string id="pri_broken_staircase_cache_name">
+		<text>Ящик сміттярів</text>
+	</string>
+	<string id="pri_broken_staircase_cache_descr">
+		<text>Наш загін знайшов гарне місце, щоб залишити здобутки. Коли дістанемо достатньо, заберемо це назад у звичне місце.</text>
+	</string>
+	<string id="pri_bus_rukzak_cache_name">
+		<text>Рюкзак в автобусі</text>
+	</string>
+	<string id="pri_bus_rukzak_cache_descr">
+		<text>Вони переслідували нас, і ми сховалися в автобусі. У Ганта не вийшло. Його речі все ще там.</text>
+	</string>
+	<string id="pri_crane_electrical_box_cache_name">
+		<text>У розподільній коробці крана</text>
+	</string>
+	<string id="pri_crane_electrical_box_cache_descr">
+		<text>Цікаво, як багато роботи треба буде зробити, щоб зробити це знову? Сумка, я просто використаю її як схованку...</text>
+	</string>
+	<string id="pri_desk_cupboard_cache_name">
+		<text>У шухляді</text>
+	</string>
+	<string id="pri_desk_cupboard_cache_descr">
+		<text>Я залишив деякі трофеї в шафі.</text>
+	</string>
+	<string id="pri_tanker_cache_name">
+		<text>У люці танкера</text>
+	</string>
+	<string id="pri_tanker_cache_descr">
+		<text>Знайшов хороший отвір для своєї здобичі в люці.</text>
+	</string>
+	<string id="pri_stadium_carriage_cache_name">
+		<text>Коробка в вагоні</text>
+	</string>
+	<string id="pri_stadium_carriage_cache_descr">
+		<text>Дідько, це лайно уповільнює мене. Там так багато! Я повинен залишити це.</text>
+	</string>
+	<string id="pri_stadium_tank_cache_name">
+		<text>У паливному баку</text>
+	</string>
+	<string id="pri_stadium_tank_cache_descr">
+		<text>Я дістав це у волоцюги, який намагався доправити його до АЕС.</text>
+	</string>
+	
+	<!--Yantar-->
+ 
+	<string id="yan_eco_cache_name">
+		<text>Під столом</text>
+	</string>
+	<string id="yan_eco_cache_descr">
+		<text>Деякі люди кажуть, що яйцеголові тримають щось у картонній коробці в їхньому бункері.</text>
+	</string>
+	<string id="yan_eco_yard_cache_name">
+		<text>Рюкзак у машині</text>
+	</string>
+	<string id="yan_eco_yard_cache_descr">
+		<text>Військова охорона бункеру тримає деякі речі в машині.</text>
+	</string>
+	<string id="yan_military_cache_name">
+		<text>Повна коробка</text>
+	</string>
+	<string id="yan_military_cache_descr">
+		<text>Бачив, як зомбі вештались навкруги. Лячно, якщо вони щось задумали... Про всяк випадок, я залишу це тут.</text>
+	</string>
+	<string id="yan_swamp1_cache_name">
+		<text>У каміні</text>
+	</string>
+	<string id="yan_swamp1_cache_descr">
+		<text>Скину це тут, бо рука вже втомилась</text>
+	</string>
+	<string id="yan_swamp2_cache_name">
+		<text>Здобич у розбитому домі</text>
+	</string>
+	<string id="yan_swamp2_cache_descr">
+		<text>Під залишками будинку, прихована під дірявим дахом - там деяка здобич.</text>
+	</string>
+	<string id="yan_swamp3_cache_name">
+		<text>Під завалами</text>
+	</string>
+	<string id="yan_swamp3_cache_descr">
+		<text>Сховав рюкзак під завалами моста.</text>
+	</string>
+	<string id="yan_swamp4_cache_name">
+		<text>Під захованим краном</text>
+	</string>
+	<string id="yan_swamp4_cache_descr">
+		<text>Залишу трофеї тут, доки буду у важливій експедиції.</text>
+	</string>
+	<string id="yan_tunnels1_cache_name">
+		<text>Залишки хуліганів</text>
+	</string>
+	<string id="yan_tunnels1_cache_descr">
+		<text>Купка невдах лазила в старому метрополітені та знайшла багатства. Ні в кого з них не було шансів проти того, що ховалося в тіні...</text>
+	</string>
+	<string id="yan_tunnels2_cache_name">
+		<text>Ящик у старій лабораторії</text>
+	</string>
+	<string id="yan_tunnels2_cache_descr">
+		<text>Той, хто працював у прихованій лабораторії, добре фінансувався. Кажуть, що в них багато лайна.</text>
+	</string>
+	<string id="yan_tunnels3_cache_name">
+		<text>Коштовності дурника</text>
+	</string>
+	<string id="yan_tunnels3_cache_descr">
+		<text>Ще один дурень пішов униз шукати приховану лабораторію, прихопивши з собою цінні речі.</text>
+	</string>
+	<string id="yan_tunnels4_cache_name">
+		<text>В електропроводці</text>
+	</string>
+	<string id="yan_tunnels4_cache_descr">
+		<text>Кажуть, звихнутий Еколог спустився в підземні тунелі і знайшов брудну лабораторію. Його речі досі лежать там.</text>
+	</string>
+	<string id="yan_rats_cache_name">
+		<text>Паливний бак у старому ангарі</text>
+	</string>
+	<string id="yan_rats_cache_descr">
+		<text>Трясця, товариші не жартували про це місце. Мабуть був до біса гарний ангар до 86 року. Ну, це ідеальне місце для цього...</text>
+	</string>
+	
+	<!--Deadcity-->
+	
+	<string id="cit_merc_base1_cache_name">
+		<text>Стіл розробників</text>
+	</string>
+	<string id="cit_merc_base1_cache_descr">
+		<text>Розробники гри працювали на другому поверсі цієї школи, перш ніж найманці вирішили, що це хороше місце, щоб сховати свої пожитки.</text>
+	</string>
+	<string id="cit_merc_base2_cache_name">
+		<text>Ласощі в кіно</text>
+	</string>
+	<string id="cit_merc_base2_cache_descr">
+		<text>Ідіоти, я сховав речі прямо перед їхнім носом... добре, що вони не досить кмітливі, щоб зрозуміти це.</text>
+	</string>
+	<string id="cit_party_cache_name">
+		<text>Ящик зі зброєю</text>
+	</string>
+	<string id="cit_party_cache_descr">
+		<text>Найманці використовують цей ящик для зберігання зброї та боєприпасів. Він добре охороняється, тому несподівані відвідувачі ніколи не торкаються його.</text>
+	</string>
+	<string id="cit_gym_cache_name">
+		<text>Бак у тренажерному залі</text>
+	</string>
+	<string id="cit_gym_cache_descr">
+		<text>Якщо ви хочете щось сховати, користуйтеся туалетом! Мені, ймовірно, слід залишити свої речі там, перш ніж цей хлопець дізнається, що ці речі були вкрадені у нього.</text>
+	</string>
+	<string id="cit_bandit_cache_name">
+		<text>Скарб у підвалі</text>
+	</string>
+	<string id="cit_bandit_cache_descr">
+		<text>Військові охороняли цей будинок, коли планували зустріти високопоставленого гостя з Москви. Вони залишили кілька гранат в ящику під будинком у разі виникнення надзвичайної ситуації.</text>
+	</string>
+	<string id="cit_freedom_cache_name">
+		<text>Ящик у плиті</text>
+	</string>
+	<string id="cit_freedom_cache_descr">
+		<text>Чуваче, кулінарія це добре, але чи не здається тобі, що ми можемо знайти краще місце для приготування вечері... я знаю... Піду потролю тих москаликів у місті. Подбай тут про все, будь ласка...</text>
+	</string>
+	<string id="cit_swamp_cache_name">
+		<text>Добро на буксирі</text>
+	</string>
+	<string id="cit_swamp_cache_descr">
+		<text>Коли Зони не існувало, і сонце було яскравим... яка різниця, один сталкер-новачок сказав мені, що він якимсь чином дістався до цього корабля недалеко від озера і залишив усе, що він дістав під час поїздки там, він надто наляканий для того, щоб повернутися і забрати це.</text>
+	</string>
+	<string id="cit_bridge_cache_name">
+		<text>Рюкзак на мосту</text>
+	</string>
+	<string id="cit_bridge_cache_descr">
+		<text>Ще один день у цьому тяжкому житті сталкера. Я не планував проходити через кордон Найманців, але оскільки я вже там, краще сховати своє обладнання або вони, безумовно, пристрелять мене.</text>
+	</string>
+	<string id="cit_building1_cache_name">
+		<text>Сейф снайпера</text>
+	</string>
+	<string id="cit_building1_cache_descr">
+		<text>Чия це була ідея, від центрального командування, перемістити Blackwater сюди? Несповна розуму! Я впевнений, що вони не можуть собі уявити, як важко принести свободу цим людям, вони ненавидять нас усіх! Я залишу деякі речі в цьому сейфі, на випадок військового нападу.</text>
+	</string>
+	<string id="cit_building2_cache_name">
+		<text>Кейс у будинку</text>
+	</string>
+	<string id="cit_building2_cache_descr">
+		<text>Покинутий будинок є хорошим місцем, щоб приховати свої речі. Сподіваюся, командир ніколи не дізнається про вкрадену горілку.</text>
+	</string>
+	<string id="cit_building3_cache_name">
+		<text>В зруйнованому будинку</text>
+	</string>
+	<string id="cit_building3_cache_descr">
+		<text>Хороший вид, теплий камін, хороша шафа, класне місце для здобичі.</text>
+	</string>
+	<string id="cit_building4_cache_name">
+		<text>Армійська коробка</text>
+	</string>
+	<string id="cit_building4_cache_descr">
+		<text>Що ми тут робимо? Патрулювання цього місця таке нудне... В крайньому разі, ти можеш знайти старі армійські ящики, які можна використати для зберігання особистих речей.</text>
+	</string>
+	
+	<!--Radar-->
+	
+	<string id="rad_mono_base1_cache_name">
+		<text>Смаколики в дірі</text>
+	</string>
+	<string id="rad_mono_base1_cache_descr">
+		<text>Якийсь обдарований боєць «Моноліту» думав, що діра буде хорошим місцем, щоб заховати свій товар.</text>
+	</string>
+	<string id="rad_mono_base2_cache_name">
+		<text>Димохід на даху</text>
+	</string>
+	<string id="rad_mono_base2_cache_descr">
+		<text>Не впевнений, чия була ідея. Цього п'яного вилупка чи мого димчастого заду, але коли ми дісталися даху цього будинку ми знайшли ідеальне місце для всього цього лайна, яке ми зібрали з мертвих сталкерів, ха-ха.</text>
+	</string>
+	<string id="rad_random1_cache_name">
+		<text>Під потягом</text>
+	</string>
+	<string id="rad_random1_cache_descr">
+		<text>Боже, благослови «Моноліт»! Боже, благослови... ГРОШІ! Сподіваюся, ці спантеличені ідіоти НЕ з'ясують, де я ховаю скарби.</text>
+	</string>
+	<string id="rad_random2_cache_name">
+		<text>Схованка «Моноліту»</text>
+	</string>
+	<string id="rad_random2_cache_descr">
+		<text>Хороше місце, щоб заховати меч, який ми будемо використовувати проти всіх наших ворогів.</text>
+	</string>
+        <string id="rad_random3_cache_name">
+		<text>Стара труба</text>
+	</string>
+	<string id="rad_random3_cache_descr">
+		<text>Хороший старомодний стиль у трубі. Якийсь сталкер зробив це прямо перед своєю смертю від вогню «Моноліту».</text>
+	</string>
+	<string id="rad_random4_cache_name">
+		<text>Електрична коробка</text>
+	</string>
+	<string id="rad_random4_cache_descr">
+		<text>Мати сказала мені не грати з електрикою, але чому я повинен піклуватися, якщо святий камінь захищає мене від усього? Я сховаю всі мої нагороди, які я заслужив за хороші командні операції.</text>
+	</string>
+	<string id="rad_random5_cache_name">
+		<text>Під кущами</text>
+	</string>
+	<string id="rad_random5_cache_descr">
+		<text>Суперечка про те, хто знайде краще місце для схованки закінчився погано. Ніколи не намагайтеся промишляти близько до обителі сердитих контролерів!</text>
+	</string>
+	<string id="rad_random6_cache_name">
+		<text>Зламаний УАЗ</text>
+	</string>
+	<string id="rad_random6_cache_descr">
+		<text>Багажник завжди був хорошою можливістю приховати щось цінне для сталкерів. Цей планував рейд через Прип'ять... хоча йому не пощастило.</text>
+	</string>
+	
+	<!--Darkscape-->
+	
+	<string id="ds_military_cache_name">
+		<text>Схованка на автобусній зупинці</text>
+	</string>
+	<string id="ds_military_cache_descr">
+		<text>Я ненавиджу цю дорогу... не знаю, чому командори зацікавлені в цих каменях та печерах, але це безумовно не те місце, де я хочу бути! В крайньому разі, я можу приховати РПГ тут, не найкраща ідея носити це з собою.</text>
+	</string>
+	<string id="ds_tunnels1_cache_name">
+		<text>Печерна вагонетка</text>
+	</string>
+	<string id="ds_tunnels1_cache_descr">
+		<text>Мій приятель зі темних сталкерів сказав мені, що він любить цю вагонетку так само, як власний пістолет, я сподіваюся, що він не божевільний, але, безумовно, він щось ховає під нею.</text>
+	</string>
+	<string id="ds_tunnels2_cache_name">
+		<text>Ящик у землі</text>
+	</string>
+	<string id="ds_tunnels2_cache_descr">
+		<text>Життя в печері пригнічує... воно роз'їдає очі, їсть ваші мізки... змушує почувати себе недолюдиною, без жодних шансів бути нормальним знову. Тим не менш, весь твій здобуток поряд та у безпеці.</text>
+	</string>
+	<string id="ds_autostop_cache_name">
+		<text>Послуги автостоп</text>
+	</string>
+	<string id="ds_autostop_cache_descr">
+		<text>Це місце стало домівкою для виживших найманців, чому б не приховати аптечки і патрони під столом?</text>
+	</string>
+	<string id="ds_swamp1_cache_name">
+		<text>Під деревом, що впало</text>
+	</string>
+	<string id="ds_swamp1_cache_descr">
+		<text>Сталкери завжди знаходять хороше місце, щоб сховати своє обладнання. Одне з них поблизу радіоактивної аномалії.</text>
+	</string>
+	<string id="ds_swamp2_cache_name">
+		<text>Предмети експедиції</text>
+	</string>
+	<string id="ds_swamp2_cache_descr">
+		<text>Військова експедиція планувала дістатися виходу, це була автобусна станція, де вони вирішили відпочити і приховати деякі свої запаси.</text>
+	</string>
+	<string id="ds_swamp3_cache_name">
+		<text>Нагорода за «Ладу»</text>
+	</string>
+	<string id="ds_swamp3_cache_descr">
+		<text>Любиш радянські автомобілі? Напевно, ні. Тієї ж думки був незнайомець, який проходив поряд. Якщо ти зміниш своє ставлення - хороший подарунок буде винагородою.</text>
+	</string>
+	<string id="ds_swamp4_cache_name">
+		<text>Смертельний випадок</text>
+	</string>
+	<string id="ds_swamp4_cache_descr">
+		<text>Як професіонал я тобі кажу, що неможливо туди дістатися. Мій наряд є кращим серед тих, які можна знайти в Зоні, тому виродки просто здохнуть, якщо спробують дістати цю коробку... хе-хе.</text>
+	</string>
+	
+	<!--Rostok Factory-->
+	
+	<string id="rosf_duty_village_cache_name">
+		<text>Коробка в селі</text>
+	</string>
+	<string id="rosf_duty_village_cache_descr">
+		<text>Схованка команди «Долгу» на екстрений випадок - аптечки, бинти і т.д.</text>
+	</string>
+	<string id="rosf_eco_cache_name">
+		<text>Схованка екологів</text>
+	</string>
+	<string id="rosf_eco_cache_descr">
+		<text>Ми вчені, чи не так? Правильно! Так де ж найкраще місце, щоб сховати наші речі так, щоб ніхто не дізнався? Підземна Лабораторія? Ні, лабораторний щуре! То є занадто легко.</text>
+	</string>
+	<string id="rosf_military_cache_name">
+		<text>Коробка біля ліжка</text>
+	</string>
+	<string id="rosf_military_cache_descr">
+		<text>Я на чергуванні сьогодні. Ми зустрінемося о 6 вечора, але хто знає, що у цього виродка в голові? Краще залишити свої цінності тут.</text>
+	</string>
+	<string id="rosf_bandit_cache_name">
+		<text>Будинок на болоті</text>
+	</string>
+	<string id="rosf_bandit_cache_descr">
+		<text>Знаєш... я подумав... бачив кого-небудь поряд? Ні, і я теж ні, так що давай використаємо піч для схованки.</text>
+	</string>
+	<string id="rosf_construction_cache_name">
+		<text>Будівельний рюкзак</text>
+	</string>
+	<string id="rosf_construction_cache_descr">
+		<text>Пробачте браття, я старався з усіх сил, але ці жахливі істоти майже зловили мене. Все, що я знайшов під час поїздки в пекло, я сховаю в цьому рюкзаку. Сподіваюся, що мене будуть пам'ятати...</text>
+	</string>
+	<string id="rosf_duty_hq1_cache_name">
+		<text>Добро кухаря</text>
+	</string>
+	<string id="rosf_duty_hq1_cache_descr">
+		<text>Якщо ви хочете трохи їжі, пора пошукати на кухні.</text>
+	</string>
+	<string id="rosf_duty_hq2_cache_name">
+		<text>За диваном</text>
+	</string>
+	<string id="rosf_duty_hq2_cache_descr">
+		<text>Шановний грабіжнику, якщо ви знайдете цей рюкзак, будь ласка, поверніть його, або я упіймаю та згодую вас кровососам!</text>
+	</string>
+	<string id="rosf_factory1_cache_name">
+		<text>Небезпечні матеріали</text>
+	</string>
+	<string id="rosf_factory1_cache_descr">
+		<text>Цей табір був переповнений долгівцями перед тим, як кровососи прийшли. Вони всі втекли і залишили коробку зі зброєю.</text>
+	</string>
+	<string id="rosf_factory2_cache_name">
+		<text>Здобич на автозаправці</text>
+	</string>
+	<string id="rosf_factory2_cache_descr">
+		<text>Паркур завжди був моїм хобі, Дімоне. Принаймні, ніхто не буде красти те, що належить мені, я впевнений.</text>
+	</string>
+	
+	<!--Swamp-->
+	
+	<string id="swa_doc_cache_name">
+		<text>Добро Дока</text>
+	</string>
+	<string id="swa_doc_cache_descr">
+		<text>Док на болоті має старомодні підходи і тримає свої речі перед очима. Як його помічник, ти можеш взяти те, що потрібно.</text>
+	</string>
+	<string id="swa_stalker_cache_name">
+		<text>Схованка сталкерів</text>
+	</string>
+	<string id="swa_stalker_cache_descr">
+		<text>Ці гелікоптери зводять мене з розуму! Як ми можемо залишатися тут, якщо всі вони хочуть бачити нас мертвими?! Принаймні, я не впевнений, що військові досить хоробрі, щоб боротися лицем до лиця, так що я заховаю свої спецпредмети тут.</text>
+	</string>
+	<string id="swa_bandit_cache_name">
+		<text>Бонус у бочці</text>
+	</string>
+	<string id="swa_bandit_cache_descr">
+		<text>Щось не так з цією бочкою, брате... ах, звичайно... я хотів засунути голову мого колишнього роботодавця туди. Добре, давайте використаємо її для інших цілей.</text>
+	</string>
+	<string id="swa_random1_cache_name">
+		<text>Бетонні блоки</text>
+	</string>
+	<string id="swa_random1_cache_descr">
+		<text>Як обдурити жадібного бандита? Знайти відкритий простір, де він може застрягти в болоті та бути вбитим страшними привидами, а потім розмістити своє добро там!</text>
+	</string>
+	<string id="swa_random2_cache_name">
+		<text>Порожнина в мосту</text>
+	</string>
+	<string id="swa_random2_cache_descr">
+		<text>Цей міст був переповнений сталкерами в минулому. Хтось вирішив покласти свій здобуток з надіями повернутись до нього в один прекрасний день.</text>
+	</string>
+	<string id="swa_random3_cache_name">
+		<text>Покинута вежа</text>
+	</string>
+	<string id="swa_random3_cache_descr">
+		<text>Військові «туристи» мали багато аптечок і обладнання на випадок надзвичайнойної ситуації, але потім центральне командування наказало відійти.</text>
+	</string>
+	<string id="swa_random4_cache_name">
+		<text>Газове обладнання</text>
+	</string>
+	<string id="swa_random4_cache_descr">
+		<text>Я постараюся з'ясувати, куди йде ця труба, будемо сподіватися, не з Росії в Україну, ви знаєте... вкрадений газ, хе-хе.</text>
+	</string>
+	
+	<!--Outskirts-->
+	
+  	<string id="out_bar_cache_name">
+		<text>Підземна хірургія</text>
+	</string>
+	<string id="out_bar_cache_descr">
+		<text>У разі травми або кровотечі, розламати цю коробку.</text>
+	</string>
+	<string id="out_freedom_bar_cache_name">
+		<text>Схованка в барі «Волі»</text>
+	</string>
+	<string id="out_freedom_bar_cache_descr">
+		<text>Те що в барі, повинне залишатися в барі... принаймні є потужна охорона від Волі.</text>
+	</string>
+	<string id="out_ivancov_cache_name">
+		<text>Сейф Іванцова</text>
+	</string>
+	<string id="out_ivancov_cache_descr">
+		<text>Іванцов - досить розумна людина, він завжди тримає свої інструменти та обладнання в потрібному місці.</text>
+	</string>
+	<string id="out_mono_cache_name">
+		<text>Схованка «Моноліту»</text>
+	</string>
+	<string id="out_mono_cache_descr">
+		<text>Був слух, що якась група «Моноліту» оселилася біля греблі, звичайно, вони взяли дещо з собою, щоб позбуватися від гостей з Кордону...</text>
+	</string>
+	<string id="out_random1_cache_name">
+		<text>Добро на Смітнику</text>
+	</string>
+	<string id="out_random1_cache_descr">
+		<text>Це сміття кишить радіоактивними речами, давайте приховаємо більш цінний матеріал тут і повернемося в табір «Волі».</text>
+	</string>
+	<string id="out_random2_cache_name">
+		<text>Бак для сміття</text>
+	</string>
+	<string id="out_random2_cache_descr">
+		<text>Сміття - завжди сміття, деякі сталкери залишають свої непотрібні речі, які вони не можуть більше нести.</text>
+	</string>
+	<string id="out_random3_cache_name">
+		<text>Пам'ятна зірка</text>
+	</string>
+	<string id="out_random3_cache_descr">
+		<text>Під меморіальною зіркою написано: «Сергій Геранович. 1978-2012. Бився з честю і загинув в бою. Удостоєний вищої нагороди від своєї країни - України.»</text>
+	</string>
+	<string id="out_random4_cache_name">
+		<text>Драбина Якова</text>
+	</string>
+	<string id="out_random4_cache_descr">
+		<text>Ні, краще не ховати речі в дерев'яній церкві знову, кожен може потрапити туди вночі і забрати їх. Треба бути розумнішим цього разу..</text>
+	</string>
+	
+	<!--Lost Factory-->
+ 
+	<string id="lost_eco_cache_name">
+		<text>Коробка в бункері</text>
+	</string>
+	<string id="lost_eco_cache_descr">
+		<text>Навіть вченим потрібне місце, щоб тримати їхні особисті речі недоторканими, хоча у них завжди є брудні столи.</text>
+	</string>
+	<string id="lost_eco_yard_cache_name">
+		<text>Схованка охорони</text>
+	</string>
+	<string id="lost_eco_yard_cache_descr">
+		<text>Тупі екологи, завжди хочуть лапати речі, які їм не слід, і використовувати їх у своїх експериментах! Краще заховати мої здобутки правильно.</text>
+	</string>
+	<string id="lost_substation_cache_name">
+		<text>Пастка на підстанції</text>
+	</string>
+	<string id="lost_substation_cache_descr">
+		<text>Ці зомбі скрізь! Як нерозумно я себе повів, що пішов спочатку у цей район... принаймні підстанція поки що в безпеці, щоб відпочити, поки не прибуде допомога... чи може це не так?</text>
+	</string>
+	<string id="lost_readings_cache_name">
+		<text>Відмітки вчених</text>
+	</string>
+	<string id="lost_readings_cache_descr">
+		<text>Ситуація просто жахлива. Я планував зробити дослідження безмозких людей у цій області, але все пішло не так, і тепер у мене смертельні травми без шансу на порятунок. У крайньому разі, я можу залишити цей журнал з працями мого життя, в надії, що хтось знайде його.</text>
+	</string>
+	<string id="lost_old_snork_cache_name">
+		<text>Закритий сейф</text>
+	</string>
+	<string id="lost_old_snork_cache_descr">
+		<text>Мізкииии... справді? Я занадто старий для таких речей, краще нехай молоді снорки спілкуються з людьми, а я постараюся захопити щось собі...</text>
+	</string>
+	<string id="lost_lab_yard1_cache_name">
+		<text>Найвища точка в гаражах</text>
+	</string>
+	<string id="lost_lab_yard1_cache_descr">
+		<text>Якийсь сталкер залишив своє приладдя поруч з гаражами, ймовірно, він вже ніколи не повернеться живим, щоб забрати його.</text>
+	</string>
+	<string id="lost_lab_yard2_cache_name">
+		<text>Рюкзак Юріка</text>
+	</string>
+	<string id="lost_lab_yard2_cache_descr">
+		<text>Це жахливо, я застряг тут з моїм помічником, чекаючи поки ці жахливі істоти підуть, але вони просто... залишаються... день... ніч... Я не знаю, що робити, ми плануємо прорватися через цей завод, я залишу рюкзак, якщо нам знадобиться повернутися.</text>
+	</string>
+	<string id="lost_lab_yard3_cache_name">
+		<text>Фургон Смерті</text>
+	</string>
+	<string id="lost_lab_yard3_cache_descr">
+		<text>Спи, мій малюче... ведмеді, монстри йдуть звідси... закривай очі й закривай вуха... я не хочу бачити твої сльози...</text>
+	</string>
+	<string id="lost_lab_yard4_cache_name">
+		<text>Скарби бункера</text>
+	</string>
+	<string id="lost_lab_yard4_cache_descr">
+		<text>Підземні бункери краще місце, щоб ховати все, що завгодно. Тієї ж думки був один цікавий найманець, перед тим, як снорк з'їв його.</text>
+	</string>
+	<string id="lost_grave_cache_name">
+		<text>Могила Стаса</text>
+	</string>
+	<string id="lost_grave_cache_descr">
+		<text>Надгробне слово на могилі: «Моєму найкращому товаришу, який підтримував мене все моє життя і помер від отруєння радіоактивною речовиною. Спочивай з миром...»</text>
+	</string>
+	<string id="lost_swamp_cache_name">
+		<text>Відгалуження болота</text>
+	</string>
+	<string id="lost_swamp_cache_descr">
+		<text>Сміттярі, вони завжди вештаються заводом в пошуках схованок. Але вони ніколи не шукали в балці. Мені потрібно бути обережним цього разу.</text>
+	</string>
+	<string id="lost_valve_cache_name">
+		<text>Схованка у вентилі</text>
+	</string>
+	<string id="lost_valve_cache_descr">
+		<text>Хороше місце, щоб приховати щось маленьке і цінне, хоча сітка навколо тебе змушує подумати двічі.</text>
+	</string>
+	<string id="lost_pipe_cache_name">
+		<text>Жнива в землі</text>
+	</string>
+	<string id="lost_pipe_cache_descr">
+		<text>Мені завжди подобалися екскаватори, коли я був дитиною... тобі теж, друже? Давай скористаємося цим місцем для наших речей, я піду відвідаю молодих вчених у бункері, щоб отримати захист, і ми можемо продовжити.</text>
+	</string>
+	<string id="lost_bus_cache_name">
+		<text>Загублений автобус</text>
+	</string>
+	<string id="lost_bus_cache_descr">
+		<text>Старий радянський автобус з ящиком для інструментів усередині. Бандити інколи намагаються знайти щось корисне тут, але кожного разу їх чекає невдача.</text>
+	</string>
+	<string id="lost_crane_cache_name">
+		<text>Рюкзак контрабандиста</text>
+	</string>
+	<string id="lost_crane_cache_descr">
+		<text>Це не жарт, навіжений контрабандист піднявся на цей ліфт та поклав свої речі поруч з іржавим двигуном, але кого це хвилює, якщо ви можете легко сюди дістатися?</text>
+	</string>
+	
+	<!--Forgotten-->
+	
+	<string id="forg_tower_rukzak_cache_name">
+		<text>Схованка в котлі</text>
+	</string>
+	<string id="forg_tower_rukzak_cache_descr">
+		<text>Деякі колишні найманці воліють стріляти невдачливих сталкерів на відстані. Цей вирішив залишити своє минуле з рюкзаком, повним обладнанням.</text>
+	</string>
+	<string id="forg_killer_bar_cache_name">
+		<text>Вибухові речовини</text>
+	</string>
+	<string id="forg_killer_bar_cache_descr">
+		<text>«Небезпечні вибухові речовини, не чіпати!» написано на коробці в барі найманців.</text>
+	</string>
+	<string id="forg_killer_tank_cache_name">
+		<text>Вартість освітлення</text>
+	</string>
+	<string id="forg_killer_tank_cache_descr">
+		<text>«Так багато відключень електроенергії цими днями... ми не можемо так жити на власній базі. Ось одне місце, яке ви повинні перевірити.»</text>
+	</string>
+	<string id="forg_bandit_bunker_cache_name">
+		<text>Аномальні матеріали</text>
+	</string>
+	<string id="forg_bandit_bunker_cache_descr">
+		<text>Ти впевнений, що ми повинні тримати це лайно в такому місці? Занадто дорого - бути на виду.</text>
+	</string>
+	<string id="forg_bandit_roof_box_cache_name">
+		<text>Сільське добро</text>
+	</string>
+	<string id="forg_bandit_roof_box_cache_descr">
+		<text>Той військовий був занадто п'яний і не міг бачити, що я зробив з ним. Хех, давайте поки що тримати це в селі.</text>
+	</string>
+	<string id="forg_stalker_bricks_cache_name">
+		<text>Втеча з в'язниці</text>
+	</string>
+	<string id="forg_stalker_bricks_cache_descr">
+		<text>Незнайомець вирішив зберегти свої речі під захистом цегли в колишній в'язниці. Це було хорошою ідеєю спочатку, але він не знав про тебе!</text>
+	</string>
+	<string id="forg_stalker_concrete_rukzak_cache_name">
+		<text>Заблокована схованка</text>
+	</string>
+	<string id="forg_stalker_concrete_rukzak_cache_descr">
+		<text>Давайте сховаємо це тут, ми можемо повернутися після викиду. Ви бачили тих істот поруч, я не думаю, що хто-небудь буде ризикувати та йти за нами до цих блоків.</text>
+	</string>
+	<string id="forg_electrical_box_cache_name">
+		<text>Схованка під напругою</text>
+	</string>
+	<string id="forg_electrical_box_cache_descr">
+		<text>Коли маєш справу з високою напругою, не забудь вимкнути живлення або будеш як на грилі, як той сталкер біля електростанції, принаймні, його речі залишилися.</text>
+	</string>
+	
+	<!-- stancia -->
+	
+	<string id="aes_carriage_rukzak_cache_name">
+		<text>Рюкзак на потязі</text>
+	</string>
+	<string id="aes_carriage_rukzak_cache_descr">
+		<text>Кинув рюкзак у старий вагон, сподіваюся, він все ще буде там, коли я повернуся ...</text>
+	</string>
+	<string id="aes_choppa_door_cache_name">
+		<text>Пожитки в чопері!</text>
+	</string>
+	<string id="aes_choppa_door_cache_descr">
+		<text>Потрібно знайти їжу... повинен подорожувати без нічого... Я залишу свої речі тут...</text>
+	</string>
+	<string id="aes_tree_cache_name">
+		<text>Рюкзак під деревом</text>
+	</string>
+	<string id="aes_tree_cache_descr">
+		<text>Приховав деякі додаткові запаси тут, я повернуся...</text>
+	</string>
+	<string id="aes_merc_box_cache_name">
+		<text>Контейнер</text>
+	</string>
+	<string id="aes_merc_box_cache_descr">
+		<text>Вся застаріла зброя і боєприпаси повинні бути розміщені тут за наказом боса.</text>
+	</string>
+	<string id="aes_dolg_jeep_cache_name">
+		<text>Рюкзак в джипі</text>
+	</string>
+	<string id="aes_dolg_jeep_cache_descr">
+		<text>Знайшов цих лялечок у полях. Якщо я можу просто винести їх звідси і продати, я буду мати достатньо, щоб побачити мою дівчинку знову...</text>
+	</string>
+	<string id="aes_mil_raiders_cache_name">
+		<text>Контейнер</text>
+	</string>
+	<string id="aes_mil_raiders_cache_descr">
+		<text>Додаткові матеріали, якщо це необхідно.</text>
+	</string>
+	<string id="aes_shelter_cache_name">
+		<text>Контейнер під ліжком</text>
+	</string>
+	<string id="aes_shelter_cache_descr">
+		<text>Додаткові запаси в разі викиду. Не використовуй!</text>
+	</string>
+	<string id="aes_dog_roof_cache_name">
+		<text>Рюкзак на даху</text>
+	</string>
+	<string id="aes_dog_roof_cache_descr">
+		<text>Я кину свої речі на дах, не схоже, щоб собаки змогли дістати їх...</text>
+	</string>
+	<string id="aes_tower_surprise_cache_name">
+		<text>Контейнер на висоті</text>
+	</string>
+	<string id="aes_tower_surprise_cache_descr">
+		<text>Ми залишимо це тут і повернемося пізніше та заберемо ублюдків одного за другим, хахаха.</text>
+	</string>
+	<string id="aes_vent_cache_name">
+		<text>Вентиляційна сітка</text>
+	</string>
+	<string id="aes_vent_cache_descr">
+		<text>Схоже на хороше місце, щоб щось заховати.</text>
+	</string>
+	
+	<!-- country -->
+	
+	<string id="bcr_wc_cache_name">
+		<text>Стрибок віри</text>
+	</string>
+	<string id="bcr_wc_cache_descr">
+		<text>Тільки той, хто розкаявся, знайде мене!</text>
+	</string>
+	<string id="bcr_pipe_cache_name">
+		<text>Схованка в трубі</text>
+	</string>
+	<string id="bcr_pipe_cache_descr">
+		<text>Виглядає як добре тимчасове місце для схованки</text>
+	</string>
+	<string id="bcr_hatch_cache_name">
+		<text>Під люком</text>
+	</string>
+	<string id="bcr_hatch_cache_descr">
+		<text>Задраїти люки, ми не втратимо цю заначку!</text>
+	</string>
+	<string id="bcr_bus_cache_name">
+		<text>Схованка в автобусі</text>
+	</string>
+	<string id="bcr_bus_cache_descr">
+		<text>Вдала схованка</text>
+	</string>
+	<string id="bcr_remote_rukzak_cache_name">
+		<text>Рюкзак</text>
+	</string>
+	<string id="bcr_remote_rukzak_cache_descr">
+		<text>Якщо хтось знайде це....</text>
+	</string>
+	<string id="bcr_bandit_attic_cache_name">
+		<text>Готівка на горищі</text>
+	</string>
+	<string id="bcr_bandit_attic_cache_descr">
+		<text>Мої заощадження повинні бути у безпеці тут, правильно?</text>
+	</string>
+	<string id="bcr_church_cache_name">
+		<text>Свята схованка</text>
+	</string>
+	<string id="bcr_church_cache_descr">
+		<text>Хто наважиться вкрасти мої речі з такого божественного місця!</text>
+	</string>
+	<string id="bcr_church_hard_cache_name">
+		<text>Висока і могутня схованка</text>
+	</string>
+	<string id="bcr_church_hard_cache_descr">
+		<text>Я припускаю, що дуже мало людей крали б щось з церкви, я покладу це високо.</text>
+	</string>
+	<string id="bcr_border_box_cache_name">
+		<text>Коробка на кордоні</text>
+	</string>
+	<string id="bcr_border_box_cache_descr">
+		<text>Коробка в кінці лінії</text>
+	</string>
+	
+	<!-- forest -->
+	
+	<string id="forest_safe_cache_name">
+		<text>Схованка в сейфі</text>
+	</string>
+	<string id="forest_safe_cache_descr">
+		<text>Залишу свої пожитки в сейфі боса, ніхто не сміє туди залізти.</text>
+	</string>
+	<string id="forest_car_trunk_cache_name">
+		<text>Багажник автомобіля</text>
+	</string>
+	<string id="forest_car_trunk_cache_descr">
+		<text>Бісова машина, зламалась. Залишу речі тут, поки схожу за допомогою.</text>
+	</string>
+	<string id="forest_desk_cupboard_cache_name">
+		<text>Вміст столу</text>
+	</string>
+	<string id="forest_desk_cupboard_cache_descr">
+		<text>Примітка для себе: забрати речі з шухляди.</text>
+	</string>
+	<string id="forest_barracks_box_cache_name">
+		<text>Скриня спільноти</text>
+	</string>
+	<string id="forest_barracks_box_cache_descr">
+		<text>Весь вміст є власністю «Братки із Шахти.»</text>
+	</string>
+	<string id="forest_village_storeroom_cache_name">
+		<text>Комплект медичної допомоги</text>
+	</string>
+	<string id="forest_village_storeroom_cache_descr">
+		<text>Будь ласка, зверніть увагу на предмети, що використовуються в реєстрі.</text>
+	</string>
+	<string id="forest_piano_roof_cache_name">
+		<text>Рюкзак на горищі</text>
+	</string>
+	<string id="forest_piano_roof_cache_descr">
+		<text>Мені зовсім зле. Заховаю пожитки на горищі, поки не відновлю сили.</text>
+	</string>
+	<string id="forest_barn_roof_cache_name">
+		<text>Ящик у сараї</text>
+	</string>
+	<string id="forest_barn_roof_cache_descr">
+		<text>Це місце мене лякає, залишу речі тут, поки не озирнусь навколо...</text>
+	</string>
+	<string id="forest_anomalous_cache_name">
+		<text>Око урагану</text>
+	</string>
+	<string id="forest_anomalous_cache_descr">
+		<text>Це місце захистило мене від Викиду, тому я залишу речі тут для безпечного зберігання.</text>
+	</string>
+</string_table>

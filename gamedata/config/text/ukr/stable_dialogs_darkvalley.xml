@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+<!-- Gusarov task -->
+    
+    <string id="dolina_gusarov_about_0">
+        <text>Я хотів запитати...</text>
+    </string>
+    <string id="dolina_gusarov_about_1">
+        <text>Ну?</text>
+    </string>
+    <string id="dolina_gusarov_about_21">
+        <text>Де можна знайти бандитський прикид?</text>
+    </string>
+    <string id="dolina_gusarov_about_32">
+        <text>Я так думаю, у Бармена, або можеш знайти у старого входу, яким бандити колись користувались. Я чув що під час вибуху там багато померло - може, якийсь з їх костюмів все ще можна надіти. Я відмічу це місце у тебе на мапі.</text>
+    </string>
+    <string id="dolina_gusarov_about_41">
+        <text>Як мені дізнатись пароль у бандитів?</text>
+    </string>
+    <string id="dolina_gusarov_about_42">
+        <text>Знайди серед них лопуцька, позапитуй, що йому потрібно. Або запропонуй що є, і отримуй.</text>
+    </string>
+
+
+
+    <string id="dolina_gusarov_dialog_1">
+        <text>А ти ще хто такий? Що тобі від нас потрібно?</text>
+    </string>
+    <string id="dolina_gusarov_dialog_2">
+        <text>Мічений. Я від Петренка і Бармена.</text>
+    </string>
+    <string id="dolina_gusarov_dialog_22">
+        <text>А? Думаю, у торговців такі є. Може, знайдеш десь у сховку за так. Позапитуй.</text>
+    </string>
+    <string id="dolina_gusarov_dialog_3">
+        <text>О, ТОЙ САМИЙ. Значить дивись сюди, друже. «Моноліт» влаштував собі табір на фабриці далі по дорозі, в центрі Долини. Під нею - X18, запечатана давним давно, після катастрофи 2006-го. Я не впевнений, але схоже на те, що навіть вони самі не знають, як в неї потрапити.</text>
+    </string>
+    <string id="dolina_gusarov_dialog_31">
+        <text>Як мені дізнатись пароль у бандитів?</text>
+    </string>
+    <string id="dolina_gusarov_dialog_32">
+        <text>Знайди серед них лопуцька, позапитуй, що йому потрібно. Або запропонуй що є, і отримуй.</text>
+    </string>
+    <string id="dolina_gusarov_dialog_4">
+        <text>Тоді як же в неї пробратись?</text>
+    </string>
+    <string id="dolina_gusarov_dialog_5">
+        <text>Ну-у... Потрібно зібрати інформацію про цих фанатиків на місці. Єдині можливі власники ноу-хау з розтину лабораторії... Коротше кажучи, можна їх існування поставити під сумнів, так що сподіватись на них не варто.</text>
+    </string>
+    <string id="dolina_gusarov_dialog_6">
+        <text>Виходить, безнадійна затія. Не так вже й легко просочитись до монолітівців.</text>
+    </string>
+    <string id="dolina_gusarov_dialog_7">
+        <text>Точно, але в мене є план. У «Моноліту» перемир'я з бандитами, і тільки по особливому паролю останні можуть проходити на монолітівську базу. Але пароль регулярно змінюють, так що довго дурити їх не вийде. Мій план такий: знаходиш чорну шкірянку, таку як носять бандити, і дізнаєшся у одного з них пароль. Ніби як не складно. Обманом пробираєшся до фанатиків на базу, і знаходиш прохід у X18 - я дещо запланував, коли ти будеш усередині. Бандити в обличчя не вдивляються, так що в їхньому прикиді ти можеш уважати що ти вже у них на базі. Найголовніше - нікого не підстрелити і не світитися.</text>
+    </string>
+    <string id="dolina_gusarov_dialog_8">
+        <text>Добре, дякую. Подивимось що у мене вийде.</text>
+    </string>
+    
+<!-- Drunken bandit -->
+
+    <string id="dolina_drunken_bandit_dialog_0">
+        <text>Здоров, братане! Як тобі вечір?</text>
+    </string>
+    <string id="dolina_drunken_bandit_dialog_1">
+        <text>Все зачотно, чуваче. А сам-то як?</text>
+    </string>
+    <string id="dolina_drunken_bandit_dialog_10">
+        <text>Хa-хa, давай вип'ємо за твою забудькуватість.</text>
+    </string>
+    <string id="dolina_drunken_bandit_dialog_11">
+        <text>Аякже! Наливай.</text>
+    </string>
+    <string id="dolina_drunken_bandit_dialog_12">
+        <text>Кореше, не можу повірити - ти забув таке смішне слово як «кабзда»?</text>
+    </string>
+    <string id="dolina_drunken_bandit_dialog_13">
+        <text>Ха-ха, точно, воно! Дякую, братуха, ще здибаємося!</text>
+    </string>
+    <string id="dolina_drunken_bandit_dialog_2">
+        <text>Та як... горілочка, ще горілочка... Вже й з рахунку збився, прикинь.</text>
+    </string>
+    <string id="dolina_drunken_bandit_dialog_3">
+        <text>Так? А що - може, ще є? Давай вип'ємо, братку.</text>
+    </string>
+    <string id="dolina_drunken_bandit_dialog_4">
+        <text>Може є? МОЖЕ Є?! Та немає базару, братухо! Ось - давай забухаємо за цих пришелепкуватих монолітівців! Хе-хе.</text>
+    </string>
+    <string id="dolina_drunken_bandit_dialog_5">
+        <text>Так, за монолітів і всі їхні довбонуті ідейки.</text>
+    </string>
+    <string id="dolina_drunken_bandit_dialog_6">
+        <text>Довбонуті? Я тобі розкажу про «довбонуті», на всю голову! Якого цим монолітам пароль міняти кожен тиждень, га? Зграйка параноїків, блін... Але товариш Боров через таку фігню наш альянс не зрадить. Я, коротше, пару стопок біленької як хряпну, так і з пам'яттю не гаразд. А було б легше, якби один пароль був, ми б собі на папірчик записали, чики-брики - і в дамки...</text>
+    </string>
+    <string id="dolina_drunken_bandit_dialog_7">
+        <text>Та взагалі, у мене та ж біда. Як потяну горілочки трохи - ні чорта не пам'ятаю.</text>
+    </string>
+    <string id="dolina_drunken_bandit_dialog_8">
+        <text>Ага, тільки на цьому тижні такий, що я не забуду, скільки б в себе не заливав. Ну умора ж! Хи-ги.</text>
+    </string>
+    <string id="dolina_drunken_bandit_dialog_9">
+        <text>Хе-ге-ге! Точняк, прям обіржався в цей раз... Йо-ма, щось я багатенько підбухав! Ні фі-га не пам'ятаю!</text>
+    </string>
+	<string id="dolina_drunken_bandit_no_dialog_0">
+        <text>Привіт, братухо. Не допоможеш мені тут з одною справою?</text>
+    </string>
+    <string id="dolina_drunken_bandit_no_dialog_1">
+        <text>Так, відвали, мені мамка говорила, щоб з чужими не розмовляв!</text>
+    </string>
+	<string id="dolina_drunken_bandit_no_dialog_2">
+        <text>Е, лади, якщо ти вже...</text>
+    </string>
+	
+<!-- Borov dialog -->
+
+    <string id="dolina_borov_dialog_0">
+        <text>Шановний... Чи можу я, нікчемний, попросити Вас про одну дріб'язкову справу?</text>
+    </string>
+    <string id="dolina_borov_dialog_1">
+        <text>Скільки ще втовкмачувати цьому п'яному виродку, щоб він перестав набирати салабонів? У нас на шиї і так щурів повно, як вошей на псині... А з їх числа повно дятлів, які взагалі здають для своїх кланів... Лади, раз уже з'явився, перевірочку тобі влаштую, а якщо не пройдеш - хана тобі.</text>
+    </string>
+    <string id="dolina_borov_dialog_21">
+        <text>Перевіряйте.</text>
+    </string>
+    <string id="dolina_borov_dialog_22">
+        <text>Здохни.</text>
+    </string>
+    <string id="dolina_borov_dialog_3">
+        <text>Зустрілися на барі біля «Долгу» персонажі всіх мастей: старий майстер-Долгівець, досвідчений і бувавший у всіляких сутичках, якийсь двинутий монолітівський придурок і звичайний, тихий собі бандит. Повсякденне питання: чи прокатить в Зоні людська мораль і чи буде це за поняттями? «Долг» каже: «Звичайно! Хто ми такі, якщо не люди? Ми не можемо просто стати жорстокою звіриною, ми повинні захищати мирних і допомагати сталкерам боротися з Зоною!». Його перебив Монолітівець: «Мужиче, та що ти мелеш? Яка мораль? «Моноліт» - святая святих, і все! Решта не важливо. Потрібно молитися, а не слухати. Красти, а не купувати. І вбивати - для своєї мети. Якщо хто не згоден, звернемо його і його побратимів в нашу віру, за своєю подобою і розумінням.» І як він замовк, бандюк вдихнув глибоко, обдумав так непогано... Так ось тобі запитання...Що ж він потім сказав?</text>
+    </string>
+    <string id="dolina_borov_dialog_41">
+        <text>Ми повинні захищати людей навіть у такі жорстокі часи. Навіть бандит довго не протяне без підтримки корешів.</text>
+    </string>
+    <string id="dolina_borov_dialog_42">
+        <text>Я буду самим собою і всім буду платити їх же монетою. Краще бути сірим вовком ікластим, ніж дохлою мавпочкою.</text>
+    </string>
+    <string id="dolina_borov_dialog_43">
+        <text>Тут люди - здобич. Не хочеш щоб тебе обікрали - обкради і вбий першим.</text>
+    </string>
+    <string id="dolina_borov_dialog_44">
+        <text>Я не знаю.</text>
+    </string>
+    <string id="dolina_borov_dialog_5">
+        <text>А правильна відповідь... НЕ ТВОЯ! Не те ти обрав. А тепер - страта невдахи.</text>
+    </string>
+    <string id="dolina_borov_dialog_6">
+        <text>...Справді?</text>
+    </string>
+    <string id="dolina_borov_dialog_7">
+        <text>Звичайно, я просто взагалі не знаю!</text>
+    </string>
+    <string id="dolina_borov_dialog_71">
+        <text>Будь ласка, дайте мені ще один шанс, внатурі!</text>
+    </string>
+    <string id="dolina_borov_dialog_72">
+        <text>Ні.</text>
+    </string>
+    <string id="dolina_borov_dialog_73">
+        <text>....</text>
+    </string>
+    <string id="dolina_borov_dialog_8">
+        <text>Пройшов ти перевірку, салабоне. Небагато до тебе її пройшли, так що підфартило тобі - не довелось твою кров'янку і труп прибирати.</text>
+    </string>
+    <string id="dolina_borov_dialog_9">
+        <text>Так а що? Що, ця відповідь правильна? Здуріти можна!</text>
+    </string>
+    <string id="dolina_borov_dialog_10">
+        <text>Та простіше пареної ріпи. Якщо б ти вибрав першу, значить ти один з тих м'якотілих - Екологів або «Долгу», нам тут різна шваль не потрібна. Якщо ти вибрав бути собою, то ти явно сам собі на думці, і будеш свавільником. Може намилився у нас поцупити щось. По-третьому ти виходиш монолітівський стукач, чи маніяк-вбивця. Тут у всіх руки в крові, тільки у нас - від того щоб самим не здохнути. А останнє означає що ти просто тупий дурень, як і цей п'яний козел, якому пощастило знайти рідну душу в якомусь барі чи ще десь. Зрозумів, пацан? Тепер питай, навіщо прийшов.</text>
+    </string>
+    <string id="dolina_borov_dialog_11">
+        <text>Мені потрібні ваші документи і схеми. Хочу просікти, де організувати таку місцину, звідки нам виходи з бази можна спостерігати, і де самому стати. Це можна?</text>
+    </string>
+    <string id="dolina_borov_dialog_12">
+        <text>Так, тільки не забудь на місце покласти, вони для нас - не хвіст собачий. А намилишся з ними кудись, чи загубиш - бувай твоя голівонька. Я схожу кави поп'ю. Документи в сейфі, шифр - 295, нічого іншого не мацай... Баране.</text>
+    </string>
+	<string id="dolina_borov_dialog_61111121">
+		<text>Дякую, сер!</text>
+	</string>
+
+<!-- monolith informer dialog -->
+    
+    <string id="dolina_monolith_informer_dialog_0">
+        <text>Вітаю доброзичливого сусіда. Чим брат може допомогти тобі?</text>
+    </string>
+    <string id="dolina_monolith_informer_dialog_1">
+        <text>Ти ж той самий, чи не так?</text>
+    </string>
+    <string id="dolina_monolith_informer_dialog_101">
+        <text>Ну, тоді... Я повинен "взятися за них". Бувай.</text>
+    </string>
+    <string id="dolina_monolith_informer_dialog_1011">
+        <text>Добре, дякую. До зустрічі.</text>
+    </string>
+    <string id="dolina_monolith_informer_dialog_102">
+        <text>Добре, бувай.</text>
+    </string>
+    <string id="dolina_monolith_informer_dialog_2">
+        <text>Вибач, але я тебе не зрозумів. Будь ласкавий, повтори?</text>
+    </string>
+    <string id="dolina_monolith_informer_dialog_3">
+        <text>Ну, ти в дуже погану ситуацію вляпався нещодавно, очевидно, ледь не накрився. Мені про тебе приятель розповідав.</text>
+    </string>
+    <string id="dolina_monolith_informer_dialog_4">
+        <text>А-а, це... А з якої причині, милий чоловіче, ти про це згадав?</text>
+    </string>
+    <string id="dolina_monolith_informer_dialog_5">
+        <text>Я шукаю інформацію про X18.</text>
+    </string>
+    <string id="dolina_monolith_informer_dialog_6">
+        <text>Доступ до неї є тільки у прислужників культу. Але... той добрий чоловік врятував мені життя, тому я повинен. Я турбуюсь про свою честь, крім великого «Моноліту». Ну що ж, я знаю де тобі роздобути це знання. У кабінеті нашого командира, на полиці, в зашифрованому журналі. Ми змогли розшифрувати лише деякі місця, але я істинно переконаний, що ми даремно витрачаємо час на подібне. Ми повинні навертати у свою віру, проповідувати, а не заглиблюватися в незбагненне. Так що якщо журнал зникне... Я і сльози не зроню, а ридати так і взагалі не стану.</text>
+    </string>
+    <string id="dolina_monolith_informer_dialog_7">
+        <text>Але я не зможу туди просто заявитись і забрати його.</text>
+    </string>
+    <string id="dolina_monolith_informer_dialog_8">
+        <text>Я викличусь зайняти командира, щоб ти в цей момент зміг отримати журнал. Але мені потрібна страховка. 1500 гривень має бути достатньо.</text>
+    </string>
+    <string id="dolina_monolith_informer_dialog_91">
+        <text>Дорогувато, але не для такої справи.</text>	
+    </string>	
+    <string id="dolina_monolith_informer_dialog_92">	
+        <text>Стільки гривень у мене немає. Потрібно їх спочатку знайти.</text>	
+    </string>	
+	<string id="dolina_monolith_informer_rubles_0">
+        <text>Ну так що, приніс гроші?</text>	
+    </string>	
+	<string id="dolina_monolith_informer_rubles_1">
+        <text>Так, приніс. Дорого, але воно того коштує.</text>	
+    </string>	
+	<string id="dolina_monolith_informer_rubles_2">
+        <text>Ні, поки ні. Ще працюю над цим.</text>	
+    </string>	
+
+	<!-- prisoner -->
+	
+	<string id="val_prisoner_dialog_1">
+        <text>Сталкер! Нарешті, хоч одне добре обличчя. Допоможи мені, прошу тебе!</text>	
+    </string>	
+	<string id="val_prisoner_dialog_11">
+        <text>Привіт, я виконую завдання для "Долгу", і мене попрохали тебе врятувати. Зараз питання в тому, як нам відчинити ґрати?</text>	
+    </string>	
+	<string id="val_prisoner_dialog_111">
+        <text>Ключ потрібен. Я не впевнений на рахунок того, де його шукати, але я точно можу сказати, що у його власника поруч є радіо. Він завжди в курсі на рахунок свіжих мелодій.</text>	
+    </string>	
+	<string id="val_prisoner_dialog_1111">
+        <text>Зрозумів. Ти тримайся, а я піду пошукаю.</text>	
+    </string>	
+	<string id="val_prisoner_dialog_2">
+        <text>Ей, ну що? Ключ ще не знайшов?</text>	
+    </string>	
+	<string id="val_prisoner_dialog_21">
+        <text>Ще ні, не бійся, шукаю поки.</text>	
+    </string>	
+	<string id="val_prisoner_dialog_22">
+        <text>Знайшов, зачекай, я відкрию ґрати.</text>	
+    </string>	
+	<string id="val_prisoner_dialog_3">
+        <text>Не знаю як тобі і дякувати! За те що ти зробив, «Долг» тебе добре нагородить! Я повинен бігти, якщо доведеться ще побачитися - я в боргу не залишуся.</text>	
+    </string>	
+	<string id="val_prisoner_dialog_31">
+        <text>Та без проблем. Хай щастить.</text>	
+    </string>
+	
+	<!-- monolith password -->
+	
+	<string id="dol_monolith_password_dialog_2">
+        <text>Який пароль?</text>
+    </string>
+	<string id="dol_monolith_password_dialog_21">
+        <text>"sraka".</text>
+    </string>
+	<string id="dol_monolith_password_dialog_211">
+        <text>Ви можете продовжувати.</text>
+    </string>
+	<string id="dol_monolith_password_dialog_2111">
+        <text>Дякую тобі, брате.</text>
+    </string>
+	<string id="dol_monolith_password_dialog_22">
+        <text>Гммм "fudgemonkey"?</text>
+    </string>
+	<string id="dol_monolith_password_dialog_221">
+        <text>Вам краще не продовжувати або це буде останнє, що ви зробите!</text>
+    </string>
+	<string id="dol_monolith_password_dialog_2211">
+        <text>Добре, ну тоді я вирушаю...</text>
+    </string>
+	
+	<!-- military specnaz dialog -->
+	
+	<string id="dol_specnaz_dialog_0">
+        <text>Сталкере, що тобі треба?</text>
+    </string>
+	<string id="dol_specnaz_dialog_1">
+        <text>Чого ви хлопці ховаєтесь тут?</text>
+    </string>
+	<string id="dol_specnaz_dialog_11">
+        <text>Йди поговори з лідером.</text>
+    </string>
+	<string id="dol_specnaz_dialog_111">
+        <text>Добре, зроблю.</text>
+    </string>
+	
+	<string id="dol_specnaz_leader_dialog_0">
+        <text>Так, сталкере, що це?</text>
+    </string>
+	<string id="dol_specnaz_leader_dialog_1">
+        <text>Що ви тут, хлопці, робите?</text>
+    </string>
+	<string id="dol_specnaz_leader_dialog_11">
+        <text>Гмм, добре, вважаю немає нічого поганого в тому що я вам скажу, хіба тільки ви вирішите зіпсувати мої плани. Ми спостерігаємо за бандитами. Шукаємо конкретного бандита - «Борзого», він номер один у нашому списку розшукуваних із багатьох причин, не буду вдаватися в подробиці.</text>
+    </string>
+	<string id="dol_specnaz_leader_dialog_111">
+        <text>То, як справи у поста?</text>
+    </string>
+	<string id="dol_specnaz_leader_dialog_1111">
+        <text>Насправді, у нас є підстави вважати, що він втік до Мертвого міста, але я не можу ризикувати, покидаючи зону, в разі якщо наші дані невірні. Я не думаю, що ти хочеш піти й перевірити чи він там. А також принести його КПК як доказ для кругленької суми, чи не так?</text>
+    </string>
+	<string id="dol_specnaz_leader_dialog_11111">
+        <text>Ні, дякую, у мене ще є справи, які треба вирішити.</text>
+    </string>
+	<string id="dol_specnaz_leader_dialog_11112">
+        <text>Звісно, але як мені знати де його шукати?</text>
+    </string>
+	<string id="dol_specnaz_leader_dialog_111121">
+        <text>Ми прослуховуємо КПК хлопця, якого ми підозрюємо. Не питай як, у нас свої методи. У всякому випадку, я позначив координати на твоєму КПК.</text>
+    </string>
+	<string id="dol_specnaz_leader_dialog_1111211">
+        <text>Добре, я в ділі.</text>
+    </string>
+	<string id="dol_specnaz_leader_dialog_2">
+        <text>Просто перевірка, хлопці.</text>
+    </string>
+	<string id="dol_specnaz_leader_dialog_21">
+        <text>Ціль нейтралізована а КПК мерця у тебе?</text>
+    </string>
+	<string id="dol_specnaz_leader_dialog_211">
+        <text>Ні, ще ні. Я ще працюю над цим.</text>
+    </string>
+	<string id="dol_specnaz_leader_dialog_212">
+        <text>Так, але дідько, я забув КПК. Скоро повернуся.</text>
+    </string>
+	<string id="dol_specnaz_leader_dialog_213">
+        <text>Так, усе зроблено.</text>
+    </string>
+	<string id="dol_specnaz_leader_dialog_2131">
+        <text>Гмм, так! Це справді його КПК. Хороша робота, сталкере, ти хороший солдат. Ось обіцяна винагорода.</text>
+    </string>
+	<string id="dol_specnaz_leader_dialog_21311">
+        <text>Ух ти, дякую, одне задоволення мати з тобою справи.</text>
+    </string>
+</string_table>
