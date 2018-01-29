@@ -1,0 +1,97 @@
+<!-- The Guiders Mod for LA -->
+
+<string_table>
+
+	<string id="guider_dialog_0">
+	    <text>Я тут в похід збираюся, а ти ніби досвідчений, і снаряга нормальна. Немає бажання скласти мені компанію?</text>
+	</string>
+	
+	<string id="guider_dialog_1">
+	    <text>Ну, моє бажання залежить від того, куди ти збираєшся йти.</text>
+	</string>
+	
+	<string id="guider_dialog_bar">
+	    <text>У Бар.</text>
+	</string>	
+	
+	<string id="guider_dialog_swamp">
+	    <text>На Болота.</text>
+	</string>
+	
+	<string id="guider_dialog_esc">
+	    <text>На Кордон.</text>
+	</string>
+	
+	<string id="guider_dialog_yan">
+	    <text>На Бурштин.</text>
+	</string>
+	
+	<string id="guider_dialog_agro">
+	    <text>На Агропром.</text>
+	</string>
+	
+	<string id="guider_dialog_gar">
+	    <text>На Смітник.</text>
+	</string>
+	
+	<string id="guider_dialog_out">
+	    <text>На околиці Прип'яті.</text>
+	</string>
+	
+	<string id="guider_dialog_rosf">
+	    <text>На завод "Росток".</text>
+	</string>
+	
+	<string id="guider_dialog_dark">
+	    <text>В Темну Долину.</text>
+	</string>
+	
+	<string id="guider_dialog_lost">
+	    <text>На цементний завод.</text>
+	</string>
+	
+	<string id="guider_dialog_mil">
+	    <text>На Армійські Склади.</text>
+	</string>
+	
+	<string id="guider_dialog_forg">
+	    <text>На Будмайданчик.</text>
+	</string>
+	
+	<string id="guider_dialog_yes">
+	    <text>Згоден, у мене там якраз є справи. Але ціна питання:</text>
+	</string>	
+	
+	<string id="guider_dialog_no">
+	    <text>Ні, туди я не піду, небезпечно там зараз кажуть, та й тобі не раджу ходити.</text>
+	</string>
+	
+	<string id="guider_dialog_ok">
+	    <text>Гаразд, тримай гроші. Перевіряй снарягу і пішли.</text>
+	</string>
+
+	<string id="guider_dialog_at">
+	    <text>Знаєш, я передумав, давай іншим разом.</text>
+	</string>
+
+	<string id="guider_dialog_asyouwish">
+	    <text>Ну як знаєш, доведеться одному топати.</text>
+	</string>
+
+	<string id="guider_dialog_no_pre">
+	    <text>Тут викид почнеться з хвилини на хвилину, я б не став смикатися.</text>
+	</string>	
+
+	<string id="guider_dialog_no_blow">
+	    <text>Ти що, з глузду з'їхав?! Викид щосили бушує. Не здумай висовуватися з укриття.</text>
+	</string>
+
+	<string id="guider_dialog_no_after">
+	    <text>Я б не став йти відразу після викиду. Давай почекаємо трохи?</text>
+	</string>
+
+	<string id="guider_dialog_youreright">
+	    <text>Так, ти маєш рацію, час непідходящий.</text>
+	</string>
+	
+</string_table>
