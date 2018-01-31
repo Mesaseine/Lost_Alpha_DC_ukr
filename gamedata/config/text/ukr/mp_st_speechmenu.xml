@@ -25,13 +25,13 @@
 		<text>Потрібна допомога!</text>
 	</string>
 	<string id="speech_needmoney">
-		<text>Не вистачає грошей на придбання екіпірування</text>
+		<text>Не вистачає грошей на придбання екіпірування!</text>
 	</string>
 	<string id="speech_no">
-		<text>Ні</text>
+		<text>Ні.</text>
 	</string>
 	<string id="speech_noenemy">
-		<text>Нікого поблизу</text>
+		<text>Нікого поблизу!</text>
 	</string>
 	<string id="speech_report">
 		<text>Доповідайте ситуацію!</text>

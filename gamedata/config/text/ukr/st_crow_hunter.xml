@@ -28,7 +28,7 @@
 		<text>Ні, це занадто нудно. Бувай.</text>
 	</string>	
 	<string id="st_cr_0003">
-		<text>Добре, обери тип гри</text>
+		<text>Добре, обери тип гри:</text>
 	</string>
 	<string id="st_cr_0004">
 		<text>Аркадний</text>
@@ -79,10 +79,10 @@
 		<text>Рівень 8</text>
 	</string>
 	<string id="st_cr_0020">
-		<text>Уперед!!</text>
+		<text>Уперед!</text>
 	</string>
 	<string id="st_cr_0021">
-		<text>Я повинен убити якнайбільше ворон!</text>
+		<text>Я повинен убити якомога більше ворон!</text>
 	</string>
 	<string id="st_cr_0022">
 		<text>Гаразд, поїхали!</text>
