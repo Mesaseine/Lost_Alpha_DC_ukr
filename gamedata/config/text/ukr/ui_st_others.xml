@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="ui_st_conn_version_differs">
-		<text>Помилка з'єднання: Різні версії.</text>
+		<text>Помилка з'єднання: Відрізняються версії гри.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_invalid">
 		<text>Помилка з'єднання: Невірний CD-Kлюч.</text>
@@ -13,9 +13,9 @@
 		<text>Помилка з'єднання: Ваш CD-Kлюч заблоковано. Зв'яжіться зі службою підтримки.</text>
 	</string>
 	<string id="ui_st_conn_new_patch">
-		<text>Новий патч доступний.\n Вeрсiя: %s\n Розташування: %s\nХочете завантажити зараз?</text>
+		<text>Новий патч доступний.\n Вeрсiя: %s\n Розташування: %s\n Виконати Хочете завантажити зараз?</text>
 	</string>
 	<string id="ui_st_conn_no_new_patch">
-		<text>Зараз нема нових патчів</text>
+		<text>Зараз нема нових патчів!</text>
 	</string>
 </string_table>

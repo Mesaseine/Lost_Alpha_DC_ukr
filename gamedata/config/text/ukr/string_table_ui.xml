@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="cant_walk">
-		<text>Ви занадто виснажені, щоб іти</text>
+		<text>Ви занадто виснажені, щоб іти.</text>
 	</string>
 	<string id="cant_walk_weight">
-		<text>Ви перевантажені, щоб іти</text>
+		<text>Ви перевантажені, щоб іти.</text>
 	</string>
 	<string id="dar_poltergeist_hold_the_door">
 		<text>Хтось утримує двері.</text>
 	</string>
 	<string id="Global Map">
-		<text>Глобальна карта</text>
+		<text>Глобальна мапа</text>
 	</string>
 	<string id="gun_jammed">
 		<text>Зброю заклинило. Потрібно перезарядитись.</text>
@@ -25,10 +25,10 @@
 		<text>Обшукати ящик ($$ACTION_USE$$)</text>
 	</string>
 	<string id="Local Map">
-		<text>Локальна карта</text>
+		<text>Локальна мапа</text>
 	</string>
 	<string id="st_game_saved">
-		<text>гра збережена</text>
+		<text>Гра збережена</text>
 	</string>
 	<string id="tip_car_locked">
 		<text>Заблоковано</text>
@@ -37,19 +37,19 @@
 		<text>Відчинити двері ($$ACTION_USE$$)</text>
 	</string>
 	<string id="tip_door_close">
-		<text>Натисніть ($$ACTION_USE$$), щоб зачинити двері</text>
+		<text>Натисніть ($$ACTION_USE$$), щоб зачинити двері.</text>
 	</string>
 	<string id="press_to_lock">
-		<text>Натисніть ($$ACTION_USE$$), щоб зачинити двері камери</text>
+		<text>Натисніть ($$ACTION_USE$$), щоб зачинити двері камери.</text>
 	</string>
 	<string id="press_to_unlock">
-		<text>Натисніть ($$ACTION_USE$$), щоб відчинити двері камери</text>
+		<text>Натисніть ($$ACTION_USE$$), щоб відчинити двері камери.</text>
 	</string>
 	<string id="tip_door_coded">
 		<text>Двері закодовані</text>
 	</string>
 	<string id="tip_door_decode">
-		<text>Натисніть ($$ACTION_USE$$), щоб декодувати двері</text>
+		<text>Натисніть ($$ACTION_USE$$), щоб декодувати двері.</text>
 	</string>
 	<string id="tip_door_decoding">
 		<text>Йде процес декодування</text>
@@ -58,16 +58,16 @@
 		<text>Двері зачинені</text>
 	</string>
 	<string id="tip_door_open">
-		<text>Натисніть ($$ACTION_USE$$), щоб відчинити двері</text>
+		<text>Натисніть ($$ACTION_USE$$), щоб відчинити двері.</text>
 	</string>
 	<string id="tip_gate_close">
-		<text>Натисніть ($$ACTION_USE$$) для того, щоб зачинити ворота</text>
+		<text>Натисніть ($$ACTION_USE$$) для того, щоб зачинити ворота.</text>
 	</string>
 	<string id="tip_gate_locked">
 		<text>Ворота заблоковані</text>
 	</string>
 	<string id="tip_gate_open">
-		<text>Натисніть ($$ACTION_USE$$) для того, щоб відчинити ворота</text>
+		<text>Натисніть ($$ACTION_USE$$) для того, щоб відчинити ворота.</text>
 	</string>
 	<string id="tip_monolith">
 		<text>ЗАГАДАТИ ЗАПОВІТНЕ БАЖАННЯ ($$ACTION_USE$$)</text>
@@ -76,12 +76,57 @@
 		<text>кг</text>
 	</string>
 	<string id="ui_inv_outfit_additional_weight">
-		<text>Додаткова стерпна вага +</text>
+		<text>Додаткова переносима вага</text>
 	</string>
 	<string id="ui_ammo_count">
 		<text>Ємність</text>
 	</string>
 	<string id="ui_inv_outfit_power_restore">
 		<text>Відновлення сил</text>
+        </string>
+	<string id="ui_st_installed_upgrades">
+		<text>Встановлені покращання</text>
+	</string>
+	<string id="st_stat_barrel_resource">
+		<text>Ресурс</text>
+	</string>
+	<string id="st_stat_ammo">
+		<text>Магазин</text>
+	</string>
+	<string id="st_stat_bullet_speed">
+		<text>Швидкість кулі</text>
+	</string>
+	<string id="st_stat_scope_zoom">
+		<text>Кратність прицілу</text>
+	</string>
+	<string id="st_unit_rpm">
+		<text>в/м</text>
+	</string>
+	<string id="st_unit_rounds">
+		<text>постр.</text>
+	</string>
+	<string id="st_unit_mps">
+		<text>м/с</text>
+	</string>
+	<string id="st_armor_class_1">
+		<text>клас 1</text>
+	</string>
+	<string id="st_armor_class_2">
+		<text>клас 2</text>
+	</string>
+	<string id="st_armor_class_2a">
+		<text>клас 2a</text>
+	</string>
+	<string id="st_armor_class_3">
+		<text>клас 3</text>
+	</string>
+	<string id="st_armor_class_4">
+		<text>клас 4</text>
+	</string>
+	<string id="st_armor_class_5">
+		<text>клас 5</text>
+	</string>
+	<string id="st_armor_class_6">
+		<text>клас 6</text>
 	</string>
 </string_table>

@@ -19,13 +19,13 @@
 		<text>Захоплення артефакту</text>
 	</string>
 	<string id="mm_mp_artefdelay">
-		<text>Затримка артефакту</text>
+		<text>Затримка артефакту (сек.)</text>
 	</string>
 	<string id="mm_mp_artefnum">
 		<text>К-сть артефактів</text>
 	</string>
 	<string id="mm_mp_artefstay">
-		<text>Час артефакту</text>
+		<text>Час артефакту (хв.)</text>
 	</string>
 	<string id="mm_mp_autoteambalance">
 		<text>Автобаланс команд</text>
@@ -163,7 +163,7 @@
 		<text>Властивості сервера</text>
 	</string>
 	<string id="mm_mp_serverinfo">
-		<text>Інфа сервера</text>
+		<text>Інфо сервера</text>
 	</string>
 	<string id="mm_mp_serverlist">
 		<text>Сервер</text>
@@ -196,7 +196,7 @@
 		<text>Лише для команди</text>
 	</string>
 	<string id="mm_mp_startweather">
-		<text>Погода</text>
+		<text>Стартова погода</text>
 	</string>
 	<string id="mm_mp_timelimit">
 		<text>Ліміт часу (хв.)</text>
