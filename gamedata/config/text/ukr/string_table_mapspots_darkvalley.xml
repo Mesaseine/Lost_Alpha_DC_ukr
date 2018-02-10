@@ -53,14 +53,14 @@
 		<text>Ворота</text>
 	</string>
 	<string id="dar_pc_darkscape">
-		<text>ПК адміна</text>
+		<text>ПК Адміністратора</text>
 	</string>
 	<string id="st_entrance_hint">
 		<text>Старий вхід</text>
 	</string>
 	<string id="dol_x18_lab_hint">
-		<text>X18 Лабараторія</text>
+		<text>Лабараторія X18</text>
 	</string>
 	<string id="dol_get_x18_docs">
-		<text>X18 Документи</text>
+		<text>Документи з X18</text>
 	</string>

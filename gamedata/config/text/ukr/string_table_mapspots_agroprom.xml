@@ -15,6 +15,9 @@
 	</string>
 	<string id="agr_help_krot_hint">
 		<text>Врятувати Крота</text>
+        </string>
+	<string id="agr_help_ratcatcher_hint">
+		<text>Допомогти Щуролову</text>
 	</string>
 	<string id="agr_help_stalkers_hint">
 		<text>Врятувати сталкерів</text>
@@ -32,7 +35,7 @@
 		<text>Вкрасти документи</text>
 	</string>
 	<string id="agr_take_krots_info_hint">
-		<text>Отримати у Крота інформацію про схованку</text>
+		<text>Отримати у Крота інформацію про схованку Стрільця</text>
 	</string>
 	<string id="agr_zaz_hint">
 		<text>Запорожець</text>

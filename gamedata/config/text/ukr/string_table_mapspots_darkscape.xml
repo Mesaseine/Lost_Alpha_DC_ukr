@@ -5,13 +5,13 @@
 		<text>Вхід у копальню</text>
 	</string>
 	<string id="ds_borov_docs">
-		<text>Документи Бандитів</text>
+		<text>Документи бандитів</text>
 	</string>
 	<string id="ds_mine_exit">
 		<text>Вихід</text>
 	</string>
 	<string id="ds_borov">
-		<text>Лідер «Гріха»</text>
+		<text>Лідер угруповання "Гріх"</text>
 	</string>
 	<string id="ds_secret_docs">
 		<text>Таємні документи</text>

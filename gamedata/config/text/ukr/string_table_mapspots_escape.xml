@@ -2,67 +2,67 @@
 		<text>Портфель з документами</text>
 	</string>
 	<string id="esc_fox">
-		<text>Поранений Лис.</text>
+		<text>Поранений Лис</text>
 	</string>
 	<string id="esc_petruha">
-		<text>Петруха.</text>
+		<text>Петруха</text>
 	</string>
 	<string id="esc_mill">
-		<text>Покинутий млин. Пораненого брата востаннє бачили десь тут.</text>
+		<text>Покинутий завод</text>
 	</string>
 	<string id="escape_trader">
-		<text>Торговець.</text>
+		<text>Торговець</text>
 	</string>
 	<string id="tutorial_box">
-		<text>Ящик зі спорядженням.</text>
+		<text>Ящик зі спорядженням</text>
 	</string>
 	<string id="factory_bandits">
-		<text>Бандити на фабриці.</text>
+		<text>Бандити на фабриці</text>
 	</string>
 	<string id="factory">
 		<text>Стара фабрика</text>
 	</string>
 	<string id="factory_madog">
-		<text>Мертвий товариш.</text>
+		<text>Мертвий товариш</text>
 	</string>
 	<string id="killers_team">
-		<text>Невідома група найманців.</text>
+		<text>Невідома група найманців</text>
 	</string>
 	<string id="novice_leader">
-		<text>Лідер табору новачків.</text>
+		<text>Лідер табору новачків</text>
 	</string>
 	<string id="soldiers_bridge">
-		<text>Військовий контрольно-пропускний пункт на зруйнованому мосту. Солдати, як відомо, беруть хабарі, тому там можна пройти.</text>
+		<text>Військовий контрольно-пропускний пункт під зруйнованим мостом. Солдати, як відомо, беруть хабарі, тому там можна пройти.</text>
 	</string>
 	<string id="tutorial_artefact">
-		<text>Артефакт.</text>
+		<text>Артефакт</text>
 	</string>
 	<string id="tutorial_bandits">
 		<text>Бандити, що зупинили нашого розвідника.</text>
 	</string>
 	<string id="tutorial_secret">
-		<text>Місце мертвих сталкерів.</text>
+		<text>Місце мертвих сталкерів</text>
 	</string>
 	<string id="tutorial_secret_place1">
-		<text>Місце мертвих сталкерів.</text>
+		<text>Речі загиблого</text>
 	</string>
 	<string id="tutorial_secret_shustryi">
-		<text>Притон спритника.</text>
+		<text>Притон Спритника</text>
 	</string>
 	<string id="tutorial_wounded">
-		<text>Спритний арештант.</text>
+		<text>Спритний - арештант</text>
 	</string>
 	<string id="volk">
-		<text>Вовк, лідер табору новачків.</text>
+		<text>Вовк, лідер табору новачків</text>
 	</string>
 	<string id="wolfs_rangers">
-		<text>Розвідники Вовка.</text>
+		<text>Розвідники Вовка</text>
 	</string>
 	<string id="esc_sin_house">
-		<text>Хата угрупування «Гріх».</text>
+		<text>Хата угрупування «Гріх»</text>
 	</string>
 	<string id="esc_contact_location">
-		<text>Розташування контактів.</text>
+		<text>Місцезнаходження зв'язкового</text>
 	</string>
 	<string id="esc_wolf">
 		<text>Вовк</text>
