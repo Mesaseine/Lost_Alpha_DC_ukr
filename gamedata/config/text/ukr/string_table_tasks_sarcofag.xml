@@ -18,10 +18,10 @@
 		<text>Відновити енергопостачання</text>
 	</string>
 	<string id="sar_follow_voice_title">
-		<text>Прямувати за покликом Моноліту</text>
+		<text>Прямувати за покликом "Моноліту"</text>
 	</string>
 	<string id="sar_reach_monolith_text">
-		<text>Дістатись Моноліту</text>
+		<text>Дістатись "Моноліту"</text>
 	</string>
 	<string id="sar_get_gen_codes_title">
 		<text>Отримати код доступу до генератора лабораторії</text>
@@ -36,42 +36,42 @@
 		<text>Дістатися генераторів</text>
 	</string>
 	<string id="sar_reach_generators_text">
-		<text>Дістатися генераторів</text>
+		<text>До генераторів</text>
 	</string>
 	<string id="sar_reach_gens_text">
-		<text>Дістатися генераторів</text>
+		<text>Йти до генераторів</text>
 	</string>
 	
 <!-- GSC -->
 	<string id="sar_monolith">
-		<text>Виконавець бажань</text>
+		<text>"Виконавець бажань"</text>
 	</string>
 	<string id="sar_monolith_0">
-		<text>Прийти до Моноліту</text>
+		<text>Прийти до "Моноліту"</text>
 	</string>
 	<string id="sar_monolith_1">
-		<text>Проникнути у саркофаг</text>
+		<text>Проникнути у Саркофаг</text>
 	</string>
 	<string id="sar_monolith_2">
-		<text>Знайти виконавця бажань</text>
+		<text>Знайти "Виконавець бажань"</text>
 	</string>
 	<string id="sar_monolith_destroy">
-		<text>Загадка Моноліту</text>
+		<text>Таємниця "Моноліту"</text>
 	</string>
 	<string id="sar_monolith_destroy_0">
 		<text>Проникнути в секретну лабораторію</text>
 	</string>
 	<string id="sar_monolith_destroy_1">
-		<text>Розгадати загадку Моноліту</text>
+		<text>Розгадати таємницю "Моноліту"</text>
 	</string>
 	<string id="sar_monolith_destroy_2">
-		<text>Знищити генератори живлення Моноліту</text>
+		<text>Знищити генератори живлення "Моноліту"</text>
 	</string>
 	<string id="sar_perception">
-		<text>Загадка Зони</text>
+		<text>Таємниця Зони</text>
 	</string>
 	<string id="sar_perception_1">
-		<text>Зустрітися з тими, хто керує Монолітом</text>
+		<text>Зустрітися з тими, хто керує "Монолітом"</text>
 	</string>
 	<string id="sar_perception_2">
 		<text>Знайти секретну лабораторію і зустріти «лялькарів»</text>

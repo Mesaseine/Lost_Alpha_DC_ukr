@@ -29,16 +29,16 @@
 		<text>Поговорити з Провідником</text>
 	</string>
 	<string id="out_intelligence_text">
-		<text>Зберегти інформацію розвідки</text>
+		<text>Отримати інформацію розвідки</text>
 	</string>
 	<string id="out_keep_freedom_flash_text">
-		<text>Зберегти карту пам'яті</text>
+		<text>Дістати карту пам'яті</text>
 	</string>
 	<string id="out_keep_flash_text">
-		<text>Не втратити цю карту пам'яті</text>
+		<text>Не втратити карту пам'яті</text>
 	</string>
 	<string id="out_get_to_lab_title">
-		<text>Дістатися об'єкта на околиці</text>
+		<text>Дістатися до підземного комплексу</text>
 	</string>
 	<string id="out_get_to_outskirts_lab">
 		<text>Дістатися лабораторії X-7</text>
