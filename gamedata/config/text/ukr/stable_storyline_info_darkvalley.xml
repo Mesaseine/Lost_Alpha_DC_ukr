@@ -20,7 +20,7 @@
 	<text>Знайти й одягти костюм бандита</text>
 </string>
 <string id="dol_get_bandit_suit_article">
-	<text>Знайти костюм бандита і одягти його, щоб злитися з ворогом.</text>
+	<text>Знайти костюм бандита і одягти його, щоб прикинутися своїм</text>
 </string>
 <string id="dol_get_password_title">
 	<text>Дістати пароль бандита</text>
@@ -38,10 +38,10 @@
 	<text>Зустріти інформатора «Моноліту»</text>
 </string>
 <string id="dol_meet_mono_informer_article">
-	<text>Спробуй отримати інформацію про підземну лабораторію від інформатора.</text>
+	<text>Спробувати отримати інформацію про підземну лабораторію від інформатора</text>
 </string>
 <string id="dol_meet_mono_informer_hint">
-	<text>Інформатор «Моноліту».</text>
+	<text>Інформатор «Моноліту»</text>
 </string>
 <string id="dol_get_x18_docs_title">
 	<text>Отримати інформацію про X-18</text>
@@ -65,13 +65,13 @@
 	<text>Уникати атак та дістатися воріт до Темної Долини</text>
 </string>
 <string id="dol_reach_dscape_hint1">
-	<text>Транспортний засіб.</text>
+	<text>Транспортний засіб</text>
 </string>
 <string id="dol_reach_dscape_hint2">
-	<text>Військовий гелікоптер.</text>
+	<text>Військовий гелікоптер</text>
 </string>
 <string id="dol_reach_dscape_hint3">
-	<text>До Темної Долини.</text>
+	<text>До Темної Долини</text>
 </string>
 <string id="dol_marker">
     <text>Вхід</text>
