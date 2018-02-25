@@ -1,1 +1,72 @@
-<string_table />
+	<string id="pda_info_001_name">
+		<text>Аномальна зона</text>
+	</string>
+	<string id="pda_info_001_group">
+		<text>Інформація: Темна долина</text>
+	</string>
+	<string id="pda_info_002_name">
+		<text>Командир військових</text>
+	</string>
+	<string id="pda_info_002_group">
+		<text>Інформація: Кордон</text>
+	</string>
+	<string id="pda_info_003_name">
+		<text>Бандитський тайник</text>
+	</string>
+	<string id="pda_info_003_group">
+		<text>Інформація: Темна долина</text>
+	</string>
+	<string id="pda_info_004_name">
+		<text>Мерці</text>
+	</string>
+	<string id="pda_info_004_group">
+		<text>Інформація: Смітник</text>
+	</string>
+	<string id="pda_info_005_name">
+		<text>Артефакти</text>
+	</string>
+	<string id="pda_info_005_group">
+		<text>Інформація: НДІ "Агропром"</text>
+	</string>
+	<string id="pda_info_006_name">
+		<text>"Долг"</text>
+	</string>
+	<string id="pda_info_006_group">
+		<text>Інформація: Бар</text>
+	</string>
+	<string id="pda_info_007_name">
+		<text>Арена</text>
+	</string>
+	<string id="pda_info_007_group">
+		<text>Інформація: Бар</text>
+	</string>
+	<string id="pda_info_008_name">
+		<text>Торговець</text>
+	</string>
+	<string id="pda_info_008_group">
+		<text>Інформація: Будмайданчик</text>
+	</string>
+	<string id="pda_info_009_name">
+		<text>Найманці</text>
+	</string>
+	<string id="pda_info_009_group">
+		<text>Інформація: Будмайданчик</text>
+	</string>
+	<string id="pda_info_010_name">
+		<text>Аномальне утворення</text>
+	</string>
+	<string id="pda_info_010_group">
+		<text>Інформація: Ліс</text>
+	</string>
+	<string id="pda_info_011_name">
+		<text>Секретний торговець</text>
+	</string>
+	<string id="pda_info_011_group">
+		<text>Інформація: м. Прип'ять</text>
+	</string>
+	<string id="pda_info_012_name">
+		<text>Технік</text>
+	</string>
+	<string id="pda_info_012_group">
+		<text>Інформація: Армійські склади</text>
+	</string>
