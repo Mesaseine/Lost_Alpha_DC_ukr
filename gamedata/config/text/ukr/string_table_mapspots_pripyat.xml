@@ -11,7 +11,7 @@
 		<text>Стадіон</text>
 	</string>
 	<string id="pri_stancia">
-		<text>Шлях до Станції</text>
+		<text>Шлях до ЧАЕС</text>
 	</string>
 	<string id="pri_vasilev">
 		<text>Лейтенант Васильєв</text>
@@ -20,10 +20,10 @@
 		<text>Екологи</text>
 	</string>
 	<string id="pri_field_agent">
-		<text>Агент еколога</text>
+		<text>Польовий агент екологів</text>
 	</string>
 	<string id="pri_skirmish1">
-		<text>Допоможіть військовому</text>
+		<text>Допомогти військовому</text>
 	</string>
 	<string id="pri_secret_trader_sp">
 		<text>Таємний торговець</text>

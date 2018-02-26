@@ -1,5 +1,5 @@
 	<string id="rosf_leader">
-		<text>Зустріти лідера «Долгу»</text>
+		<text>Зустріти лідера групи «Долгу»</text>
 	</string>
 	<string id="bar_rosf_leader">
 		<text>Дмитро</text>
@@ -11,7 +11,7 @@
 		<text>Фабрика</text>
 	</string>
 	<string id="rosf_duty_hq_mark">
-		<text>Штаб «Долгу»</text>
+		<text>Штаб-квартира угруповання «Долгу»</text>
 	</string>
 	<string id="secret_lab_gate">
 		<text>Секретна лабораторія</text>
