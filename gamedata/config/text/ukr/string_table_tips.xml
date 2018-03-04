@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="car_use">
-		<text>Відчинити двері ($$ACTION_USE$$)</text>
+		<text>Відкрити двері ($$ACTION_USE$$)</text>
 	</string>
 	<string id="character_use">
 		<text>Розмовляти ($$ACTION_USE$$)</text>

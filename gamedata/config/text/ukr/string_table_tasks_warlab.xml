@@ -1,12 +1,12 @@
 <!-- LA -->
 	<string id="war_find_power_generator">
-		<text>Знайти головний перемикач генератора живлення</text>
+		<text>Знайти перемикач головного генератора живлення</text>
 	</string>
 	<string id="war_find_disel_generator">
 		<text>Знайти дизель-генератор</text>
 	</string>
 	<string id="war_turn_on_disel_generator">
-		<text>Встановити генератор живлення лабораторії</text>
+		<text>Знайти генератор живлення лабораторії</text>
 	</string>
 		<string id="war_get_electricity">
 		<text>Відновити енергопостачання</text>

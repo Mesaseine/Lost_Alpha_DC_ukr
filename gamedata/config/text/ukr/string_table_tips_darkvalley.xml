@@ -16,3 +16,33 @@
 	<string id="dol_mil_leader">
 		<text>Воєначальник.</text>
 	</string>
+        <string id="dol_actor_dynamit">
+                <text>Поклади на місце динаміт, пидорас.</text>
+	</string>
+        <string id="dol_actor_stole_items">
+                <text>Якого хріна ти робиш? Дрібний злодюжка ... Стій, де стоїш.</text>
+        </string>
+        <string id="dol_actor_re_rob">
+                <text>Тепер я заберу у тебе все, підорасіна. Підійди сюди.</text>
+        </string>
+        <string id="dol_actor_attacked_guard">
+                <text>Нас обчистили хлопці, валіть цю шушваль недороблену.</text>
+        </string>
+        <string id="dol_actor_key_stole">
+                <text>Він вкрав ключ від тюрячкі, валіть його!</text>
+        </string>
+        <string id="dol_actor_key_stole1">
+                <text>Він вкрав ключ від тюрячкі!</text>
+        </string>
+        <string id="dol_actor_trader_stole_items">
+                <text>Тут якесь чмо в нахабну намагається у мене спиздити хавчик, валіть його!</text>
+        </string>
+        <string id="dol_trader_bastards_steal">
+                <text>Знову якась сука всю мою жрачку потягла, тільки попадися мені, пацюк недороблений.</text>
+        </string>
+        <string id="dol_drunken_dead_key">
+                <text>Пахан забороняє записувати, ну а я че - бухий ще забуду слово енто, як його, "kabzda"! Точно, тепер проблем з цими дурнями не буде, хе!</text>
+        </string>
+        <string id="dol_drunken_dead_key_header">
+                <text>Запис в КПК бандита</text>
+        </string>
