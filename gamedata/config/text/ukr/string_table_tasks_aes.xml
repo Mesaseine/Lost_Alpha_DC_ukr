@@ -11,19 +11,19 @@
 		<text>Допомогти в наступі військових</text>
 	</string>		
 	<string id="aes_military_help_task">
-		<text>Допомогти військовим захопити та відкрити ворота.</text>
+		<text>Допомогти військовим захопити та відкрити ворота</text>
 	</string>
 	<string id="aes_military_task_1">
-		<text>Відбити ворота.</text>
+		<text>Відбити ворота</text>
 	</string>
 	<string id="aes_military_task_gate">
-		<text>Зібрати війська та чекати на сигнал.</text>
+		<text>Зібрати війська та чекати на сигнал</text>
 	</string>
 	<string id="aes_wait_helis">
 		<text>Укріпити ворота</text>
 	</string>	
 	<string id="aes_military_task_2">
-		<text>Тримати позицію та чекати до кінця атаки гелікоптера.</text>
+		<text>Тримати позицію та чекати до кінця атаки гелікоптера</text>
 	</string>	
 	<string id="aes_destroy_btr">
 		<text>Знищити БТР</text>
@@ -32,13 +32,13 @@
 		<text>Поговорити з лідером рейду</text>
 	</string>
 	<string id="aes_ambush_task_title">
-		<text>Допомогти відбити засідку.</text>
+		<text>Допомогти відбити засідку</text>
 	</string>	
 	<string id="aes_ambush_task_text">
 		<text>Знищити засідку «Моноліту»</text>
 	</string>
 	<string id="aes_hunter_task_title">
-		<text>Допогти знищити мисливців на гелікоптері</text>
+		<text>Знищити мисливців на гелікоптері</text>
 	</string>	
 	<string id="aes_hunter_task_text">
 		<text>Знищити РПГ «Моноліту»</text>
@@ -92,17 +92,17 @@
 		<text>Розмістити приймач</text>
 	</string>
 	<string id="aes_dolg1_defeat">
-		<text>Знищити одиночну загрозу</text>
+		<text>Знищити загрозу «Моноліту»</text>
 	</string>
 	<string id="aes_dolg1_talk">
 		<text>Поговорити з лідером «Долгу»</text>
 	</string>
 	<string id="aes_dolg1_sar_details">
-		<text>Ми знайшли вхід до саркофагу. Йди центральною дорогою на захід та поверни ліворуч після другого високого крану, там ти знайдеш двері. Код - 4237.</text>
+		<text>Ми знайшли вхід до Саркофагу. Йди центральною дорогою на захід та поверни ліворуч після другого високого крану, там ти знайдеш двері. Код - 4237.</text>
 	</string>
 	<string id="aes_find_recon">
-		<text>Знайти розвідувальний підрозділ «Долгу»</text>
+		<text>Знайти розвідника «Долгу»</text>
 	</string>
 	<string id="aes_locate_recon_text">
-		<text>Засікти відсутній підрозділ</text>
+		<text>Розшукати зниклого розвідника</text>
 	</string>
