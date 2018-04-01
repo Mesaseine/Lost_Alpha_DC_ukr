@@ -298,10 +298,10 @@
 		<text>Голосування</text>
 	</string>
 	<string id="mp_si_enabled">
-		<text>Увімк</text>
+		<text>Увімкнути</text>
 	</string>
 	<string id="mp_si_disabled">
-		<text>Вимк</text>
+		<text>Вимкнути</text>
 	</string>
 	<string id="mp_si_spectatormodes">
 		<text>Режими спостереження:</text>
@@ -361,7 +361,7 @@
 		<text>Автобаланс команд</text>
 	</string>
 	<string id="mp_si_autoteam_swap">
-		<text>АвтоЗміна команд</text>
+		<text>Автодобір команд</text>
 	</string>
 	<string id="mp_si_friendly_indicators">
 		<text>Індикатори союзників</text>
@@ -379,19 +379,19 @@
 		<text>- Кількість</text>
 	</string>
 	<string id="mp_si_afstaytime">
-		<text>- Час</text>
+		<text>- Час до відродження</text>
 	</string>
 	<string id="mp_si_afrespawntime">
-		<text>- Поява</text>
+		<text>- Час до відродження</text>
 	</string>
 	<string id="mp_si_players_respawn">
-		<text>Народження гравців</text>
+		<text>Відродження</text>
 	</string>
 	<string id="mp_si_artefact_captured">
 		<text>Артефакт захоплено</text>
 	</string>
 	<string id="mp_si_any_time">
-		<text>Будь-який час</text>
+		<text>В будь-який час</text>
 	</string>
 	<string id="mp_si_shielded_bases">
 		<text>Захищені бази</text>

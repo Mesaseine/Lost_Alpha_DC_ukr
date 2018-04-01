@@ -154,7 +154,10 @@
 		<text>Вигляд від першої особи</text>
 	</string>
 	<string id="ui_mm_cam_2">
-		<text>Вигляд від третьої особи</text>
+		<text>Вигляд від третьої особи 1 (Недопрацьований)</text>
+        </string>
+        <string id="ui_mm_cam_3">
+                <text>Вигляд від третьої особи 2 (Недопрацьований)</text>
 	</string>
 	<string id="ui_mm_turn_engine">
 		<text>Завести двигун машини</text>
@@ -184,22 +187,25 @@
 		<text>Проголосувати «Так»</text>
 	</string>
 	<string id="kb_weapon1">
-		<text>Зброя 1</text>
+		<text>Ніж</text>
 	</string>
 	<string id="kb_weapon2">
-		<text>Зброя 2</text>
+		<text>Пістолет</text>
 	</string>
 	<string id="kb_weapon3">
-		<text>Зброя 3</text>
+		<text>Основна зброя</text>
 	</string>
 	<string id="kb_weapon4">
-		<text>Зброя 4</text>
+		<text>Додаткова зброя</text>
 	</string>
 	<string id="kb_weapon5">
-		<text>Зброя 5</text>
+		<text>Бінокль</text>
 	</string>
 	<string id="kb_weapon6">
-		<text>Зброя 6</text>
+		<text>Болт</text>
+        </string>
+        <string id="kb_weapon4">
+                <text>Гранати</text>
 	</string>
 	<string id="kb_wpn_next">
 		<text>Змінити тип патронів</text>
