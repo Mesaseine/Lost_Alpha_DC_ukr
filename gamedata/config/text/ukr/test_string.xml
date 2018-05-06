@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <string_table>
     <string id="net deneg_0">
-        <text>у меня тоже</text>
+        <text>У мене теж.</text>
     </string>
     <string id="net deneg_101">
         <text>равра</text>
@@ -10,51 +10,51 @@
         <text>default text</text>
     </string>
     <string id="test1_0">
-        <text>Вот тебя я и встретил</text>
+        <text>Ось тебе я і зустрів.</text>
     </string>
     <string id="test1_101">
-        <text>А ты кто такой</text>
+        <text>А ти хто такий?</text>
     </string>
     <string id="test1_102">
-        <text>Я тебя давно искал</text>
+        <text>Я тебе давно шукав.</text>
     </string>
     <string id="test1_103">
-        <text>Беги быстрее от меня.</text>
+        <text>Біжи швидше від мене.</text>
     </string>
     <string id="test1_200">
-        <text>Пока</text>
+        <text>Бувай.</text>
     </string>
     <string id="test_dialog_0">
-        <text>Привет! Как дела?</text>
+        <text>Вітання! Як справи?</text>
     </string>
     <string id="test_dialog_100">
-        <text>Плохо.</text>
+        <text>Погано.</text>
     </string>
     <string id="test_dialog_101">
-        <text>лучше чем у тебя</text>
+        <text>Краще ніж у тебе.</text>
     </string>
     <string id="test_dialog_102">
-        <text>так себе</text>
+        <text>Так собі.</text>
     </string>
     <string id="test_dialog_103">
-        <text>Пока</text>
+        <text>Бувай.</text>
     </string>
     <string id="test_dialog_200">
-        <text>так тебе и надо</text>
+        <text>Так тобі й треба.</text>
     </string>
     <string id="test_dialog_201">
-        <text>Хрен с тобой</text>
+        <text>Хрін з тобою.</text>
     </string>
     <string id="test_dialog_301">
-        <text>надо с тобой еще поболтать</text>
+        <text>Треба з тобою ще побалакати.</text>
     </string>
     <string id="test_dialog_302">
-        <text>пошел в жопу</text>
+        <text>Пішов у жопу.</text>
     </string>
     <string id="vodka_0">
-        <text>У тебя водки нет случай-но</text>
+        <text>У тебе горілки немає випадково?</text>
     </string>
     <string id="vodka_100">
-        <text>есть, но не дам</text>
+        <text>Э, але не дам.</text>
     </string>
 </string_table>

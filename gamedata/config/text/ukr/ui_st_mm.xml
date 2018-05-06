@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
+        <string id="ui_mm_version">
+                <text>Lost Alpha v%s Developer's Cut (збірка %d) + Gameplay DLC 1.4</text>
+	</string>
+        <string id="SMap_Low">
+		<text>Низькі(1,5К)</text>
+	</string>
+	<string id="SMap_Default">
+		<text>Середні(2К)</text>
+	</string>
+	<string id="SMap_High">
+		<text>Високі(2,5К)</text>
+	</string>
+	<string id="SMap_Extreme">
+		<text>Дуже Високі(3К)</text>
+	</string>
+	<string id="SMap_Maximum">
+		<text>Максимальні(4К)</text>
+	</string>
 	<string id="Clear">
 		<text>ясна</text>
 	</string>
@@ -65,6 +83,9 @@
 	</string>
 	<string id="st_rank_experienced">
 		<text>досвідчений</text>
+        </string>
+	<string id="weak">
+		<text>запеклий</text>
 	</string>
 	<string id="st_rank_legend">
 		<text>легендарний сталкер</text>
@@ -119,6 +140,18 @@
 	</string>
 	<string id="ui_mm_advanced">
 		<text>Розширені</text>
+        </string>
+	<string id="ui_mm_video_quality">
+		<text>Настройки якості</text>
+	</string>
+	<string id="ui_mm_video_preferences">
+		<text>Додаткові настройки</text>
+	</string>
+	<string id="ui_mm_build_2218_bloom">
+		<text>Блум у стилі білду 2218</text>
+	</string>
+	<string id="ui_mm_build_2218_gloss">
+		<text>Глосс у стилі білду 2218</text>
 	</string>
 	<string id="ui_mm_anisotropic">
 		<text>Фільтрація текстур</text>
@@ -182,6 +215,12 @@
 	</string>
 	<string id="ui_mm_keep_textures">
 		<text>Не вивантажувати текстури</text>
+        </string>
+	<string id="ui_mm_fxaa">
+		<text>Згладжування FXAA</text>
+	</string>
+	<string id="ui_mm_backbuffers">
+		<text>Рівень Буферизації</text>
 	</string>
 	<string id="ui_mm_gameplay">
 		<text>Гра</text>
@@ -299,6 +338,9 @@
 	</string>
 	<string id="ui_mm_show_actor_body_off">
 		<text>Відображати тіло гол. героя</text>
+        </string>
+	<string id="ui_mm_head_bobbing">
+		<text>Погойдування при ходьбі</text>
 	</string>
 	<string id="ui_mm_show_weapon">
 		<text>Показувати зброю</text>
@@ -396,6 +438,9 @@
 
 	<string id="ui_mm_prefetch">
         	<text>Кешування об'єктів</text>
+        </string>
+	<string id="ui_mm_prefetch_ui_textures">
+        	<text>Кешування интерфейсу</text>
 	</string>
 	<string id="ui_mm_intro">
         	<text>Вступ. відео</text>
@@ -436,6 +481,9 @@
 	</string>	
 	<string id="ukr">
 		<text>Українська [Ukrainian]</text>
+        </string>
+	<string id="fra">
+		<text>Французька[French]</text>
 	</string>
 	<string id="rus">
 		<text>Російська [Russian]</text>

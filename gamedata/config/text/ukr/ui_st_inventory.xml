@@ -127,7 +127,10 @@
 		<text>Вибух</text>
 	</string>
 	<string id="ui_inv_outfit_fire_wound_protection">
-		<text>Кулестійкість</text>
+		<text>Броня тулуба</text>
+        </string>
+	<string id="ui_inv_outfit_fire_wound_protection_head">
+		<text>Броня голови</text>
 	</string>
 	<string id="ui_inv_outfit_params">
 		<text>Параметри</text>
@@ -139,10 +142,10 @@
 		<text>Електрошок</text>
 	</string>
 	<string id="ui_inv_outfit_strike_protection">
-		<text>Удар</text>
+		<text>Ударостійкість</text>
 	</string>
 	<string id="ui_inv_outfit_telepatic_protection">
-		<text>Телепат.</text>
+		<text>Псі-захист</text>
 	</string>
 	<string id="ui_inv_outfit_wound_protection">
 		<text>Розрив</text>
@@ -278,6 +281,6 @@
 		<text>Ви упевнені, що хочете розібрати вибрану зброю?</text>
 	</string>
 	<string id="st_no_weapon">
-		<text>Немає відповідної зброї</text>
+		<text>Немає відповідної зброї.</text>
 	</string>
 </string_table>
