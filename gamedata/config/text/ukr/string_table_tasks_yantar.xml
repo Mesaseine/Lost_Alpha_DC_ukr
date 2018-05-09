@@ -83,7 +83,7 @@
 		<text>Взяти пакет вченого</text>
 	</string>
 	<string id="yan_scientist_package_city">
-		<text>Вирушити в мертве місто</text>
+		<text>Вирушити в Мертве місто</text>
 	</string>
 	<string id="yan_scientist_package_find">
 		<text>Знайти пакет</text>
@@ -152,7 +152,7 @@
 		<text>Повідомити Вороніна</text>
 	</string>
 	<string id="yan_bandits_stolen_title">
-		<text>Знайти загублені речі Гребня</text>
+		<text>Знайти вкрадені речі Гребня</text>
 	</string>
 	<string id="yan_find_guitar_text">
 		<text>Знайти улюблену гітару</text>
